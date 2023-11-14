@@ -2,11 +2,15 @@
 
 ### Introduction
 
-This document is a quick summary of my observations relating to the Sailmon Max.
+I have documented my observations of data from the Sailmon Max, so they can be fed back to the Sailmon developers.
 
-They have been documented as a favor to a friend who owns this device, so that my observations can be fed back to the developers.
+To avoid a single lengthy document, I've documented the observations on individual pages:
 
-To avoid writing one long document, I've split everything into separate pages:
+- Absence of [speed data](speed.md) in GPX files
+- Incorrect [timestamps](timestamps.md) in GPX files
+- Levels of [precision](precision.md) in GPX + CSV files
+- Approach to [filtering](filtering.md) in GPX + CSV files
 
-- [Speed data](speed.md) in GPX files
+The first two items (speed data and timestamps) would benefit the most from some software development, imho.
 
+I hope that my feedback will prove useful to the developers at Sailmon.
