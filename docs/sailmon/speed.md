@@ -10,7 +10,7 @@ GPS / GNSS receivers are all able to produce a PVT solution (position, velocity 
 
 There are a number of [methods](https://insidegnss.com/wp-content/uploads/2018/01/marapr15-SOLUTIONS.pdf) by which velocity can be calculated by a GPS / GNSS receiver but by far the most common one uses the Doppler observable for each of the satellites in view. The Doppler approach is far more accurate than simply calculating velocity from changes in latitude and longitude. This is because the [Doppler](https://gssc.esa.int/navipedia/index.php/GNSS_Basic_Observables#Doppler_shift) observable is not susceptible to atmospheric conditions affecting the [pseudorange](https://gssc.esa.int/navipedia/index.php/GNSS_Basic_Observables#Pseudorange) observable.
 
-I'll link to another page that I wrote as part of a recent proposal for the GPX format - https://logiqx.github.io/gpx-ideas/proposal/speed.html
+I'll link to another page with more information, written as part of a recent proposal for the GPX format - [Doppler-derived Speed](https://logiqx.github.io/gpx-ideas/proposal/speed.html).
 
 
 
