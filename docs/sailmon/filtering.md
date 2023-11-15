@@ -10,7 +10,7 @@ There are obviously reasons for the filtering being applied, but it is applied d
 
 #### Comparison of CSV and GPX
 
-The GPX file does not contain SOG, but speeds derived from positional data can be plotted:
+The GPX file does not contain SOG, but speeds derived from positional data can be plotted albeit with some large spikes:
 
 ![gpx-speed.png](img/gpx-speed.png)
 
@@ -32,7 +32,7 @@ It would appear that horizontal accuracy estimate (hAcc) is being used as one of
 
 #### Timestamps
 
-One of the tells is the discontinuity in the timestamps of the CSV file and how these occurrences correlate with increase values of hAcc.
+One of the tells is the discontinuity in the timestamps of the CSV file and how these occurrences coincide with increases in hAcc.
 
 ![csv-tsdiff](img/csv-tsdiff.png)
 
