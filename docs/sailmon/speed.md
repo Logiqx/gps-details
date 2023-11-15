@@ -32,12 +32,12 @@ Hopefully these two simple examples show how the Doppler derived speed is far su
 
 #### GPX Exports
 
-Sailmon provides two formats for their data exports - CSV and GPX. The CSV format includes the Doppler derived speeds but the GPX file only includes the positional data. It would be extremely beneficial if Sailmon could include Doppler derived speeds in their GPX exports.
+Sailmon provides two formats for their data exports - CSV and GPX. The CSV format includes SOG and COG but the GPX file only includes the positional data. It would be extremely beneficial if Sailmon could include Doppler derived speeds in their GPX exports.
 
-Firstly, a brief piece of history. Back in 2004 the GPX developers accidentally removed speed from the GPX 1.1 schema. It went unnoticed at the time and and ever since, GPX 1.1 files typically don't include any speeds, or sometimes include speeds using non-standard approaches.
+Firstly, a brief piece of history. Back in 2004 the GPX developers accidentally removed speed and course from the GPX 1.1 schema. It went unnoticed at the time and and ever since, GPX 1.1 files typically don't include any speed or course, or sometimes include them using non-standard approaches.
 
-There is however a legitimate way to include the speeds in GPX 1.1 files, and relatively simple for Sailmon to implement. I documented a number of general [approaches](https://logiqx.github.io/gps-wizard/gpx/speed.html) last year, but the easiest / best option for Sailmon is using Garmin's [TrackpointExtension](https://www8.garmin.com/xmlschemas/TrackPointExtensionv2.xsd) v2.
+There is however a legitimate way to include the speed + course in GPX 1.1 files, and relatively simple for Sailmon to implement. I documented a number of general [approaches](https://logiqx.github.io/gps-wizard/gpx/speed.html) last year, but the easiest / best option for Sailmon is using Garmin's [TrackpointExtension](https://www8.garmin.com/xmlschemas/TrackPointExtensionv2.xsd) v2.
 
 Sailmon currently uses [phpGPX](https://github.com/Sibyx/phpGPX) for their GPX exports, which provides full support for Garmin's TrackpointExtension v1 and v2. The commit history on GitHub shows full support for TrackpointExtension v2 was added in [2017](https://github.com/Sibyx/phpGPX/commit/bc6e2578b4f1fd94f0f231b8d6a9ab315b3394ee).
 
-It should be a simple matter to include speeds in Sailmon GPX 1.1 files, using the existing features of phpGPX. Since GPX is the most widely used file type for the analysis of GPS / GNSS data this would be of great benefit to windsurfers, windfoilers and wingfoilers who own the Sailmon Max.
+It should be a simple matter to include speed + course in Sailmon GPX 1.1 files, using the existing features of phpGPX. Since GPX is the most widely used file type for the analysis of GPS / GNSS data this would be of great benefit to windsurfers, windfoilers and wingfoilers who own the Sailmon Max.
