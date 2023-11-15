@@ -8,6 +8,7 @@ To avoid a single lengthy document, I've documented the observations on individu
 
 - Absence of [speed data](speed.md) in GPX files
 - Incorrect [timestamps](timestamps.md) in GPX files
+- Absence of [elevation](elevation.md) in GPX + CSV files
 - Levels of [precision](precision.md) in GPX + CSV files
 - Approach to [filtering](filtering.md) in GPX + CSV files
 
