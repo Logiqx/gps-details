@@ -77,6 +77,14 @@ The fact that positional data and doppler speeds are offset causes "fantasy alph
 
  
 
+#### General Issue
+
+It is not clear whether COROS is failing to capture the NMEA data from the GNSS receiver correctly in real-time, or whether they are mangling it in their downstream processing.
+
+What is very clear is that the data that they are recording is incorrect, primarily with positions and speeds being temporally offset. The issue has been observed right from the start of tracks, and also starting half way into a session.
+
+
+
 #### Examples
 
 Here are two example FIT files from a VERTIX 2:
@@ -86,19 +94,11 @@ Here are two example FIT files from a VERTIX 2:
 
 
 
-#### Remediation
-
-It is not clear whether COROS is failing to capture the NMEA data from the GNSS receiver correctly in real-time, or whether they are mangling it in their downstream processing.
-
-What is very clear is that the data that they are recording is incorrect, primarily with positions and speeds being temporally offset. The issue has been observed right from the start of tracks, and also starting half way into a session.
-
-
-
 ### Summary
 
-My suspicion is that COROS are combining NMEA sentences, but not doing it correctly when some messages are absent for a period of time.
+My suspicion is that COROS are combining NMEA sentences, but not doing it correctly. The obvious way to capture position and speed is using the RMC sentence (time, position and speed) but COROS may be using GGA (time and position) and VTG (speed).  
 
-The obvious way to capture position and speed data is using the RMC sentence (time, position and speed) but COROS may be using GGA (time and position) and VTG (speed).  
+The issue could be related to VTG sentences not including a timestamp, or due to some messages being absent for a period of time. It's not easy to determine the root cause solely from the FIT files, so COROS need to investigate.
 
-Whatever the cause, COROS need to fix this issue as it is logging bad data and causing spurious alpha's to appear in our rankings.
+Whatever the cause, COROS need to fix this issue as the VERTIX 2 and APEX 2 Pro are sometimes logging bad data and causing spurious alpha's to appear in our rankings.
 
