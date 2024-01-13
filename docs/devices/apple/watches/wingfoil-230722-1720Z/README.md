@@ -72,13 +72,13 @@ The top speed in this track was just under 8 m/s (around 16 knots) but it was al
 
 Zooming in to the area of interest it can be seen that the Doppler-derived speed (shown in blue) suddenly decreased whilst the speed accuracy estimate began to increase (shown in orange). The speed then increased to almost 8 m/s (16 knots) over the period of about 6 seconds, but the worst speed accuracy estimate was another 5 seconds after the actual spike.
 
-A simple filter based on a speed accuracy threshold is therefore not adequate for detecting some issues. However, intelligent filters can potentially be used to identify periods of time where speeds may be invalid; e.g. between points 53 and 78.  
+A simple filter based on a speed accuracy threshold is therefore not adequate for detecting some issues. However, intelligent filters can potentially be used to identify periods of time where speeds may be invalid; e.g. between points 53 and 78.
+
+It should be noted that the speed calculated from latitude and longitude is affected even more at this point in time, peaking at more than 11 m/s (22 knots) when in reality the rider was in the water, stationary.  
 
 ![Doppler Speed vs Accuracy](img/spike.png)
 
 
-
-#### 
 
 #### Summary
 
