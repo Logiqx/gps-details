@@ -34,7 +34,7 @@ It has already been observed that crashes / falls will often cause spikes when s
 
 The most common causes of accuracy issues affecting the Doppler-derived speeds will usually be the result of a submersion. This can be observed in the graph below, showing that speed (in)accuracy estimates are most affected during a fall / crash. These are almost certainly being caused by submersions, when the GNSS signal tracking is severely impaired (or lost entirely).
 
-The highest speed of the session was slightly over 9 m/s (over 18 knots) and was recorded at around point 2357. This was almost certainly a "spike" due to the speed accuracy estimate (orange) exceeding +/- 4 m/s. This serves as a simple illustration of where the speed accuracy estimate can be useful in identifying spikes. This was almost certainly a submersion during a fall / crash.
+The highest speed of the session was slightly over 9 m/s (over 18 knots) and was recorded at around point 2357. This was almost certainly a "spike" due to the speed accuracy estimate (orange) exceeding 4 m/s. This serves as a simple illustration of where the speed accuracy estimate can be useful in identifying spikes. This was almost certainly a submersion during a fall / crash.
 
 ![Doppler Speed vs Accuracy](img/dspd-dspda.png)
 
@@ -46,6 +46,8 @@ To see how the speed (in)accuracy estimates can be affected during crashes / fal
 
 The chart shows how the speed accuracy estimate is relatively stable under normal circumstances, such as when on the rider is travelling at a speed in excess of 5 m/s (approximately 10 knots).
 
+The worst speed accuracy estimate was over 4 m/s (over 8 knots) and was recorded at around point 2357. This was almost certainly a submersion during a fall / crash and the speed at this time should be deemed invalid.
+
 Note: The use of 5 m/s is somewhat arbitrary but works well for the purposes of this illustration.
 
 ![Doppler Speed vs Accuracy](img/dspda.png)
@@ -55,6 +57,8 @@ Note: The use of 5 m/s is somewhat arbitrary but works well for the purposes of 
 #### Typical Doppler Speed Accuracy
 
 It is possible to determine "typical" speed (in)accuracy estimates for this GNSS receiver when the rider is exceeding 5 m/s (approximately 10 knots). During this session the median speed accuracy estimate is 1.14, mean is 1.19 and σ is 0.18.
+
+As mentioned earlier, the worst speed accuracy estimate was over 4 m/s (over 8 knots) and was recorded at around point 2357. This was almost certainly a submersion during a fall / crash and the speed at this time should be deemed invalid.
 
 ![Doppler Speed vs Accuracy](img/dspda-5.png)
 
