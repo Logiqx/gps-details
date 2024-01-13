@@ -54,7 +54,9 @@ Note: The use of 5 m/s is somewhat arbitrary but works well for the purposes of 
 
 It is possible to determine "typical" speed (in)accuracy estimates for this GNSS receiver when the rider is exceeding 5 m/s (approximately 10 knots). During this session the median speed accuracy estimate is 1.27, mean is 1.26 and σ is 0.30.
 
-It should be noted that there are a fairly significant number of occasions where the speed accuracy estimate is worse than normal, between 1.5 m/s and 2.0 m/s (roughly 3 to 4 knots). There is perhaps a question of how this device was being worn?
+It should be noted that there are a fairly significant number of occasions where the speed accuracy estimate is worse than normal, between 1.5 m/s and 2.0 m/s (roughly 3 to 4 knots). 
+
+There is perhaps a question of how this device was being worn, or whether the cellular capability is affecting the GNSS performance?
 
 ![Doppler Speed vs Accuracy](img/dspda-5.png)
 
