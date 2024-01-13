@@ -8,7 +8,7 @@ It looks at the difference between software-calculated speeds (simply using lati
 
 A brief insight into speed accuracy estimates is also provided, but detailed investigations and insights are yet to be documented.
 
-It should be noted that different generations of Apple watch use different types of GNSS receiver. This can result in differences in behavior, especially in relation to the accuracy estimates and how they are calculated.
+It should be noted that different generations of Apple watch use different GNSS chipsets. This can result in notable differences in behavior, especially in relation to the so called "accuracy estimates", how they are calculated, and how they may be interpreted.
 
 
 
@@ -21,10 +21,10 @@ Some brief notes for a number of sessions.
 
 Notes:
 
-- The charts are very basic in nature (e.g. simple key and lack of axis labels), only to save time during production.
-- The data was recorded without any filters applied, thus showing the true nature of the raw data.
-- Whilst standard filters can remove some of the software-calculated spikes, this is not true for all of the issues.
-- Doppler-derived speeds are far more robust than that software-calculated speeds relying on longitudes and latitudes. 
+- The charts are very basic in nature (e.g. simple legends and lack of axis labels), saving time during production.
+- The data was recorded without any filters applied, thus showing the true nature of the raw GNSS data.
+- Whilst standard filters can remove some of the spikes in software-calculated speeds, they are not guaranteed to be effective.
+- Doppler-derived speeds are far more robust than software-calculated speeds that rely on longitudes and latitudes. 
 
 
 
@@ -34,7 +34,7 @@ Notes:
   - This can easily be seen by looking at the first graph on each of the session pages.
 - Speeds calculated by the devices (almost certainly using the Doppler observables) are far more robust.
   - This can easily be seen by looking at the first three graphs on each of the session pages.
-- Typical speed accuracy estimates can easily be determined for this specific GNSS receiver.
+- Typical speed accuracy estimates can easily be determined for a specific GNSS receiver.
   - This can easily be seen by looking at the final graph on each of the session pages.
 - General interpretation of speed accuracy estimates is a complex topic and has not been discussed.
   - Different chipsets calculate accuracy estimates in different ways, but they are always be useful. 
