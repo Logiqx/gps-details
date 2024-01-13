@@ -44,7 +44,7 @@ Notes:
 ### Thoughts
 
 - Intelligent use of the speed accuracy estimate requires a fair bit of research, development and testing.
-  - A simple / interim filter may be applied if the speed accuracy estimate exceeds 2 m/s, simply outputting a speed of zero.
+  - An interim filter may be applied when the speed accuracy estimate exceeds 1.5 m/s, simply outputting a speed of zero.
 - A further investigation should look into whether the cellular models of Apple Watches suffer from RF interference.
 
 
