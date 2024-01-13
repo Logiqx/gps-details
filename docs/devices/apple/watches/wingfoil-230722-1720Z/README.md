@@ -76,7 +76,7 @@ A simple filter based on a speed accuracy threshold is therefore not adequate fo
 
 It should be noted that the speed calculated from latitude and longitude is affected even more at this point in time, peaking at more than 11 m/s (22 knots) when in reality the rider was in the water, stationary.  
 
-![Doppler Speed vs Accuracy](img/spike.png)
+![Spike](img/spike.png)
 
 
 
