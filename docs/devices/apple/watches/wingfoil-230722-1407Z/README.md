@@ -64,6 +64,20 @@ As mentioned earlier, the worst speed accuracy estimate was over 4 m/s (over 8 k
 
 
 
+#### Obvious Spike
+
+As mentioned earlier, the worst speed accuracy estimate during this session was over 4 m/s (over 8 knots) and was recorded at around point 2357.
+
+Looking at this more closely, it can be seen that it was definitely a spike. The speed (shown in blue) had fallen from around 6 m/s (12 knots) to under 4 m/s (8 knots) then the speed accuracy estimate (shown in orange) began to rise, ending at just over 4 m/s.
+
+At this same time the reported speed rose to over 9 m/s (18 knots) which was the highest reported speed during the session, but it was obviously a spike due to a crash / fall, and the watch was probably submerged.
+
+It is also worth noting that during this period, speeds calculated using latitudes and longitudes were in excess of 53 m/s, over 107 knots. The Doppler spike was just over 18 knots, but speed from longitude and latitude was around 107 knots!
+
+![Spike](img/spike.png)
+
+
+
 #### Summary
 
 This is a very brief piece of analysis for a single session which serves to illustrate some key points. It is by no means a comprehensive analysis and it does not compare this specific device against a known / reliable benchmark device.
