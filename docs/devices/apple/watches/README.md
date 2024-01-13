@@ -19,6 +19,7 @@ Some brief notes for a number of sessions.
 - Apple Watch Ultra
   - [Apple Watch Ultra #1](wingfoil-230722-0826Z/README.md) recorded whilst Wingfoiling.
   - [Apple Watch Ultra #2](wingfoil-230722-1407Z/README.md) recorded whilst Wingfoiling - highlights the utility of speed accuracy estimates.
+  - [Apple Watch Ultra #3](kitesurf-230723-0917Z/README.md) recorded whilst Kitesurfing - highlights the utility of speed accuracy estimates.
 - Apple Series 8 45mm Cellular
   - [Apple Series 8 45mm Cellular #1](kiteboard-230722-1622Z/README.md) recorded whilst Kiteboarding - shows the speed accuracy estimate being inconsistent
 - Apple Watches Series 5
