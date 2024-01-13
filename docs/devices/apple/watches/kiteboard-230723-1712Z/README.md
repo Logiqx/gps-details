@@ -22,7 +22,7 @@ Ignoring occasions when the Doppler-derived speed is < 5 m/s (approximately 10 k
 
 #### Doppler Speed
 
-The Doppler speeds are quite plausible for this particular session, peaking at over 12 m/s (approximately 24 knots). Without having a trusted device as a benchmark, little can be said about the actual accuracy and thus the simple statement "plausible".
+The Doppler speeds are quite plausible for this particular session, peaking at about 12.5 m/s (approximately 25 knots). Without having a trusted device as a benchmark, little can be said about the actual accuracy and thus the simple statement "plausible".
 
 ![Doppler Speed](img/dspd.png)
 
@@ -34,7 +34,7 @@ It has already been observed that crashes / falls will often cause spikes when s
 
 The most common causes of accuracy issues affecting the Doppler-derived speeds will usually be the result of a submersion. This can be observed in the graph below, showing that speed (in)accuracy estimates are most affected during a fall / crash. These are almost certainly being caused by submersions, when the GNSS signal tracking is severely impaired (or lost entirely).
 
-The highest speed of the session was slightly over over 12 m/s (approximately 24 knots) and was recorded at around point 685. This was quite likely to be a "spike" due to the speed accuracy estimate (orange) being around 2 m/s. This serves as a simple illustration of where the speed accuracy estimate can be useful in identifying spikes.
+The highest speed of the session was slightly around 12.5 m/s (approximately 25 knots) and was recorded at around point 685. This was quite likely to be a "spike" due to the speed accuracy estimate (orange) exceeding 1.5 m/s. This serves as a simple illustration of where the speed accuracy estimate can be useful in identifying spikes.
 
 ![Doppler Speed vs Accuracy](img/dspd-dspda.png)
 
