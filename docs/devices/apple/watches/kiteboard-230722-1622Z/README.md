@@ -22,7 +22,7 @@ Ignoring occasions when the Doppler-derived speed is < 5 m/s (approximately 10 k
 
 #### Doppler Speed
 
-The Doppler speeds are quite plausible for this particular session, peaking at around 8 or 9 m/s (approximately 16-18 knots). Without having a trusted device as a benchmark, little can be said about the actual accuracy and thus the simple statement "plausible".
+The Doppler speeds are quite plausible for this particular session, peaking at around 15 m/s (approximately 30 knots). Without having a trusted device as a benchmark, little can be said about the actual accuracy and thus the simple statement "plausible".
 
 ![Doppler Speed](img/dspd.png)
 
@@ -53,6 +53,8 @@ Note: The use of 5 m/s is somewhat arbitrary but works well for the purposes of 
 #### Typical Doppler Speed Accuracy
 
 It is possible to determine "typical" speed (in)accuracy estimates for this GNSS receiver when the rider is exceeding 5 m/s (approximately 10 knots). During this session the median speed accuracy estimate is 1.27, mean is 1.26 and σ is 0.30.
+
+It should be noted that there are a fairly significant number of occasions where the speed accuracy estimate is worse than normal, between 1.5 m/s and 2.0 m/s (roughly 3 to 4 knots). There is perhaps a question of how this device was being worn?
 
 ![Doppler Speed vs Accuracy](img/dspda-5.png)
 
