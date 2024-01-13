@@ -16,8 +16,13 @@ It should be noted that different generations of Apple watch use different GNSS 
 
 Some brief notes for a number of sessions.
 
-- [Apple Watch Ultra #1](wingfoil-230722-0826Z/README.md) recorded whilst Wingfoiling
-- [Apple Watch Ultra #2](wingfoil-230722-1407Z/README.md) recorded whilst Wingfoiling - highlights the utility of speed accuracy estimates
+- Apple Watch Ultra
+  - [Apple Watch Ultra #1](wingfoil-230722-0826Z/README.md) recorded whilst Wingfoiling.
+  - [Apple Watch Ultra #2](wingfoil-230722-1407Z/README.md) recorded whilst Wingfoiling - highlights the utility of speed accuracy estimates.
+
+- Apple Watches Series 5
+  - [Apple Watches Series 5 #1](wingfoil-230722-1617Z/README.md) recorded whilst Wingfoiling - highlights the utility of speed accuracy estimates.
+
 
 Notes:
 
