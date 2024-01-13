@@ -30,6 +30,9 @@ Some brief notes for a number of sessions.
 - Apple Watches Series 5
   - [Apple Watches Series 5 #1](wingfoil-230722-1617Z/README.md) recorded whilst Wingfoiling - highlights the utility of speed accuracy estimates.
   - [Apple Watches Series 5 #2](wingfoil-230722-1720Z/README.md) recorded whilst Wingfoiling - highlights the complexity of speed accuracy estimates.
+- Unidentified Apple Watch
+  - [Unidentified Apple Watch](kiteboard-230723-1712Z/README.md) - slightly difficult to make sense of regarding accuracy!
+
 
 
 Notes:
