@@ -14,7 +14,7 @@ Note: The units used for speeds are m/s but you can estimate the speed in knots 
 
 ![Calculated Speed vs Doppler Speed](img/cspd-dspd.png)
 
-Ignoring occasions when the Doppler-derived speed is < 5 m/s (approximately 10 knots) several of the large spike in speed calculated from latitude and longitude disappears, likely due to submersions of the GNSS receiver. However, when those spikes are removed it is still clear that speeds calculated from latitude and longitude are often higher than the Doppler-derived speeds.
+Ignoring occasions when the Doppler-derived speed is < 5 m/s (approximately 10 knots) the large spike in speed calculated from latitude and longitude disappears, likely due to submersions of the GNSS receiver. However, when those spikes are removed it is still clear that speeds calculated from latitude and longitude are often higher than the Doppler-derived speeds.
 
 ![Calculated Speed vs Doppler Speed](img/cspd-dspd-5.png)
 
