@@ -1,8 +1,8 @@
 ## Apple Watches
 
-### Apple Watch SE 40mm Cellular #1
+### Apple Watch SE 40 mm Cellular #1
 
-This session is from an Apple Watch SE 40mm Cellular, recorded whilst Kiteboarding (or maybe Wingfoiling).
+This session is from an Apple Watch SE 40 mm Cellular, recorded whilst Kiteboarding (or maybe Wingfoiling).
 
 
 
