@@ -1,8 +1,10 @@
 ## Apple Watches
 
-### Apple Watch (possibly Series 8 or SE)
+### Apple Watch Series 8 45 mm Cellular #2
 
-This session is from an Apple Watch (possibly Series 8 or SE), recorded whilst Kiteboarding.
+This session is from an unidentified Apple Watch, recorded whilst Kiteboarding.
+
+Due to data similarities with the [Apple Series 8 45 mm Cellular #1](../kiteboard-230722-1622Z/README.md) it is also assumed to be the same model.
 
 
 

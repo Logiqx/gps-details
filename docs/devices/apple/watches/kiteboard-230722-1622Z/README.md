@@ -1,6 +1,6 @@
 ## Apple Watches
 
-### Series 8 45 mm Cellular #1
+### Apple Watch Series 8 45 mm Cellular #1
 
 This session is from an Apple Series 8 45 mm Cellular, recorded whilst Kiteboarding.
 
