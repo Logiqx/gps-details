@@ -52,7 +52,7 @@ Apple phones use different GNSS chipsets to the watches and the antennas will al
 
 - It can be seen from these pages that the Apple Watch 5 may have a tendency for false readings / spikes which would need filters specific to that device. The simplest approach would be to regard it as unapproved, rather than spend lots of time on it. 
 - The 2022 devices may produce decent quality data and an interim filter (speed accuracy < 1.5 m/s) will certainly help to improve the data quality. How they compare to the benchmark devices based on SiRF or u-blox chipsets is yet to be seen.
-- 2020, 2021 and 2023 devices are a complete unknown at this moment in time. An assessment is required, checking the suitability of the interim speed accuracy filter, and the generally accuracy of the watches themselves. 
+- 2020, 2021 and 2023 devices are a complete unknown at this moment in time. An assessment is required, checking the suitability of the interim speed accuracy filter, and the general accuracy of the watches themselves. 
 
 A possible approach to consider is to go live, then evaluate the data quality before approving specific devices?
 
@@ -62,4 +62,4 @@ A possible approach to consider is to go live, then evaluate the data quality be
 
 The `<trk>` element of GPX contains a `<src>` element for the device type - e.g. "Apple Watch Series 8".
 
-This is the obvious way to specify which device was used to capture a session.
+This is the obvious way to specify which device was used during the session.
