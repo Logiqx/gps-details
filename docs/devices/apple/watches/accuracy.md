@@ -42,7 +42,7 @@ It isn't possible to say whether the filter is suitable for several models of Ap
 - The 2020 and 2021 models such as the Series 6, Series 7, and SE (Gen 1).
 - The 2023 models such as the Series 8, and Ultra 2.
 
-Given the uncertainty around models other than the ones from 2019 (Series 5) and 2022 (Series 8), caution should probably be applied. Without any data for 2020, 2021, and 2023 models it is impossible to assess the usefulness of this simple filter.
+Given the uncertainty around models other than the ones from 2019 (Series 5) and 2022 (Series 8), caution should probably be applied. Without any data for 2020, 2021, and 2023 models it is impossible to assess the suitability of this simple filter.
 
 
 

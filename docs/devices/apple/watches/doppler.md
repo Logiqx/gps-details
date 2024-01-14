@@ -59,7 +59,7 @@ The Doppler speeds are quite plausible for this particular session, peaking at j
 
 #### Apple Watch SE 44 mm #1 - Kiteboarding
 
-AThe Doppler speeds are quite plausible for this particular session, peaking at around 10 m/s (approximately 20 knots).
+The Doppler speeds are quite plausible for this particular session, peaking at around 10 m/s (approximately 20 knots).
 
 ![Apple Watch SE 44 mm #1](kiteboard-230723-1208Z/img/dspd.png)
 
