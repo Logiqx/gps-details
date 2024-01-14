@@ -26,6 +26,8 @@ Ignoring occasions when the Doppler-derived speed is < 5 m/s (approximately 10 k
 
 The Doppler speeds are quite plausible for this particular session, peaking at about 12.5 m/s (approximately 25 knots). Without having a trusted device as a benchmark, little can be said about the actual accuracy and thus the simple statement "plausible".
 
+During this session it is almost certain that the fastest speed was actually a spike.
+
 ![Doppler Speed](img/dspd.png)
 
 
@@ -68,7 +70,7 @@ There are a lot of times where the speed accuracy estimate is between 1.5 m/s an
 
 The highest speed reported during the session was around 12.5 m/s (roughly 25 knots), but it appears likely that it is a spike. It is very much an outlier when compared to the typical speeds average around 4 or 5 m/s (roughly 8 to 10 knots).
 
-The variability in the speed accuracy estimate in the track is somewhat unusual and exceeds 1.5 m/s at the top speed. The track is quite hard to assess for accuracy due to the relatively low speeds an variability in speed accuracy estimates.
+The variability in the speed accuracy estimate in the track is somewhat unusual and exceeds 1.5 m/s at the top speed. The track is quite hard to assess for accuracy due to the relatively low speeds and variability in speed accuracy estimates.
 
 A speed accuracy filter of 1.5 m/s is probably quite useful for this session.
 

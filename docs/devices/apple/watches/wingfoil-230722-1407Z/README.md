@@ -8,7 +8,7 @@ This session is from an Apple Watch Ultra, recorded whilst Wingfoiling.
 
 #### Calculated Speed vs Doppler Speed
 
-This graph illustrates the difference between speeds calculated by software using latitude + longitude (shown in blue), versus speeds calculated by the GNSS receiver itself (almost certainly) using the Doppler observables (shown in orange). Large spikes are clearly evident in speeds calculated from latitude and longitude (shown in blue), especially after a crash / fall.
+This graph illustrates the difference between speeds calculated by software using latitude + longitude (shown in blue), versus speeds calculated by the GNSS receiver itself (almost certainly) using the Doppler observables (shown in orange). A large spike is clearly evident in speeds calculated from latitude and longitude (shown in blue), likely due to a crash / fall.
 
 Note: The units used for speeds are m/s but you can estimate the speed in knots by doubling the m/s.
 
@@ -23,6 +23,8 @@ Ignoring occasions when the Doppler-derived speed is < 5 m/s (approximately 10 k
 #### Doppler Speed
 
 The Doppler speeds are quite plausible for this particular session, peaking at around 8 or 9 m/s (approximately 16-18 knots). Without having a trusted device as a benchmark, little can be said about the actual accuracy and thus the simple statement "plausible".
+
+During this session it is almost certain that the fastest speed was actually a spike.
 
 ![Doppler Speed](img/dspd.png)
 

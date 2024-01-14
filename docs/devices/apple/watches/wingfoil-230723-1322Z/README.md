@@ -24,6 +24,8 @@ Ignoring occasions when the Doppler-derived speed is < 5 m/s (approximately 10 k
 
 The Doppler speeds are quite plausible for this particular session, peaking at around 10 m/s (approximately 20 knots). Without having a trusted device as a benchmark, little can be said about the actual accuracy and thus the simple statement "plausible".
 
+During this session it is almost certain that the fastest speed was actually a spike.
+
 ![Doppler Speed](img/dspd.png)
 
 

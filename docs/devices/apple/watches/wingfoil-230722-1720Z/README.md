@@ -8,7 +8,7 @@ This session is from an Apple Watch Series 5, recorded whilst Wingfoiling.
 
 #### Calculated Speed vs Doppler Speed
 
-This graph illustrates the difference between speeds calculated by software using latitude + longitude (shown in blue), versus speeds calculated by the GNSS receiver itself (almost certainly) using the Doppler observables (shown in orange). Large spikes are clearly evident in speeds calculated from latitude and longitude (shown in blue), especially after a crash / fall.
+This graph illustrates the difference between speeds calculated by software using latitude + longitude (shown in blue), versus speeds calculated by the GNSS receiver itself (almost certainly) using the Doppler observables (shown in orange). Significant spikes are clearly evident in speeds calculated from latitude and longitude (shown in blue), especially after a crash / fall.
 
 Note: The units used for speeds are m/s but you can estimate the speed in knots by doubling the m/s.
 
