@@ -9,6 +9,7 @@ It focuses on the difference between software-calculated speeds (simply using la
 Notes:
 
 - The charts are very basic in nature (e.g. simple legends and lack of axis labels), saving time during production.
+- The units for speed are m/s, but you can double the values to approximate the speed in knots.
 - The data was recorded without any filters applied, thus showing the true nature of the raw GNSS data.
 - Whilst standard speed sailing filters can remove some spikes in the software-calculated speeds, they are not 100% effective.
 - Doppler-derived speeds are far more robust than software-calculated speeds that rely on longitudes and latitudes.

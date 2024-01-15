@@ -9,6 +9,7 @@ It focuses on the speeds calculated by the GNSS chipsets (almost certainly using
 Notes:
 
 - The charts are very basic in nature (e.g. simple legends and lack of axis labels), saving time during production.
+- The units for speed are m/s, but you can double the values to approximate the speed in knots.
 - The data was recorded without any filters applied, thus showing the true nature of the raw GNSS data.
 
 
