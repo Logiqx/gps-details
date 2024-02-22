@@ -12,7 +12,7 @@ This will potentially be the most technical article within this series, but I wi
 
 - Carrier
 - Pseudorandom noise (PRN)
-- Navigational data
+- Navigation data
 
 The C/A code is broadcast in the [L1 band](https://en.wikipedia.org/wiki/L_band) and the carrier has a frequency of 1575.42 MHz. All of the GPS satellites use the same L1 frequency for their signals but the use of a technique called [code-division multiple access](https://en.wikipedia.org/wiki/Code-division_multiple_access) (CDMA) makes it possible for a GPS / GNSS receiver to distinguish between signals from the different satellites. The most important aspect of CDMA is the allocation of a unique [pseudorandom noise](https://en.wikipedia.org/wiki/Pseudorandom_noise) (PRN) code to each satellite. The PRN code essentially consists of 1023 binary digits (referred to as chips) and the entire PRN code repeats every millisecond.
 
@@ -22,7 +22,7 @@ In addition to the carrier and the PRN code there is data being transmitted at 5
 
 To keep this article short, full details of the modulation technique [direct-sequence spread spectrum](https://en.wikipedia.org/wiki/Direct-sequence_spread_spectrum) (DSSS), digital signal processing, and Fourier transformations have been completely omitted. They are vitally important to electronic engineers and developers of software based GNSS receivers but unnecessary in this particular article. The main takeaway should be that the C/A signal contains a unique PRN code (consisting of 1023 chips, repeating every millisecond), plus data bits that are being transmitted at 50 bits per second.
 
-[Navigational messages](https://en.wikipedia.org/wiki/GPS_signals#Navigation_message) convey information such as the GPS date and time, satellite status, [ephemeris](https://en.wikipedia.org/wiki/Ephemeris) (precise orbital information for the transmitting satellite), and almanac (status and low-resolution orbital information for every satellite). A single navigation message consists of 1,500 bits (duration of 30 seconds), divided into 5 subframes (duration of 6 seconds). Every subframe includes the GPS time, thus time is received from the GPS satellites once every 6 seconds. There are 25 navigation messages in total so to receive all of the navigational data from a single satellite will take 12.5 minutes in total.
+[Navigation messages](https://en.wikipedia.org/wiki/GPS_signals#Navigation_message) convey information such as the GPS date and time, satellite status, [ephemeris](https://en.wikipedia.org/wiki/Ephemeris) (precise orbital information for the transmitting satellite), and almanac (status and low-resolution orbital information for every satellite). A single navigation message consists of 1,500 bits (duration of 30 seconds), divided into 5 subframes (duration of 6 seconds). Every subframe includes the GPS time, thus time is received from the GPS satellites once every 6 seconds. There are 25 navigation messages in total so to receive all of the navigational data from a single satellite will take 12.5 minutes in total.
 
 ![Navigation message](img/Navigation_Message.png)
 
