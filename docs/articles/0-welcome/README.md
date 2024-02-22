@@ -18,6 +18,6 @@ It is now February 2024 and I've decided to write a series of short articles tha
 
 Before I go into any brand / device specifics, I'll kick off with a short series of articles that provide some insight into how GNSS technologies work. It's rare to see an article that explains how speed is calculated by a GNSS receiver, and rarer still to see an article about how speed is actually a simple derivative of the GNSS signal tracking, not derived from position. I plan to avoid any unnecessary complexities and mathematics, simply explain the key concepts.
 
-The first article will kick off with the GPS / GNSS signals themselves. I believe that a basic understanding of the GNSS signals, acquisition and tracking will provide a solid foundation for later topics, ultimately leading to a better understanding of the available GNSS technologies. The intention is to do this in a way that most readers will easily understand. I hope you enjoy this series and feel free to subscribe if you want to receive notifications of future articles!
+After a quick summary of GPS / GNSS technology, I will kick off with the GPS / GNSS signals themselves. I believe that a basic understanding of the GNSS signals, acquisition and tracking will provide a solid foundation for later topics, ultimately leading to a better understanding of the available GNSS technologies. The intention is to do this in a way that most readers will easily understand. I hope you enjoy this series and feel free to subscribe if you want to receive notifications of future articles!
 
 Mike George - K888
