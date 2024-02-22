@@ -10,7 +10,7 @@ All of the different GNSS operate using similar principles, so for simplicity I'
 
 ![IIR-M_2 satellite](img/IIR-M_2.jpg)
 
-The satellites are neither geostationary nor geosynchronous as they are orbiting the earth approximately once every 12 hours. If you want to be more accurate, GPS satellites orbit the earth twice every [sidereal day](https://en.wikipedia.org/wiki/Sidereal_time) which is approximately 23h 56m. GLONASS, Galileo and BeiDou satellites have slightly different altitudes and thus different orbital periods, but all in the region of 20,000 - 23,000 km above the earth and orbiting the earth approximately twice a day.
+The satellites are neither geostationary nor geosynchronous as they are orbiting the earth approximately once every 12 hours. If you want to be more precise, GPS satellites orbit the earth twice every [sidereal day](https://en.wikipedia.org/wiki/Sidereal_time) which is approximately 23h 56m. GLONASS, Galileo and BeiDou satellites have slightly different altitudes and thus different orbital periods, but all in the region of 20,000 - 23,000 km above the earth and orbiting the earth approximately twice a day.
 
 The [animation](https://commons.wikimedia.org/wiki/File:GPS24golden.gif) below shows 21 GPS satellites orbiting the earth in 6 different [orbital planes](https://en.wikipedia.org/wiki/Orbital_plane). It can be seen that the number of visible satellites from a specific location changes over time and is shown in red. Right now in February 2024 there are roughly 30 operational GPS satellites. GLONASS, Galileo and BeiDou each have around have 24 operational satellites, so there are in excess of 100 operational GNSS satellites orbiting the earth.
 
@@ -46,6 +46,6 @@ A relatively interesting point to note is that GNSS signals are incredibly weak 
 
 Acquisition and tracking of the GNSS signals is absolutely key to the operation of a GNSS receiver. The next article in this series will go into the signals in more detail but in this article, it is perhaps worth mentioning [assisted GPS](https://en.wikipedia.org/wiki/Assisted_GNSS) (A-GPS) which is a technique to reduce the signal acquisition time. Assisted GPS is the reason that your mobile device (e.g. phone or watch) can often acquire the signals from GPS / GNSS satellites in a matter of seconds.
 
-Hopefully this article has been useful and some of the common terms are a bit more familiar. GNSS receivers are in essence passive devices, tasked with acquiring and tracking the satellite signals, without broadcasting their own signals. This article touched on the global systems (GPS, GLONASS, Galileo, BeiDou), regional systems (QZSS, NavIC / IRNSS and KPS), SBAS (WAAS, MSAS, GAGAN, EGNOS), and A-GPS.
+Hopefully this article has been useful and some of the common terms are now a bit more familiar. GNSS receivers are in essence passive devices, tasked with acquiring and tracking the satellite signals, without broadcasting their own signals. This article touched on the global systems (GPS, GLONASS, Galileo, BeiDou), regional systems (QZSS, NavIC / IRNSS and KPS), SBAS (WAAS, MSAS, GAGAN, EGNOS), and A-GPS.
 
 The next article will describe the GPS / GNSS signals themselves and how they are received / processed, ultimately enabling the GNSS receiver to determine its position, velocity and time (aka PVT).
