@@ -12,7 +12,7 @@ All of the different GNSS operate using similar principles, so for simplicity I'
 
 The satellites are neither geostationary nor geosynchronous as they are orbiting the earth approximately once every 12 hours. If you want to be more accurate, GPS satellites orbit the earth twice every [sidereal day](https://en.wikipedia.org/wiki/Sidereal_time) which is approximately 23h 56m. GLONASS, Galileo and BeiDou satellites have slightly different altitudes and thus different orbital periods, but all in the region of 20,000 - 23,000 km above the earth and orbiting the earth approximately twice a day.
 
-The [animation](https://commons.wikimedia.org/wiki/File:GPS24golden.gif) below shows 21 GPS satellites orbiting the earth in 6 different [orbital planes](https://en.wikipedia.org/wiki/Orbital_plane). It can be seen that the number of visible satellites from a specific location changes over time and is shown in red. Right now in Feb 2024 there are roughly 30 operational GPS satellites. GLONASS, Galileo and BeiDou each have around have 24 operational satellites, so there are in excess of 100 operational GNSS satellites orbiting the earth.
+The [animation](https://commons.wikimedia.org/wiki/File:GPS24golden.gif) below shows 21 GPS satellites orbiting the earth in 6 different [orbital planes](https://en.wikipedia.org/wiki/Orbital_plane). It can be seen that the number of visible satellites from a specific location changes over time and is shown in red. Right now in February 2024 there are roughly 30 operational GPS satellites. GLONASS, Galileo and BeiDou each have around have 24 operational satellites, so there are in excess of 100 operational GNSS satellites orbiting the earth.
 
 ![GPS constellation](img/GPS24golden.gif)
 
@@ -38,7 +38,7 @@ We've already touched on the fact that the GNSS satellites are in medium-earth o
 
 GNSS receivers are passive devices in the sense that they only receive signals from the satellites and do not broadcast any signals back to the satellites. There are many reasons that this is advantageous, such as not giving away ones position during times of conflict, but it also makes low power GNSS receivers possible. The fact that GNSS receivers are passive and only receive signals from the satellites is one of the key design principles.
 
-![GPS devices](img/devices.jpg)
+![Popular GPS / GNSS receivers in the speedsailing community](img/devices.jpg)
 
 Somewhat related to the previous point is the fact that GNSS receivers do not require their own high-precision time keeping (e.g. [atomic clock](https://en.wikipedia.org/wiki/Atomic_clock)) in order to operate and to produce accurate results. They typically use an inexpensive [crystal oscillator](https://en.wikipedia.org/wiki/Crystal_oscillator), which is akin to the accuracy of a [quartz watch](https://en.wikipedia.org/wiki/Quartz_clock). Whilst calculating position the GNSS receiver also works out the difference between its own (imprecise) clock and the atomic (precise) clocks on the satellites.
 
@@ -46,6 +46,6 @@ A relatively interesting point to note is that GNSS signals are incredibly weak 
 
 Acquisition and tracking of the GNSS signals is absolutely key to the operation of a GNSS receiver. The next article in this series will go into the signals in more detail but in this article, it is perhaps worth mentioning [assisted GPS](https://en.wikipedia.org/wiki/Assisted_GNSS) (A-GPS) which is a technique to reduce the signal acquisition time. Assisted GPS is the reason that your mobile device (e.g. phone or watch) can often acquire the signals from GPS / GNSS satellites in a matter of seconds.
 
-Hopefully this article has been useful and some of the common terms are a bit more familiar. GNSS receivers are in essence passive devices, tasked with acquiring and tracking the satellite signals, without broadcasting their own signals. This article touched on the global systems (GPS, GLONASS, Galileo, BeiDou), regional systems (QZSS and NavIC / IRNSS), SBAS (WAAS, MSAS, GAGAN, EGNOS), and A-GPS.
+Hopefully this article has been useful and some of the common terms are a bit more familiar. GNSS receivers are in essence passive devices, tasked with acquiring and tracking the satellite signals, without broadcasting their own signals. This article touched on the global systems (GPS, GLONASS, Galileo, BeiDou), regional systems (QZSS, NavIC / IRNSS and KPS), SBAS (WAAS, MSAS, GAGAN, EGNOS), and A-GPS.
 
-The next article will describe the GPS / GNSS signals themselves and how they are received / processed, ultimately enabling the GNSS receiver to determine its position, velocity and time.
+The next article will describe the GPS / GNSS signals themselves and how they are received / processed, ultimately enabling the GNSS receiver to determine its position, velocity and time (aka PVT).
