@@ -1,6 +1,6 @@
 ## GPS Articles
 
-### What are the GPS / GNSS observables?
+### What are the GNSS observables?
 
 Date created: 2024-02-23
 
@@ -19,11 +19,11 @@ Once a signal is being tracked and the navigation message is being decoded it is
 - Carrier phase
 - C/N₀
 
-It's these observables that are ultimately used to determine the PVT solution (position, velocity and time) regardless of whether it is a wrist watch providing positional accuracy to within a few meters, or an RTK receiver providing positional accuracy to within a few millimeters. Some GNSS receivers are capable of outputting the GNSS observables (often referred to as raw observables) so that PVT solutions can be generated via post-processing.
+It's these observables that are ultimately used to determine the PVT solution regardless of whether it is a wrist watch providing positional accuracy to within a few meters, or an RTK receiver providing positional accuracy to within a few centimeters (or even millimeters). Some GNSS receivers are capable of outputting the GNSS observables (often referred to as raw observables) so that PVT solutions can be generated via post-processing.
 
 #### Pseudorange
 
-The [pseudorange](https://en.wikipedia.org/wiki/Pseudorange) is derived from the time taken for the signal to travel from the satellite to the receiver. Since the signal travels at the speed of light it is essentially the travelling time multiplied by the speed of light. It is called the pseudorange (instead of the true range) because it includes a variety of different errors, including any delays as the signal passes through the ionosphere and troposphere.
+The [pseudorange](https://en.wikipedia.org/wiki/Pseudorange) is derived from the time taken for the signal to travel from the satellite to the receiver. Since the signal travels at the speed of light it is essentially the travelling time multiplied by the speed of light. It is called the pseudorange (instead of the true range) because it includes a variety of different errors, including any delays as the signal passes through the ionosphere and troposphere, multipath errors, etc.
 
 The previous article explained how a local replica of the satellite's PRN code is correlated with the incoming signal, thus establishing a code delay which can potentially be up to 1 millisecond for C/A signal. This delay is closely related to the travelling time of the signal but it does not tell the whole story! Since the PRN repeats every millisecond and the signal travels more than 20,000 km (travel time > 67 ms) it only represents the non-integer portion of the travel time in milliseconds, not the total time. There is therefore an ambiguity to be resolved.
 
@@ -37,15 +37,15 @@ The most common example of the [Doppler effect](https://en.wikipedia.org/wiki/Do
 
 ![Doppler effect](img/Dopplerfrequenz.gif)
 
-The previous article described how the acquisition and tracking of GNSS signals must account for the Doppler effect. This is absolutely essential in order for the GNSS signals to be found within all of the noise and subsequently decoded, but the Doppler shift provides an additional benefit. The Doppler shift is solely dependent on the relative motion of the satellite and the receiver, and is unaffected by many of the errors present in the pseudorange.
+The previous article described how the acquisition and tracking of GNSS signals must account for the Doppler effect. This is absolutely essential in order for the GNSS signals to be isolated from all of the noise and subsequently decoded, but the Doppler shift provides an additional benefit. The Doppler shift is solely dependent on the relative motion of the satellite and the receiver, and is largely unaffected by the most significant errors present in the pseudorange which are due to the travel time.
 
-The doppler observables can be used to calculate a more accurate / reliable velocity estimate than the pseudorange observables.
+The doppler observable can therefore be used to calculate a more accurate / reliable velocity estimate than the pseudorange observable.
 
 #### Carrier Phase
 
 The carrier phase observable is not available in many consumer GNSS chipsets but when available it provides an additional means for measuring the apparent distance between the satellite and receiver. The advantage that the carrier phase measurements have over the code based pseudoranges are that they have much greater precision, roughly by 2 or 3 orders of magnitude.
 
-[Real-time kinematic positioning](https://en.wikipedia.org/wiki/Real-time_kinematic_positioning) (RTK), post-processing kinematics (PPK) and [precise point positioning](https://en.wikipedia.org/wiki/Precise_Point_Positioning) (PPP) all make use of the carrier phase observable to calculate positions that are accurate to within a few centimeters (or sometimes millimeters). The carrier phase observable can also be used to smooth the code base pseudorange to produce more accurate positions in cheaper GNSS chipsets.
+[Real-time kinematic positioning](https://en.wikipedia.org/wiki/Real-time_kinematic_positioning) (RTK), post-processing kinematics (PPK) and [precise point positioning](https://en.wikipedia.org/wiki/Precise_Point_Positioning) (PPP) all make use of the carrier phase observable to calculate positions that are accurate to within a few centimeters (or even millimeters). The carrier phase observable can also be used to smooth the code based pseudorange to produce more accurate positions in cheaper GNSS chipsets.
 
 #### C/N₀
 
