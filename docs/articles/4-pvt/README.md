@@ -1,6 +1,6 @@
 ## GPS Articles
 
-### Position, Velocity and Time - aka PVT
+### Position, Velocity and Time - PVT
 
 Date created: 2024-02-24
 
