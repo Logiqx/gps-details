@@ -14,7 +14,7 @@ Whilst GPS / GNSS receivers will ultimately output their position using latitude
 
 #### Position and Time
 
-The previous article described the [pseudorange](https://en.wikipedia.org/wiki/Pseudorange) observable which represents the distance between the satellite and the receiver, including any errors such as the receiver clock bias. The clock bias is essentially the difference between the clock in the receiver and the clocks in the satellites.
+The previous article described the [pseudorange](https://en.wikipedia.org/wiki/Pseudorange) observable which represents the distance between the satellite and the receiver, including any errors such as atmoshperic effects, multipath and the receiver clock bias. The clock bias is essentially the difference between the clock in the receiver and the clocks in the satellites.
 
 When 4 or more satellites are being tracked (regardless of the GNSS constellation) it is possible to determine the position of the receiver (X, Y, Z) and the clock bias, thus allowing an accurate time to be determined. The following illustration is from [GPS and GNSS for Geospatial Professionals](https://www.e-education.psu.edu/geog862/node/1724).
 
@@ -50,7 +50,7 @@ In simple terms the geoid is the shape that the ocean surface would take under t
 
 
 
-GPS / GNSS receivers start by calculating the height above the ellipsoid (aka ellipsoid height), and then orthometric height which represents the height above mean sea level. GPS / GNSS receivers actually use a relatively crude model of the geoid but they will often output the geoid height (difference between the ellipsoid and geoid) in addition to ellipsoid height and orthometric height so that corrections can be applied using a more sophisticated model of the geoid.
+GPS / GNSS receivers start by calculating the height above the ellipsoid (aka ellipsoid height), and then orthometric height which represents the height above mean sea level. GPS / GNSS receivers actually use a relatively crude model of the geoid but they will often output the geoid height (difference between the ellipsoid and geoid) or ellipsoid height in addition to the orthometric height, so that corrections can be applied using a more sophisticated model of the geoid.
 
 
 
