@@ -16,7 +16,7 @@ The [animation](https://commons.wikimedia.org/wiki/File:GPS24golden.gif) below s
 
 ![GPS constellation](img/GPS24golden.gif)
 
-One might wonder why there are so many systems and satellites? Well, it should be pretty obvious why some nations would not want to be dependent solely on the technology of another nation when it comes matters of national security. However, consumers also benefit greatly from multi-GNSS because it significantly increases the number of visible satellites and thus the accuracy of receivers. The image below shows London on 1 Jan 2024, around 4:48 pm.
+One might wonder why there are so many systems and satellites? Well, it should be pretty obvious why some nations would not want to be dependent solely on the technology of another nation when it comes to matters of national security. However, consumers also benefit greatly from multi-GNSS because it significantly increases the number of visible satellites and thus the accuracy of receivers. The image below shows London on 1 Jan 2024, around 4:48 pm.
 
  ![sky](img/sky_small_15deg.png)
 
@@ -44,7 +44,7 @@ Somewhat related to the previous point is the fact that GNSS receivers do not re
 
 A relatively interesting point to note is that GNSS signals are incredibly weak by the time they reach the surface of the earth, approximately 1 million times weaker than your home WiFi signal. Despite the satellite signals being so weak and much lower than the levels of background noise, GNSS receivers can still isolate the satellite signals from the background noise and use them to determine their position, velocity and time (aka PVT).
 
-Acquisition and tracking of the GNSS signals is absolutely key to the operation of a GNSS receiver. The next article in this series will go into the signals in more detail but in this article, it is perhaps worth mentioning [assisted GPS](https://en.wikipedia.org/wiki/Assisted_GNSS) (A-GPS) which is a technique to reduce the signal acquisition time. Assisted GPS is the reason that your mobile device (e.g. phone or watch) can often acquire the signals from GPS / GNSS satellites in a matter of seconds.
+Acquisition and tracking of the GNSS signals is absolutely key to the operation of a GNSS receiver. The next article in this series will go into the signals in more detail but in this article, it is perhaps worth mentioning [assisted GPS](https://en.wikipedia.org/wiki/Assisted_GNSS) (A-GPS) which is a technique to reduce the signal acquisition time. Assisted GPS is the reason that your mobile device (e.g. phone or watch) can often acquire the signals from GPS / GNSS satellites in a matter of seconds.  A-GPS will be discussed in more detail within the next article.
 
 Hopefully this article has been useful and some of the common terms are now a bit more familiar. GNSS receivers are in essence passive devices, tasked with acquiring and tracking the satellite signals, without broadcasting their own signals. This article touched on the global systems (GPS, GLONASS, Galileo, BeiDou), regional systems (QZSS, NavIC / IRNSS and KPS), SBAS (WAAS, MSAS, GAGAN, EGNOS), and A-GPS.
 

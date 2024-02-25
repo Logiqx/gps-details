@@ -8,7 +8,7 @@ The goal of this article is to give an overview of the [GNSS observables](https:
 
 ![IIR-M_2 satellite](img/IIR-M_2.jpg)
 
-This will potentially be one of the most technical articles within this series, but I will try to avoid unnecessary complexity. The article will sometimes focus on the traditional GPS signal, known as the C/A code (aka “course acquisition” code). All of the other GNSS signals have much in common with the C/A code so an understanding of it can be considered pretty universal.
+This is also one of the more technical articles within the series, but I will try to avoid unnecessary complexity. The article will sometimes focus on the traditional GPS signal, known as the C/A code (aka “course acquisition” code). All of the other GNSS signals have much in common with the C/A code so an understanding of it can be considered pretty universal.
 
 The previous article described how the acquisition and tracking of an individual signal needs to determine the delay for a locally generated replica (related to the distance from the satellite) and Doppler shift (related to the motion of the satellite and the receiver). If you haven't read the previous article it might provide some useful background, but it's not a pre-requisite.
 
@@ -17,7 +17,7 @@ Once a signal is being tracked and the navigation message is being decoded it is
 - Pseudorange
 - Doppler shift
 - Carrier phase
-- C/N₀
+- Carrier-to-noise-density ratio (C/N₀)
 
 It's these observables that are ultimately used to determine the PVT solution regardless of whether it is a wrist watch providing positional accuracy to within a few meters, or an RTK receiver providing positional accuracy to within a few centimeters (or even millimeters). Some GNSS receivers are capable of outputting the GNSS observables (often referred to as raw observables) so that PVT solutions can be generated via post-processing.
 
@@ -47,7 +47,7 @@ The carrier phase observable is not available in many consumer GNSS chipsets but
 
 [Real-time kinematic positioning](https://en.wikipedia.org/wiki/Real-time_kinematic_positioning) (RTK), post-processing kinematics (PPK) and [precise point positioning](https://en.wikipedia.org/wiki/Precise_Point_Positioning) (PPP) all make use of the carrier phase observable to calculate positions that are accurate to within a few centimeters (or even millimeters). The carrier phase observable can also be used to smooth the code based pseudorange to produce more accurate positions in cheaper GNSS chipsets.
 
-#### C/N₀
+#### Carrier-to-noise-density ratio (C/N₀)
 
 The final observable is a measure of the satellite signal quality. The [carrier-to-noise-density ratio](https://en.wikipedia.org/wiki/Carrier-to-noise_ratio#Carrier-to-noise_density_ratio) (C/N₀) is the ratio of the carrier power C to the noise power density N₀, expressed in dB-Hz.
 
