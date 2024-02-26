@@ -4,7 +4,7 @@
 
 #### Background
 
-GPS / GNSS chipsets can often generate accuracy estimates as part of their [position / velocity / time](https://medium.com/@mikeg888/position-velocity-and-time-pvt-51f4cc738b75) (PVT) solutions. These indicate whether the position and speed being reported by the GPS / GNSS receiver are likely to be accurate, or not.
+GPS / GNSS chipsets can often generate accuracy estimates as part of their [position / velocity / time](https://medium.com/@mikeg888/position-velocity-and-time-pvt-51f4cc738b75) (PVT) solutions. These provide a good indication as to whether the position and speed being reported by the GPS / GNSS receiver are likely to be accurate, or not.
 
 Popular devices amongst the speedsailing community include the Locosys [GT-31](https://www.locosystech.com/en/product/gps-handheld-data-logger-gt-31.html), [GW-52](https://www.locosystech.com/en/product/gps-handheld-data-logger-gw-52.html), and [GW-60](https://www.locosystech.com/en/product/gps-watch-gw-60.html) which all use SiRF chipsets and provide speed accuracy estimates. The u-blox based devices such the [Motion](https://www.motion-gps.com/motion/index.html) and [ESP-GPS](https://docs.google.com/document/d/1j86kj3bNMID3sHCRT7QTYyrL7IHeQnGPec1LajsDfB4) are also excellent devices and capable of logging the accuracy estimates.
 
@@ -24,9 +24,9 @@ This can be illustrated visually with a diagram which shows the [UERE](https://w
 
 
 
-A simple way to think of the positional error estimate is as the UERE multiplied by the [dilution of precision](https://en.wikipedia.org/wiki/Dilution_of_precision_(navigation)) (DOP). In practice the positional accuracy estimates will usually be determined using the covariance matrix of the LSQ or Kalman [filter](https://insidegnss.com/wp-content/uploads/2018/01/marapr13-Solutions.pdf).
+A simple way to think of the positional error estimate is as the UERE multiplied by the [dilution of precision](https://en.wikipedia.org/wiki/Dilution_of_precision_(navigation)) (DOP). In practice the positional accuracy estimates will usually be determined using the covariance matrix of the LSQ or Kalman filter. The differences between the two approaches are nicely explained in an [article](https://insidegnss.com/wp-content/uploads/2018/01/marapr13-Solutions.pdf) written for InsideGNSS in 2013.
 
-Note: The image above is helpful when discussing horizontal and vertical positional accuracy. Speed accuracy can also be derived using a similar principle, but is related to the UERRE (user equivalent range rate error) and the method used to determine velocity. This will typically be dependent on the stability of the doppler observable that is used when determining the velocity of the receiver.
+The image above is helpful when discussing horizontal and vertical positional accuracy. Speed accuracy can also be derived using a similar principle, but is related to the UERRE (user equivalent range rate error) and the method used to determine velocity. This will typically be dependent on the stability of the doppler observable that is used when estimating the velocity of the receiver.
 
 
 
@@ -47,13 +47,15 @@ The accuracy estimates will typically be derived from the covariance matrix of t
 
 #### Effectiveness
 
-This [study](https://www.foi.se/rest-api/report/FOI-R--3840--SE) was conducted using two u-blox 6 receivers and the content of the [GST](https://gpsd.gitlab.io/gpsd/NMEA.html#_gst_gps_pseudorange_noise_statistics) (GNSS Pseudorange Noise Statistics) message to determine the horizontal accuracy estimate (hAcc) as 1-sigma.
+A [study](https://www.foi.se/rest-api/report/FOI-R--3840--SE) was conducted using two u-blox 6 receivers and the content of the [GST](https://gpsd.gitlab.io/gpsd/NMEA.html#_gst_gps_pseudorange_noise_statistics) (GNSS Pseudorange Noise Statistics) message to determine the horizontal accuracy estimate (hAcc) as 1-sigma.
 
 Blue shows the actual horizontal position error, and green shows the estimated horizontal error. These graphs have been included to illustrate the usefulness of estimated accuracy / errors, without going into lengthy details, study or analysis.
 
-The most important thing that accuracy estimates do is to highlight any abnormalities and when the quality of the PVT solution is compromised.
-
 ![img](img/hacc.png)
+
+
+
+The most important thing that accuracy estimates do is to highlight any abnormalities and when the quality of the PVT solution is compromised.
 
 
 
@@ -95,7 +97,7 @@ A couple of standard [NMEA](https://gpsd.gitlab.io/gpsd/NMEA.html) sentences pro
 - [**GST**](https://gpsd.gitlab.io/gpsd/NMEA.html#_gst_gps_pseudorange_noise_statistics) - GNSS Pseudorange Noise Statistics
   - Includes UERE, latitude, longitude, altitude errors (1-sigma)
 
-Note: latitude / longitude accuracy can be converted to horizontal accuracy using hAcc = √ (latAcc<sup>2</sup> + lonAcc<sup>2</sup>)
+Note: latitude / longitude accuracy can be converted to horizontal accuracy using hAcc = √ (latAcc² + lonAcc²)
 
 Proprietary NMEA sentences including horizontal and vertical (position) accuracy estimates:
 
@@ -154,7 +156,7 @@ A quick summary:
 
 ### Summary
 
-This document provides some basic information about the 1-sigma accuracy estimates provided by GPS / GNSS chipsets:
+This document provides some basic information about the accuracy estimates provided by GPS / GNSS chipsets:
 
 - Horizontal / vertical position accuracy (m)
 - Horizontal / vertical speed accuracy (m/s)
@@ -165,6 +167,10 @@ These accuracy estimates are typically available via NMEA sentences and / or bin
 The vast majority of the available documentation refers to accuracy estimates being 1-sigma. A 68% confidence level is mentioned in the Android documentation and is also mentioned in the Apple documentation (see [vertical accuracy](https://developer.apple.com/documentation/corelocation/cllocation/1423550-verticalaccuracy)).
 
 There is a separate page listing the accuracy estimates available from the Android and Apple [location services](https://logiqx.github.io/gps-wizard/apis/location.html).
+
+The accuracy estimates are highly desirable in GNSS receivers for sports interested in GNSS accuracy, especially when speed is the focus. Basic filtering and calculations based on the speed accuracy estimates from Locosys and u-blox devices are already utilised by the speedsailing community and there is scope for further developments.
+
+It is unfortunate that sports watches from the likes of Garmin, Suunto and COROS use GNSS chipsets that do not produce accuracy estimates. Without these estimates the GNSS receiver is basically providing a PVT solution without supporting data to assess the accuracy. This is why devices such as the [GT-31](https://www.locosystech.com/en/product/gps-handheld-data-logger-gt-31.html), [GW-52](https://www.locosystech.com/en/product/gps-handheld-data-logger-gw-52.html), and [GW-60](https://www.locosystech.com/en/product/gps-watch-gw-60.html), [Motion](https://www.motion-gps.com/motion/index.html) and [ESP-GPS](https://docs.google.com/document/d/1j86kj3bNMID3sHCRT7QTYyrL7IHeQnGPec1LajsDfB4) are recomended for speedsailing.
 
 
 
