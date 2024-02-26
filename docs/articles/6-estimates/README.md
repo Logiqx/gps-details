@@ -47,7 +47,7 @@ The accuracy estimates will typically be derived from the covariance matrix of t
 
 #### Effectiveness
 
-A [study](https://www.foi.se/rest-api/report/FOI-R--3840--SE) was conducted using two u-blox 6 receivers and the content of the [GST](https://gpsd.gitlab.io/gpsd/NMEA.html#_gst_gps_pseudorange_noise_statistics) (GNSS Pseudorange Noise Statistics) message to determine the horizontal accuracy estimate (hAcc) as 1-sigma.
+A [study](https://www.foi.se/rest-api/report/FOI-R--3840--SE) in 2014 was conducted using two u-blox 6 receivers and the content of the [GST](https://gpsd.gitlab.io/gpsd/NMEA.html#_gst_gps_pseudorange_noise_statistics) (GNSS Pseudorange Noise Statistics) message to determine the horizontal accuracy estimate (hAcc) as 1-sigma.
 
 Blue shows the actual horizontal position error, and green shows the estimated horizontal error. These graphs have been included to illustrate the usefulness of estimated accuracy / errors, without going into lengthy details, study or analysis.
 
@@ -170,7 +170,7 @@ There is a separate page listing the accuracy estimates available from the Andro
 
 The accuracy estimates are highly desirable in GNSS receivers for sports interested in GNSS accuracy, especially when speed is the focus. Basic filtering and calculations based on the speed accuracy estimates from Locosys and u-blox devices are already utilised by the speedsailing community and there is scope for further developments.
 
-It is unfortunate that sports watches from the likes of Garmin, Suunto and COROS use GNSS chipsets that do not produce accuracy estimates. Without these estimates the GNSS receiver is basically providing a PVT solution without supporting data to assess the accuracy. This is why devices such as the [GT-31](https://www.locosystech.com/en/product/gps-handheld-data-logger-gt-31.html), [GW-52](https://www.locosystech.com/en/product/gps-handheld-data-logger-gw-52.html), and [GW-60](https://www.locosystech.com/en/product/gps-watch-gw-60.html), [Motion](https://www.motion-gps.com/motion/index.html) and [ESP-GPS](https://docs.google.com/document/d/1j86kj3bNMID3sHCRT7QTYyrL7IHeQnGPec1LajsDfB4) are recomended for speedsailing.
+It is unfortunate that sports watches from the likes of Garmin, Suunto and COROS use GNSS chipsets that do not produce accuracy estimates. Without these estimates the GNSS receiver is basically providing a PVT solution without any supporting data to assess the accuracy. This is why devices such as the [GT-31](https://www.locosystech.com/en/product/gps-handheld-data-logger-gt-31.html), [GW-52](https://www.locosystech.com/en/product/gps-handheld-data-logger-gw-52.html), and [GW-60](https://www.locosystech.com/en/product/gps-watch-gw-60.html), [Motion](https://www.motion-gps.com/motion/index.html) and [ESP-GPS](https://docs.google.com/document/d/1j86kj3bNMID3sHCRT7QTYyrL7IHeQnGPec1LajsDfB4) are recomended for speedsailing.
 
 
 
