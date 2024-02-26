@@ -13,7 +13,7 @@ Official speeds of world record attempts at the annual [Luderitz Speed Challenge
 
 The accuracy of Doppler-derived speeds definitely varies between brands / models but without exception the doppler-derived speeds are always far more robust and far more reliable than speeds calculated from the positional data.
 
-This document has been created to provide some examples from a variety of GNSS receivers; different brands and models. Examples for a variety of brands and models have chosen to show how the problems affecting non-Doppler speeds are universal.
+This article has been created to provide some examples from a variety of GNSS receivers; different brands and models. Examples for a variety of brands and models have chosen to show how the problems affecting non-Doppler speeds are universal.
 
 
 
@@ -23,7 +23,7 @@ This first example starts with a windfoiling session that I posted to Strava. It
 
 ![apex-pro-strava.png](img/apex-pro-strava.png)
 
-Looking at the data within GPSResults it is possible to see that I crashed and this this resulted in garbage positions being recorded for around 1 minute, including a 55 knot "spike" in the speeds calculated from the positional data (shown in green).
+Looking at the data within [GPSResults](https://www.gps-speed.com/download_e.html) it is possible to see that I crashed and this resulted in garbage positions being recorded for around 1 minute, including a 55 knot "spike" in the speeds calculated from the positional data (shown in green).
 
 ![apex-pro.png](img/apex-pro.png)
 
@@ -106,7 +106,7 @@ The good news is that the majority of modern GPS / GNSS receivers do provide Dop
 For now, I'll give just two tips:
 
 1. When downloading or exporting sessions from a sports watch, be sure to choose a file format that includes the doppler-derived speeds. Dedicated speedsailing devices use proprietary file formats such as SBN, SBP, OAO, UBX, GPY which all include the Doppler-derived speeds. Sports watches from the like of COROS, Garmin, and Suunto offer formats such as FIT, GPX, and TCX. At this point in time be sure to export FIT files, but DO NOT export GPX files. FIT files will include the Doppler-derived speeds, whereas GPX files rarely include the Doppler-derived speeds (e.g. COROS and Garmin).
-2. Ensure you review your sessions using an application that uses the Doppler-derived speeds. There are plenty of applications that ignore the Doppler-derived speeds and calculate speeds from the positional data. It should be clear from this article that Strava is one such application, and therefore has a tendency to report maximum speeds that are completely bogus. One of the easiest ways to properly analyse your watersports sessions is by uploading to [gps-speedsurfing.com](https://www.gps-speedsurfing.com/), [gps-foilsurfing.com](https://www.gps-foilsurfing.com/), [gps-kitesurfing.com](https://www.gps-kitesurfing.com/), or [gps-wingfoiling.com](https://www.gps-wingfoiling.com/) but use FIT, not GPX.
+2. Ensure you review your sessions using an application that uses the Doppler-derived speeds. There are plenty of applications that ignore the Doppler-derived speeds and calculate speeds from the positional data. It should be clear from this article that Strava is one such application, and therefore has a tendency to report maximum speeds that are completely bogus. One of the easiest ways to properly analyse your watersports sessions is with an application such as [GPSResults](https://www.gps-speed.com/download_e.html), [GpsarPro](http://gpsactionreplay.free.fr/), [GPS Speedreader](https://ecwindfest.org/GPS/GPSSpeedreader.html) or by uploading to [gps-speedsurfing.com](https://www.gps-speedsurfing.com/), [gps-foilsurfing.com](https://www.gps-foilsurfing.com/), [gps-kitesurfing.com](https://www.gps-kitesurfing.com/), or [gps-wingfoiling.com](https://www.gps-wingfoiling.com/) but use FIT, not GPX.
 
 
 
