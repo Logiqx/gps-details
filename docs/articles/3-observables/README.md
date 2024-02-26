@@ -4,7 +4,7 @@
 
 Date created: 2024-02-23
 
-The goal of this article is to give an overview of the [GNSS observables](https://gssc.esa.int/navipedia/index.php/GNSS_Basic_Observables). It builds upon the previous article which described the acquisition + tracking of GNSS signals and precedes the next article which will describe position, velocity and time solutions (aka PVT).
+The goal of this article is to give an overview of the [GNSS observables](https://gssc.esa.int/navipedia/index.php/GNSS_Basic_Observables). It builds upon the previous article which described the acquisition + tracking of [GNSS signals](https://medium.com/@mikeg888/what-are-the-gps-gnss-signals-4bdd032887fc) and precedes the next article which will describe [position, velocity and time solutions](https://medium.com/@mikeg888/position-velocity-and-time-pvt-51f4cc738b75) (aka PVT).
 
 ![IIR-M_2 satellite](img/IIR-M_2.jpg)
 
@@ -59,6 +59,6 @@ Unlike the first 3 observables. C/N₀ is available from even the most basic of 
 
 Although it may seem like unnecessary detail, awareness of the GNSS observables will allow for a better understanding of position, velocity and time (PVT) solutions. It's relatively common to see a GPS / GNSS explainer for position (and time) but it is relatively uncommon to see an explanation for speed and how it is typically calculated from the Doppler observable.
 
-The next article in this series will explain how a GNSS receiver calculates its position, velocity and time (PVT) solutions from the pseudorange and Doppler observables. Later articles may cover topics such RTK, PPK and PPP which all make use of the carrier phase observable, and alternative approaches for calculating velocity from the carrier phase observable.
+The next article in this series will explain how a GNSS receiver calculates its [position, velocity and time](https://medium.com/@mikeg888/position-velocity-and-time-pvt-51f4cc738b75) (PVT) solutions from the pseudorange and Doppler observables. Later articles may cover topics such RTK, PPK and PPP which all make use of the carrier phase observable, and alternative approaches for calculating velocity from the carrier phase observable.
 
 Mike George - K888

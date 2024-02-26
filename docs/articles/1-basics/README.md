@@ -48,4 +48,4 @@ Acquisition and tracking of the GNSS signals is absolutely key to the operation 
 
 Hopefully this article has been useful and some of the common terms are now a bit more familiar. GNSS receivers are in essence passive devices, tasked with acquiring and tracking the satellite signals, without broadcasting their own signals. This article touched on the global systems (GPS, GLONASS, Galileo, BeiDou), regional systems (QZSS, NavIC / IRNSS and KPS), SBAS (WAAS, MSAS, GAGAN, EGNOS), and A-GPS.
 
-The next article will describe the GPS / GNSS signals themselves and how they are received / processed, ultimately enabling the GNSS receiver to determine its position, velocity and time (aka PVT).
+The next article will describe the [GPS / GNSS signals](https://medium.com/@mikeg888/what-are-the-gps-gnss-signals-4bdd032887fc) themselves and how they are received / processed, ultimately enabling the GNSS receiver to determine its [position, velocity and time](https://medium.com/@mikeg888/position-velocity-and-time-pvt-51f4cc738b75) (aka PVT).
