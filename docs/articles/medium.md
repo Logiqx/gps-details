@@ -8,3 +8,4 @@ Drafts on Medium:
 1. [What are the GPS / GNSS observables?](https://medium.com/@mikeg888/what-are-the-gps-gnss-observables-15016f636c17) - 2024-02-23
 1. [Position, Velocity and Time - PVT](https://medium.com/@mikeg888/51f4cc738b75) - 2024-02-24
 1. [The Importance of Doppler!](https://medium.com/@mikeg888/the-importance-of-doppler-b886b14bb65d) - 2023-02-25
+1. [GNSS Accuracy Estimates](https://medium.com/@mikeg888/gnss-accuracy-estimates-74a04ce20608) - 2023-02-26
