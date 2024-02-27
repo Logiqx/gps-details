@@ -4,7 +4,7 @@
 
 Date created: 2024-02-24
 
-This article provides an overview of GNSS navigation solutions providing position, velocity and time (PVT). It builds upon the previous articles which described the acquisition + tracking of [GNSS signals](https://medium.com/@mikeg888/what-are-the-gps-gnss-signals-4bdd032887fc) and derivation of the [raw observables](https://medium.com/@mikeg888/what-are-the-gnss-observables-15016f636c17). Although the earlier articles explain how the raw observables are obtained, understanding this article should still be possible without that background.
+This article provides an overview of GPS / GNSS navigation solutions providing position, velocity and time (PVT). It builds upon the previous articles which described the acquisition + tracking of [GNSS signals](https://medium.com/@mikeg888/what-are-the-gps-gnss-signals-4bdd032887fc) and derivation of the [raw observables](https://medium.com/@mikeg888/what-are-the-gnss-observables-15016f636c17). Although the earlier articles explain how the raw observables are obtained, understanding this article should still be possible without that background.
 
 It is worth noting that the majority of GNSS calculations are performed using a coordinate system known as [earth-centered, earth-fixed](https://en.wikipedia.org/wiki/Earth-centered,_Earth-fixed_coordinate_system) (ECEF). This is a cartesian spatial reference system that represents locations in the vicinity of the Earth (including its surface, interior, atmosphere, and surrounding outer space) as X, Y, and Z measurements from its center of mass.
 
