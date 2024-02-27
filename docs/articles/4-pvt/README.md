@@ -16,7 +16,7 @@ Whilst GPS / GNSS receivers will ultimately output their position using latitude
 
 The previous article described the [pseudorange](https://en.wikipedia.org/wiki/Pseudorange) observable which represents the distance between the satellite and the receiver, including any errors such as atmospheric effects, multipath and the receiver clock bias. The clock bias is essentially the difference between the clock in the receiver and the clocks in the satellites.
 
-When 4 or more satellites are being tracked (regardless of the GNSS constellation) it is possible to determine the position of the receiver (X, Y, Z) and the clock bias, thus allowing an accurate time to be determined. The following illustration is from [GPS and GNSS for Geospatial Professionals](https://www.e-education.psu.edu/geog862/node/1724).
+When 4 or more satellites are being tracked (regardless of the GNSS constellation) it is possible to determine the position of the receiver (X, Y, Z) and the clock bias, thus allowing an accurate time to be determined. The process is called [Trilateration](https://en.wikipedia.org/wiki/Trilateration) and the following illustration is from [GPS and GNSS for Geospatial Professionals](https://www.e-education.psu.edu/geog862/node/1724).
 
 ![Autonomous Positioning](img/AutonomousPositioning.png)
 
