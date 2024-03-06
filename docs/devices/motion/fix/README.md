@@ -40,7 +40,7 @@ The Locosys GT-11 used to have a logging option called "ON-FIX", which was recom
 
 There does not seem to be any benefit to logging the "no fix" navigation solutions during watersports activities. They are generally misleading and likely to lead to confusion amongst users, even if the phantom speeds are handled by the standard software filters.
 
-It should be very easy to implement this approach in the Motion and numerous other loggers (e.g. ESP-GPS). It can always be made into runtime setting (if desired), ensuring the default setting is "ON-FIX" and not "ALWAYS".
+It should be very easy to implement this approach in the Motion and numerous other loggers (e.g. ESP-GPS). It can perhaps be made user configurable (if desired), but ensuring the default setting is "ON-FIX" and not "ALWAYS".
 
 
 
