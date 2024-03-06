@@ -30,7 +30,7 @@ The [GT-31](https://logiqx.github.io/gps-guides/devices/locosys/gt-31/) was a si
 
 ![GT-31](img/gt-31-new.jpg)
 
-The GT-31 provided faster satellite acquisition, increased positional accuracy, was less prone to spikes in the Doppler speeds and had even longer battery life. The [SDOP](https://nujournal.net/estimating-accuracy-of-gps-doppler-speed-measurement-using-speed-dilution-of-precision-sdop-parameter/) was also recorded (subsequently renamed to SDOS), allowing the [accuracy](https://medium.com/@mikeg888/gnss-accuracy-estimates-74a04ce20608) of Doppler speeds to be evaluated.
+The GT-31 provided faster satellite acquisition, increased positional accuracy, was less prone to "spikes" in the Doppler speeds and had even longer battery life. The [SDOP](https://nujournal.net/estimating-accuracy-of-gps-doppler-speed-measurement-using-speed-dilution-of-precision-sdop-parameter/) was also recorded (subsequently renamed to SDOS), allowing the [accuracy](https://medium.com/@mikeg888/gnss-accuracy-estimates-74a04ce20608) of Doppler speeds to be evaluated.
 
 The GT-31 was incredibly reliable and was used by many speed sailing competitions, including [Weymouth Speed Week](https://weymouthspeedweek.com/) until 2022. In terms of features and accuracy the GT-31 still outperforms the latest sports watches from likes of COROS, Garmin, and Suunto.
 
@@ -48,7 +48,7 @@ The [GW-52](https://logiqx.github.io/gps-guides/devices/locosys/gw-52/) was the 
 
 You can still read my [first impressions](https://logiqx.github.io/gps-guides/devices/locosys/gw-52/first-impressions.html) of GW-52, written in Nov 2015. A significant feature of the GW-52 was the introduction of 5 Hz logging, providing more insight into what the SiRF chipset was actually calculating from the GPS signals.
 
-Ultimately the GW-52 was not available for long and was superseded by the [GW-60](https://logiqx.github.io/gps-guides/devices/locosys/gw-60/) in early 2017. The GW-60 can almost be regarded to be an early prototype of the GW-60,  with very similar features and a great deal of similarity within the firmware code.
+Ultimately the GW-52 was not available for long and was superseded by the [GW-60](https://logiqx.github.io/gps-guides/devices/locosys/gw-60/) in early 2017. The GW-52 can almost be regarded to be an early prototype of the GW-60,  with very similar features and a great deal of similarity within the firmware code.
 
 In December 2022, I tried to determine which GPS chipset is likely to be inside the GW-52 and GW-60, eventually coming to the conclusion that it was almost certainly the SiRF Star IV or V. There is a full [write up](https://logiqx.github.io/gps-details/devices/locosys/detective.html) for anybody wishing to look at the evidence that led me to this conclusion.
 
@@ -74,7 +74,7 @@ The [Motion Mini](https://logiqx.github.io/gps-guides/devices/motion/mini/) prov
 
 ![Motion Mini](img/motion-mini.jpg)
 
-The Motion Mini has no screen and is designed purely as a high-accuracy logging device. It is very reasonably priced and is perfect for anyone who cares about the accuracy of the data being recorded and the ability to verify it afterwards.
+The Motion Mini has no screen and is designed purely as a high-accuracy logging device, capable of logging at 10 Hz. It is very reasonably priced and is perfect for anyone who cares about the accuracy of the data being recorded and the ability to verify it afterwards.
 
 I wrote up my [first impressions](https://logiqx.github.io/gps-guides/devices/motion/mini/first-impressions.html) of the Motion Mini and after somewhat extensive testing and evaluation it was adopted by [Weymouth Speed Week](https://weymouthspeedweek.com/) for its accuracy, convenience of the WiFi connectivity, and general simplicity during the competition.
 
