@@ -42,7 +42,7 @@ There does not seem to be any benefit to logging the "no fix" navigation solutio
 
 It should be relatively easy to implement "on fix" logging in the Motion, ESP-GPS and any other speed sailing devices using u-blox chipsets. The "on fix" behavior can perhaps be made user configurable if desired, but ensuring the default setting is "on fix" and not "always".
 
-Implementing "fix > 0" will result in files that do not have the potential to cause confusion. The absence of any data at a specific point in time will simply indicate that there was no fix, rather than reporting phantom speeds after a crash or general loss of signal.
+Implementing "fix > 0" will result in files that do not have the potential to cause confusion. The absence of any data at a specific point in time will simply indicate that there was no fix, rather than reporting phantom speeds when all of the GNSS signals are lost.
 
 
 
