@@ -36,19 +36,33 @@ The following chart shows the relationship between hAcc and sAcc when the fix ty
 
 #### Recommendation
 
-The Locosys GT-11 used to have a logging option called "ON-FIX", which was recommended to most users. It probably makes sense to implement the same approach within the Motion and any other GNSS loggers using u-blox chipsets, certainly for watersports.
+The Locosys GT-11 used to have a logging option called "ON-FIX", which was recommended to most users. It probably makes sense to implement the equivalent of "on fix" logging within the Motion and ESP-GPS, plus any other GNSS loggers using u-blox chipsets.
 
-There does not seem to be any benefit to logging the "no fix" navigation solutions during watersports activities. They are generally misleading and likely to lead to confusion amongst users, even if the phantom speeds are handled by the standard software filters.
+There does not seem to be any benefit to logging the "no fix" navigation solutions during watersports activities. They are generally misleading and likely to lead to confusion amongst users, even if the phantom speeds are handled by the standard software filters (e.g. min sats, max HDOP, max sAcc).
 
-It should be very easy to implement this approach in the Motion and numerous other loggers (e.g. ESP-GPS). It can perhaps be made user configurable (if desired), but ensuring the default setting is "ON-FIX" and not "ALWAYS".
+It should be relatively easy to implement "on fix" logging in the Motion, ESP-GPS and any other speed sailing devices using u-blox chipsets. The "on fix" behavior can perhaps be made user configurable if desired, but ensuring the default setting is "on fix" and not "always".
+
+This relatively simple change will result in files that do not have the potential to cause confusion. The absence of any data at a specific point in time will simply indicate that there was no fix, rather than reporting phantom speeds after a crash or general loss of signal.
 
 
 
-#### Additional Note
+#### References
 
-UBX-CFG-NAV5 describes a parameter called drLimit which seems likely to be responsible for the "no fix" behavior:
+u-blox 6 Receiver Description, Including Protocol Specification (18 Apr 2013) - [u-blox.com](https://content.u-blox.com/sites/default/files/products/documents/u-blox6_ReceiverDescrProtSpec_%28GPS.G6-SW-10018%29_Public.pdf)
 
->  Reserved (maximum time to perform dead reckoning (linear extrapolation) in case of GPS signal loss
+> 2.6.2 Dead Reckoning, Extrapolating Positioning
+>
+> This linear extrapolation feature is enabled by setting the drLimit parameter in CFG-NAV5. The extrapolation algorithm becomes active as soon as the receiver no longer achieves a position fix with a sufficient position accuracy or DOP value (see section Navigation Output Filters). It keeps a fixed track (heading is equal to the last calculated heading) until the dead reckoning limit is reached, or a position fix is again possible. The position is extrapolated.
 
-The description "dead reckoning (linear extrapolation)" matches the observed "no fix" navigation solutions perfectly.
+u-blox 5 NMEA, UBX Protocol Specification (12 Aug 2008) - [navilock.de](https://www.navilock.de/files/11409.download)
+
+> Dead Reckoning, Extrapolating Positioning
+>
+> The implemented extrapolation algorithm kicks in as soon as the receiver no longer achieves a position fix with a sufficient position accuracy or DOP value (see section Navigation Output Filters). It keeps a fix track (heading is equal to the last calculated heading) until the Dead Reckoning Timeout is reached. The position is extrapolated but it’s indicated as “NoFix” (except for NMEA V2.1).
+
+UBX-CFG-NAV5 includes the parameter relating to dead reckoning, extrapolating positioning:
+
+>  drLimit - Reserved (maximum time to perform dead reckoning (linear extrapolation) in case of GPS signal loss
+
+
 
