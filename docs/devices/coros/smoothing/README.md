@@ -64,7 +64,7 @@ The third graph shows the same run according to the APEX 2 Pro. For now, let's i
 
 The COROS recorded a max 2s for this specific run which was 1.3 knots lower than the Motion and Forerunner 255, whereas in the past I always found the COROS to be comparable to the other devices.
 
-The graph shown below is a comparison of the 3 devices. The COROS (green) and Garmin (red) used to be almost identical to each other, just slightly delayed from the Motion (blue). The new firmware in the COROS has caused the data to be delayed by a few more seconds during periods of acceleration and steady speeds, but reduces during times of deceleration. It also reduces the top-end speeds, often affecting 2s and 10s runs.
+The graph shown below is a comparison of the 3 devices. The COROS (green) and Garmin (red) used to be almost identical to each other, just slightly delayed from the Motion (blue). The new firmware in the COROS has caused the data to be delayed by a few more seconds during periods of acceleration and steady speeds, but the delay reduces during periods of deceleration. The smoothing also reduces the top-end speeds, obviously affecting 2s and 10s runs the most.
 
 ![Run 4 - COROS](img/single-run-comparison.png)
 
@@ -96,7 +96,7 @@ Weird spikes have been evident during periods of acceleration in all models of C
 
 ![Positional spikes](img/apex2-pro-pos-spikes.png)
 
-The doppler-derived speeds are now being aggressively, due to the recent firmware releases (V3.0408.0 and V3.0409.0). There are also some peculiar dips during periods of acceleration. The nature of the smoothing and the strange dips during periods of acceleration do however provide a clue into why this might be occurring.
+The doppler-derived speeds are now being aggressively smoothed, due to the recent firmware releases (V3.0408.0 and V3.0409.0). There are also some peculiar dips during periods of acceleration. The nature of the smoothing and the strange dips during periods of acceleration do however provide a clue into why this might be occurring.
 
 ![Positional spikes](img/apex2-pro-spd-dips.png)
 
@@ -104,9 +104,9 @@ The doppler-derived speeds are now being aggressively, due to the recent firmwar
 
 ### Two Years Ago
 
-The image below is related to my testing of the Garmin Fenix 7 in April 2022. The smoothing of the doppler-derived speeds and the strange dips during periods of acceleration share more than a passing resemblance with the latest COROS firmware. The Fenix 7 is another watch that uses the Airoha AG3335M chipset, and my suspicion is that the smoothing is a "feature" of the chipset that Garmin and COROS have activated.
+The image below is related to my testing of the Garmin Fenix 7 in April 2022. The smoothing of the doppler-derived speeds and the strange dips during periods of acceleration share more than a passing resemblance with the latest COROS firmware. The Fenix 7 is another watch that uses the Airoha AG3335M chipset, and my suspicion is that the smoothing is a "feature" of the chipset that Garmin had activated.
 
-Garmin watches no longer exhibit this behavior with modern firmware, so it would appear that whatever "feature" of the Airoha was being used back in 2022, they don't use it nowadays. The smoothing does way more harm than it does good for activities focused on speed analysis, as opposed to activities that simply want a steady pace to be reported, despite swinging of the arm.
+Garmin watches no longer exhibit this behavior with modern firmware, so it would appear that whatever "feature" of the Airoha was being used back in 2022, they don't use it nowadays. This type of smoothing does way more harm than it does good for any activities that are focused on speed, but potentially useful for activities that simply want to report a steady pace, despite any swinging of the arm; running, walking, SUP, etc.
 
 ![Fenix 7](img/20-mins-fenix-7.png)
 
@@ -117,3 +117,5 @@ Garmin watches no longer exhibit this behavior with modern firmware, so it would
 I have yet to find time to do any analysis of the other activity modes, so this document focuses solely on matters relating to the speedsurfing community. IMHO, COROS should undo the change that went into firmware V3.0408.0 (also present in V3.0409.0), at least for the speedsurfing activity, ideally ASAP.
 
 It's slightly ironic that the unapproved Garmin Forerunner 255 that I am testing (costing £250) produces better data than my approved APEX 2 Pro (£450). Reverting back to the previous behavior will at least ensure that the doppler-derived speeds can be trusted again, comparable to the Motion and Garmin.
+
+I hope this document will help in resolving the issue.
