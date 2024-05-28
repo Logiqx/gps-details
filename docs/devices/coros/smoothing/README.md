@@ -30,7 +30,7 @@ The behavior described in this document is common to all sessions using the new 
 
 The table below shows a comparison of max 2 second results:
 
-|      | Motion | Garmin | COROS |
+|      | Motion | Forerunner 255 | APEX 2 Pro |
 | ---- | ------ | ------ | ----- |
 | 1    | 28.73  | 28.67 | 27.82 |
 | 2    | 28.30  | 28.30 | 27.60 |
@@ -41,8 +41,8 @@ The table below shows a comparison of max 2 second results:
 
 Notes:
 
-- The Forerunner 255 is typically within 0.1 knots of the benchmark device.
-- The APEX 2 Pro is consistently reporting lower speeds than the other two devices, and 1.3 knots lower in the case of run 4.
+- For these 5 runs the Forerunner 255 is comfortably within 0.1 knots of the Motion.
+- The APEX 2 Pro is consistently reporting lower speeds and 1.3 knots lower in the case of run 4.
 
 
 
