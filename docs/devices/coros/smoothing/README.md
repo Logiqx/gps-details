@@ -62,7 +62,7 @@ The third graph shows the same run according to the APEX 2 Pro. For now, let's i
 
 ![Run 4 - COROS](img/single-run-apex2-pro.png)
 
-The COROS recorded a max 2s for this specific run which was 1.3 knots lower than the Motion and Forerunner 255, whereas in the past I always found the COROS to be comparable to the other devices.
+The COROS recorded a max 2s for this specific run which was 1.3 knots lower than the Motion and Forerunner 255, whereas in the past I always found the COROS to be comparable to the other devices. A difference of 1.3 knots may not sound like much to the uninitiated, but it's very significant to the speedsurfing community.
 
 The graph shown below is a comparison of the 3 devices. The COROS (green) and Garmin (red) used to be almost identical to each other, just slightly delayed from the Motion (blue). The new firmware in the COROS has caused the data to be delayed by a few more seconds during periods of acceleration and steady speeds, but the delay reduces during periods of deceleration. The smoothing also reduces the top-end speeds, obviously affecting 2s and 10s runs the most.
 
