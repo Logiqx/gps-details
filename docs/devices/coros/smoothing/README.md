@@ -58,7 +58,7 @@ The second graph shows the same run according to the Forerunner 255. The data is
 
 ![Run 4 - Garmin](img/single-run-fr-255.png)
 
-The third graph shows the same run according to the APEX 2 Pro. For now, let's ignore the spikes in the position-derived speeds (green) which are always been present in COROS data from the VERTIX, VERTIX 2, APEX Pro, APEX 2 Pro. What is most problematic is the smoothing that was implemented in firmware V3.0408.0, shifting the doppler-derived speed data by several seconds and making it quite artificial.
+The third graph shows the same run according to the APEX 2 Pro. For now, let's ignore the spikes in the position-derived speeds (green) which have always been present in COROS data from the VERTIX, VERTIX 2, APEX Pro, APEX 2 Pro. What is most problematic is the smoothing that was implemented in firmware V3.0408.0, shifting the doppler-derived speed data by several seconds and making it quite artificial.
 
 ![Run 4 - COROS](img/single-run-apex2-pro.png)
 
