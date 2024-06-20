@@ -79,9 +79,19 @@ Follow this [link](walking/README.md) for the full details of the walking tests.
 
 
 
-### Conclusions
+#### Windfoiling Tests
 
-- Benefits of ephemerides is often apparent during warm up period; position and speed.
+The windfoiling tests are intended to provide insight into the capture of changes to acceleration and deceleration (aja jerk), due to pumping and other factors. The test session was on a day with very light winds, so there was a lot of pumping required to get up onto the foil.
+
+The purpose of this particular test was to determine if there is any difference in behavior between motions logging at 1 / 5 / 10 Hz. It is clear from the data that there are insights to be gleaned from the 5 Hz and 10 Hz data, not relating to board speed per-se but including things like arm motion.
+
+Follow this [link](windfoiling/README.md) for the full details of the walking tests.
+
+
+
+### Takeaways
+
+- Benefits of ephemerides over almanac are often apparent during warm up period; position and speed.
 - 1 / 2 / 5 / 10 Hz are all pretty suitable for regular car journeys.
   - 1 / 2 Hz even do a decent job for the foiling session.
 - Higher logging rate = greater noise, seen in 1 hour speeds and total distances.
