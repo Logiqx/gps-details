@@ -164,6 +164,10 @@ The basic conclusions are as follows:
   - 2 Hz to 5 Hz results in circa 50% more noise.
   - 5 Hz to 10 Hz results in circa 50% more noise.
   - Suspect 20 Hz would exhibit more noise than 10 Hz.
+- The noise needs to be kept in context though.
+  - The mean error is approximately 0.02 knots @ 5 Hz
+  - The biggest spike during the static tests was 0.38 knots @ 5 Hz
+
 - Further analysis might look into why sAcc is higher for the lower logging rates, which are actually less noisy!
 
 The following caveats should also be listed:

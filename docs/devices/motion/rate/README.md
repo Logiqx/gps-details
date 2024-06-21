@@ -101,6 +101,10 @@ Follow this [link](windfoiling/README.md) for the full details of the windfoilin
   - 2 Hz to 5 Hz results in circa 50% more noise.
   - 5 Hz to 10 Hz results in circa 50% more noise.
   - Suspect 20 Hz would be more noisy than 10 Hz.
+- The levels of noise need to be kept in context though.
+  - The mean error during static tests was approximately 0.02 knots @ 5 Hz
+  - The biggest spike during the static tests was 0.38 knots @ 5 Hz
+
 - 1 / 2 / 5 / 10 Hz all work pretty well for regular car journeys, when jerky movements are not prevalent.
   - 5 Hz or 10 Hz logging may be useful when jerk is present; sudden changes in acceleration or deceleration, gear changes, etc.
   - 1 Hz can even do a decent job for the foiling session, but does not capture arm movements when pumping the sail.
