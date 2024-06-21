@@ -56,7 +56,7 @@ Notes:
 
 #### 1. Static Tests
 
-The general concept behind static testing is that the GNSS receivers are in constant motion (due to the rotation of the earth), but speed over ground (SOG) is known to be zero. Any speed reported by the receiver is therefore an error and may be considered as noise.
+The general concept behind static testing is that the GNSS receivers are in constant motion (due to the rotation of the earth), but speed over ground (SOG) is known to be zero. Any speed reported by the receiver is therefore an error and may be regarded as noise.
 
 The purpose of this particular test was to determine if there is any difference in behavior between motions logging at 1 / 2 / 5 / 10 Hz. It is clear from the results that higher logging rates do indeed suffer from greater levels of noise, and may be prone to larger outliers.
 
@@ -88,7 +88,7 @@ Follow this [link](walking/README.md) for the full details of the walking tests.
 
 The windfoiling tests are intended to provide insight into the capture of changes to acceleration and deceleration (aka jerk), due to pumping and other factors. The test session was on a day with very light winds, so there was a lot of pumping required to get up onto the foil.
 
-The purpose of this particular test was to identify any differences in behavior between motions logging at 1 / 5 / 10 Hz. It is clear from the data that there are insights to be gleaned from the 5 Hz and 10 Hz data, not relating to board speed per-se but including factors such as arm motion.
+The purpose of this particular test was to identify any differences in behavior between motions logging at 1 / 5 / 10 Hz. It is clear from the data that there are insights to be gleaned from the 5 Hz and 10 Hz data, not relating to board speed per-se but including factors such as arm movements.
 
 Follow this [link](windfoiling/README.md) for the full details of the windfoiling tests.
 
@@ -132,8 +132,8 @@ Follow this [link](windfoiling/README.md) for the full details of the windfoilin
 
 It is not known how the Motion is producing data at different log rates:
 
-- How have CFG-RATE-MEAS and CFG-RATE-NAV (previously UBX-CFG-RATE) being used inside the Motion?
+- How are CFG-RATE-MEAS and CFG-RATE-NAV (previously UBX-CFG-RATE) being used inside the Motion?
   - Logging at 5 Hz could be done in one of 2 ways, but it's unclear whether the results would differ:
     - CFG-RATE-MEAS = 100 and CFG-RATE-NAV = 2
     - CFG-RATE-MEAS = 200 and CFG-RATE-NAV = 1
-  - It is also not clear to me whether navigation solutions several recent GNSS measurements, or just the latest ones.
+  - It is also not clear to me whether navigation solutions can use several recent GNSS measurements, or just the latest.

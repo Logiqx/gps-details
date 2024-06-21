@@ -37,11 +37,11 @@ The last digit of the serial numbers indicates the logging rates and the motions
 
 ![20240618-layout](img/20240618_162516.jpg)
 
-A visual inspection of the 1 Hz and 5 Hz data in GPS Speedreader shows slightly less detail in the 1 Hz data, when a change in acceleration occurs.
+A visual inspection of the 1 Hz (blue and green) and 5 Hz (red and magenta) data in GPS Speedreader shows slightly less detail in the 1 Hz data, when a change in acceleration occurs.
 
 ![20240618-comparison](img/20240618.png)
 
-It is possible to compare various combinations of the 1 / 2 / 5 Hz data but it is pretty clear that all of the logging rates produce very similar results.
+It is possible to compare various combinations of the 1 / 2 / 5 Hz data but it is evident that all of the logging rates generally produce very similar results.
 
 
 
@@ -78,5 +78,5 @@ The basic conclusions are as follows:
 
 - Activities that do not see sudden changes in acceleration (jerk) may be accurately captured, even with 1 Hz logging.
 - Higher logging rates such as 5 Hz do however manage to capture sudden changes in acceleration - aka jerk.
-- 10 Hz logging will be more prone to noise and may also be more prone to errors as described earlier.
+- 10 Hz logging will be more prone to background noise and may also be more prone to errors as described earlier.
 

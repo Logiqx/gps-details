@@ -67,11 +67,9 @@ Comparing the 1 Hz and 2 Hz data there is a clear relationship between the beati
 
 The artefacts in the 1 Hz and 2 Hz data are referred to as aliasing and can be explained by the [Nyquist-Shannon](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem) sampling theorem.
 
-A walker / runner is unlikely to be interested in measuring their arm speed, but this phenomena does illustrate why a higher logging rate can be useful.
+A walker / runner is unlikely to be interested in measuring their arm speed, but this phenomena does illustrate why a higher logging rate can be useful. If you want to record accurate speed data when movements are jerky, then one must choose a suitable logging rate.
 
-If you want to record accurate speed data when movements are jerky, then one must choose a suitable logging frequency.
-
-Sports watches tend to implement heavy filtering for activities that involve arm movements, and it should be quite evident why this is necessary!
+Sports watches tend to implement heavy filtering for activities that involve arm movements, and it should be quite evident why this is necessary. Besides the actual movements taking place, 1 Hz aliasing effects could result in extremely misleading data being recorded.
 
 
 
@@ -95,33 +93,33 @@ When comparing the 1 Hz (red), 5 Hz (green), and 10 Hz (blue) data it can be see
 
 ![truth](img/truth.png)
 
-It is worth noting that you might expect a slightly smaller range of speeds in the 10 Hz data (green), due to where it was being worn in relation to the other devices. This does seem to be evident in the above illustration.
+It is worth noting that you might expect a slightly smaller range of speeds in the 10 Hz data (blue), due to where it was being worn in relation to the other devices. This does seem to be evident in the above illustration.
 
-Just like the previous walking test, 1 Hz data resembles a sinusoid but this time with a period of around 15 seconds. It would appear that a slightly different walking cadence has changed the period of the sinusoid in the 1 Hz data.
+Just like the previous walking test, 1 Hz data resembles a sinusoid but this time with a period of around 15 seconds. It would appear that a slightly different walking cadence has altered the period of the sinusoid in the 1 Hz data.
 
-The 2 Hz data also exhibits a beating effect, similar to that seen in the previous walking test:
+The 2 Hz data also exhibits a beating effect, similar to the one seen in the previous walking test:
 
 ![beating-2](img/beating-2.png)
 
 
 
-So it would appear that the 5 Hz and 10 Hz data accurately reflects the speed of the receiver / arm, but 2 Hz and 1 Hz are very misleading.
+So it would appear that the 5 Hz and 10 Hz data consistently capture the speed and acceleration of the receiver, but the 2 Hz and 1 Hz data can be very misleading.
 
 
 
-My original working notes were as follows:
+My original notes included the following points:
 
-- 0631 vs 0635 demonstrates that 5 Hz includes more noise during a steady walk.
-  - 1 Hz may be deemed slightly more useful during such periods?
+- 0631 vs 0635 demonstrates that 5 Hz includes more noise during a steady walk, without swinging of the arms.
+  - This can easily be mitigated by filtering / smoothing / averaging either in real-time, or within post-processing.
 
 - 5 Hz and 10 Hz data is almost identical during a steady walk, without swinging of the arms.
-  - Perhaps some slightly unrealistic artefacts are present in 660 (10 Hz) during mid-swing?
-  - It is good to compare specific combos - e.g. 5 + 10 + 1 Hz, or 5 + 10 + 2 Hz, or 2 + 1 Hz.
+  - Some slightly unrealistic artefacts (possible noise) seem to be present from motion 660 (10 Hz) mid-swing?
+  - It is good to compare specific combos individually - e.g. 5 + 10 + 1 Hz, or 5 + 10 + 2 Hz, or 2 + 1 Hz.
 - 630 (10 Hz) seems a little iffy during arm swinging - max speed too low, but min speed ok?
   - 660 and 665 seem to be the best bet when comparing 10 Hz / 5 Hz against 2 Hz / 1 Hz.
 - 2s and 10s speeds from 1 Hz data are a complete nonsense, reporting several knots higher than the reality!
   - Need to use 250m or 500m to get closer to the truth.
-  - This illustrates why sports watches need heavy filtering for activities involving arm movements.
+  - This clearly illustrates why sports watches need heavy filtering for activities involving arm movements.
 - 2 Hz data is better than 1 Hz, although it does exhibit a beating pattern.
   - It may be possible to improve the 2 Hz data with complex post-processing, but logging at 5 Hz is a lot easier!
 
@@ -141,13 +139,13 @@ The basic conclusions are as follows:
 
 
 
-The Nyquist theorem explains artefacts / aliasing in 2 Hz and 1 Hz data when walking.
+The Nyquist theorem explains the artefacts / aliasing in 2 Hz and 1 Hz data when walking.
 
 - Interesting beating effect in 2 Hz data and misleading sinusoids in 1 Hz data.
 - When walking, 2s and 10s speeds are completely wrong when logging at 1 Hz.
   - Need to use longer time / distance for the sinusoidal effect to be attenuated.
 - Max 2s is largely unaffected for 2 Hz logging but the beating effect still presents an issue.
-  - Need to use filtering or moving averages to get sensible results.
+  - Need to use filtering / smoothing / averaging to get sensible results, or choose a higher logging rate.
 - Conceivable that similar artefacts / aliasing could also happen when pumping the sail with a specific cadence.
 
 
