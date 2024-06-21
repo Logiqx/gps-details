@@ -151,9 +151,12 @@ The basic conclusions are as follows:
 
 #### Todo
 
-- Test GW-60 in 5 Hz and 1 Hz modes during walking to see if similar aliasing is evident in 1 Hz data
+Compare 5 Hz + 1 Hz motions with other 1 Hz devices:
+
+- Test GW-60 and GW-52 in 5 Hz and 1 Hz modes during walking to see if similar aliasing is evident in 1 Hz data
   - Previous testing suggested slightly dampened hand speeds from the GW-60 - perhaps attenuated by the Kalman?
-  - Forerunner 255 data also contains a hint of aliasing - see 15601197246_ACTIVITY (bike) and 15601243271_ACTIVITY (other)
+- Test Forerunner 255 using "bike" and "other" activities
+  - Previous tests contain a hint of aliasing - see 15601197246_ACTIVITY (bike) and 15601243271_ACTIVITY (other)
 
 
 

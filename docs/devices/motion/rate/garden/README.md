@@ -112,12 +112,6 @@ My original working notes were as follows, whilst comparing various logging rate
 
 
 
-Todo
-
-- Calculate basic statistics for each of the logging rates - e.g. mean, median and max.
-
-
-
 #### Day 2
 
 Testing on 19 June used the newer style mini motions, logging at 1 / 2 / 5 Hz. It's not currently possible to configure them for 10 Hz.
@@ -165,12 +159,6 @@ My original working notes were as follows, whilst comparing various logging rate
 
 - Loading 811 / 812 / 815 shows wander during the first 15 minutes.
 - 5 Hz > 2 Hz > 1 Hz in terms of noise, but sacc suggests the opposite!
-
-
-
-Todo
-
-- Calculate basic statistics for each of the logging rates - e.g. mean, median and max.
 
 
 

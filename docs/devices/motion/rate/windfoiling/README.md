@@ -93,3 +93,12 @@ The basic conclusions are as follows:
 - 5 Hz appears to work well for windsurfing and windfoiling and will faithfully record arm movements .
 - 5 Hz and 10 Hz will include arm movements / pumping and are also susceptible to noise, which was evident during the static testing.
 - Individual readings that call themselves "max" speed should not be taken literally, but max 2s is probably a good proxy of the true vMax.
+
+
+
+#### Todo
+
+Another tests session might look to do the following:
+
+- Wear 1 / 2 / 5 Hz devices on arms to see if 2 Hz device is also missing the details shown by 5 / 10 Hz devices.
+- Attach 10 Hz devices to the back footstraps, to determine how much of the detail from 5 / 10 Hz is arm movement.
