@@ -4,7 +4,7 @@
 
 #### Overview
 
-The walking tests are intended to provide insight into the capture of changes to acceleration and deceleration (aja jerk), due to swinging of the arms. The chosen route is an excellent open-sky environment and the walk itself contained periods both with and without arm movement.
+The walking tests are intended to provide insight into the capture of changes to acceleration and deceleration (aka jerk), due to swinging of the arms. The chosen route is an excellent open-sky environment and the walk itself contained periods both with and without arm movement.
 
 The purpose of this particular test was to determine if there is any difference in behavior between motions logging at 1 / 2 / 5 / 10 Hz. Perhaps the most interesting observation is that walking provides an excellent real-world illustration of the [Nyquist-Shannon](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem) sampling theorem.
 

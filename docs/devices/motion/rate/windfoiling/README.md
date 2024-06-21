@@ -4,7 +4,7 @@
 
 #### Overview
 
-The windfoiling tests are intended to provide insight into the capture of changes to acceleration and deceleration (aja jerk), due to pumping and other factors. The test session was on a day with very light winds, so there was a lot of pumping required to get up onto the foil.
+The windfoiling tests are intended to provide insight into the capture of changes to acceleration and deceleration (aka jerk), due to pumping and other factors. The test session was on a day with very light winds, so there was a lot of pumping required to get up onto the foil.
 
 The purpose of this particular test was to determine if there is any difference in behavior between motions logging at 1 / 5 / 10 Hz. It is clear from the data that there are insights to be gleaned from the 5 Hz and 10 Hz data, not relating to board speed per-se but including things like arm motion.
 
