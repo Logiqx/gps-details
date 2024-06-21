@@ -170,3 +170,8 @@ The basic conclusions are as follows:
 - Higher logging rates are prone to higher levels of noise.
 - Further analysis might look into why sAcc is higher for the lower logging rates, which are actually less noisy!
 
+The following caveats should also be made for these tests:
+
+- Static testing does not involve any acceleration, so the Kalman filter will not be impacted by acceleration, or jerky motion.
+- Course over ground (COG) is locked at low speeds, which is not true when speed over ground (SOG) exceeds a specific threshold.
+- Errors / noise will always be positive during static testing, whereas errors / noise can be + or - when SOG is greater than zero.
