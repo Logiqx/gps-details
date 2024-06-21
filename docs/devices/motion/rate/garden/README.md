@@ -70,8 +70,31 @@ Visual inspection of the 5 hours of data in GPS Speedreader provides the followi
 
 - 10 Hz data contains the most noise and the largest outliers.
 - 5 Hz data exhibits less noise (and smaller outliers) than the 10 Hz data, but higher levels than the 1 Hz and 2 Hz data.
-- 2 Hz data exhibits less noise than the 1 Hz data, which is slightly curious!
+- 2 Hz data exhibits less noise than the 1 Hz data which is slightly curious, but possibly due to the actual devices.
 - 1 hour speeds and total distances can be used as a proxy for the noise levels.
+
+
+
+The actual data provides the following statistics (generated in Python), using knots as units:
+
+| Motion | Rate (Hz) | Max   | Median  | Mean    | StdDev  |
+| :----: | :-------: | ----: | ------: | ------: | ------: |
+| 631    | 1         | 0.109 | 0.01555 | 0.01650 | 0.00976 |
+| 661    | 1         | 0.080 | 0.01361 | 0.01422 | 0.00839 |
+| 632    | 2         | 0.194 | 0.01361 | 0.01481 | 0.00903 |
+| 662    | 2         | 0.243 | 0.01166 | 0.01221 | 0.00739 |
+| 635    | 5         | 0.134 | 0.01944 | 0.02223 | 0.01247 |
+| 665    | 5         | 0.156 | 0.01944 | 0.02020 | 0.01132 |
+| 630    | 10        | 0.309 | 0.03499 | 0.03731 | 0.02120 |
+| 660    | 10        | 0.257 | 0.02916 | 0.03184 | 0.01787 |
+
+Notes:
+
+- The max readings are single outliers and are only provided for informational purposes.
+- The median, mean and standard deviation clearly show the following in terms of errors / noise:
+  - Noise in 10 Hz > 5 Hz > 2 Hz.
+  - Noise in 10 Hz > 5 Hz > 1 Hz.
+  - Differences between 2 Hz and 1 Hz may not have any statistical significance, and are possibly due to the actual devices.
 
 
 
@@ -109,9 +132,32 @@ The first 15 minutes should be regarded as the warm up, allowing for complete ac
 
 Visual inspection of the remaining 6 hours of data in GPS Speedreader provides the following insights:
 
-- 5 Hz data exhibits higher levels of noise (and larger outliers) than the 1 Hz and 2 Hz data.
-- 2 Hz data exhibits higher levels of noise (and larger outliers) than the 1 Hz data.
+- 5 Hz data exhibits higher levels of noise than the 1 Hz and 2 Hz data.
+- 2 Hz data exhibits slightly more noise than the 1 Hz data.
 - 1 hour speeds and total distances can be used as a proxy for the noise levels.
+
+
+
+The actual data provides the following statistics (generated in Python), using knots as units:
+
+| Motion | Rate (Hz) | Max   | Median  | Mean    | StdDev  |
+| :----: | :-------: | ----: | ------: | ------: | ------: |
+| 801    | 1         | 0.105 | 0.00972 | 0.01026 | 0.00661 |
+| 811    | 1         | 0.091 | 0.00972 | 0.01134 | 0.00740 |
+| 802    | 2         | 0.235 | 0.00972 | 0.01194 | 0.00822 |
+| 812    | 2         | 0.354 | 0.00972 | 0.01242 | 0.00862 |
+| 805    | 5         | 0.130 | 0.01749 | 0.01827 | 0.01063 |
+| 815    | 5         | 0.381 | 0.01555 | 0.01794 | 0.01039 |
+
+Notes:
+
+- The max readings are single outliers and are only provided for informational purposes.
+- The median clearly show the following in terms of errors / noise:
+  - Noise in 5 Hz > 2 Hz.
+  - Noise in 5 Hz > 1 Hz.
+- The mean and standard deviation clearly show the following in terms of errors / noise:
+  - Noise in 5 Hz > 2 Hz > 1 Hz.
+  - Noise in 2 Hz is only slightly higher than 1 Hz and may not have any statistical significance.
 
 
 
