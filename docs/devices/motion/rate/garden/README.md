@@ -6,7 +6,7 @@
 
 The general concept behind static testing is that the GNSS receivers are in constant motion (due to the rotation of the earth), but speed over ground (SOG) is known to be zero. Any speed reported by the receiver is therefore an error and can be considered to be noise.
 
-The purpose of this particular test was to determine if there is any difference in behavior between motions logging at 1 / 2 / 5 / 10 Hz. It is clear from the results that higher logging rates do indeed suffer from greater levels of noise, and exhibit larger outliers.
+The purpose of this particular test was to determine if there is any difference in behavior between motions logging at 1 / 2 / 5 / 10 Hz. It is clear from the results that higher logging rates do indeed suffer from greater levels of noise, and prone to larger outliers.
 
 
 
@@ -88,27 +88,16 @@ The actual data provides the following statistics (generated in Python), using k
 | 630    | 10        | 0.309 | 0.03499 | 0.03731 | 0.02120 |
 | 660    | 10        | 0.257 | 0.02916 | 0.03184 | 0.01787 |
 
-Notes:
+Observations relating to these statistics:
 
 - The max readings are single outliers and are only provided for informational purposes.
+  - However, it might be noted that the 1 Hz data contains the smallest spikes.
+
 - The median, mean and standard deviation clearly show the following in terms of errors / noise:
   - Noise in 10 Hz > 5 Hz > 2 Hz.
   - Noise in 10 Hz > 5 Hz > 1 Hz.
   - Differences between 2 Hz and 1 Hz may not have any statistical significance, and are possibly due to the actual devices.
-
-
-
-My original working notes were as follows, whilst comparing various logging rates:
-
-- 10 Hz noisier than 1Hz.
-  - 0.4 knot spike present at 14:55:06.
-  - Interestingly, sAcc higher for the 1Hz data, despite being more accurate.
-- 10 Hz noisier than 5 Hz.
-- 5 Hz noisier than 2 Hz.
-  - Some spikes in 2 Hz data though.
-- 2 Hz has worse spikes than 1 Hz.
-  - But 1 Hz has a higher 60 min speed.
-  - True of both pairs of devices.
+- Despite the higher logging rates exhibiting more noise, sAcc claims the exact opposite.
 
 
 
@@ -122,7 +111,7 @@ The last digit of the serial numbers indicates the logging rates and they were a
 
 ![20240619-layout](img/20240619_115615.jpg)
 
-The first 15 minutes should be regarded as the warm up, allowing for complete acquisition of the ephemerides. Much like the data from the previous day there is a fair amount of wander during the first 15 minutes, most likely due to use of the almanac data which is less precise than the ephemeris data.
+The first 15 minutes should be regarded as the warm up, allowing for complete acquisition of the ephemerides. Much like the data from the previous day there is a fair amount of wander during the first 15 minutes, most likely due to use of the almanac data which is less precise than the ephemeris data. This is quite apparent when comparing the data of motions 811 / 812 / 815.
 
 Visual inspection of the remaining 6 hours of data in GPS Speedreader provides the following insights:
 
@@ -143,9 +132,11 @@ The actual data provides the following statistics (generated in Python), using k
 | 805    | 5         | 0.130 | 0.01749 | 0.01827 | 0.01063 |
 | 815    | 5         | 0.381 | 0.01555 | 0.01794 | 0.01039 |
 
-Notes:
+Observations relating to these statistics:
 
 - The max readings are single outliers and are only provided for informational purposes.
+  - However, it might be noted that the 1 Hz data contains the smallest spikes.
+
 - The median clearly show the following in terms of errors / noise:
   - Noise in 5 Hz > 2 Hz.
   - Noise in 5 Hz > 1 Hz.
@@ -153,12 +144,7 @@ Notes:
   - Noise in 5 Hz > 2 Hz > 1 Hz.
   - Noise in 2 Hz is only slightly higher than 1 Hz and may not have any statistical significance.
 
-
-
-My original working notes were as follows, whilst comparing various logging rates:
-
-- Loading 811 / 812 / 815 shows wander during the first 15 minutes.
-- 5 Hz > 2 Hz > 1 Hz in terms of noise, but sacc suggests the opposite!
+- Despite the higher logging rates exhibiting more noise, sAcc claims the exact opposite.
 
 
 
@@ -175,3 +161,12 @@ The following caveats should also be made for these tests:
 - Static testing does not involve any acceleration, so the Kalman filter will not be impacted by acceleration, or jerky motion.
 - Course over ground (COG) is locked at low speeds, which is not true when speed over ground (SOG) exceeds a specific threshold.
 - Errors / noise will always be positive during static testing, whereas errors / noise can be + or - when SOG is greater than zero.
+
+
+
+#### Future Ideas
+
+It might be worth testing the significance of differences in the 1 Hz and 2 Hz data:
+
+- Levene's test (compare variances) - see [Wikipedia](https://en.wikipedia.org/wiki/Levene%27s_test) and [scipy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.levene.html)
+- Welch's t-test (compare means) - see [Wikipedia](https://en.wikipedia.org/wiki/Welch%27s_t-test) and [scipy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)

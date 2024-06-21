@@ -76,11 +76,12 @@ It is possible to compare various combinations of the 1 / 2 / 5 / 10 Hz data but
 
 
 
-My original working notes were as follows:
+Details of some apparent errors in the 10 Hz data:
 
-- See 14:15:17 and 14:20:21 in 0630 for inaccuracy but evident in sAcc
-- See 14:03:43 and 14:23:12 in 0660 for inaccuracy but evident in sAcc
-- Both are 10 Hz, maybe a coincidence?
+- 14:15:17 and 14:20:21 for motion 630.
+- 14:03:43 and 14:23:12 for motion 660.
+- The 4 errors listed above are also accompanied by slight increases in sAcc.
+- Both motion 630 and 660 were logging at 10 Hz, which may (or may not) be a coincidence.
 
 
 

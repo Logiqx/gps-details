@@ -47,13 +47,13 @@ Viewing the 5 Hz data in GPS Speedreader clearly shows the effect of swinging th
 
 
 
-The 2 Hz data does capture the cadence of the arm swings correctly, but shows an interesting beating:
+The 2 Hz data does capture the cadence of the arm swings correctly, but shows an interesting beating pattern:
 
 ![beating](img/beating.png)
 
 
 
-The 1 Hz data shows a completely different cadence to the 5 Hz data, with a period of around 10 seconds.
+The 1 Hz data is a sinusoid showing a completely different cadence to the 5 Hz data, with a period of around 10 seconds.
 
 ![sinusoid](img/sinusoid.png)
 
@@ -70,18 +70,6 @@ The artefacts in the 1 Hz and 2 Hz data are referred to as aliasing and relate t
 A walker / runner is unlikely to be interested in measuring their arm speed, but this does illustrate why a higher logging rate can be important.
 
 If you want to record accurate speed data for jerky motion, then you must choose a suitable logging frequency.
-
-
-
-My original working notes were as follows:
-
-- Arm swings captured by 5 Hz
-- Nyquist observations
-  - Beating apparent in 2Hz
-  - Misleading sinusoid in 1Hz data
-
-- GPX files for 1 Hz and 2 Hz have near identical sinusoids
-  - True for both hands, but perhaps a little better for 801 and 802
 
 
 
@@ -121,20 +109,17 @@ So it would appear that the 5 Hz and 10 Hz data captures the true nature of the 
 
 My original working notes were as follows:
 
-- Note that 10 Hz should not be expected to be moving quite as fast as 5 Hz, due to wrist mounting
 - 0631 vs 0635 demonstrates 5 Hz noise in steady walk. 1 Hz seems better?
-- 5 Hz and 10 Hz data almost identical during steady walk
+- 5 Hz and 10 Hz data almost identical during steady walk.
   - Some slightly unrealistic artefacts in 0660 during mid-swing?
-  - Good to compare 5 + 10 + 1, or 5 + 10 + 2, or 2 + 1
+  - Good to compare 5 + 10 + 1, or 5 + 10 + 2, or 2 + 1.
 - 630 seems a little iffy during arm swinging - max speed too low, but min sped ok?
-  - 660 and 665 seems the best bet when comparing against 1 Hz and 2 Hz
-- 1 Hz data can be very misleading - sinusoidal trace of arm swinging
+  - 660 and 665 seems the best bet when comparing against 1 Hz and 2 Hz.
 - 2s and 10s speeds from 1 Hz data are a nonsense!
-  - Need to use 250m or 500m to get closer to the truth
-
-- 2 Hz data is better than 1 Hz, although it does exhibit beating
-- Note the identical beating in positional and doppler speeds of the 2 Hz track
-  - The two types of speed are also very similar in the 1 Hz data with it's long sinusoid
+  - Need to use 250m or 500m to get closer to the truth.
+- 2 Hz data is better than 1 Hz, although it does exhibit beating pattern.
+- Note the identical beating in positional and doppler speeds of the 2 Hz track.
+  - The two types of speed are also very similar in the 1 Hz data with it's long sinusoid.
 
 
 
@@ -162,5 +147,7 @@ Compare 5 Hz + 1 Hz motions with other 1 Hz devices:
 
 #### References
 
-- Mention of Nyquist on Seabreeze - [link](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Speed-Accuracy?page=5#2731952)
-- Thread about "beating" on DSP Stack Exchange - [link](https://dsp.stackexchange.com/questions/10398/aliasing-beating-frequency)
+- Mention of Nyquist theorem within the context of GPS - [Seabreeze forum](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Speed-Accuracy?page=5#2731952)
+- Aliasing beating frequency - [DSP StackExchange](https://dsp.stackexchange.com/questions/10398/aliasing-beating-frequency)
+- Why does twice the sampling rate (Nyquist Theorem) seem inadequate? - [DSP StackExchange](https://dsp.stackexchange.com/questions/76746/why-does-twice-the-sampling-rate-nyquist-theorem-seem-inadequate)
+- Beat occurs while analog voltage measurement - [NI forum](https://forums.ni.com/t5/Multifunction-DAQ/Beat-occurs-while-analog-voltage-measurement/td-p/2978735)
