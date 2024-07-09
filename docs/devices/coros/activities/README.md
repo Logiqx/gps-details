@@ -25,6 +25,8 @@ The majority of testing was done whilst walking or driving, since these approach
 
 The full writeup is on a separate [page](walking-2024-05-27/README.md).
 
+Note: This was the very first activity test and was not particularly structured, so it may be better to skip to 2024-06-25.
+
 
 
 #### 2024-05-29
@@ -34,20 +36,32 @@ The full writeup is on a separate [page](walking-2024-05-27/README.md).
 
 The full writeup is on a separate [page](walking-2024-05-29/README.md).
 
+Note: This was the second activity test and was not quite as structured as subsequent testing, so it may be better to skip to 2024-06-25.
+
+
+
+#### 2024-06-25
+
+This was the first structured test for COROS activity types, 
+
+- COROS APEX 2 Pro - Firmware V3.0408.0
+  - Bike, Flatwater, Windsurfing, GPS Cardio
+  - Run, Trail Run, Hike, Walk
+
+The full writeup is on a separate [page](walking-2024-06-25/README.md).
+
 
 
 ### Summary
 
-WIP...
-
-- Bike / SUP (Flatwater) / Windsurf / GPS Cardio.
+- Bike / Flatwater / Windsurf / GPS Cardio.
   - Position-derived speed and Doppler-derived speed are very similar.
   - Some fluctuations, but both are clearly smoothed.
   - Intriguing that the smoothing of speed and position produces similar results.
   - Possible over-estimation of alphas (see Jo 2024-05-29).
 - Run / Hike / Walk / Open Water Swim.
-  - Speed is heavily smoothed.
-  - Position is smoothed, but not as much as speed.
-  - Smoothing of position appears to be different to Bike / SUP (Flatwater) / Windsurf / GPS Cardio.
+  - Speed is heavily filtered / smoothed.
+  - Position is filtered, but not as much as speed.
+  - Position is more choppy than bike / flatwater / windsurfing / GPS cardio.
 - Custom.
   - Smoothing appears to flatten the speeds.

@@ -121,6 +121,7 @@ PACE 3:
 ### Comparison
 
 A simple comparison of the speeds for Flatwater (red), Open Water Swim (green), GPS Cardio (magenta), Bike (yellow) vs 5 Hz Motion (blue):
+
 ![comparison](img/comparison.png)
 
 Notes:
