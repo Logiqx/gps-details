@@ -1,4 +1,4 @@
-## Smoothing Issues
+## COROS Smoothing Issues
 
 ### Overview
 
@@ -7,6 +7,8 @@ Firmware V3.0408.0 for COROS watches has introduced problems that adversely affe
 Analysis of recent sessions from the APEX 2 Pro and VERTIX 2 has shown that the speed data is no longer as good and tends to under-report our speeds. Worst affected are the max 2s results which are typically around 0.6 or 0.7 knots slower with the new firmware, but sometimes over a knot slower.
 
 This document will illustrate the issue and provide some visual examples.
+
+UPDATE: This issue was resolved in the beta firmware V3.0506.0
 
 
 
