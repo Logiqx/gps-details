@@ -43,10 +43,23 @@ The full writeup is on a separate [page](walking-2024-06-25/README.md).
 
 #### 2024-06-30
 
+Test session to compare two activities - Cycling and Other.
+
 - Forerunner 255
   - Cycling, Other, Cycling, Other
 
 The full writeup is on a separate [page](walking-2024-06-30/README.md).
+
+
+
+#### 2024-07-03
+
+One long test session, comparing to 1Hz and 5 Hz Motions.
+
+- Forerunner 255
+  - Windsurfing
+
+The full writeup is on a separate [page](walking-2024-07-03/README.md).
 
 
 
@@ -70,5 +83,5 @@ Windsurfing / Other:
 Cycling:
 
 - Speed often does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
-- However, filtering of speed data can vary considerably during different tests!
+- However, filtering of speed data can vary considerably during different tests.
   - It would appear that the filtering for cycling can change quite substantially!
