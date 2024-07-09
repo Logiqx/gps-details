@@ -41,6 +41,15 @@ The full writeup is on a separate [page](walking-2024-06-25/README.md).
 
 
 
+#### 2024-06-30
+
+- Forerunner 255
+  - Cycling, Other, Cycling, Other
+
+The full writeup is on a separate [page](walking-2024-06-30/README.md).
+
+
+
 ### Summary
 
 Running / Trail Running / Hiking / Walking:
