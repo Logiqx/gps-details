@@ -1,5 +1,13 @@
 ## COROS Smoothing Issues
 
+Author: Michael George
+
+Created: 28 May 2024
+
+Updated: 9 July 2024
+
+
+
 ### Overview
 
 Firmware V3.0408.0 for COROS watches has introduced problems that adversely affect speedsurfing activities.

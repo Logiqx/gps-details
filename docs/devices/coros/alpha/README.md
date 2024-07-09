@@ -1,5 +1,11 @@
 ## Fantasy Alphas
 
+Author: Michael George
+
+Created: 21 Dec 2023
+
+
+
 ### Background
 
 Alpha racing is a merging of GPS technology with the natural back and forth sailing done by most sailboarders around the world. It uses the power of GPS and computing to calculate your best average speed from any point through a gybe and back to the same point.
