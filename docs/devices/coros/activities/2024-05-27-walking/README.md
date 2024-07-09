@@ -59,7 +59,7 @@ The image below shows how position-derived speed and Doppler-derived speed are v
 
 The image below shows how position-derived speed and Doppler-derived speed are very similar. There are some fluctuations, but speed and position are clearly smoothed.
 
-Note there were a couple of periods where I briefly stopped walking!
+Note there were a couple of periods where I briefly stopped walking.
 
 ![bike](img/4-bike.png)
 
@@ -69,7 +69,7 @@ Note there were a couple of periods where I briefly stopped walking!
 
 The image below shows how position-derived speed and Doppler-derived speed are very similar. There are some fluctuations, but speed and position are clearly smoothed.
 
-Note there were a couple of periods where I briefly stopped walking!
+Note there were a couple of periods where I briefly stopped walking.
 
 ![windsurfing](img/5-windsurfing.png)
 
@@ -79,7 +79,7 @@ Note there were a couple of periods where I briefly stopped walking!
 
 Run / Hike:
 
-- Speed is heavily smoothed.
+- Speed is heavily filtered / smoothed.
 - Position is smoothed, but not as much as speed.
 
 Flatwater / Bike / Windsurfing:
