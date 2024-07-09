@@ -33,7 +33,7 @@ All of the FIT data is available for download in ZIP format:
 
 #### Running
 
-The image below shows how speed (red) is heavily smoothed. Positional data (green) is relatively noisy, and possibly closer to the raw GNSS data, unlike COROS.
+The image below shows how speed (red) is heavily filtered / smoothed. Positional data (green) is relatively noisy, and possibly closer to the raw GNSS data (unlike COROS).
 
 ![running](img/1-running.png)
 
@@ -41,7 +41,7 @@ The image below shows how speed (red) is heavily smoothed. Positional data (gree
 
 #### Hiking
 
-The image below shows how speed (red) is heavily smoothed. Positional data (green) is relatively noisy, and possibly closer to the raw GNSS data, unlike COROS.
+The image below shows how speed (red) is heavily filtered / smoothed. Positional data (green) is relatively noisy, and possibly closer to the raw GNSS data (unlike COROS).
 
 ![hiking](img/2-hiking.png)
 
@@ -49,7 +49,7 @@ The image below shows how speed (red) is heavily smoothed. Positional data (gree
 
 #### Stand Up Paddling
 
-The image below shows how speed (red) is heavily smoothed, but not as much as running or hiking. Positional data (green) exhibits the type of aliasing that is often observed in unfiltered speed data from 1 Hz devices (re: Nyquist).
+The image below shows how speed (red) is filtered / smoothed, but not as much as running or hiking. Positional data (green) exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
 
 ![suping](img/3-suping.png)
 
@@ -57,7 +57,7 @@ The image below shows how speed (red) is heavily smoothed, but not as much as ru
 
 #### Cycling
 
-The image below shows how speed (red) does not appear to be smoothed. Positional data (green) is not dissimilar to running and hiking.
+The image below shows how speed (red) does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist). Positional data (green) is not dissimilar to running and hiking.
 
 ![cycling](img/4-cycling.png)
 
@@ -65,7 +65,7 @@ The image below shows how speed (red) does not appear to be smoothed. Positional
 
 #### Other
 
-The image below shows how speed (red) does not appear to be smoothed. Positional data (green) is not dissimilar to running, hiking, or cycling.
+The image below shows how speed (red) does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist). Positional data (green) is not dissimilar to running, hiking, or cycling.
 
 ![other](img/5-other.png)
 
@@ -76,14 +76,14 @@ The image below shows how speed (red) does not appear to be smoothed. Positional
 Running / Hiking:
 
 - Speed is heavily filtered / smoothed.
-- Positional is relatively noisy, and possibly closer to the raw GNSS data, unlike COROS.
+- Positional is relatively noisy, and possibly closer to the raw GNSS data (unlike COROS).
 
 Stand Up Paddling:
 
-- Speed is heavily smoothed, but not as much as running or hiking.
-- Positional exhibits the type of aliasing that is often observed in unfiltered speed data from 1 Hz devices (re: Nyquist).
+- Speed is filtered / smoothed, but not as much as running or hiking.
+- Positional data exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
 
 Cycling / Other:
 
-- Speed does not appear to be smoothed.
+- Speed does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
 - Positional data is not dissimilar to running, hiking, or cycling.

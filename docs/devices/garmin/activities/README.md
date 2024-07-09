@@ -34,14 +34,14 @@ WIP...
 Running / Hiking:
 
 - Speed is heavily filtered / smoothed.
-- Positional is relatively noisy, and possibly closer to the raw GNSS data, unlike COROS.
+- Positional is relatively noisy, and possibly closer to the raw GNSS data (unlike COROS).
 
 Stand Up Paddling:
 
-- Speed is heavily smoothed, but not as much as running or hiking.
-- Positional exhibits the type of aliasing that is often observed in unfiltered speed data from 1 Hz devices (re: Nyquist).
+- Speed is filtered / smoothed, but not as much as running or hiking.
+- Positional data exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
 
 Cycling / Other:
 
-- Speed does not appear to be smoothed.
+- Speed does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
 - Positional data is not dissimilar to running, hiking, or cycling.
