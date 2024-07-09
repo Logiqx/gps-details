@@ -16,6 +16,34 @@ The majority of testing was done whilst walking or driving, since these approach
 
 
 
+### Summary
+
+Bike / Flatwater / Windsurf / GPS Cardio:
+
+- Position-derived speed and Doppler-derived speed are very similar.
+- Some fluctuations, but both are clearly smoothed.
+- Intriguing that the smoothing of speed and position produces similar results.
+- Possible over-estimation of alphas - see Jo 2024-05-29.
+
+Speedsurfing - Firmware V3.0408.0
+
+- Position-derived speed and Doppler-derived speed are clearly different.
+- Doppler-derived speed is heavily filtered, which is very undesirable.
+
+Run / Hike / Walk / Open Water Swim:
+
+- Speed is heavily filtered / smoothed.
+- Position is filtered, but not as much as speed.
+- Position is more choppy than bike / flatwater / windsurfing / GPS cardio.
+
+Custom Activities:
+
+- Speed is heavily filtered / smoothed, but not quite so much as running / hiking / walking.
+  - Smoothing appears to flatten the speeds in driving tests.
+- Position is potentially filtered but more choppy than bike / flatwater / windsurfing / GPS cardio.
+
+
+
 ### Walking Tests
 
 #### 2024-05-27
@@ -69,29 +97,3 @@ This test confirms the new firmware fixes the speedsurfing smoothing issue of fi
   - Speedsurfing, Windsurfing, Speedsurfing, Windsurfing
 
 The full writeup is on a separate [page](walking-2024-07-03/README.md).
-
-
-
-### Summary
-
-Bike / Flatwater / Windsurf / GPS Cardio:
-- Position-derived speed and Doppler-derived speed are very similar.
-- Some fluctuations, but both are clearly smoothed.
-- Intriguing that the smoothing of speed and position produces similar results.
-- Possible over-estimation of alphas - see Jo 2024-05-29.
-
-Speedsurfing - Firmware V3.0408.0
-
-- Position-derived speed and Doppler-derived speed are clearly different.
-- Doppler-derived speed is heavily filtered, which is very undesirable.
-
-Run / Hike / Walk / Open Water Swim:
-- Speed is heavily filtered / smoothed.
-- Position is filtered, but not as much as speed.
-- Position is more choppy than bike / flatwater / windsurfing / GPS cardio.
-
-Custom Activities:
-
-- Speed is heavily filtered / smoothed, but not quite so much as running / hiking / walking.
-  - Smoothing appears to flatten the speeds in driving tests.
-- Position is potentially filtered but more choppy than bike / flatwater / windsurfing / GPS cardio.

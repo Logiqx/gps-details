@@ -16,6 +16,31 @@ The majority of testing was done whilst walking or driving, since these approach
 
 
 
+### Summary
+
+Running / Trail Running / Hiking / Walking:
+
+- Speed is heavily filtered / smoothed.
+- Positional data is relatively noisy, and possibly closer to the raw GNSS data (unlike COROS).
+
+Stand Up Paddling:
+
+- Speed is heavily filtered / smoothed, but not as much as running / hiking / walking.
+- Speed and positional data exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
+
+Windsurfing / Other:
+
+- Speed does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
+- Positional data is not dissimilar to running, hiking, or cycling.
+
+Cycling:
+
+- Speed often does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
+- However, filtering of speed data can vary considerably during different tests.
+  - It would appear that the filtering for cycling can change quite substantially!
+
+
+
 ### Walking Tests
 
 #### 2024-05-27
@@ -60,28 +85,3 @@ One long test session, comparing to 1Hz and 5 Hz Motions.
   - Windsurfing
 
 The full writeup is on a separate [page](walking-2024-07-03/README.md).
-
-
-
-### Summary
-
-Running / Trail Running / Hiking / Walking:
-
-- Speed is heavily filtered / smoothed.
-- Positional data is relatively noisy, and possibly closer to the raw GNSS data (unlike COROS).
-
-Stand Up Paddling:
-
-- Speed is heavily filtered / smoothed, but not as much as running / hiking / walking.
-- Speed and positional data exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
-
-Windsurfing / Other:
-
-- Speed does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
-- Positional data is not dissimilar to running, hiking, or cycling.
-
-Cycling:
-
-- Speed often does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
-- However, filtering of speed data can vary considerably during different tests.
-  - It would appear that the filtering for cycling can change quite substantially!
