@@ -20,10 +20,19 @@ The majority of testing was done whilst walking or driving, since this provides 
 
 #### 2024-05-27
 
-- COROS APEX 2 Pro
+- COROS APEX 2 Pro - Firmware V3.0408.0
   - Run, Hike, Flatwater, Bike, Windsurfing
 
 The full writeup is on a separate [page](2024-05-27-walking/README.md).
+
+
+
+#### 2024-05-29
+
+- COROS APEX 2 Pro + PACE 3 - Firmware V3.0408.0
+  - Flatwater, Open Water Swim, GPS Cardio, Bike, Walk
+
+The full writeup is on a separate [page](2024-05-29-walking/README.md).
 
 
 
@@ -33,7 +42,7 @@ WIP...
 
 - Bike / SUP (Flatwater) / Windsurf / GPS Cardio.
   - Position-derived speed and Doppler-derived speed are very similar.
-  - Some fluctuations, but clearly smoothed.
+  - Some fluctuations, but both are clearly smoothed.
   - Intriguing that the smoothing of speed and position produces similar results.
   - Possible over-estimation of alphas (see Jo 2024-05-29).
 - Run / Hike / Walk / Open Water Swim.

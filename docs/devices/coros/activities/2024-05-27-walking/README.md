@@ -8,7 +8,7 @@ Created: 9 July 2024
 
 ### Overview
 
-This page documents activity testing that was performed on 2024-05-27.
+This page documents activity testing that was performed on 2024-05-27, whilst walking in an open-sky environment.
 
 - COROS APEX 2 Pro
   - Run
@@ -84,6 +84,6 @@ Run / Hike:
 
 Flatwater / Bike / Windsurfing:
 
-- Position-derived speed and Doppler-derived speed are very similar
-- Some fluctuations, but clearly smoothed.
+- Position-derived speed and Doppler-derived speed are very similar.
+- Some fluctuations, but both are clearly smoothed.
 - Intriguing that the smoothing of speed and position produces similar results.
