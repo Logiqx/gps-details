@@ -10,9 +10,9 @@ Created: 9 July 2024
 
 This page documents some simple investigations to determine the nature of smoothing for a selection of COROS activity types.
 
-The primary objective was to identify the most suitable activities for windsurfers, when using cheaper watches such the PACE 3.
+The primary objective was to identify the most suitable activities for windsurfers, when using cheaper watches such as the PACE 3.
 
-The majority of testing was done whilst walking or driving, since this provides useful insights into the smoothing.
+The majority of testing was done whilst walking or driving, since these approaches provide some useful insights into the filtering / smoothing.
 
 
 
@@ -23,7 +23,7 @@ The majority of testing was done whilst walking or driving, since this provides 
 - COROS APEX 2 Pro - Firmware V3.0408.0
   - Run, Hike, Flatwater, Bike, Windsurfing
 
-The full writeup is on a separate [page](2024-05-27-walking/README.md).
+The full writeup is on a separate [page](walking-2024-05-27/README.md).
 
 
 
@@ -32,7 +32,7 @@ The full writeup is on a separate [page](2024-05-27-walking/README.md).
 - COROS APEX 2 Pro + PACE 3 - Firmware V3.0408.0
   - Flatwater, Open Water Swim, GPS Cardio, Bike, Walk
 
-The full writeup is on a separate [page](2024-05-29-walking/README.md).
+The full writeup is on a separate [page](walking-2024-05-29/README.md).
 
 
 

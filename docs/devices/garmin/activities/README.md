@@ -10,9 +10,9 @@ Created: 9 July 2024
 
 This page documents some simple investigations to determine the nature of smoothing for a selection of Garmin activity types.
 
-The primary objective was to identify the most suitable activities for windsurfers, when using watches such the Forerunner 255.
+The primary objective was to identify the most suitable activities for windsurfers, when using watches such as the Forerunner 255.
 
-The majority of testing was done whilst walking or driving, since this provides useful insights into the smoothing.
+The majority of testing was done whilst walking or driving, since these approaches provide some useful insights into the filtering / smoothing.
 
 
 
@@ -23,7 +23,7 @@ The majority of testing was done whilst walking or driving, since this provides 
 - Forerunner 255
   - Running, Hiking, Stand Up Paddling, Cycling, Other
 
-The full writeup is on a separate [page](2024-05-27-walking/README.md).
+The full writeup is on a separate [page](walking-2024-05-27/README.md).
 
 
 
