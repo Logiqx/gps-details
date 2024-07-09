@@ -79,9 +79,7 @@ Comparison of the speeds for Speedsurfing (red), Windsurfing (green), Speedsurfi
 Notes:
 
 - First and last sections (same location but different direction) are pretty much identical - speedsurfing and windsurfing.
-
 - Middle sections (same location but different direction) also very similar, bar some minor spikey variations - windsurfing and speedsurfing.
-
 - It appears the a bug in the firmware V3.0408.0 (released in May 2024) has been resolved in V3.0506.0.
 - It is interesting to contrast this data with that of the Garmin Forerunner 255, since it uses the same Airoha AG3335M chipset.
   - The Garmin Forerunner 255 results for this test session can be found on a separate [page](../../../garmin/activities/walking-2024-07-03/README.md).

@@ -126,7 +126,6 @@ Notes:
 - The two graphs above show two distinct types of filtering / smoothing:
   - Bike / flatwater / windsurfing / GPS cardio is the closest to the raw GNSS speeds, but not as close as Garmin.
   - Run / trail run / hike / walk apply the most aggressive levels of filtering / smoothing.
-
 - It is interesting to contrast this data with that of the Garmin Forerunner 255, since it uses the same Airoha AG3335M chipset.
   - The Garmin Forerunner 255 results for these test sessions can be found on a separate [page](../../../garmin/activities/walking-2024-06-25/README.md).
 

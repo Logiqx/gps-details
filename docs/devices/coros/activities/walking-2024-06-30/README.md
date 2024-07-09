@@ -82,7 +82,6 @@ Notes:
 
 - The filtering / smoothing of speed data for speedsurfing (green) is clearly different to the windsurfing activity.
   - This is due to a bug in the firmware V3.0408.0 (released in May 2024) which adversely affected the speed data.
-
 - It is interesting to contrast this data with that of the Garmin Forerunner 255, since it uses the same Airoha AG3335M chipset.
   - The Garmin Forerunner 255 results for this test session can be found on a separate [page](../../../garmin/activities/walking-2024-06-30/README.md).
 
