@@ -1,0 +1,47 @@
+## Garmin Activities
+
+Author: Michael George
+
+Created: 9 July 2024
+
+
+
+### Overview
+
+This page documents some simple investigations to determine the nature of smoothing for a selection of Garmin activity types.
+
+The primary objective was to identify the most suitable activities for windsurfers, when using watches such the Forerunner 255.
+
+The majority of testing was done whilst walking or driving, since this provides useful insights into the smoothing.
+
+
+
+### Walking Tests
+
+#### 2024-05-27
+
+- Forerunner 255
+  - Running, Hiking, Stand Up Paddling, Cycling, Other
+
+The full writeup is on a separate [page](2024-05-27-walking/README.md).
+
+
+
+### Summary
+
+WIP...
+
+Running / Hiking:
+
+- Speed is heavily filtered / smoothed.
+- Positional is relatively noisy, and possibly closer to the raw GNSS data, unlike COROS.
+
+Stand Up Paddling:
+
+- Speed is heavily smoothed, but not as much as running or hiking.
+- Positional exhibits the type of aliasing that is often observed in unfiltered speed data from 1 Hz devices (re: Nyquist).
+
+Cycling / Other:
+
+- Speed does not appear to be smoothed.
+- Positional data is not dissimilar to running, hiking, or cycling.
