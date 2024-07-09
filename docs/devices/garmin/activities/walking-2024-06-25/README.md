@@ -49,9 +49,15 @@ The OAO data from the Motions is available for download in ZIP format:
 
 The image below shows how speed (red) does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
 
-Note: The first half of this data is rather noisy, but the reason for this is not understood.
+Note: The first half of this data is rather noisy, but the reason for this is not understood. It is conceivable that the filtering applied to cycling activities may change during a session, depending on certain factors.
 
 ![cycling-fr-255](img/1-cycling-fr-255.png)
+
+
+
+A comparison of 5 Hz Motion data (red), 1 Hz Motion data (blue) and 1 Hz Garmin data (green) shows the 1 Hz sampling artefacts (re: Nyquist theorem).
+
+![cycling-comparison](img/1-cycling-comparison.png)
 
 
 
@@ -65,6 +71,12 @@ Note: One data point in the middle did not update latitude + longitude, giving t
 
 
 
+A comparison of 5 Hz Motion data (red), 1 Hz Motion data (blue) and 1 Hz Garmin data (green) shows the 1 Hz sampling artefacts (re: Nyquist theorem).
+
+![stand-up-paddling-comparison](img/2-stand-up-paddling-comparison.png)
+
+
+
 #### Windsurfing
 
 The image below shows how speed (red) does not appear to be filtered / smoothed, and slightly exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
@@ -75,11 +87,23 @@ Note: An early data point did not update latitude + longitude, giving the impres
 
 
 
+A comparison of 5 Hz Motion data (red), 1 Hz Motion data (blue) and 1 Hz Garmin data (green) shows the 1 Hz sampling artefacts (re: Nyquist theorem).
+
+![windsurfing-comparison](img/3-windsurfing-comparison.png)
+
+
+
 #### Other
 
 The image below shows how speed (red) does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
 
 ![other-fr-255](img/4-other-fr-255.png)
+
+
+
+A comparison of 5 Hz Motion data (red), 1 Hz Motion data (blue) and 1 Hz Garmin data (green) shows the 1 Hz sampling artefacts (re: Nyquist theorem).
+
+![other-comparison](img/4-other-comparison.png)
 
 
 
