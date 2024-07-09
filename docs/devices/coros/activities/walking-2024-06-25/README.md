@@ -21,7 +21,7 @@ This page documents activity testing that was performed on 2024-06-25, whilst wa
   - Hike
   - Walk
 
-These tests were more disciplined than the earlier tests in May 2024.
+These tests were more structured than the earlier tests in May 2024.
 
 1 Hz and 5 Hz data was also collected using Motion Minis.
 
@@ -128,7 +128,7 @@ Notes:
   - Run / trail run / hike / walk apply the most aggressive levels of filtering / smoothing.
 
 - It is interesting to contrast this data with that of the Garmin Forerunner 255, since it uses the same Airoha AG3335M chipset.
-  - The Garmin Forerunner 255 results for these test sessions can be found on a separate page.
+  - The Garmin Forerunner 255 results for these test sessions can be found on a separate [page](../../../garmin/activities/walking-2024-06-25/README.md).
 
 
 

@@ -25,23 +25,35 @@ The majority of testing was done whilst walking or driving, since these approach
 
 The full writeup is on a separate [page](walking-2024-05-27/README.md).
 
+Note: This was the very first activity test and was not particularly structured, so it may be better to skip to 2024-06-25.
+
+
+
+#### 2024-06-25
+
+This was the first structured test for COROS activity types, 
+
+- Forerunner 255
+  - Cycling, Stand Up Paddling, Windsurfing, Other
+  - Running, Trail Running, Hiking, Walking
+
+The full writeup is on a separate [page](walking-2024-06-25/README.md).
+
 
 
 ### Summary
 
-WIP...
-
-Running / Hiking:
+Running / Trail Running / Hiking / Walking:
 
 - Speed is heavily filtered / smoothed.
-- Positional is relatively noisy, and possibly closer to the raw GNSS data (unlike COROS).
+- Positional data is relatively noisy, and possibly closer to the raw GNSS data (unlike COROS).
 
 Stand Up Paddling:
 
-- Speed is filtered / smoothed, but not as much as running or hiking.
-- Positional data exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
+- Speed is heavily filtered / smoothed, but not as much as running / hiking / walking.
+- Speed and positional data exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
 
-Cycling / Other:
+Cycling / Windsurfing / Other:
 
 - Speed does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
 - Positional data is not dissimilar to running, hiking, or cycling.
