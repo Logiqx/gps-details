@@ -52,16 +52,35 @@ The full writeup is on a separate [page](walking-2024-06-25/README.md).
 
 
 
+#### 2024-06-30
+
+- COROS APEX 2 Pro - Firmware V3.0408.0
+  - Windsurfing, Speedsurfing, Custom Activity (Sailing), Custom Activity (Driving)
+
+The full writeup is on a separate [page](walking-2024-06-30/README.md).
+
+
+
 ### Summary
 
-- Bike / Flatwater / Windsurf / GPS Cardio.
-  - Position-derived speed and Doppler-derived speed are very similar.
-  - Some fluctuations, but both are clearly smoothed.
-  - Intriguing that the smoothing of speed and position produces similar results.
-  - Possible over-estimation of alphas (see Jo 2024-05-29).
-- Run / Hike / Walk / Open Water Swim.
-  - Speed is heavily filtered / smoothed.
-  - Position is filtered, but not as much as speed.
-  - Position is more choppy than bike / flatwater / windsurfing / GPS cardio.
-- Custom.
-  - Smoothing appears to flatten the speeds.
+Bike / Flatwater / Windsurf / GPS Cardio:
+- Position-derived speed and Doppler-derived speed are very similar.
+- Some fluctuations, but both are clearly smoothed.
+- Intriguing that the smoothing of speed and position produces similar results.
+- Possible over-estimation of alphas - see Jo 2024-05-29.
+
+Speedsurfing - Firmware V3.0408.0
+
+- Position-derived speed and Doppler-derived speed are clearly different.
+- Doppler-derived speed is heavily filtered, which is very undesirable.
+
+Run / Hike / Walk / Open Water Swim:
+- Speed is heavily filtered / smoothed.
+- Position is filtered, but not as much as speed.
+- Position is more choppy than bike / flatwater / windsurfing / GPS cardio.
+
+Custom Activities:
+
+- Speed is heavily filtered / smoothed, but not quite so much as running / hiking / walking.
+  - Smoothing appears to flatten the speeds in driving tests.
+- Position is potentially filtered but more choppy than bike / flatwater / windsurfing / GPS cardio.
