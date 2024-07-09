@@ -53,7 +53,13 @@ Stand Up Paddling:
 - Speed is heavily filtered / smoothed, but not as much as running / hiking / walking.
 - Speed and positional data exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
 
-Cycling / Windsurfing / Other:
+Windsurfing / Other:
 
 - Speed does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
 - Positional data is not dissimilar to running, hiking, or cycling.
+
+Cycling:
+
+- Speed often does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
+- However, filtering of speed data can vary considerably during different tests!
+  - It would appear that the filtering for cycling can change quite substantially!
