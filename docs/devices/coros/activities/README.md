@@ -156,7 +156,7 @@ The full writeup is on a separate [page](walking-2024-06-30/README.md).
 
 
 
-#### 2024-06-30
+#### 2024-07-03
 
 This session confirms the new firmware fixes the speedsurfing smoothing issue of firmware V3.0408.0
 
