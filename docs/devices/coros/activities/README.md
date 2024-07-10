@@ -8,7 +8,7 @@ Created: 9 July 2024
 
 ### Overview
 
-This page documents some simple investigations to determine the nature of smoothing for a selection of COROS activity types.
+This page documents some simple investigations to determine the nature of filtering + smoothing for a selection of COROS activity types.
 
 The primary objective was to identify the most suitable activities for windsurfers, when using cheaper watches such as the PACE 3.
 
@@ -18,7 +18,7 @@ The majority of testing was done whilst walking or driving, since these approach
 
 ### Summary
 
-**Bike / Flatwater / Windsurfing / GPS Cardio**
+#### Bike / Flatwater / Windsurfing / GPS Cardio
 
 - All of these modes appear to implement similar filtering / smoothing.
   - n.b. This contrasts with the stand up paddling activity on Garmin devices, which uses different filtering / smoothing.
@@ -29,7 +29,9 @@ The majority of testing was done whilst walking or driving, since these approach
 
 - Possible over-estimation of alphas due to the dips being inaccurate, when compared to the Motion.
 
-**Speedsurfing**
+
+
+#### Speedsurfing
 
 - Firmware V3.0408.0 (buggy)
   - Position-derived speed and Doppler-derived speed are clearly behaving differently.
@@ -38,7 +40,9 @@ The majority of testing was done whilst walking or driving, since these approach
   - Fixes the issues in firmware V3.0408.0.
   - Essentially behaves like the bike / flatwater / windsurfing / GPS cardio activities.
 
-**Run / Hike / Walk / Open Water Swim**
+
+
+#### Run / Hike / Walk / Open Water Swim
 
 - Position is filtered, but not as much as speed.
   - Position-derived speed exhibits steps and is more choppy than bike / flatwater / windsurfing / GPS cardio.
@@ -46,12 +50,16 @@ The majority of testing was done whilst walking or driving, since these approach
 - Speed is heavily filtered / smoothed.
   - Large dips + plateaus are clearly evident in the Doppler-derived speed data when driving.
 
-**Climbing**
+
+
+#### Climbing
 
 - The position-derived speed data exhibits steps, like the hike activity
 - Large dips are clearly evident in the Doppler-derived speed data when driving, seemingly worse than the hike activity.
 
-**Custom Activities**
+
+
+#### Custom Activities
 
 - Position is potentially filtered but more choppy than bike / flatwater / windsurfing / GPS cardio.
 - Speed is heavily filtered / smoothed, but not quite so much as running / hiking / walking.
