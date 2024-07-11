@@ -18,6 +18,23 @@ The majority of testing was done whilst walking or driving, since these approach
 
 ### Summary
 
+#### Run / Hike / Walk / Open Water Swim
+
+- Position is filtered, but not as much as speed.
+  - Position-derived speed exhibits steps and is more choppy than bike / flatwater / windsurfing / GPS cardio.
+
+- Speed is heavily filtered / smoothed.
+  - Large dips + plateaus are clearly evident in the Doppler-derived speed data when driving.
+
+
+
+#### Climbing
+
+- The position-derived speed data exhibits steps, like the hike activity
+- Large dips are clearly evident in the Doppler-derived speed data when driving, seemingly worse than the hike activity.
+
+
+
 #### Bike / Flatwater / Windsurfing / GPS Cardio
 
 - All of these modes appear to implement similar filtering / smoothing.
@@ -39,23 +56,6 @@ The majority of testing was done whilst walking or driving, since these approach
 - Firmware V3.0506.0
   - Fixes the issues in firmware V3.0408.0.
   - Essentially behaves like the bike / flatwater / windsurfing / GPS cardio activities.
-
-
-
-#### Run / Hike / Walk / Open Water Swim
-
-- Position is filtered, but not as much as speed.
-  - Position-derived speed exhibits steps and is more choppy than bike / flatwater / windsurfing / GPS cardio.
-
-- Speed is heavily filtered / smoothed.
-  - Large dips + plateaus are clearly evident in the Doppler-derived speed data when driving.
-
-
-
-#### Climbing
-
-- The position-derived speed data exhibits steps, like the hike activity
-- Large dips are clearly evident in the Doppler-derived speed data when driving, seemingly worse than the hike activity.
 
 
 

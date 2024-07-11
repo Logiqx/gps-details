@@ -28,6 +28,16 @@ The majority of testing was done whilst walking or driving, since these approach
 
 
 
+#### Cycling
+
+- It looks like the positional data has been filtered, due to the relative smoothness.
+- It seems likely that the speed data is the Doppler-derived speed, correlating closely with the benchmark devices; 1Hz and 5 Hz Motions.
+  - Speed often does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
+  - However, filtering of speed data can vary considerably during different tests.
+    - It would appear that the filtering for cycling can change quite substantially!
+- Missing data points can occur during this activity type and may introduce a lag in the data.
+
+
 
 #### Stand Up Paddling
 
@@ -49,17 +59,6 @@ The majority of testing was done whilst walking or driving, since these approach
   - It exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
 
 - There can sometimes be a slight lag (typically around 1 or 2 seconds), but this varies from one session to the next.
-
-
-
-#### Cycling
-
-- It looks like the positional data has been filtered, due to the relative smoothness.
-- It seems likely that the speed data is the Doppler-derived speed, correlating closely with the benchmark devices; 1Hz and 5 Hz Motions.
-  - Speed often does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
-  - However, filtering of speed data can vary considerably during different tests.
-    - It would appear that the filtering for cycling can change quite substantially!
-- Missing data points can occur during this activity type and may introduce a lag in the data.
 
 
 
