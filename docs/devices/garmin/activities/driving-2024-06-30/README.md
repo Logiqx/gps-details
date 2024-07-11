@@ -12,7 +12,7 @@ This page documents activity testing that was performed on 2024-06-30, whilst dr
 
 It compares the performance of several activity types.
 
-- Garmin Forerunner 255
+- Forerunner 255
   - Hiking
   - Cycling
   - Stand Up Paddling
@@ -83,6 +83,8 @@ After the missing data point the Garmin data appears to lag behind the Motion da
 #### Stand Up Paddling
 
 The image below shows how position-derived speed (green) and Doppler-derived speed (red) differ.
+
+There is some evidence of filtering being applied to the positional data, although not as much as the cycling activity.
 
 The recorded speeds clearly lag behind the positional data and are heavily filtered, which will be to cope with the paddling action.
 
@@ -176,12 +178,13 @@ The APEX 2 Pro results for these test sessions can be found on a separate [page]
 
 #### Stand Up Paddling
 
+- There is some evidence of filtering being applied to the positional data, although not as much as the cycling activity.
 - The recorded speeds clearly lag behind the positional data and are heavily filtered, which will be to cope with the paddling action.
 - It's clear that the speed data from the stand up paddling activity is unsuitable for activities such as speedsurfing.
 
 #### Windsurfing
 
-- It looks like the positional data hasn't been filtered (unlike the cycling activity)
+- It looks like the positional data hasn't been filtered, unlike the cycling activity.
   - It's worth noting that some data points do not update the latitude and longitude, resulting artefacts in position-derived speeds.
 - It appears that the speed data is the Doppler-derived speed, correlating closely with the benchmark devices; 1Hz and 5 Hz Motions.
 
@@ -190,5 +193,4 @@ The APEX 2 Pro results for these test sessions can be found on a separate [page]
 - It looks like the positional data hasn't been filtered (unlike the cycling activity), and it appears that the speed data is the Doppler-derived speed.
 - It appears that the speed data is the Doppler-derived speed, correlating closely with the benchmark devices; 1Hz and 5 Hz Motions.
   - There can be a slight lag (typically around 1 or 2 seconds), but this varies from one session to the next.
-
 
