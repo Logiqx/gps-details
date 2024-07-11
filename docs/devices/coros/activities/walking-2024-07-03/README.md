@@ -89,9 +89,8 @@ Notes:
 
 ### Summary
 
-Windsurfing and Speedsurfing:
+#### Windsurfing and Speedsurfing
 
 - Position-derived speed and Doppler-derived speed are very similar.
 - Some fluctuations, but both are clearly smoothed.
 - It appears the a bug in the firmware V3.0408.0 (released in May 2024) has been resolved in V3.0506.0.
-

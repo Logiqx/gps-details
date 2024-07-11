@@ -173,17 +173,17 @@ Notes:
 
 ### Summary
 
-Running / Trail Running / Hiking / Walking:
+#### Running / Trail Running / Hiking / Walking
 
 - Speed is heavily filtered / smoothed.
 - Positional data is relatively noisy, and possibly closer to the raw GNSS data (unlike COROS).
 
-Stand Up Paddling:
+#### Stand Up Paddling
 
 - Speed is heavily filtered / smoothed, but not as much as running / hiking / walking.
 - Speed and positional data exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
 
-Cycling / Windsurfing / Other:
+#### Cycling / Windsurfing / Other
 
 - Speed does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
 - Positional data is not dissimilar to running, hiking, or cycling.

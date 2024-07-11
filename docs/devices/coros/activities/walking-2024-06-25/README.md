@@ -134,13 +134,13 @@ Notes:
 
 ### Summary
 
-Bike / Flatwater / Windsurfing / GPS Cardio:
+#### Bike / Flatwater / Windsurfing / GPS Cardio
 
 - Position-derived speed and Doppler-derived speed are very similar.
 - Some fluctuations, but both are clearly smoothed.
 - Intriguing that the smoothing of speed and position produces similar results.
 
-Run / Trail Run / Hike / Walk:
+#### Run / Trail Run / Hike / Walk
 
 - Speed is heavily filtered / smoothed.
 - Position is potentially filtered but more choppy than bike / flatwater / windsurfing / GPS cardio.

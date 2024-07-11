@@ -78,7 +78,7 @@ Notes:
 
 ### Summary
 
-Windsurfing:
+#### Windsurfing
 
 - Speed does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
 - Positional data is not dissimilar to running / hiking / cycling in previous tests.

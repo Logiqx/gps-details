@@ -90,18 +90,18 @@ Notes:
 
 ### Summary
 
-Windsurfing:
+#### Windsurfing
 
 - Position-derived speed and Doppler-derived speed are very similar.
 - Some fluctuations, but both are clearly smoothed.
 - Intriguing that the smoothing of speed and position produces similar results.
 
-Speedsurfing:
+#### Speedsurfing
 
 - Position-derived speed and Doppler-derived speed are clearly different.
 - Doppler-derived speed is heavily filtered.
 
-Custom Activities:
+#### Custom Activities
 
 - Speed is heavily filtered / smoothed, but not quite so much as running / hiking / walking.
 - Position is potentially filtered but more choppy than bike / flatwater / windsurfing / GPS cardio.

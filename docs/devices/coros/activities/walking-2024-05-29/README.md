@@ -133,13 +133,13 @@ Notes:
 
 ### Summary
 
-Flatwater / GPS Cardio / Bike:
+#### Flatwater / GPS Cardio / Bike
 
 - Position-derived speed and Doppler-derived speed are very similar.
 - Some fluctuations, but both are clearly smoothed.
 - Intriguing that the smoothing of speed and position produces similar results.
 
-Open Water Swim / Walk:
+#### Open Water Swim / Walk
 
 - Speed is heavily filtered / smoothed.
 - Position is potentially smoothed, but not as much as speed, and not as much as for flatwater / GPS cardio / bike.

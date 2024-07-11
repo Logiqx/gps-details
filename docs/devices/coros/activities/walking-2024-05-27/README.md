@@ -77,12 +77,12 @@ Note there were a couple of periods where I briefly stopped walking.
 
 ### Summary
 
-Run / Hike:
+#### Run / Hike
 
 - Speed is heavily filtered / smoothed.
 - Position is smoothed, but not as much as speed.
 
-Flatwater / Bike / Windsurfing:
+#### Flatwater / Bike / Windsurfing
 
 - Position-derived speed and Doppler-derived speed are very similar.
 - Some fluctuations, but both are clearly smoothed.

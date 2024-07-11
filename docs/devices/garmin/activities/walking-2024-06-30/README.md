@@ -118,12 +118,12 @@ Notes:
 
 ### Summary
 
-Cycling:
+#### Cycling
 
 - The filtering seen during the second cycling test (magenta) is quite unlike the first test.
 - It would appear that the filtering for cycling can change quite substantially!
 
-Other:
+#### Other
 
 - Speed does not appear to be filtered / smoothed, and exhibits the type of aliasing that is often observed in unfiltered speeds from 1 Hz devices (re: Nyquist).
 - Positional data is not dissimilar to running / hiking / cycling in previous tests.

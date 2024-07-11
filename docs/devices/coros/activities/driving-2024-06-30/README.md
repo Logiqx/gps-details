@@ -149,29 +149,29 @@ The Garmin Forerunner 255 results for this test session can be found on a separa
 
 ### Summary
 
-Hike:
+#### Hike
 
 - The position-derived speed data exhibits steps.
 - Large dips + plateaus are clearly evident in the Doppler-derived speed data.
 
-Climbing:
+#### Climbing
 
 - The position-derived speed data exhibits steps, like the hike activity
 - Large dips are clearly evident in the Doppler-derived speed data, seemingly a lot worse than the hike activity.
 
-Bike / Flatwater:
+#### Bike / Flatwater
 
 - The filtering of position + speed data from bike and flatwater activities seems to be identical.
   - n.b. This contrasts with the stand up paddling activity on Garmin devices, which implements different filtering / smoothing.
 - The speed data is much better than the hike / climb activities but there is a lot of smoothing, and some dips are lower than motion.
 
-Speedsurfing:
+#### Speedsurfing
 
 - The position-derived speeds contain strange upward spikes.
 - The speed data exhibits weird downward spikes during periods of acceleration in addition to a lot of smoothing.
   - n.b. The poor speed data is due to the issue in firmware V3.0408.0 and V3.0409.0.
 
-Custom:
+#### Custom
 
 - The position-derived speed data exhibits steps, just like hike / climb activities.
 - Plateaus are clearly evident in the Doppler-derived speed data, possibly due to filtering that is unique to the custom activity.
