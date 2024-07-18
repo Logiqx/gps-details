@@ -6,9 +6,11 @@ This article is primarily aimed at windsurfers, kitesurfers and wingfoilers but 
 
 The most natural instinct when sailing with a GPS is to look at the highest number being reported and take it at face value. Sure, most people will be aware that errors can occur after a crash and that some devices are more accurate than others. However, I think far fewer people are truly aware of what the max speed really represents when devices are working correctly and why it should probably be ignored.
 
-Speed sailing is one of my favorite disciplines on the water, constantly striving to achieve the highest speeds possible. However, I stopped paying any attention to max speeds from my GPS many, many years ago. It's even more relevant nowadays with adoption of high frequency loggers such as the Motion and ESP, but also the older 5 Hz devices from the likes of Locosys and even some of the 1 Hz devices on the market.
+Speed sailing is one of my favorite disciplines on the water, constantly striving to achieve the highest speeds possible. However, I stopped paying any attention to max speeds from my GPS many, many years ago. It's even more relevant nowadays with prevalence of high frequency loggers such as the [Motion](https://www.motion-gps.com/motion/index.html) and [ESP-GPS](https://github.com/RP6conrad/ESP-GPS-Logger), but also true of the 5 Hz devices from Locosys and even some 1 Hz devices on the market.
 
-Hopefully this article will help to illustrate why you should probably ignore max speeds and focus on other figures instead. The max 2 seconds is a decent estimate of your actual max speed if that's what you want to know, but "max speed" itself can be very misleading. There is an example later in this article,  showing how the reported max speed can be a couple of knots too high, even when the GPS is working well.
+Hopefully this article will help to illustrate why we should all ignore "max speed" and focus on other metrics instead. The "max 2 seconds" is usually a decent estimate of your actual max speed if that's what you want to know, but "max speed" itself can be very misleading. There is an example in this article,  showing how the reported "max speed" can be a couple of knots higher than reality, even when the GPS is operating perfectly.
+
+TLDR - we should all ignore "max speed" because it is simply noise, but if you would like some further details then read on!
 
 
 
@@ -56,9 +58,9 @@ Calculating a 2 second moving average is probably the simplest filter for smooth
 
 #### Noise vs Outliers
 
-The data so far was chosen to simply illustrate how noise is always present in GPS data. The noise is not necessarily random and in many instances the fluctuations will be due to genuine movements, but it should be clear that individual values are not a measure of board speed. The graph below shows the second fastest run of this specific rider during speed week but this time including clearly outliers; appearing roughly 22 seconds into the run.
+The previous example was chosen to illustrate the noise present in typical GPS data. Such noise is not necessarily random and in many instances the fluctuations will be due to genuine movements, but it should be clear that individual values are not a measure of genuine speed. The graph below shows the second fastest run for the same rider but this time the data includes clear outliers; appearing roughly 22 seconds into the run.
 
-It's impossible to know for sure, but these outliers could easily have been due to sudden arm movements whilst maintaining control of the wing. The rider definitely wasn't yoyo-ing between 30 knots and 32 knots at 0.2 second intervals. Such a change in speed is implausible, so sudden arm movements are the most likely explanation. The noisy data reports a max speed of 32.37 knots but that's clearly just an outlier.
+It's impossible to know for sure, but these outliers seem likely to have been due to sudden arm movements whilst maintaining control of the wing. The rider definitely wasn't yoyo-ing between 30 knots and 32 knots at 0.2 second intervals. Such jerky changes are highly implausible, but sudden arm movements are a plausible explanation. The raw data reports a max speed of 32.37 knots but that's clearly just an outlier and not relevant.
 
 ![wing-2](img/3b-wing.png)
 
