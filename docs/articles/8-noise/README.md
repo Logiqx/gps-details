@@ -4,11 +4,11 @@
 
 This article is primarily aimed at windsurfers, kitesurfers and wingfoilers but it will apply to some other sports as well.
 
-The most natural instinct when sailing with a GPS is to look at the highest number being reported and take it at face value. Sure, most people will be aware that errors can occur after a crash and that some devices are more accurate than others. However, I think far fewer people are truly aware of what the max speed really represents when devices are working correctly and why it should usually be ignored.
+The most natural instinct when sailing with a GPS is to look at the highest number being reported and take it at face value. Sure, most people will be aware that errors can occur after a crash and that some devices are more accurate than others. However, I think far fewer people are truly aware of what the "max speed" really represents when devices are working correctly and why it should usually be ignored.
 
 Speed sailing is one of my favorite disciplines on the water, constantly striving to achieve the highest speeds possible. However, I stopped paying any attention to max speeds from my GPS many, many years ago. It's even more relevant nowadays with prevalence of high frequency loggers such as the [Motion](https://www.motion-gps.com/motion/index.html) and [ESP-GPS](https://github.com/RP6conrad/ESP-GPS-Logger), but also true of the 5 Hz devices from Locosys and even some 1 Hz devices on the market.
 
-Hopefully this article will help to illustrate why we should all ignore "max speed" and focus on other metrics instead. The "max 2 seconds" is usually a decent estimate of your actual max speed if that's what you want to know, but "max speed" itself can be very misleading. There is an example in this article,  showing how the reported "max speed" can be a couple of knots higher than reality, even when the GPS is operating perfectly.
+Hopefully this article will help to illustrate why we should all ignore "max speed" and focus on other metrics instead. The "max 2 seconds" is usually a decent estimate of your actual top speed if that's what you want to know, but "max speed" itself can be very misleading. There is an example in this article,  showing how the reported "max speed" can be a couple of knots higher than reality, even when the GPS is operating perfectly.
 
 TLDR - we should all ignore "max speed" because it is simply noise, but if you would like some further details then read on!
 
@@ -16,11 +16,11 @@ TLDR - we should all ignore "max speed" because it is simply noise, but if you w
 
 #### Dynamics of Walking
 
-The graph below is data captured from a Motion Mini GPS worn on my wrist, during a brisk walk. I actually had one on each wrist and a third on my cap when this was recorded, but for simplicity I've only shown one device. Whilst the mechanics of walking don't resemble speed sailing per-se, it does show how sensitive GPS devices can be to things like arm movements.
+The graph below is data captured from a Motion Mini GPS worn on my wrist, during a brisk walk. I actually had one on each wrist and a third on my cap when this was recorded, but for simplicity I've only shown one device. Whilst the dynamics of walking don't resemble speed sailing per-se, it does show how sensitive GPS devices can be to things like arm movements.
 
 ![walk](img/1-walk.png)
 
-During the first 20 seconds my hands were held in front of me and kept as still as possible. My average speed during these 20 seconds was 5.8 km/h but the reported speed varied between 4.7 and 6.7 km/h. Whether this range of speeds are truly accurate is not so important right now, but they can be considered a baseline for my walking speed.
+During the first 20 seconds my hands were held in front of me and kept as still as possible. My average speed during these 20 seconds was 5.8 km/h but the reported speed varied between 4.7 and 6.7 km/h. Whether this range of speeds is truly accurate is not so important right now, but they can be considered a baseline for my walking speed.
 
 The remainder of the data shows the effect of swinging my arms, naturally. The average speed of 6.1 km/h was a slight increase but it's more important to observe the speeds ranging from 0.2 km/h to 11.9 km/h. Further analysis suggests that the range of speeds is probably quite accurate for the receiver, but it clearly doesn't make sense to claim a "max speed" of 12 km/h whilst walking.
 
@@ -35,7 +35,7 @@ We will now look at some real wingfoiling data, recorded during Weymouth Speed W
 
 ![wing-1](img/3a-wing.png)
 
-Applying a [Savitzky–Golay](https://en.wikipedia.org/wiki/Savitzky%E2%80%93Golay_filter) filter (see below) provides a reasonably good estimate of the likely max speed during this particular run. The max speed according to the Savitzky–Golay filter is 30.97 knots, which is half a knot lower than the max of 31.46 knots. That's not a huge difference but differences of half a knot are fairly typical when looking at data from the Motion; e.g. "max speed" vs "max 2 seconds".
+The [Savitzky–Golay](https://en.wikipedia.org/wiki/Savitzky%E2%80%93Golay_filter) filter (see below) is quite popular amongst data scientists and provides a reasonably good estimate of the top speed during this particular run. The top speed according to the Savitzky–Golay filter is 30.97 knots, which is half a knot lower than the max of 31.46 knots. That's not a huge difference but differences of half a knot are fairly typical when looking at data from the Motion; e.g. "max speed" vs "max 2 seconds".
 
 
 ![wing-1-savgol](img/3a-wing-0-savgol.png)
@@ -54,7 +54,7 @@ The previous run was chosen to illustrate how noise is always present in GPS dat
 
 It's impossible to know for sure, but these outliers could easily have been due to sudden arm movements whilst maintaining control of the wing. The rider certainly wasn't yoyo-ing between 30 knots and 32 knots at 0.2 second intervals. Such big changes in speed are totally implausible, so sudden arm movements are probably the most likely explanation. The "max speed" in the unfiltered data is 32.37 knots but it is clearly not the board speed.
 
-The Savitzky–Golay filter produces a max speed of 30.44 knots, which is 2 knots slower than the unfiltered "max speed" of 32.37 knots. Such large outliers are not uncommon from GPS loggers, yet few people seem to question their validity and happy to use them as personal records. It's also worth noting that these outliers can still have an effect on the filtered speeds, so the top speed during this run may be as low as 30.1 knots.
+The Savitzky–Golay filter calculates a top speed of 30.44 knots, which is 2 knots slower than the unfiltered "max speed" of 32.37 knots. Such large outliers are not uncommon from GPS loggers, yet few people seem to question their validity and happy to use them as personal records. It's also worth noting that these outliers can still have an effect on the filtered speeds, so the top speed during this run may be as low as 30.1 knots.
 
 ![wing-2-savgol](img/3b-wing-0-savgol.png)
 
@@ -68,7 +68,7 @@ So far this article has focused on the Motion GPS which is particularly popular 
 
 Numerous devices perform calculations at 10 Hz (or more) internally, but only log at 1 Hz. These devices have the potential to output excessively high speeds (e.g. 12 km/h when walking) so their "max speed" should always be ignored. Unfortunately, due to logging at 1 Hz even the "max 2 seconds" can be too high. The unfiltered data from my Garmin is nice in some respects, but can also report 12 knots when walking.
 
-The Locosys GT-31 has some built in filtering but is not infallible, and I've seen a max speed of 54 knots displayed for what was really 50 knots. The latest COROS watches seem slightly less likely than other brands when it comes to reporting speeds that are several knots too high, due to the nature of their filtering. In some ways the filtering is undesirable, but it does have benefits in this one specific respect.
+The Locosys GT-31 has some built in filtering but is not infallible, and I've seen a speed of 54 knots recorded for what was really 50 knots. The latest COROS watches seem slightly less likely than other brands when it comes to reporting speeds that are several knots too high, due to the nature of their filtering. In some ways the filtering is undesirable, but it does have benefits in this one specific respect.
 
 
 
@@ -86,7 +86,7 @@ Here are a few closing thoughts:
 
 
 
-I hope this has provided enough insight as to why "max speed" should be ignored. If you want to compare top speeds then "2 seconds" is a much better metric. When "max 2 seconds" is calculated from 5 Hz or 10 Hz data it will be reasonably reliable.
+I hope this has provided enough insight as to why "max speed" should be ignored. If you want to compare top speeds then "2 seconds" is a much better metric. When "max 2 seconds" is calculated from 5 Hz or 10 Hz data it will usually be reasonably close to the truth.
 
 
 
