@@ -66,13 +66,15 @@ The simpler approach of using a 2 second moving average is also effective for th
 
 So far this article has focused on the Motion GPS which is particularly popular amongst pro riders. It is the best device you can have for speed sailing, but the [ESP-GPS](https://github.com/RP6conrad/ESP-GPS-Logger) is also excellent if you fancy a DIY project. The main takeaway should be to ignore the "max speed" and regard the "max 2 seconds" as your top speed. The same applies to the Locosys GW-52 and GW-60, which both exhibit a fair amount of noise when logging at 5 Hz.
 
-Numerous devices perform calculations at 10 Hz (or more) internally, but only log at 1 Hz. These devices have the potential to output excessively high speeds (e.g. 12 km/h when walking) so their "max speed" should always be ignored. Unfortunately, due to logging at 1 Hz even the "max 2 seconds" can be too high. The latest COROS watches are perhaps less likely to report speeds that are way too high, due to their built in filtering.
+Numerous devices perform calculations at 10 Hz (or more) internally, but only log at 1 Hz. These devices have the potential to output excessively high speeds (e.g. 12 km/h when walking) so their "max speed" should always be ignored. Unfortunately, due to logging at 1 Hz even the "max 2 seconds" can be too high. The unfiltered data from my Garmin is nice in some respects, but can also report 12 knots when walking.
+
+The Locosys GT-31 has some built in filtering but is not infallible, and I've seen a max speed of 54 knots displayed for what was really 50 knots. The latest COROS watches seem slightly less likely than other brands when it comes to reporting speeds that are several knots too high, due to the nature of their filtering. In some ways the filtering is undesirable, but it does have benefits in this one specific respect.
 
 
 
 #### Takeaways
 
-The best measure of your top speed is "max 2 seconds", regardless of the device. However, I've not even discussed the potential for speeds to be wrong due to reception issues (e.g. due to a crash, immersion, under arm, etc), or how some devices seem prone to excessively high readings. Checking whether "max 2 seconds" is within a knot of the best 100 metres (5 seconds at 40 knots) can be an effective sanity check.
+The best measure of your top speed is "max 2 seconds", regardless of the device. However, I've not even discussed the potential for speeds to be wrong due to reception issues (e.g. due to a crash, immersion, under arm, etc), or how some devices seem prone to excessively high readings. Checking whether "max 2 seconds" is within a knot of the best 100 metres (equivalent of 5 seconds at 40 knots) can be an effective sanity check.
 
 Here are a few closing thoughts:
 
@@ -84,7 +86,7 @@ Here are a few closing thoughts:
 
 
 
-I hope this has provided enough insight as to why "max speed" should be ignored. Good luck in your speed sailing!
+I hope this has provided enough insight as to why "max speed" should be ignored. If you want to compare top speeds then "2 seconds" is a much better metric. When "max 2 seconds" is calculated from 5 Hz or 10 Hz data it will be reasonably reliable.
 
 
 
