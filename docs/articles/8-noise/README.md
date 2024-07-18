@@ -64,7 +64,7 @@ The simpler approach of using a 2 second moving average is also effective for th
 
 #### Affected Devices
 
-So far this article has focused on the Motion GPS which is particularly popular amongst pro riders. It is an excellent device for speed sailing, but the [ESP-GPS](https://github.com/RP6conrad/ESP-GPS-Logger) is also excellent if you fancy a DIY project. The main takeaway should be to ignore the "max speed" and regard the "max 2 seconds" as your top speed. The same applies to the Locosys GW-52 and GW-60, which both exhibit a fair amount of noise when logging at 5 Hz.
+So far this article has focused on the Motion GPS which is particularly popular amongst pro riders. It is an excellent device for speed sailing, but the [ESP-GPS](https://github.com/RP6conrad/ESP-GPS-Logger) is also excellent if you fancy a DIY project. The main takeaway should be to ignore the "max speed" and regard the "max 2 seconds" as the top speed. The same applies to the Locosys GW-52 and GW-60, which both exhibit a fair amount of noise when logging at 5 Hz.
 
 Numerous devices perform calculations at 10 Hz (or more) internally, but only log at 1 Hz. These devices have the potential to output excessively high speeds (e.g. 12 km/h when walking) so their "max speed" should always be ignored. Unfortunately, due to logging at 1 Hz even the "max 2 seconds" can be too high. The unfiltered data from my Garmin is nice in many respects, but can also report 12 km/h when walking.
 
