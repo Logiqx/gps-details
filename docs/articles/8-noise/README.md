@@ -6,9 +6,11 @@ This article is primarily aimed at windsurfers, kitesurfers and wingfoilers but 
 
 The most natural instinct when sailing with a GPS is to look at the highest number being reported and take it at face value. Sure, most people will be aware that errors can occur after a crash and that some devices are more accurate than others. However, I think far fewer people are truly aware of what the max speed really represents when devices are working correctly and why it should usually be ignored.
 
-Speed sailing is one of my favorite disciplines on the water, striving to achieve the highest speeds possible. However, I stopped paying any attention to max speeds from my GPS many, many years ago. It's even more relevant nowadays with adoption of high frequency loggers such as the Motion and ESP, but also the older 5 Hz devices from the likes of Locosys and even some modern 1 Hz devices.
+Speed sailing is one of my favorite disciplines on the water, constantly striving to achieve the highest speeds possible. However, I stopped paying any attention to max speeds from my GPS many, many years ago. It's even more relevant nowadays with prevalence of high frequency loggers such as the [Motion](https://www.motion-gps.com/motion/index.html) and [ESP-GPS](https://github.com/RP6conrad/ESP-GPS-Logger), but also true of the 5 Hz devices from Locosys and even some 1 Hz devices on the market.
 
-Hopefully this article will help to illustrate why you should try to ignore max speeds. The "max 2 seconds" is usually a decent estimate of your actual top speed, but the "max speed" reported by your device can be very misleading. There is an example later in this article,  showing how the reported max speed can easily be a couple of knots too high, even when a great device is working normally.
+Hopefully this article will help to illustrate why we should all ignore "max speed" and focus on other metrics instead. The "max 2 seconds" is usually a decent estimate of your actual max speed if that's what you want to know, but "max speed" itself can be very misleading. There is an example in this article,  showing how the reported "max speed" can be a couple of knots higher than reality, even when the GPS is operating perfectly.
+
+TLDR - we should all ignore "max speed" because it is simply noise, but if you would like some further details then read on!
 
 
 
