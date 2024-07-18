@@ -10,7 +10,7 @@ Speed sailing is one of my favorite disciplines on the water, constantly strivin
 
 Hopefully this article will help to illustrate why we should all ignore "max speed" and focus on other metrics instead. The "max 2 seconds" is usually a decent estimate of your actual top speed if that's what you want to know, but "max speed" itself can be very misleading. There is an example in this article,  showing how the reported "max speed" can be a couple of knots higher than reality, even when the GPS is operating perfectly.
 
-TLDR - we should all ignore "max speed" because it is simply noise, but if you would like some further details then read on!
+TLDR - we should all ignore "max speed" because it is essentially noise, but if you would like some further details then read on!
 
 
 
