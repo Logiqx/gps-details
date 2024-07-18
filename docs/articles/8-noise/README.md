@@ -4,13 +4,13 @@
 
 This article is primarily aimed at windsurfers, kitesurfers and wingfoilers but it will apply to some other sports as well.
 
-The most natural instinct when sailing with a GPS is to look at the highest number being reported and take it at face value. Sure, most people will be aware that errors can occur after a crash and that some devices are more accurate than others. However, I think far fewer people are truly aware of what the "max speed" really represents when devices are working correctly and why it should usually be ignored.
+The most natural instinct when sailing with a GPS is to look at the highest number being reported and take it at face value. Sure, most people will be aware that errors can occur after a crash and that some devices are more accurate than others. However, I think far fewer people are truly aware of what the "max speed" really represents when devices are working correctly and why it should probably be ignored.
 
 Speed sailing is one of my favorite disciplines on the water, constantly striving to achieve the highest speeds possible. However, I stopped paying any attention to max speeds from my GPS many, many years ago. It's even more relevant nowadays with prevalence of high frequency loggers such as the [Motion](https://www.motion-gps.com/motion/index.html) and [ESP-GPS](https://github.com/RP6conrad/ESP-GPS-Logger), but also true of the 5 Hz devices from Locosys and even some 1 Hz devices on the market.
 
-Hopefully this article will help to illustrate why we should all ignore "max speed" and focus on other metrics instead. The "max 2 seconds" is usually a decent estimate of your actual top speed if that's what you want to know, but "max speed" itself can be very misleading. There is an example in this article,  showing how the reported "max speed" can be a couple of knots higher than reality, even when the GPS is operating perfectly.
+Hopefully this article will help to illustrate why we should really ignore "max speed" and focus on other metrics instead. The "max 2 seconds" is usually a decent estimate of your actual top speed if that's what you want to know, but "max speed" itself can be very misleading. There is an example in this article,  showing how the reported "max speed" can be a couple of knots higher than reality, even when the GPS is operating perfectly.
 
-TLDR - we should all ignore "max speed" because it is essentially noise, but if you would like some further details then read on!
+TLDR - we should try to ignore "max speed" because it is essentially noise, but if you would like some further details then read on!
 
 
 
@@ -86,7 +86,7 @@ Here are a few closing thoughts:
 
 
 
-I hope this has provided enough insight as to why "max speed" should be ignored. If you want to compare top speeds then "max 2 seconds" is a much better metric. When "max 2 seconds" is calculated from 5 Hz or 10 Hz data it will usually be pretty close to the actual top speed.
+I hope this has provided enough insight as to why "max speed" is best ignored. If you want to compare top speeds then "max 2 seconds" will be much more reliable. When "max 2 seconds" is calculated from 5 Hz or 10 Hz data it will usually be pretty close to the actual top speed.
 
 
 
