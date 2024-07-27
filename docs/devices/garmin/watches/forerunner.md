@@ -6,7 +6,7 @@ Created: 27 July 2024
 
 
 
-### Chipsets
+### Overview
 
 This page lists the GPS / GNSS chipsets that are used in the Garmin Forerunner watches.
 
@@ -16,7 +16,7 @@ Chipsets for older watches have been obtained from a variety of sources, includi
 
 
 
-#### Airoha
+### Airoha
 
 | Model                       | Released   | Chipset | References |
 | --------------------------- | ---------- | ---------- | ---------- |
@@ -36,7 +36,7 @@ Notes:
 
 
 
-#### Sony
+### Sony
 
 | Model                       | Released   | Chipset | References |
 | --------------------------- | ---------- | ---------- | ---------- |
@@ -56,7 +56,7 @@ Notes:
 
 
 
-#### Mediatek
+### Mediatek
 
 | Model                       | Released   | Chipset | References |
 | --------------------------- | ---------- | ---------- | ---------- |
@@ -77,7 +77,7 @@ Notes:
 
 
 
-#### SiRF
+### SiRF
 
 | Model                       | Released   | Chipset | References |
 | --------------------------- | ---------- | ---------- | ---------- |
