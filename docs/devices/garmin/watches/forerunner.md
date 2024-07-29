@@ -75,6 +75,13 @@ Notes:
 | Forerunner 220              | 2013-09-16 |  |  |
 | Forerunner 10    | 2012-08-28 |  | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
 
+Notes:
+
+- MediaTek GPS / GNSS chipsets are detailed on another [page](../../../chipsets/mediatek/README.md) but to summarise:
+  - The MT3339 supports GPS + QZSS with max. fixed update rate up to 10 Hz.
+  - The MT3333 supports GPS / GLONASS / Galileo / BeiDou + QZSS with max. fixed update rate up to 10 Hz.
+
+
 
 
 ### SiRF
