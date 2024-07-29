@@ -28,11 +28,42 @@ Specifications:
 
 
 
-#### MT3338 / MT3328 / MT3329
+#### MT3328
 
 [Press release](https://corp.mediatek.com/news-events/press-releases/mediatek-to-demonstrate-wireless-solutions-at-mobile-world-congress):
 
 > **Hsinchu, Taiwan – Feb. 11, 2009** – In addition to the above, the GPS solutions MediaTek will display at this show including MT3338, a world’s leading host-based GPS/Galileo ready solution, MT3328, a wafer level CSP host based GPS solution, and MT3329, the world’s highest sensitivity GPS solution.
+
+
+
+#### MT3329
+
+See [data sheet](https://www.puntoflotante.net/MEDIATEK-3329.pdf) created in July 2009.
+
+[Press release](https://corp.mediatek.com/news-events/press-releases/mediatek-to-demonstrate-wireless-solutions-at-mobile-world-congress):
+
+> **Hsinchu, Taiwan – Feb. 11, 2009** – In addition to the above, the GPS solutions MediaTek will display at this show including MT3338, a world’s leading host-based GPS/Galileo ready solution, MT3328, a wafer level CSP host based GPS solution, and MT3329, the world’s highest sensitivity GPS solution.
+
+Features:
+
+- L1 Frequency, C/A code, 66 channels      
+- Support up 210 PRN channels      
+- Jammer detection and reduction      
+- Multi-path detection and compensation      
+- DGPS (WAAS/EGNOS/MSAS/GAGAN) support
+- Max. Update Rate: up to 10Hz (Configurable by firmware) 
+
+
+
+#### MT3338
+
+[Press release](https://corp.mediatek.com/news-events/press-releases/mediatek-to-demonstrate-wireless-solutions-at-mobile-world-congress):
+
+> **Hsinchu, Taiwan – Feb. 11, 2009** – In addition to the above, the GPS solutions MediaTek will display at this show including MT3338, a world’s leading host-based GPS/Galileo ready solution, MT3328, a wafer level CSP host based GPS solution, and MT3329, the world’s highest sensitivity GPS solution.
+
+Features:
+
+- GPS/Galileo ready solution
 
 
 
