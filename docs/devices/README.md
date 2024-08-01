@@ -8,5 +8,6 @@ There are only a few pages right now but more material will follow shortly:
 - [COROS](coros/README.md)
 - [Garmin](garmin/README.md)
 - [Locosys](locosys/README.md)
+- [Metasail](metasail/README.md)
 - [Motion](motion/README.md)
 - [Sailmon](../sailmon/README.md)
