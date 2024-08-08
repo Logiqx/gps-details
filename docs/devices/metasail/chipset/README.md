@@ -12,9 +12,11 @@ Created: 1 August 2024
 
 It has also been used for the one hour classic in Torbole in [2019](https://www.metasail.com/past/116) + [2020](https://www.metasail.com/past/147) + [2021](https://www.metasail.com/past/188) + [2022](https://www.metasail.com/past/308) + [2023](https://www.metasail.com/past/416) + [2024](https://www.metasail.com/past/557/) - see thread on [seabreeze.com.au](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Foil-beats-fin-speed#2766768).
 
-After a little bit of research, I've concluded the Metasail GPS tracker uses the Telit [LE910C1](https://www.telit.com/devices/le910cx-linux/) module which is based on the Qualcomm MDM9215.
+After a little bit of research, I've concluded the Metasail GPS tracker uses the Telit [LE910C1](https://www.telit.com/devices/le910cx-linux/) module which is probably based on the Qualcomm MDM9215.
 
 The Qualcomm MDM9215 is actually quite an old product because it appears in a Qualcomm press releases from [Feb 2012](https://www.qualcomm.com/news/releases/2012/02/qualcomm-announces-fifth-generation-embedded-data-connectivity-reference) and [Sep 2012](https://investor.qualcomm.com/news-events/press-releases/detail/317/qualcomm-second-generation-lte-chipsets-enable-high-speed).
+
+It is not impossible that Telit are now using an Airoha chipset based on further [observations](telit.md).
 
 ![img](img/top+bottom.jpg)
 
@@ -56,6 +58,8 @@ The Telit LE910Cx application note describes the use of $GPSNMUN, $GPSNMUNEX and
 - [LE910Cx/ME910C1/ML865C1/NE910C1  A-GPS Application Note](https://sixfab.com/wp-content/uploads/2021/02/Telit_LE910Cx_ME910C1_ML865C1_NE910C1_A-GPS_Application_Note_r2.pdf)
 
 There are various references to Qualcomm in the software user guides and $GPSNMUN + $GPSNMUNEX + $GPSACP are for Qualcomm.
+
+Further details and investigations relating to the Telit LE910C1 are on another [page](telit.md).
 
 
 
@@ -121,8 +125,14 @@ Some websites detailing the Qualcomm 9215 and the GNSS capabilities:
 
 
 
+Further details and investigations relating to the Qualcomm MDM9215 are on another [page](qualcomm.md).
+
+
+
 ### Conclusion
 
-I've concluded the Metasail GPS tracker uses the Telit [LE910C1](https://www.telit.com/devices/le910cx-linux/) module which is based on the Qualcomm MDM9215.
+I've concluded the Metasail GPS tracker uses the Telit [LE910C1](https://www.telit.com/devices/le910cx-linux/) module which is probably based on the Qualcomm MDM9215.
 
 The Qualcomm MDM9215 is actually quite an old product because it appears in a Qualcomm press releases from [Feb 2012](https://www.qualcomm.com/news/releases/2012/02/qualcomm-announces-fifth-generation-embedded-data-connectivity-reference) and [Sep 2012](https://investor.qualcomm.com/news-events/press-releases/detail/317/qualcomm-second-generation-lte-chipsets-enable-high-speed).
+
+It is not impossible that Telit are now using an Airoha chipset based on further [observations](telit.md).
