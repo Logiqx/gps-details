@@ -19,4 +19,5 @@ MediaTek GPS / GNSS chipsets are detailed on another [page](README.md) but to su
 
 #### Garmin
 
-The fēnix 5 Plus Sapphire Edition uses the MT3333, confirmed by the MDN [teardown](https://www.edn.com/teardown-a-smartwatch-with-an-athletic-tradition/).
+- fēnix 5X uses the MT3333, confirmed by the F Tipi [teardown](http://www.f-blog.info/garmin-fenix-5x-inner-parts-teardown-disassembly-assembly-etc-no-disassemble/).
+- fēnix 5 Plus Sapphire Edition uses the MT3333, confirmed by the MDN [teardown](https://www.edn.com/teardown-a-smartwatch-with-an-athletic-tradition/).

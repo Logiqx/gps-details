@@ -18,5 +18,5 @@ Created: 15 Aug 2024
 
 #### Garmin
 
-The Fenix 7X uses the AG3335MN (confirmed by [tear down](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/)) and is likely to be in other Garmin watches without multi-band support.
+The fēnix 7X uses the AG3335MN (confirmed by [tear down](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/)) and is likely to be in other Garmin watches without multi-band support.
 

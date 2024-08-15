@@ -14,10 +14,11 @@ The release history of the Fenix is also summarised on a page written by [DC Rai
 
 | Model                       | Released   | Chipset | References |
 | --------------------------- | ---------- | ---------- | ---------- |
-| fēnix 8 | 2024       |  |  |
-| fēnix 7 / 7S / 7X Pro | 2023-05-31 | AG3335M | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) and DC Rainmaker [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
-| fēnix 7 / 7S / 7X Sapphire Solar | 2022-01-18 | AG3335M | DC Rainmaker [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
-| fēnix 7 / 7S / 7X | 2022-01-18 | AG3335MN | F Tipi [teardown](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/) |
+| fēnix 7 / 7S / 7X Pro Sapphire Solar | 2023-05-31 | AG3335M | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DC Rainmaker [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
+| fēnix 7 / 7S / 7X Pro Solar | 2023-05-31 | AG3335M | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DC Rainmaker [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
+| fēnix 7 / 7S / 7X Sapphire Solar | 2022-01-18 | AG3335M | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DC Rainmaker [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
+| fēnix 7 / 7S / 7X Solar | 2022-01-18 | AG3335MN | DC Rainmaker [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
+| fēnix 7 / 7S | 2022-01-18 | AG3335MN | F Tipi [teardown](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/) + DC Rainmaker [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
@@ -27,11 +28,11 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 
 | Model                  | Released   | Chipset   | References                                                   |
 | ---------------------- | ---------- | --------- | ------------------------------------------------------------ |
-| fēnix 6 / 6S Pro Solar | 2020-07-08 | CXD56xxxx | DC Rainmaker [review](https://www.dcrainmaker.com/2020/07/garmin-fenix-6-6s-pro-solar-review-whats-new-different.html) |
-| fēnix 6 / 6S Solar     | 2020-07-08 | CXD56xxxx |                                                              |
-| fēnix 6X Pro Solar     | 2019-08-29 | CXD56xxxx |                                                              |
-| fēnix 6 / 6S / 6X Pro  | 2019-08-29 | CXD56xxxx | Garmin [manual](https://www8.garmin.com/manuals/webhelp/fenix66s6xpro/EN-US/GUID-31C5EBD6-A5E6-46FA-9EDE-43DBA4872546.html) |
-| fēnix 6 / 6S / 6X      | 2019-08-29 | CXD56xxxx | DC Rainmaker [review](https://www.dcrainmaker.com/2019/08/garmin-fenix6-pro-solar-series-review.html) |
+| fēnix 6 / 6S Pro Solar | 2020-07-08 | CXD56xxxx | Garmin [manual](https://www8.garmin.com/manuals/webhelp/fenix66s6xpro/EN-US/GUID-31C5EBD6-A5E6-46FA-9EDE-43DBA4872546.html) + DC Rainmaker [review](https://www.dcrainmaker.com/2020/07/garmin-fenix-6-6s-pro-solar-review-whats-new-different.html) |
+| fēnix 6 / 6S Solar     | 2020-07-08 | CXD56xxxx | Garmin [manual](https://www8.garmin.com/manuals/webhelp/fenix6-6ssport/EN-US/GUID-31C5EBD6-A5E6-46FA-9EDE-43DBA4872546.html) |
+| fēnix 6X Pro Solar     | 2019-08-29 | CXD5603GF | Garmin [manual](https://www8.garmin.com/manuals/webhelp/fenix66s6xpro/EN-US/GUID-31C5EBD6-A5E6-46FA-9EDE-43DBA4872546.html) + DC Rainmaker [review](https://www.dcrainmaker.com/2019/08/garmin-fenix6-pro-solar-series-review.html) |
+| fēnix 6 / 6S / 6X Pro  | 2019-08-29 | CXD5603GF | F Tipi [teardown](http://www.f-blog.info/garmin-fenix-6x-pro-disassembly-or-teardown-whatever-you-say/) + Garmin [manual](https://www8.garmin.com/manuals/webhelp/fenix66s6xpro/EN-US/GUID-31C5EBD6-A5E6-46FA-9EDE-43DBA4872546.html) + DC Rainmaker [review](https://www.dcrainmaker.com/2019/08/garmin-fenix6-pro-solar-series-review.html) |
+| fēnix 6 / 6S           | 2019-08-29 | CXD5603GF | Garmin [manual](https://www8.garmin.com/manuals/webhelp/fenix6-6ssport/EN-US/GUID-31C5EBD6-A5E6-46FA-9EDE-43DBA4872546.html) + DC Rainmaker [review](https://www.dcrainmaker.com/2019/08/garmin-fenix6-pro-solar-series-review.html) |
 
 Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets are available on another page.
 
@@ -42,7 +43,7 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | Model                  | Released   | Chipset | References                                                   |
 | ---------------------- | ---------- | ------- | ------------------------------------------------------------ |
 | fēnix 5 / 5S / 5X Plus | 2018-06-18 | MT3333  | MDN [teardown](https://www.edn.com/teardown-a-smartwatch-with-an-athletic-tradition/) |
-| fēnix 5 / 5S / 5X      | 2017-01-04 | MT3333  |                                                              |
+| fēnix 5 / 5S / 5X      | 2017-01-04 | MT3333  | F Tipi [teardown](http://www.f-blog.info/garmin-fenix-5x-inner-parts-teardown-disassembly-assembly-etc-no-disassemble/) |
 | fēnix Chronos          | 2016-08-25 | MT3333  |                                                              |
 | fēnix 3 HR             | 2016-01-05 | MT3333  |                                                              |
 | fēnix 3                | 2015-01-05 | MT3333  |                                                              |
