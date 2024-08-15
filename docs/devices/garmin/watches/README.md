@@ -14,7 +14,7 @@ Chipsets for older watches have been obtained from a variety of sources, includi
 
 - Epix
 - Fenix
-- [Forerunner](forerunner.md) - 27 July 2024
+- [Forerunner](forerunner.md)
 - Instinct
 - Quatix
 - Tactix

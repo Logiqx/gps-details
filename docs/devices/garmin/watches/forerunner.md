@@ -18,7 +18,7 @@ The various models are listed in reverse-chronological order. The release dates 
 | Forerunner 955 / 955  Solar | 2022-06-01 | AG3335M | [reddit](https://www.reddit.com/r/GarminWatches/comments/126v3m7/comment/jebutnb/) |
 | Forerunner 255 / 255  Music | 2022-06-01 | AG3335M | [reddit](https://www.reddit.com/r/GarminWatches/comments/126v3m7/comment/jebutnb/) |
 
-Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available.
+Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
 
 
@@ -35,7 +35,7 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 | Forerunner 945              | 2019-04-30 | CXD5603GF |            |
 | Forerunner 245 / 245  Music | 2019-04-30 | CXD5603GF |  |
 
-Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets are available.
+Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets are available on another page.
 
 
 
@@ -58,7 +58,7 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | Forerunner 220              | 2013-09-16 |  |  |
 | Forerunner 10    | 2012-08-28 |  | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
 
-Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available.
+Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
 
 
 
