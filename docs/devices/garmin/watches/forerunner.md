@@ -6,16 +6,6 @@ Created: 27 July 2024
 
 
 
-### Overview
-
-This page lists the GPS / GNSS chipsets that are used in the Garmin Forerunner watches.
-
-The various models are listed in reverse-chronological order. The release dates are generally from [Wikipedia](https://en.wikipedia.org/wiki/Garmin_Forerunner#Release_history).
-
-Chipsets for older watches have been obtained from a variety of sources, including [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) and [test results](https://www.dropbox.com/sh/psdyxm93y2m12j3/AABNlbBRsF2E3edvzqnnMPC4a?dl=0&preview=Test+Results+-+All+Watches.xlsx) by Mark Gee.
-
-
-
 ### Airoha
 
 | Model                       | Released   | Chipset | References |
@@ -26,13 +16,7 @@ Chipsets for older watches have been obtained from a variety of sources, includi
 | Forerunner 955 / 955  Solar | 2022-06-01 | AG3335M | [reddit](https://www.reddit.com/r/GarminWatches/comments/126v3m7/comment/jebutnb/) |
 | Forerunner 255 / 255  Music | 2022-06-01 | AG3335M | [reddit](https://www.reddit.com/r/GarminWatches/comments/126v3m7/comment/jebutnb/) |
 
-Notes:
-
-- The Fenix 7X uses the AG3335MN (confirmed by [tear down](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/)) so it seems likely that it will also be in the Forerunner 165.
-  - [AG3335M](https://www.airoha.com/products/p/A0Dmm0pijWW3MScb) is dual-frequency (L1 + L5) but has no support the NavIC
-  - AG3335MN is single-frequency but supports L5 for NavIC / IRNSS.
-
-- There is a new generation single-frequency [AG3352](https://www.airoha.com/products/p/zy4r082hgNywp1bg) on the Airoha website, which could be used in future watches.
+Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets area available.
 
 
 
@@ -49,10 +33,7 @@ Notes:
 | Forerunner 945              | 2019-04-30 | CXD5603GF |            |
 | Forerunner 245 / 245  Music | 2019-04-30 | CXD5603GF |  |
 
-Notes:
-
-- Some of the Garmin watches using the Sony chipset are mentioned on a page by [DC Rainmaker](https://www.dcrainmaker.com/2021/01/gps-accuracy-impacting-devices.html).
-- The latest Sony GNSS chipsets are listed on their [website](https://www.sony-semicon.com/en/products/lsi-ic/gps.html).
+Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets area available.
 
 
 
@@ -75,11 +56,7 @@ Notes:
 | Forerunner 220              | 2013-09-16 |  |  |
 | Forerunner 10    | 2012-08-28 |  | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
 
-Notes:
-
-- MediaTek GPS / GNSS chipsets are detailed on another [page](../../../chipsets/mediatek/README.md) but to summarise:
-  - The MT3339 supports GPS + QZSS with max. fixed update rate up to 10 Hz.
-  - The MT3333 supports GPS / GLONASS / Galileo / BeiDou + QZSS with max. fixed update rate up to 10 Hz.
+Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets area available.
 
 
 
