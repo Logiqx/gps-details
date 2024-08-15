@@ -12,7 +12,7 @@ The various models are listed in reverse-chronological order. The release dates 
 
 | Model                       | Released   | Chipset | References |
 | --------------------------- | ---------- | ---------- | ---------- |
-| Forerunner 165              | 2024-02-20 | AG3335MN ? | [the5krunner](https://the5krunner.com/2024/03/02/garmin-forerunner-165-review-specifications/) |
+| Forerunner 165              | 2024-02-20 | AG3335MN | [the5krunner](https://the5krunner.com/2024/03/02/garmin-forerunner-165-review-specifications/) |
 | Forerunner 965              | 2023-03-01 | AG3335M | [TechInsights](https://www.techinsights.com/blog/deep-dive-teardown-garmin-forerunner-965-a04578-smartwatch) |
 | Forerunner 265              | 2023-03-01 | AG3335M |  |
 | Forerunner 955 / 955  Solar | 2022-06-01 | AG3335M | [reddit](https://www.reddit.com/r/GarminWatches/comments/126v3m7/comment/jebutnb/) |
