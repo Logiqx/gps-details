@@ -12,7 +12,7 @@ The various models are listed in reverse-chronological order.
 
 | Model                       | Released   | Chipset | References |
 | --------------------------- | ---------- | ---------- | ---------- |
-| vívoactive 5 | 2023-09 | AG3335MN | [Garmin](https://www8.garmin.com/manuals/webhelp/GUID-5D183A14-BB43-4A9B-B441-5F824214CE40/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + [DC Rainmaker](https://www.dcrainmaker.com/2023/09/garmin-vivoactive-5-in-depth-review-now-with-an-amoled-display.html) |
+| vívoactive 5 | 2023-09 | AG3335MN or AG3352 | [Garmin](https://www8.garmin.com/manuals/webhelp/GUID-5D183A14-BB43-4A9B-B441-5F824214CE40/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + [DC Rainmaker](https://www.dcrainmaker.com/2023/09/garmin-vivoactive-5-in-depth-review-now-with-an-amoled-display.html) |
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
