@@ -19,4 +19,4 @@ MediaTek GPS / GNSS chipsets are detailed on another [page](README.md) but to su
 
 #### Garmin
 
-TODO
+The fēnix 5 Plus Sapphire Edition uses the MT3333, confirmed by the MDN [teardown](https://www.edn.com/teardown-a-smartwatch-with-an-athletic-tradition/).

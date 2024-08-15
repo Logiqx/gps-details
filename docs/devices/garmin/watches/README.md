@@ -13,13 +13,13 @@ Chipsets for older watches have been obtained from a variety of sources, includi
 ### Chipsets
 
 - Epix
-- Fenix
+- [Fenix](fenix.md)
 - [Forerunner](forerunner.md)
 - [Instinct](instinct.md)
 - Quatix
 - Tactix
 - Venu
-- [VIvoactive](vivoactive.md)
+- [Vivoactive](vivoactive.md)
 
 
 
