@@ -12,14 +12,6 @@ The latest Sony GNSS chipsets are listed on their [website](https://www.sony-sem
 
 
 
-### Chipsets
-
-#### CXD5603GF
-
-TODO
-
-
-
 ### Watches
 
 #### Garmin

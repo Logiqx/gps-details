@@ -2,9 +2,9 @@
 
 ### Overview
 
-This page lists the GPS / GNSS chipsets that are used in the Garmin Forerunner watches.
+This page lists the GPS / GNSS chipsets that are used in the various Garmin watches.
 
-The various models are listed in reverse-chronological order. The release dates are generally from [Wikipedia](https://en.wikipedia.org/wiki/Garmin_Forerunner#Release_history).
+Chipsets for more recent watches have often been obtained from teardowns, reviews, or via deduction.
 
 Chipsets for older watches have been obtained from a variety of sources, including [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) and [test results](https://www.dropbox.com/sh/psdyxm93y2m12j3/AABNlbBRsF2E3edvzqnnMPC4a?dl=0&preview=Test+Results+-+All+Watches.xlsx) by Mark Gee.
 
