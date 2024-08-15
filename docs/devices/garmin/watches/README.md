@@ -15,11 +15,11 @@ Chipsets for older watches have been obtained from a variety of sources, includi
 - Epix
 - Fenix
 - [Forerunner](forerunner.md)
-- Instinct
+- [Instinct](instinct.md)
 - Quatix
 - Tactix
 - Venu
-- VIvoactive
+- [VIvoactive](vivoactive.md)
 
 
 

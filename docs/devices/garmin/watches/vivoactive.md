@@ -4,7 +4,7 @@
 
 This page lists the GPS / GNSS chipsets that are used in the Garmin Vivoactive watches.
 
-The various models are listed in reverse-chronological order. The release dates are generally from [Wikipedia](https://en.wikipedia.org/wiki/Garmin_Forerunner#Release_history).
+The various models are listed in reverse-chronological order.
 
 
 
@@ -36,5 +36,4 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | vívoactive HR | 2016-02  | MT3333  | [Garmin](https://www8.garmin.com/manuals/webhelp/vivoactivehr/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) |
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
-
 
