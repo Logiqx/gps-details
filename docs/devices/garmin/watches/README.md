@@ -2,15 +2,17 @@
 
 ### Overview
 
-This page lists the GPS / GNSS chipsets that are used in the various Garmin watches.
+This page lists the GNSS chipsets that are used in the various Garmin watches that are used on GPS-Speedsurfing (GP3S).
 
-Chipsets for more recent watches have often been obtained from teardowns, reviews, or via deduction.
+Chipsets for the newer watches have typically been obtained from reviews, disassembly / teardown, testing and / or deduction.
 
-Chipsets for older watches have been obtained from a variety of sources, including [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) and [test results](https://www.dropbox.com/sh/psdyxm93y2m12j3/AABNlbBRsF2E3edvzqnnMPC4a?dl=0&preview=Test+Results+-+All+Watches.xlsx) by Mark Gee.
+Chipsets for the very old watches have been obtained from a variety of sources, including [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) and [test results](https://www.dropbox.com/sh/psdyxm93y2m12j3/AABNlbBRsF2E3edvzqnnMPC4a?dl=0&preview=Test+Results+-+All+Watches.xlsx) by Mark Gee.
 
 
 
-### Chipsets
+### Commonly used on GP3S
+
+The following pages list the GNSS chipsets inside the different ranges and models:
 
 - Epix
 - [Fenix](fenix.md)
@@ -23,7 +25,9 @@ Chipsets for older watches have been obtained from a variety of sources, includi
 
 
 
-Ignore models rarely used on GP3S:
+### Sometimes used on GP3S
+
+The following watch ranges have been used on GP3S, but so rarely that I haven't created any documentation:
 
 - Approach - golf
 - D2 - aviation
@@ -35,7 +39,9 @@ Ignore models rarely used on GP3S:
 
 
 
-Ignore ancient models which were previously used on GP3S:
+### Historically used on GP3S
+
+The following watch ranges have been used on GP3S in the past, but so rarely nowadays that I haven't created any documentation:
 
 - eTrex - handheld
 - Foretrex - wrist
