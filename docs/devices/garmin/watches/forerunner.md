@@ -16,7 +16,7 @@ The various models are listed in reverse-chronological order. The release dates 
 | Forerunner 965              | 2023-03 | AG3335M | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-0221611A-992D-495E-8DED-1DD448F7A066/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + [TechInsights](https://www.techinsights.com/blog/deep-dive-teardown-garmin-forerunner-965-a04578-smartwatch) |
 | Forerunner 265              | 2023-03 | AG3335M | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-F41EAFB3-6CC9-42DE-9C6C-9E358DBB0671/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) |
 | Forerunner 955 / 955  Solar | 2022-06 | AG3335M | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-9D99A9D4-467A-4F1A-A0EA-023184FEA3DD/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + [reddit](https://www.reddit.com/r/GarminWatches/comments/126v3m7/comment/jebutnb/) |
-| Forerunner 255 / 255  Music | 2022-06 | AG3335M | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-676967A0-1B23-4384-9BC9-76F3D643F1C8/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + [reddit](https://www.reddit.com/r/GarminWatches/comments/126v3m7/comment/jebutnb/) |
+| Forerunner 255 / 255  Music | 2022-06 | AG3335M | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-676967A0-1B23-4384-9BC9-76F3D643F1C8/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + [reddit](https://www.reddit.com/r/GarminWatches/comments/126v3m7/comment/jebutnb/) + DCR [review](https://www.dcrainmaker.com/2022/06/garmin-forerunner-255-review-multisport.html) |
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
