@@ -17,8 +17,8 @@ The release history of the Fenix is also summarised on a page written by [DC Rai
 | fēnix 7 / 7S / 7X Pro Sapphire Solar | 2023-05 | AG3335M | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
 | fēnix 7 / 7S / 7X Pro Solar | 2023-05 | AG3335M | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
 | fēnix 7 / 7S / 7X Sapphire Solar | 2022-01 | AG3335M | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
-| fēnix 7 / 7S / 7X Solar | 2022-01 | AG3335MN | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
-| fēnix 7 / 7S | 2022-01 | AG3335MN | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + F Tipi [teardown](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
+| fēnix 7 / 7S / 7X Solar | 2022-01 | AG3335MN | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + F Tipi [teardown](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
+| fēnix 7 / 7S | 2022-01 | AG3335MN | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
@@ -48,7 +48,7 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | fēnix 3 HR             | 2016-01  | MT3333  |                                                              |
 | fēnix 3                | 2015-01  | MT3333  | F Tipi [teardown](http://www.f-blog.info/diving-inside-garmin-fenix-3-tear-down-etc/) |
 | fēnix 2                | 2014-02  | MT3333  |                                                              |
-| fēnix                  | 2012-07  | ?       |                                                              |
+| fēnix                  | 2012-07  | MT3339? |                                                              |
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
 
