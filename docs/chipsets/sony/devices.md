@@ -1,10 +1,4 @@
-## Sony
-
-Author: Michael George
-
-Created: 15 Aug 2024
-
-
+## Sony GNSS Chipsets
 
 ### Overview
 
@@ -29,13 +23,12 @@ In addition, some of the other Garmin watches using the Sony chipset are listed 
 
 #### COROS
 
-The PACE, PACE 2, APEX, APEX Pro, and VERTIX all use a Sony GNSS chip.
+The APEX, VERTIX, APEX Pro and PACE 2 all use the Sony GNSS chipset:
 
-- PACE was release in Jan 2018
-- APEX was released in Oct 2018
-- VERTIX was released in May 2019
-- APEX Pro was released in Sep 2019
-- PACE 2 was released in Aug 2020
+- APEX 42mm  + 46mm were released in Oct 2018.
+- VERTIX was released in May 2019.
+- APEX Pro was released in Sep 2019.
+- PACE 2 was released in Aug 2020.
 
-It is quite possible that they used different generations of the CXD56xxxx, and we cannot assume the CXD5603GF.
+It is quite possible that they use different generations of the CXD56xxxx, and not just the CXD5603GF.
 
