@@ -26,14 +26,14 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 
 | Model                       | Released   | Chipset | References |
 | --------------------------- | ---------- | ---------- | ---------- |
-| Forerunner 158 - Chinese Forerunner 55 | 2021-06 |  | Garmin [forum](https://forums.garmin.com/developer/connect-iq/f/discussion/271658/what-is-it-fr158) |
-| Forerunner 945 LTE          | 2021-06 |  |  |
-| Forerunner 55               | 2021-06 |  |  |
+| Forerunner 158 - Chinese Forerunner 55 | 2021-06 | CXD56xxxx | Garmin [forum](https://forums.garmin.com/developer/connect-iq/f/discussion/271658/what-is-it-fr158) |
+| Forerunner 945 LTE          | 2021-06 | CXD56xxxx |  |
+| Forerunner 55               | 2021-06 | CXD56xxxx |  |
 | Forerunner 745              | 2020-09 | CXD56xxxx |  |
-| Forerunner 45 Plus | 2020-08 |  | |
-| Forerunner 45 / 45S         | 2019-04 |  |  |
+| Forerunner 45 Plus | 2020-08 | CXD56xxxx | |
+| Forerunner 45 / 45S         | 2019-04 | CXD5603GF |  |
 | Forerunner 945              | 2019-04 | CXD5603GF |            |
-| Forerunner 245 / 245  Music | 2019-04 | CXD5603GF |  |
+| Forerunner 245 / 245  Music | 2019-04 | CXD5603GF | iFixit [teardown](https://www.ifixit.com/Teardown/Garmin+Forerunner+245+Music+Teardown/150396?srsltid=AfmBOoqg114zv10EakWr_a1-HPvIx9ZS2-FD9lbg5X57jVdyvS60z2Vz) |
 
 Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets are available on another page.
 
@@ -44,19 +44,19 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | Model                       | Released   | Chipset | References |
 | --------------------------- | ---------- | ---------- | ---------- |
 | Forerunner 645 / 645  Music | 2018-01 | MT3333 | DCR - [comments](https://www.dcrainmaker.com/2018/01/garmin-forerunner-645-music-gps-watch.html/comment-page-1) |
-| Forerunner 30               | 2017-09 |  |  |
+| Forerunner 30               | 2017-09 | MT3333 |  |
 | Forerunner 935              | 2017-03 | MT3333 |  |
-| Forerunner 35               | 2016-08 |  |  |
-| Forerunner 735XT            | 2016-05 |  |  |
-| Forerunner 630              | 2015-10 |  |  |
+| Forerunner 35               | 2016-08 | MT3333 |  |
+| Forerunner 735XT            | 2016-05 | MT3333 | iFixit [teardown](https://www.ifixit.com/Teardown/Garmin+Forerunner+735XT+Teardown/117852?srsltid=AfmBOooyzoODB1Af-jXKnmIToIl7XkhCs2g7QgQYfyOicL0Mc07rzcsP) |
+| Forerunner 630              | 2015-10 | MT3333 |  |
 | Forerunner 230 / 235        | 2015-10 | MT3333 | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
-| Forerunner 25               | 2015-08 |  |  |
+| Forerunner 25               | 2015-08 | MT3333 |  |
 | Forerunner 225              | 2015-05 | MT3333 | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
 | Forerunner 920XT            | 2014-10 | MT3333 |  |
-| Forerunner 15               | 2014-05 |  |  |
+| Forerunner 15               | 2014-05 | MT3333 |  |
 | Forerunner 620              | 2013-09 | MT3333 | DCR [comments](https://www.dcrainmaker.com/2013/11/garmin-forerunner-review.html/comment-page-4) + [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
-| Forerunner 220              | 2013-09 |  |  |
-| Forerunner 10    | 2012-08 |  | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
+| Forerunner 220              | 2013-09 | MT3333 |  |
+| Forerunner 10    | 2012-08 | MT3333 | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
 
@@ -69,14 +69,14 @@ Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chi
 | --------------------------- | ---------- | ---------- | ---------- |
 | Forerunner 910XT | 2011-10 | SiRFstarIV | DCR [review](https://www.dcrainmaker.com/2011/10/garmin-forerunner-910xt-in-depth-review.html) |
 | Forerunner 610   | 2011-04 | SiRFstarIV | DCR [review](https://www.dcrainmaker.com/2011/04/garmin-forerunner-610-in-depth-review.html) |
-| Forerunner 410   | 2010-10 |  |  |
-| Forerunner 210   | 2010-10 |  |  |
+| Forerunner 410   | 2010-10 | SiRFstarIV |  |
+| Forerunner 210   | 2010-10 | SiRFstarIV |  |
 | Forerunner 110   | 2010-03 | SiRFstarIV |  |
 | Forerunner 405CX | 2009-04 | SiRFstarIII |  |
 | Forerunner 310XT | 2009-04 | SiRFstarIII |  |
-| Forerunner 60    | 2009-01 |  |  |
+| Forerunner 60    | 2009-01 | SiRFstarIII |  |
 | Forerunner 405   | 2008-01 | SiRFstarIII |  |
-| Forerunner 50    | 2007-08 |  |  |
+| Forerunner 50    | 2007-08 | SiRFstarIII |  |
 | Forerunner 305   | 2006-01 | SiRFstarIII | [Wikipedia](https://en.wikipedia.org/wiki/Garmin_Forerunner#Models) |
 | Forerunner 205   | 2006-01 | SiRFstarIII | [Wikipedia](https://en.wikipedia.org/wiki/Garmin_Forerunner#Models) |
 | Forerunner 301   | 2005-01 | SiRFstarII |  |
