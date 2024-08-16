@@ -26,9 +26,9 @@ A short [article](https://www.airoha.com/products/p/VXKPfHI9iDCvsRWN) for ION GN
 
 #### Garmin
 
-The availability of all systems + multi-band indicates the AG3335M chipset. The AG3335MN and AG3352 chipsets do not support multi-band.
+The availability of all systems + multi-band indicates the Airoha AG3335M chipset. The AG3335MN and AG3352 chipsets do not support multi-band, so cannot be used in watches supporting multi-band.
 
-The fēnix 7X uses the AG3335MN (confirmed by [teardown](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/)) and is likely to be used in other Garmin watches without multi-band in 2022.
+The fēnix 7X Solar was released in Jan 2022 and uses the AG3335MN (confirmed by [teardown](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/)). The AG3335MN is likely to be used in other Garmin watches without multi-band released in 2022.
 
 Garmin watches since 2023 could be using either the AG3335MN or AG3352, which would be confirmed by a disassembly / teardown.
 
