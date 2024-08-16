@@ -1,4 +1,4 @@
-## Garmin Quatix
+## Garmin quatix
 
 ### Overview
 

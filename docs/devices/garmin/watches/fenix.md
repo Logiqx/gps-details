@@ -1,12 +1,12 @@
-## Garmin Fenix
+## Garmin fēnix
 
 ### Overview
 
-This page lists the GNSS chipsets that are used in the Garmin Fenix watches.
+This page lists the GNSS chipsets that are used in the Garmin fēnix watches.
+
+The history of the fēnix (and epix) has been summarised in an [article](https://www.dcrainmaker.com/2023/12/garmin-fenix7-epix-release-history-explained.html) by DC Rainmaker.
 
 The various models are listed in reverse-chronological order. The release dates are generally from [Wikipedia](https://en.wikipedia.org/wiki/Garmin_Fenix#Models).
-
-The release history of the Fenix is also summarised on a page written by [DC Rainmaker](https://www.dcrainmaker.com/2023/12/garmin-fenix7-epix-release-history-explained.html).
 
 
 

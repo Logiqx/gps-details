@@ -1,10 +1,10 @@
-## Garmin Epix
+## Garmin epix
 
 ### Overview
 
-This page lists the GNSS chipsets that are used in the Garmin Epix watches.
+This page lists the GNSS chipsets that are used in the Garmin epix watches.
 
-Epix Gen 2 watches are essentially a Fenix 7 with AMOLED display, as described in an [article](https://www.dcrainmaker.com/2023/12/garmin-fenix7-epix-release-history-explained.html) by DC Rainmaker.
+epix Gen 2 watches are essentially a fēnix 7 with AMOLED display, as described in an [article](https://www.dcrainmaker.com/2023/12/garmin-fenix7-epix-release-history-explained.html) by DC Rainmaker.
 
 The various models are listed in reverse-chronological order.
 

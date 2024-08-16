@@ -1,8 +1,8 @@
-## Garmin Vivoactive
+## Garmin vívoactive
 
 ### Overview
 
-This page lists the GNSS chipsets that are used in the Garmin Vivoactive watches.
+This page lists the GNSS chipsets that are used in the Garmin vívoactive watches.
 
 The various models are listed in reverse-chronological order.
 
