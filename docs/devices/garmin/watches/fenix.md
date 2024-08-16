@@ -46,9 +46,9 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | fēnix 5 / 5S / 5X      | 2017-01  | MT3333  | F Tipi [teardown](http://www.f-blog.info/garmin-fenix-5x-inner-parts-teardown-disassembly-assembly-etc-no-disassemble/) |
 | fēnix Chronos          | 2016-08  | MT3333  |                                                              |
 | fēnix 3 HR             | 2016-01  | MT3333  |                                                              |
-| fēnix 3                | 2015-01  | MT3333  |                                                              |
+| fēnix 3                | 2015-01  | MT3333  | F Tipi [teardown](http://www.f-blog.info/diving-inside-garmin-fenix-3-tear-down-etc/) |
 | fēnix 2                | 2014-02  | MT3333  |                                                              |
-| fēnix                  | 2012-07  | MT3333  |                                                              |
+| fēnix                  | 2012-07  | ?       |                                                              |
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
 
