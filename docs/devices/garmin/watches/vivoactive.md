@@ -34,6 +34,7 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | ------------- | -------- | ------- | ------------------------------------------------------------ |
 | vívoactive 3  | 2017-09  | MT3333  | Garmin [manual](https://www8.garmin.com/manuals/webhelp/vivoactive3/EN-US/GUID-A8048FBA-ABB9-4786-B888-303A20574D68.html) + DCR [article](https://www.dcrainmaker.com/2017/08/garmin-vivoactive-3-everything-you-need-to-know.html) |
 | vívoactive HR | 2016-02  | MT3333  | Garmin [manual](https://www8.garmin.com/manuals/webhelp/vivoactivehr/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2016/05/garmin-vivoactivehr-review.html) |
+| vívoactive    | 2015-01  | MT3333  | Garmin [manual](https://www8.garmin.com/manuals/webhelp/vivoactive/EN-US/GUID-1ACDA769-89EB-438C-80EC-F63D01631BA7.html) + DCR [review](https://www.dcrainmaker.com/2015/01/vivoactive-smartwatch-vivofit2.html#the-vivoactive) |
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
 
