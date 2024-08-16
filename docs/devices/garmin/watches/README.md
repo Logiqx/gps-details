@@ -25,24 +25,23 @@ The following pages list the GNSS chipsets inside the different ranges and model
 
 
 
-### Sometimes used on GP3S
+### Rarely used on GP3S
 
-The following watch ranges have been used on GP3S, but so rarely that I haven't created any documentation:
+The following watch ranges have been used in the past, but rarely used nowadays:
 
-- Approach - golf
-- D2 - aviation
-- Decent - diving
 - Edge - cycling
-- Enduro - ultra racing
-- MARQ - various
-- Swim
-
-
-
-### Historically used on GP3S
-
-The following watch ranges have been used on GP3S in the past, but so rarely nowadays that I haven't created any documentation:
-
 - eTrex - handheld
 - Foretrex - wrist
 - Gekko - handheld
+
+The following watch ranges are listed on GP3S, but may not have been used, ever:
+
+- D2 - aviation
+- Descent - diving
+- Enduro - ultra racing
+- MARQ - various
+
+The following watch ranges are not listed on GP3S:
+
+- Approach - golf
+- Swim
