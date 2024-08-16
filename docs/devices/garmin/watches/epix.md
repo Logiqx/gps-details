@@ -4,7 +4,7 @@
 
 This page lists the GNSS chipsets that are used in the Garmin Epix watches.
 
-Epix [Pro] Gen 2 watches are essentially a Fenix [Pro] 7 with AMOLED display, as described in an [article](https://www.dcrainmaker.com/2023/12/garmin-fenix7-epix-release-history-explained.html) by DC Rainmaker.
+Epix Gen 2 watches are essentially a Fenix 7 with AMOLED display, as described in an [article](https://www.dcrainmaker.com/2023/12/garmin-fenix7-epix-release-history-explained.html) by DC Rainmaker.
 
 The various models are listed in reverse-chronological order.
 
