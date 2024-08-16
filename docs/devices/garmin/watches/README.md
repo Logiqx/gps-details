@@ -14,7 +14,7 @@ Chipsets for the very old watches have been obtained from a variety of sources, 
 
 The following pages list the GNSS chipsets inside the different ranges and models:
 
-- Epix
+- [Epix](epix.md)
 - [Fenix](fenix.md)
 - [Forerunner](forerunner.md)
 - [Instinct](instinct.md)
