@@ -18,7 +18,7 @@ The following pages list the GNSS chipsets inside the different ranges and model
 - [Fenix](fenix.md)
 - [Forerunner](forerunner.md)
 - [Instinct](instinct.md)
-- Quatix
+- [Quatix](quatix.md)
 - Tactix
 - Venu
 - [Vivoactive](vivoactive.md)
