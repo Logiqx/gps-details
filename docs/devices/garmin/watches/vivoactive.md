@@ -4,7 +4,7 @@
 
 This page lists the GNSS chipsets that are used in the Garmin vívoactive watches.
 
-The various models are listed in reverse-chronological order.
+The various models are listed in reverse-chronological order. The release dates are generally from Garmin announcements.
 
 
 

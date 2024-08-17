@@ -29,7 +29,7 @@ GNSS chipset details are provided for the following Garmin series:
   - [Instinct](instinct.md) - unsupported by the apps
   - [epix](epix.md)
   - [quatix](quatix.md)
-  - tactix
+  - [tactix](tactix.md)
 - Lightweight - running / health / fitness
   - [Forerunner](forerunner.md)
   - [vívoactive](vivoactive.md)
