@@ -33,7 +33,7 @@ GNSS chipset details are provided for the following Garmin series:
 - Lightweight - running / health / fitness
   - [Forerunner](forerunner.md)
   - [vívoactive](vivoactive.md)
-  - Venu
+  - [Venu](venu.md)
 
 
 
