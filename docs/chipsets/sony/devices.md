@@ -25,7 +25,7 @@ In addition, some of the other Garmin watches using the Sony chipset are listed 
 
 The APEX, VERTIX, APEX Pro and PACE 2 all use the Sony GNSS chipset:
 
-- APEX 42mm  + 46mm were released in Oct 2018.
+- APEX 42 / 46 mm were released in Oct 2018.
 - VERTIX was released in May 2019.
 - APEX Pro was released in Sep 2019.
 - PACE 2 was released in Aug 2020.
