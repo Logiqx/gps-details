@@ -43,7 +43,7 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 
 | Model    | Released | Chipset | References                                                   |
 | -------- | -------- | ------- | ------------------------------------------------------------ |
-| Instinct | 2018-10  | MT3333  | Garmin [manual](https://www8.garmin.com/manuals/webhelp/instinct/EN-US/GUID-1500E73F-F386-49AF-A542-25D4B1655A08.html) + DCR [review](https://www.dcrainmaker.com/2018/10/garmin-instinct-gps-watch-in-depth-review.html) |
+| Instinct | 2018-10  | MT3333  | Garmin [manual](https://www8.garmin.com/manuals/webhelp/instinct/EN-US/GUID-4EE5B773-E8A3-4C61-8D64-432B575963D8.html) + DCR [review](https://www.dcrainmaker.com/2018/10/garmin-instinct-gps-watch-in-depth-review.html) |
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
 

@@ -4,13 +4,17 @@
 
 MediaTek GNSS chipsets are detailed on another [page](README.md) but to summarise:
 
-- The MT3333 was [announced](https://corp.mediatek.com/news-events/press-releases/mediatek-announces-worlds-1st-5-in-1-multi-gnss-receiver-soc-solutions-supporting-beidou-satellite-navigation-system) in January 2013.
+- The MT3333 was [announced](https://corp.mediatek.com/news-events/press-releases/mediatek-announces-worlds-1st-5-in-1-multi-gnss-receiver-soc-solutions-supporting-beidou-satellite-navigation-system) in January 2013 and used by Garmin from 2013 to 2018.
   - It supports GPS / GLONASS / Galileo / BeiDou + QZSS.
   - It was used in Garmin watches from 2013-2018.
 
 - The MT3339 was [announced](https://corp.mediatek.com/news-events/press-releases/mediatek-announces-its-latest-gps-solution-supporting-qzss) in June 2011.
+  - It supports GPS + QZSS, SBAS ranging, and AGPS
+  - It was potentially the MediaTek chipset used in earlier Garmin watches, prior to the MT3333.
+- The MT3337 can be found in Google results going back to 2010.
   - It supports GPS + QZSS.
-  - It was potentially the MediaTek chipset used in Garmin watches during 2012, prior to the MT3333.
+  - It was potentially the MediaTek chipset used in earlier Garmin watches, prior to the MT3333.
+
 
 
 
@@ -27,10 +31,11 @@ fēnix teardowns confirming the MT3333:
 
 Forerunner teardowns confirming the MT3333:
 
+- Forerunner 220 was released in Sep 2013. MT3333 confirmed by the EE World [teardown](https://www.eeworldonline.com/teardown-garmin-forerunner-220-sport-watch-heart-monitor/)
 - Forerunner 230 was released in Oct 2015. MT3333 confirmed by the Embedded Computing [teardown](https://embeddedcomputing.com/application/consumer/smartphones-and-wearables/tear-down-garmin-forerunner-230-gps-running-watch).
 - Forerunner 735XT was released in May 2016. MT3333 confirmed by the iFixit [teardown](https://www.ifixit.com/Teardown/Garmin+Forerunner+735XT+Teardown/117852).
 
-It is not clear which MediaTek chipset was used prior to release of the MT3333, but it could have been the MT3339.
+It is not clear which MediaTek chipset was used prior to using the MT3333, but it could have been the MT3337 (or MT3339).
 
 
 

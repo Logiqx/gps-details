@@ -101,7 +101,7 @@ Specifications:
 - RTCM ready
 - Indoor and outdoor multi-path detection and compensation
 - Supports FCC E911 compliance and A-GPS
-- Max. fixed update rate up to 5 Hz  
+- Max. fixed update rate up to 10 Hz  
 
 
 

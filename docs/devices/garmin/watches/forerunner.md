@@ -50,13 +50,13 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | Forerunner 735XT            | 2016-05 | MT3333 | iFixit [teardown](https://www.ifixit.com/Teardown/Garmin+Forerunner+735XT+Teardown/117852) |
 | Forerunner 630              | 2015-10 | MT3333 |  |
 | Forerunner 230 / 235        | 2015-10 | MT3333 | EC [teardown](https://embeddedcomputing.com/27555-tear-down-garmin-forerunner-230-gps-running-watch/) + [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
-| Forerunner 25               | 2015-08 | MT3333 |  |
-| Forerunner 225              | 2015-05 | MT3333 | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
+| Forerunner 25               | 2015-08 | MT333x |  |
+| Forerunner 225              | 2015-05 | MT333x | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
 | Forerunner 920XT            | 2014-10 | MT3333 |  |
-| Forerunner 15               | 2014-05 | MT3333 |  |
-| Forerunner 620              | 2013-09 | MT3333 | DCR [comments](https://www.dcrainmaker.com/2013/11/garmin-forerunner-review.html/comment-page-4) + [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
-| Forerunner 220              | 2013-09 | MT3333 |  |
-| Forerunner 10    | 2012-08 | MT3339? | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
+| Forerunner 15               | 2014-05 | MT333x |  |
+| Forerunner 620              | 2013-09 | MT333x | DCR [comments](https://www.dcrainmaker.com/2013/11/garmin-forerunner-review.html/comment-page-4) + [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
+| Forerunner 220              | 2013-09 | MT3333 | EE World [teardown](https://www.eeworldonline.com/teardown-garmin-forerunner-220-sport-watch-heart-monitor/) |
+| Forerunner 10    | 2012-08 | MT333x | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
 

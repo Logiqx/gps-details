@@ -47,8 +47,8 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | fēnix Chronos          | 2016-08  | MT3333  |                                                              |
 | fēnix 3 HR             | 2016-01  | MT3333  |                                                              |
 | fēnix 3                | 2015-01  | MT3333  | F Tipi [teardown](http://www.f-blog.info/diving-inside-garmin-fenix-3-tear-down-etc/) |
-| fēnix 2                | 2014-02  | MT3333  |                                                              |
-| fēnix                  | 2012-07  | MT3339? |                                                              |
+| fēnix 2                | 2014-02  | MT333x  |                                                              |
+| fēnix                  | 2012-07  | MT333x  |                                                              |
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
 
