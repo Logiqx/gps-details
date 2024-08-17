@@ -27,7 +27,7 @@ The availability of all systems + multi-band is due to the Airoha AG3335M.
 
 The AG3335MN and AG3352 chipsets do not support multi-band, thus cannot be used in watches supporting multi-band.
 
-AG3335MN is likely to have been used in the non multi-band watches released in 2022:
+AG3335MN is likely to have been used in all of the non multi-band Garmin watches released in 2022, except the Sony models:
 
 - fēnix 7X Solar was released in Jan 2022 and uses the AG3335MN, confirmed by the F Tipi [teardown](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/).
 - Venu Sq 2 was released in Sep 2022 and uses the AG3335MN, confirmed by the FCC [teardown](https://fccid.io/IPH-A4390/Internal-Photos/Internal-Photos-5919160).
@@ -40,7 +40,11 @@ The Garmin watches since 2023 could be using either the AG3335MN or AG3352, but 
 
 The availability of all systems + multi-band indicates that COROS are using the AG3335M chipset.
 
-The PACE 3, APEX 2 Pro, VERTIX 2, and VERTIX 2S all have multi-band so they will be using the AG3335M.
+The PACE 3, APEX 2 Pro, VERTIX 2, and VERTIX 2S all have multi-band so they will be using the AG3335M:
 
-The APEX 2 uses Airoha and was released in Nov 2022, but does not have multi-band so probably using the AG3335MN.
+- PACE 3 was released in Aug 2023 and uses the AG3335M, confirmed by the FCC [teardown](https://fccid.io/2BBGF-W331/Internal-Photos/Internal-Photos-6752189).
+
+The APEX 2 uses Airoha and was released in Nov 2022, but it does not have multi-band so probably the AG3335MN.
+
+- APEX 2 was released in Nov 2022 and probably uses the AG3335MN, only Airoha is confirmed by the FCC [teardown](https://fccid.io/2AEHH-W522/Internal-Photos/Internal-Photos-6205922).
 

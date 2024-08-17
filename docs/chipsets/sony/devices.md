@@ -17,7 +17,9 @@ Garmin first used the Sony GNSS chipset in 2019 and multiple teardowns show the 
 - Forerunner 245 was released in Apr 2019 and uses the D5603, confirmed by iFixIt [teardown](https://www.ifixit.com/Teardown/Garmin+Forerunner+245+Music+Teardown/150396?srsltid=AfmBOoqg114zv10EakWr_a1-HPvIx9ZS2-FD9lbg5X57jVdyvS60z2Vz).
 - fēnix 6X Pro was released in Aug 2019 and uses the D5603, confirmed by F Tipi [tear down](http://www.f-blog.info/garmin-fenix-6x-pro-disassembly-or-teardown-whatever-you-say/).
 
-In addition, some of the other Garmin watches using the Sony chipset are listed by [DC Rainmaker](https://www.dcrainmaker.com/2021/01/gps-accuracy-impacting-devices.html).
+The Sony GNSS chipset was primarily used 2019-2021, but also in Jan 2022 for the Instinct 2 and Feb 2022 for the Venu 2 Plus.
+
+Several of the Garmin watches using the Sony chipset are also listed by [DC Rainmaker](https://www.dcrainmaker.com/2021/01/gps-accuracy-impacting-devices.html).
 
 
 
