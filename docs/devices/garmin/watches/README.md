@@ -25,35 +25,35 @@ The following apps / data fields are recommended for GP3S and anyone interested 
 GNSS chipset details are provided for the following Garmin series:
 
 - Rugged - multisport
-  - [epix](epix.md)
   - [fēnix](fenix.md)
   - [Instinct](instinct.md) - unsupported by the apps
-  - tactix
+  - [epix](epix.md)
   - [quatix](quatix.md)
+  - tactix
 - Lightweight - running / health / fitness
   - [Forerunner](forerunner.md)
-  - Venu
   - [vívoactive](vivoactive.md)
+  - Venu
 
 
 
 ### Devices rarely used for GP3S
 
-These watch ranges are rarely used on GP3S so have not been investigated, despite being supported by the most popular apps:
+These series are rarely used on GP3S, despite being supported by the recommended apps:
 
-- D2
 - Descent
+- D2
 - Enduro
 - MARQ
 
-These watch ranges are rarely used on GP3S (nowadays) and not supported by the most popular apps:
+These series are rarely used on GP3S (nowadays) and not supported by the recommended apps:
 
 - Edge
 - eTrex
 - Foretrex
 - Gekko
 
-These watch ranges are not listed on GP3S and not supported by the most popular apps:
+These series are not listed on GP3S and not supported by the recommended apps:
 
 - Approach
 - Swim
