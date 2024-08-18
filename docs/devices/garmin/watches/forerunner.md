@@ -48,7 +48,7 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | Forerunner 935              | 2017-03 | MT3333 |  |
 | Forerunner 35               | 2016-08 | MT3333 |  |
 | Forerunner 735XT            | 2016-05 | MT3333 | iFixit [teardown](https://www.ifixit.com/Teardown/Garmin+Forerunner+735XT+Teardown/117852) |
-| Forerunner 630              | 2015-10 | MT3333 |  |
+| Forerunner 630              | 2015-10 | MT3333 | Tech T [teardown](https://youtu.be/WdbPKmjUrKc?t=114) |
 | Forerunner 235        | 2015-10 | MT3333 | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
 | Forerunner 230 | 2015-10 | MT3333 | Embedded [teardown](https://embeddedcomputing.com/27555-tear-down-garmin-forerunner-230-gps-running-watch/) |
 | Forerunner 25               | 2015-08 | MT333x |  |
