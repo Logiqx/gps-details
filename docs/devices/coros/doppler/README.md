@@ -68,6 +68,24 @@ This behavior is unlike anything that I have seen from a COROS watch since buyin
 
 
 
+### APEX 2 Pro
+
+Prior to firmware V 3.0408.0 which introduced a problem in May 2024 the APEX 2 Pro used to record what appeared to be the Doppler-derived speed (red), and filtered / smoothed positional data (green). Here is an example from November 2023, firmware V 3.05.0. 
+
+![2023-11-04](img/7-2023-11-04.png)
+
+
+
+Since V 3.0508.0 (and the beta V 3.0506.0) there is no longer a distinction between what should be the Doppler-derived speed (red)and position-derived speed (green). The only exception is the "teeth" in position-derived speeds during periods of acceleration.
+
+![2024-08-15](img/8-2024-08-15.png)
+
+
+
+In addition to the earlier observations, this suggests that all COROS watches are now discarding the Doppler-derived data and using filtered / smoothed positional data for speeds. This is highly undesirable for the speed surfing community.
+
+
+
 ### Summary
 
 After upgrading to firmware V 3.0508.0 the VERTIX no longer appears to be recording the Doppler-derived speeds of the Sony GNSS chip. This results in inflated speeds being reported and the examples above show an excess of 2 knots for the max 2 seconds. A difference of two knots might not sound like much but it is actually a big deal when we expect the accuracy to typically be within a few tenths of a knot.
