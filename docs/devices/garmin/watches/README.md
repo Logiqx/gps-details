@@ -12,11 +12,14 @@ The information is intended for people choosing a Garmin watch, or curious about
 
 ### Recommended Apps
 
-The following apps / data fields are recommended for GP3S and anyone interested in their speeds:
+Connect IQ apps worth trying:
 
-- [APPro WIndsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791?tid=1)
-- [GPSTC V4](https://apps.garmin.com/apps/f0f3fbd5-9de3-4d69-b89b-10b76d6a9f0f?tid=1)
-- [Windsurfing application](https://apps.garmin.com/apps/9d47be43-2724-44e4-8f5e-3005b0766087?tid=1)
+- [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791)
+- [Windsurfing application](https://apps.garmin.com/apps/9d47be43-2724-44e4-8f5e-3005b0766087)
+
+Connect IQ data fields worth trying:
+
+- [GPSTC V4](https://apps.garmin.com/apps/f0f3fbd5-9de3-4d69-b89b-10b76d6a9f0f)
 
 
 
