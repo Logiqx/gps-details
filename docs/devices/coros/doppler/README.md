@@ -70,19 +70,21 @@ This behavior is unlike anything that I have seen from a COROS watch since buyin
 
 ### APEX 2 Pro
 
-Prior to firmware V 3.0408.0 which introduced a problem in May 2024 the APEX 2 Pro used to record what appeared to be the Doppler-derived speed (red), and filtered / smoothed positional data (green). Here is an example from November 2023, firmware V 3.05.0. 
+Prior to firmware V 3.0408.0 in May 2024 which introduced a different problem, watches such as the APEX 2 Pro (and VERTIX 2) used to record what appeared to be the Doppler-derived speed (red), and filtered / smoothed positional data (green). As always with COROS data the position-derived speeds (green) exhibit "teeth" during periods of acceleration.
+
+Here is an example from November 2023, firmware V 3.05.0. 
 
 ![2023-11-04](img/7-2023-11-04.png)
 
 
 
-Since V 3.0508.0 (and the beta V 3.0506.0) there is no longer a distinction between what should be the Doppler-derived speed (red)and position-derived speed (green). The only exception is the "teeth" in position-derived speeds during periods of acceleration.
+Since V 3.0508.0 (and the beta V 3.0506.0) there is no longer a distinction between what should be the Doppler-derived speed (red)and position-derived speed (green). They are both extremely smooth and the only real difference is the "teeth" in position-derived speeds during periods of acceleration.
 
 ![2024-08-15](img/8-2024-08-15.png)
 
 
 
-In addition to the earlier observations, this suggests that all COROS watches are now discarding the Doppler-derived data and using filtered / smoothed positional data for speeds. This is highly undesirable for the speed surfing community.
+Taking into account the earlier observations, it suggests that all COROS watches are now discarding the Doppler-derived speed data and using filtered / smoothed position-derived speeds. This is highly undesirable for the speed surfing community.
 
 
 
