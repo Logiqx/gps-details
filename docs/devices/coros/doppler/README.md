@@ -46,11 +46,11 @@ The same session was also recorded on the Locosys GW-60 (green) which can be reg
 
 
 
-As with the previous firmware there are also periods where there are no sawtooth artefacts evident in the data.
+As with the previous firmware there are also periods where there are no sawtooth artefacts evident in the data. The only exception is during the initial period of acceleration where "teeth" are evident in the position-derived speeds.
 
 ![pre-issue-clean](img/4-post-issue-clean.png)
 
-Looking at the fastest run from a second speed surfer (same day, same spot, different VERTIX) also shows an unrealistic max 2 seconds, almost certainly a couple of knots too high. The most important point to note is that what should be the Doppler-derived speed (red) contains the sawtooth artefacts of the position-derived speed (red). The main exception is during the initial periods of acceleration where "teeth" are evident in the position-derived speeds.
+Looking at the fastest run from a second speed surfer (same day, same spot, different VERTIX) also shows an unrealistic max 2 seconds, almost certainly a couple of knots too high. The most important point to note is that what should be the Doppler-derived speed (blue) contains the sawtooth artefacts of the position-derived speed (red). The main exception is during the initial periods of acceleration where "teeth" are evident in the position-derived speeds.
 
 
 
@@ -58,7 +58,7 @@ Looking at the fastest run from a second speed surfer (same day, same spot, diff
 
 
 
-The second fastest run of this same rider is another particularly good example, showing the same sawtooth artefacts in what should be the Doppler-derived speed (red) and position-derived speed (blue). There is no ambiguity with this specific run and what should be Doppler-derived speeds are almost identical to the position-derived speeds.
+The second fastest run of this same rider is another particularly good example, showing the same sawtooth artefacts in what should be the Doppler-derived speed (blue) and position-derived speed (red). There is no ambiguity with this specific run and what should be Doppler-derived speeds are almost identical to the position-derived speeds.
 
 ![vertix-noisy-2](img/6-vertix-noisy-2.png)
 
