@@ -119,7 +119,7 @@ Airoha provide a number of activity modes which have different dynamic models, f
 | ---- | ---------- | ---------------- | --------------- |
 | 0    | Normal     | 10000            | 100             |
 | 1    | Fitness    | 10000            | 30              |
-| 2    | ?          | ?                | ?               |
+| 2    | Aviation   | 10000            | ?               |
 | 3    | Balloon    | 80000            | ?               |
 | 4    | Stationary | 10000            | 10              |
 | 5    | ?          | ?                | ?               |
