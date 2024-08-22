@@ -8,7 +8,7 @@ Created: 22 Aug 2024
 
 ### Introduction
 
-This document has been created to provide information that may be used to resolve the current issues relating the speedsurfing and windsurfing activities on COROS watches.
+This document has been created to provide information that may help to resolve the current issues relating the speedsurfing and windsurfing activities on COROS watches.
 
 It will start with some general background which supplements previous documents, then take a look at the settings of the Airoha AG3335M in the hopes that the root cause of the issues can be resolved.
 
