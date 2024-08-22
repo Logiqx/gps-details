@@ -22,7 +22,7 @@ Firmware V3.0408.0 for COROS watches introduced [smoothing issues](README.md) th
 
 Since the V3.0408.0 issue did not affect the APEX Pro or VERTIX there was no expectation that their firmware would be affected by the fix. It has now come to light that there is a new (and arguable worse) [non-doppler issue](../doppler/README.md) present on all COROS watches - Sony and Airoha GNSS chipsets.
 
-The available Airoha technical documentation has been reviewed, and this document documents some thoughts regarding a proper fix.
+The available Airoha technical documentation has been reviewed, attempting to identify settings which may relate to the COROS issues.
 
 
 
@@ -42,7 +42,7 @@ The fix in V3.0506.0 appeared to remove the disparity of the issue in V3.0408.0,
 
 ![apparent fix](img\apparent-fix.png)
 
-The nature of the fix in V3.0506.0 / V3.0508.0 was not evident until issues were spotted in Aug 2024, affecting the VERTIX and APEX Pro:
+The nature of the fix in V3.0506.0 / V3.0508.0 was not apparent until issues were spotted in Aug 2024, affecting the VERTIX and APEX Pro:
 
 ![9 mins](../smoothing/img/apex-pro-03-0508.png)
 
@@ -52,15 +52,15 @@ Comparing the APEX Pro speeds (magenta) against our two benchmark devices (u-blo
 
 
 
-Note: This is just a typical session, we have many worse examples from the APEX Pro and VERTIX using V3.0508.0.
+Note: This is just a typical session, we have many worse examples for the APEX Pro and VERTIX using V3.0508.0.
 
 
 
 ### How it Happened
 
-The changes in V3.0506.0 / V3.0508.0 are thought to be the same for the earlier watches (APEX Pro and VERTIX) as the newer watches (APEX 2, APEX 2 Pro, VERTIX 2, VERTIX 2S). It's hard to be 100% sure that the changes were applied universally, but it seems quite likely.
+The changes in V3.0506.0 / V3.0508.0 are thought to be the same for the earlier watches (APEX Pro and VERTIX) as the newer watches (APEX 2, APEX 2 Pro, VERTIX 2, VERTIX 2S). It's hard to be 100% sure that the changes were applied universally, but it seems likely.
 
-Since the original problem did not affect the older watches using the Sony GNSS chipset there was no testing of V3.0506.0 / V3.0508.0. The obvious issues affecting the VERTIX and APEX Pro may be caused by the use of positional data for speeds, instead of the speed calculated by the Sony chip.
+Since the original problem did not affect the older watches using the Sony GNSS chipset there was no testing of V3.0506.0 beta. The obvious issues affecting the VERTIX and APEX Pro may well be caused by the use of positional data for speeds, instead of the speed calculated by the Sony chip.
 
 This is particularly bad for the COROS watches using the Sony chipset, but also bad for the newer models using the Airoha AG3335M. We expected a tweak to some parameters of the AG3335M, not a wholesale change which (apparently) discards the speed from the GNSS chip.
 
@@ -68,7 +68,7 @@ This is particularly bad for the COROS watches using the Sony chipset, but also 
 
 ### Airoha Settings
 
-It is worth noting that Garmin watches also experienced the Airoha issues seen in V3.0408.0 over two years ago. They subsequently found a fix which didn't rely upon filtering / smoothing, but no attempt has been made to determine when the issue was resolved.
+It is worth noting that Garmin watches also experienced the Airoha issues seen in V3.0408.0 over two years ago. They subsequently found a fix which didn't rely upon filtering / smoothing, but no attempt has been made to determine when their issue was resolved.
 
 The windsurfing / speedsailing community need the same quality speedsurfing data (or better) as we enjoyed back in April 2024. We believe the best way to achieve this goal is to identify and fix the root cause of the issue found in May 2024.
 
@@ -95,9 +95,9 @@ Airoha chipsets provide a number of different power saving modes:
 - Ultra Low Power (ULP)
 - Periodic Power Saving
 
-Power saving options are attractive for sports such as ultra-running and ultra-endurance cycling but they are not necessary for windsurfing / speedsurfing. Power saving comes at the expense of data quality which in most sports is not hugely important, but for a sport that measures performance using instantaneous top speeds, power saving is highly undesirable.
+Power saving options are attractive for sports such as ultra-running and ultra-endurance cycling but they are unnecessary for windsurfing / speedsurfing. Power saving comes at the expense of data quality which in most sports is not hugely important, but for a sport that measures performance using instantaneous top speeds, power saving is highly undesirable.
 
-Power saving could be one of the reasons for the issues seen on the APEX 2 Pro, VERTIX 2 and VERTIX 2S with V3.0408.0. Speedsurfing and windsurfing modes should switch off all power saving options, regardless of whether they caused the issue in V3.0408.0. Power saving will inevitably lead to spikes, which are commonly seen on COROS watches using regular GPS mode and regular windsurfing mode (e.g. 50 knots instead of 20 knots).
+Power saving could be one of the reasons for the issues seen on the APEX 2 Pro, VERTIX 2 and VERTIX 2S with V3.0408.0. Speedsurfing and windsurfing modes should switch off all power saving options, regardless of whether they caused the issue in V3.0408.0. Power saving will inevitably lead to spikes, which are commonly seen on COROS watches using regular GPS mode for the windsurfing activity (e.g. 50 knots instead of 20 knots).
 
 The following proprietary Airoha (PAIR) commands can be used to turn off all forms of power saving:
 
@@ -113,7 +113,7 @@ All of these features should be disabled for speedsurfing and windsurfing activi
 
 #### Activity Modes
 
-Airoha provide a number of activity modes which have different dynamic models, filtering and limits:
+Airoha provide a number of activity modes which have different dynamic models, filtering and range limits:
 
 |      | Name       | Max Altitude (m) | Max Speed (m/s) |
 | ---- | ---------- | ---------------- | --------------- |
@@ -125,8 +125,8 @@ Airoha provide a number of activity modes which have different dynamic models, f
 | 5    | ?          | ?                | ?               |
 | 6    | Drone      | 10000            | 30              |
 | 7    | Swimming   | 10000            | 10              |
-| 8    | Bike       | ?                | ?               |
-| 9    | ?          | 10000            | 30              |
+| 8    | ?          | ?                | ?               |
+| 9    | Bike       | 10000            | 30              |
 
 The filtering / smoothing observed in COROS watches running V3.0408.0 may be due to an inappropriate mode being selected.
 
@@ -140,7 +140,7 @@ Along with the power saving features, activity modes seem like the most likely c
 
 #### Fix Rate
 
-It is notable that when capturing raw data from Garmin devices using the same chipset, artefacts due to arm movement are evident as would be predicted by basic [sampling theory](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem). I will describe it here because there is a chance it is related to the fix that Garmin implemented.
+It is notable that when capturing raw data from Garmin devices using the same Airoha chipset, artefacts due to arm movement are evident. This is predictable (basic [sampling theory](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)), but is described here because there is a chance it is related to the fix that Garmin implemented.
 
 The example below is from a u-blox logger generating fix solutions at 10 Hz, but logging at 5 Hz and 1 Hz. The true cadence of the arm movement is captured by the 5 Hz data (red), but aliasing is clearly evident when logging at 1 Hz (blue).
 
@@ -184,14 +184,16 @@ I'm not proposing that COROS experiment with minimum SNR or elevation mask at th
 
 ### Way Forward
 
-Speedsurfing mode should be recording the Sony / Airoha data without an additional filtering / smoothing applied. It is particularly important that the speeds calculated by the GNSS chipsets (doppler-derived) are unfiltered. The windsurfing mode should really handle the GNSS data in exactly the same way as speedsurfing, because they are both used by the same community, wanting to know the same thing - comparable speeds.
+Speedsurfing mode should be recording the Sony / Airoha data without an additional filtering / smoothing applied. It is particularly important that the speeds calculated by the GNSS chipsets (doppler-derived) are unfiltered. The windsurfing mode should really handle the GNSS data in exactly the same way as speedsurfing, because they are both used by the same community, wanting to know the same thing - trustworthy speeds.
 
-The requirement of the speedsurfing community is to regain the data quality that we had in April, so that we can compete on a level playing field. To achieve this goal there are two main activities:
+The requirement of the speedsurfing community is to regain the data quality that we had in April, so that we can compete on a level playing field.
 
-1) Roll back the speedsurfing code to how it was prior to V3.0408.0.
-2) Address the underlying issue(s) relating to the Airoha speeds in V3.0408.0.
+To achieve this goal there are two main activities:
 
-Fixing the root cause must be possible, because Garmin faced exactly the same issue over 2 years ago, and have subsequently resolved it.
+1. Roll back the speedsurfing code to how it was prior to V3.0408.0.
+2. Address the underlying issue(s) relating to the Airoha speeds in V3.0408.0.
+
+Fixing the root cause must be possible, because Garmin had exactly the same issue over 2 years ago, and have subsequently resolved it.
 
 Hopefully the information in this document will prove to be helpful in diagnosing and fixing the underlying issue(s).
 
@@ -199,7 +201,7 @@ Hopefully the information in this document will prove to be helpful in diagnosin
 
 ### References
 
-I do not have access to the Airoha_IoT_SDK_for_GNSS_Developers_Guide, so I have used Airoha documentation from SIMCom, Quectel, and Robu.in.
+We do not have access to the Airoha_IoT_SDK_for_GNSS_Developers_Guide, so we have used Airoha documentation from SIMCom, Quectel, and Robu.in.
 
 - [SIMCom SIM68D Series NMEA Message User Guide](https://en.simcom.com/technical_files.html?pro_cat=10&pro_li=71&time=0&filetype=0) - confirmed as [AG3335M](https://www.avnet.com/wps/wcm/connect/onesite/3a0ea576-cf1b-4a79-8479-5fff508b3c01/EBV-IoT+-+SIMCom+GNSS+Modules+Info+Sheet.pdf?MOD=AJPERES&CVID=nxzMVxi&CVID=nxvsTVu&srsltid=AfmBOopCaoUOA7bpMqRLKpTbZg2-YQLGgqttJoFp0sA4-TuMiJUObcdp)
 - [Quectel LC29H Series & LC79H (AL) GNSS Protocol Specification](https://forums.quectel.com/uploads/short-url/gJTnPOK8MkEJIgLFR7QgjvrpUey.pdf) - confirmed as [AG3335 platform](https://www.quectel.com/news-and-pr/gnss-lc29h-launch/)
