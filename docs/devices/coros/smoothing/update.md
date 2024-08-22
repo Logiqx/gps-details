@@ -60,7 +60,7 @@ Note: This is just a typical session, we have many worse examples for the APEX P
 
 The changes in V3.0506.0 / V3.0508.0 are thought to be the same for the earlier watches (APEX Pro and VERTIX) as the newer watches (APEX 2, APEX 2 Pro, VERTIX 2, VERTIX 2S). It's hard to be 100% sure that the changes were applied universally, but it seems likely.
 
-Since the original problem did not affect the older watches using the Sony GNSS chipset there was no testing of V3.0506.0 beta. The obvious issues affecting the VERTIX and APEX Pro may well be caused by the use of positional data for speeds, instead of the speed calculated by the Sony chip.
+Since the original problem did not affect the older watches using the Sony GNSS chipset there was no testing of V3.0506.0 beta on the VERTIX or APEX Pro. The obvious issues now affecting the VERTIX and APEX Pro may be caused by the use of positional data for speeds, instead of the speed calculated by the Sony chip.
 
 This is particularly bad for the COROS watches using the Sony chipset, but also bad for the newer models using the Airoha AG3335M. We expected a tweak to some parameters of the AG3335M, not a wholesale change which (apparently) discards the speed from the GNSS chip.
 
@@ -101,19 +101,19 @@ Power saving could be one of the reasons for the issues seen on the APEX 2 Pro, 
 
 The following proprietary Airoha (PAIR) commands can be used to turn off all forms of power saving:
 
-- 680 PAIR_GLP_ENABLE - requirements are 1 Hz, GPS only, and fitness navigation mode
+- 680 PAIR_GLP_ENABLE - only applies to 1 Hz, GPS only, fitness navigation mode
 - 690 PAIR_PERIODIC_SET_MODE
-- 700 PAIR_ULP_ENABLE - only supported under fitness navigation mode
-- 730 PAIR_FLP_ENABLE - only supported under fitness navigation mode
-- 732 PAIR_ALP_ENABLE - only supported under normal and fitness navigation modes
+- 700 PAIR_ULP_ENABLE - only applies to fitness navigation mode
+- 730 PAIR_FLP_ENABLE - only applies to fitness navigation mode
+- 732 PAIR_ALP_ENABLE - only applies to normal and fitness navigation modes
 
-All of these features should be disabled for speedsurfing and windsurfing activities.
+All of these power saving features should be disabled for speedsurfing and windsurfing activities.
 
 
 
 #### Activity Modes
 
-Airoha provide a number of activity modes which have different dynamic models, filtering and range limits:
+Airoha provide a number of activity modes which have different dynamic models, filters and limits:
 
 |      | Name       | Max Altitude (m) | Max Speed (m/s) |
 | ---- | ---------- | ---------------- | --------------- |
@@ -128,13 +128,13 @@ Airoha provide a number of activity modes which have different dynamic models, f
 | 8    | ?          | ?                | ?               |
 | 9    | Bike       | 10000            | 30              |
 
-The filtering / smoothing observed in COROS watches running V3.0408.0 may be due to an inappropriate mode being selected.
+The filtering / smoothing observed in COROS watches running V3.0408.0 may be due to an inappropriate activity mode being selected.
 
 The navigation mode is set by the following proprietary Airoha (PAIR) command:
 
 - 080 PAIR_COMMON_SET_NAVIGATION_MODE
 
-Along with the power saving features, activity modes seem like the most likely cause of the issue in V3.0408.0.
+Along with the power saving features, activity modes are perhaps the most likely cause of the issue in V3.0408.0.
 
 
 
@@ -152,14 +152,14 @@ This is well understood and explained by the Nyquist theorem, but it is interest
 
 ![apparent fix](img\walking-fr-255.png)
 
-We can only speculate how Airoha have implemented down-sampling within the AG3335M, but it is conceivable that changing the fix rate may trigger other changes of behavior, implementation of the dynamic models, and / or filters being applied.
+We can only speculate how Airoha have implemented down-sampling within the AG3335M, but it is conceivable that changing the fix rate may trigger other changes of behavior, dynamic models, and / or filters being applied.
 
 The fix rate (and NMEA output rate) are set by the following proprietary Airoha (PAIR) commands:
 
 - 050 PAIR_COMMON_SET_FIX_RATE - default = 1000 ms
-- 062 PAIR_COMMON_SET_NMEA_OUTPUT_RATE - default = every 1 fix (range = 0 to 20)
+- 062 PAIR_COMMON_SET_NMEA_OUTPUT_RATE - default = every 1 fix, range = 0 to 20
 
-If the issue in V3.0408.0 cannot be remedied by disabling the power saving modes (or selecting a different activity mode) then it is worth experimenting with these two parameters, imho.
+If the issue in V3.0408.0 cannot be remedied by disabling the power saving modes (or selecting a different activity mode) then it is probably worth experimenting with these two parameters.
 
 
 
@@ -169,7 +169,7 @@ The CPU frequency seems less likely to be related, but it might be relevant:
 
 - 106 PAIR_COMMON_SET_CPU_FREQ_LEVEL
 
-I don't think active interference cancellation (AIC) is relevant to this issue:
+We don't think active interference cancellation (AIC) is relevant to this issue:
 
 - 074 PAIR_COMMON_SET_AIC_ENABLE
 
@@ -178,7 +178,7 @@ Definitely unrelated to this issue, but pertinent to the quality of PVT solution
 - 058 PAIR_COMMON_SET_MIN_SNR - default = 9
 - 072 PAIR_COMMON_SET_ELEV_MASK - default = 5
 
-I'm not proposing that COROS experiment with minimum SNR or elevation mask at this time, just mentioning them for completeness.
+We are not proposing that COROS experiment with minimum SNR or elevation mask at this time, just mentioning them for completeness.
 
 
 
