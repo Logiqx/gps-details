@@ -43,7 +43,7 @@ function initializeLocationEvents()
             if (Position has :CONSTELLATION_GALILEO) {
                 options[:constellations] = [ Position.CONSTELLATION_GPS, Position.CONSTELLATION_GALILEO ];
                 Position.enableLocationEvents(options, method(:onPosition));
-				enabled = true
+                enabled = true
             }
         }
         catch (e) {
@@ -57,7 +57,7 @@ function initializeLocationEvents()
             if (Position has :CONSTELLATION_GLONASS) {
                 options[:constellations] = [ Position.CONSTELLATION_GPS, Position.CONSTELLATION_GLONASS ];
                 Position.enableLocationEvents(options, method(:onPosition));
-				enabled = true
+                enabled = true
             }
         }
         catch (e) {
