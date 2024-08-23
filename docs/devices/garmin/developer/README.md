@@ -2,7 +2,7 @@
 
 ### Enabling Location Events
 
-How to use satellite constellations other than the default (CONSTELLATION_GPS). 
+How to use GNSS constellations other than GPS on the maximum number of devices.
 
 ```c
 function startUpdates(options) {
@@ -30,7 +30,7 @@ function startLocationEvents() {
         :acquisitionType => Position.LOCATION_CONTINUOUS
     };
 
-    // Use configuration parameter for ConnectIQ 3.3.6 and later (e.g. Fenix 5)
+    // Use configuration parameter for ConnectIQ 3.3.6 and later (e.g. Fenix 5 Plus)
     if (Position has :hasConfigurationSupport) {
         // GPS L1, GLONASS, GALILEO L1, BEIDOU L1 (e.g. Fenix 7)
         if (Position has :CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1) &&
@@ -44,11 +44,11 @@ function startLocationEvents() {
         } else if (Position has :CONFIGURATION_GPS_BEIDOU) &&
                   (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_BEIDOU)) {
             options[:configuration] = Position.CONFIGURATION_GPS_BEIDOU;
-        // GPS L1 and GLONASS - (e.g. Fenix 5)
+        // GPS L1 and GLONASS - (e.g. Fenix 5 Plus)
         } else if (Position has :CONFIGURATION_GPS_GLONASS) &&
                   (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GLONASS)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GLONASS;
-        // GPS L1
+        // GPS L1 - redundant (not applicable)?
         } else if (Position has :CONFIGURATION_GPS) &&
                   (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS)) {
             options[:configuration] = Position.CONFIGURATION_GPS;
@@ -62,13 +62,13 @@ function startLocationEvents() {
         started = startUpdates(options)
     }
 
-    // Use constellations parameter for ConnectIQ 3.2.0 and later
+    // Use constellations parameter for ConnectIQ 3.2.0 and later - redundant (not possible)?
     if (!started && Position has :CONSTELLATION_GLONASS) {
         options[:constellations] = [ Position.CONSTELLATION_GPS, Position.CONSTELLATION_GLONASS ];
         started = startUpdates(options)
     }
     
-    // Use standard GPS with earlier versions of ConnectIQ
+    // Use standard GPS with versions prior ro ConnectIQ 3.2.0
     if (!started) {
         options = Position.LOCATION_CONTINUOUS;
         started = startUpdates(options)
