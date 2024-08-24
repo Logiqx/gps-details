@@ -43,7 +43,7 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 
 | Model                       | Released   | API | Chipset | References |
 | --------------------------- | ---------- | ---------- | ---------- | ---------- |
-| Forerunner 645 Music |  | 3.2.x | MT3333 | |
+| Forerunner 645 Music | 2018-01 | 3.2.x | MT3333 | |
 | Forerunner 645 | 2018-01 | 3.1.x | MT3333 |  |
 | Forerunner 30               | 2017-09 | - | MT3333 |  |
 | Forerunner 935              | 2017-03 | 3.1.x | MT3333 |  |
