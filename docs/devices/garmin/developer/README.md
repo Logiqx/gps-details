@@ -56,13 +56,13 @@ function startLocationEvents() {
         started = startUpdates(options)
     }
 
-    // Use constellations parameter for ConnectIQ 3.2.0 and later (e.g. vivoactive 3 music)
+    // Use constellations parameter for ConnectIQ 3.2.0 to 3.3.5 (e.g. vivoactive 3 music)
     if (!started && Position has :CONSTELLATION_GALILEO {
         options[:constellations] = [ Position.CONSTELLATION_GPS, Position.CONSTELLATION_GALILEO ];
         started = startUpdates(options)
     }
 
-    // Use constellations parameter for ConnectIQ 3.2.0 and later - Theoretically redundant?
+    // Use constellations parameter for ConnectIQ 3.2.0 to 3.3.5 - Theoretically redundant?
     if (!started && Position has :CONSTELLATION_GLONASS) {
         options[:constellations] = [ Position.CONSTELLATION_GPS, Position.CONSTELLATION_GLONASS ];
         started = startUpdates(options)
