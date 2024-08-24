@@ -22,6 +22,8 @@ Firmware V3.0408.0 for COROS watches introduced [smoothing issues](README.md) th
 
 Since the V3.0408.0 issue did not affect the APEX Pro or VERTIX there was no expectation that their firmware would be affected by the fix. It has now come to light that there is a new (and arguable worse) [non-doppler issue](../doppler/README.md) present on all COROS watches - Sony and Airoha GNSS chipsets.
 
+The problem in V3.0408.0 was said to be caused by GPS firmware 3.1.0, but this appears to be incorrect. COROS firmware V3.0308.0 for the APEX 2 Pro shipped with GPS firmware 3.1.0 and works fine. We therefore suspect the problem in V3.0408.0 was an Airoha settings / configuration issue.
+
 The available Airoha technical documentation has been reviewed, attempting to identify settings which may relate to the COROS issues.
 
 
@@ -96,6 +98,8 @@ Airoha chipsets provide a number of different power saving modes:
 - Periodic Power Saving
 
 Power saving options are attractive for sports such as ultra-running and ultra-endurance cycling but they are unnecessary for windsurfing / speedsurfing. Power saving comes at the expense of data quality which in most sports is not hugely important, but for a sport that measures performance using instantaneous top speeds, power saving is highly undesirable.
+
+The speedsurfing community have long been aware that low power settings can significantly impact GPS accuracy. A blog [post](https://boardsurfr.blogspot.com/2014/07/low-power-is-bad.html) by the author of the [GPS Speedreader](https://github.com/prichterich/GPS-Speedreader/) discussed this topic back in 2014.
 
 Power saving could be one of the reasons for the issues seen on the APEX 2 Pro, VERTIX 2 and VERTIX 2S with V3.0408.0. Speedsurfing and windsurfing modes should switch off all power saving options, regardless of whether they caused the issue in V3.0408.0. Power saving will inevitably lead to spikes, which are commonly seen on COROS watches using regular GPS mode for the windsurfing activity (e.g. 50 knots instead of 20 knots).
 
