@@ -69,3 +69,5 @@ Most of the information has been gleaned from watch reviews, disassembly / teard
 
 Chipsets for the very oldest watches have been obtained from a variety of sources, including [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) and [test results](https://www.dropbox.com/sh/psdyxm93y2m12j3/AABNlbBRsF2E3edvzqnnMPC4a?dl=0&preview=Test+Results+-+All+Watches.xlsx) by Mark Gee.
 
+API levels obtained from Garmin [developer](https://developer.garmin.com/connect-iq/compatible-devices/) site.
+
