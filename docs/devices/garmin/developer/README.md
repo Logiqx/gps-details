@@ -40,7 +40,7 @@ function startLocationEvents() {
         } else if (Position has :CONFIGURATION_GPS_GALILEO) &&
                   (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GALILEO)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GALILEO;
-        // GPS L1 and BEIDOU L1 - May be skipped in the simulator (e.g. Fenix 6)
+        // GPS L1 and BEIDOU L1 - May be used in the simulator (e.g. Fenix 6)
         } else if (Position has :CONFIGURATION_GPS_BEIDOU) &&
                   (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_BEIDOU)) {
             options[:configuration] = Position.CONFIGURATION_GPS_BEIDOU;
@@ -48,7 +48,7 @@ function startLocationEvents() {
         } else if (Position has :CONFIGURATION_GPS_GLONASS) &&
                   (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GLONASS)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GLONASS;
-        // GPS L1 - Theoretically redundant?
+        // GPS L1 - Theoretically redundant on watches supporting ConnectIQ 3.3.6
         } else if (Position has :CONFIGURATION_GPS) &&
                   (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS)) {
             options[:configuration] = Position.CONFIGURATION_GPS;
@@ -68,7 +68,7 @@ function startLocationEvents() {
         started = startUpdates(options)
     }
     
-    // Use standard GPS with versions prior ro ConnectIQ 3.2.0
+    // Use standard GPS with versions prior to ConnectIQ 3.2.0
     if (!started) {
         options = Position.LOCATION_CONTINUOUS;
         started = startUpdates(options)
