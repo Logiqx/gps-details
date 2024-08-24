@@ -10,7 +10,7 @@ function startUpdates(options) {
     var started = false;
 
     try {
-        // This can fail with InvalidValueException if combination is not supported by device
+        // This can fail with InvalidValueException if the GNSS combination is not supported
         Position.enableLocationEvents(options, method(:onUpdate));
         started = true;
     }
@@ -55,16 +55,16 @@ function startLocationEvents() {
         }
         started = startUpdates(options)
     }
-
     // Use constellations parameter for ConnectIQ 3.2.0 to 3.3.5 (e.g. vivoactive 3 music)
-    if (!started && Position has :CONSTELLATION_GALILEO {
-        options[:constellations] = [ Position.CONSTELLATION_GPS, Position.CONSTELLATION_GALILEO ];
-        started = startUpdates(options)
-    }
-
-    // Use constellations parameter for ConnectIQ 3.2.0 to 3.3.5 - Theoretically redundant?
-    if (!started && Position has :CONSTELLATION_GLONASS) {
-        options[:constellations] = [ Position.CONSTELLATION_GPS, Position.CONSTELLATION_GLONASS ];
+    else {
+        // GPS L1 and GALILEO L1
+        if (Position has :CONSTELLATION_GALILEO {
+            options[:constellations] = [ Position.CONSTELLATION_GPS, Position.CONSTELLATION_GALILEO ];
+        }
+        // GPS L1 and GLONASS
+        else if (Position has :CONSTELLATION_GLONASS) {
+            options[:constellations] = [ Position.CONSTELLATION_GPS, Position.CONSTELLATION_GLONASS ];
+        }
         started = startUpdates(options)
     }
     
@@ -73,5 +73,8 @@ function startLocationEvents() {
         options = Position.LOCATION_CONTINUOUS;
         started = startUpdates(options)
     }
+
+    return started;            
 }
 ```
+
