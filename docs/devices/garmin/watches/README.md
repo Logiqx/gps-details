@@ -33,7 +33,7 @@ GNSS chipset details are provided for the following Garmin series:
   - [epix](epix.md)
   - [quatix](quatix.md)
   - [tactix](tactix.md)
-- Lightweight - running / health / fitness
+- Lightweight - running / fitness
   - [Forerunner](forerunner.md)
   - [vívoactive](vivoactive.md)
   - [Venu](venu.md)
