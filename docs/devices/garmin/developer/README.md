@@ -36,19 +36,19 @@ function startLocationEvents() {
         if (Position has :CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1) &&
            (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1  )) {
             options[:configuration] = Position.CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1;
-        // GPS L1 and GALILEO L1 - May be skipped (e.g. Fenix 6 in the simulator)
+        // GPS L1 and GALILEO L1 - May be skipped in the simulator (e.g. Fenix 6)
         } else if (Position has :CONFIGURATION_GPS_GALILEO) &&
                   (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GALILEO)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GALILEO;
-        // GPS L1 and BEIDOU L1 - Surprisingly useful (e.g. Fenix 6 in the simulator)
+        // GPS L1 and BEIDOU L1 - May be skipped in the simulator (e.g. Fenix 6)
         } else if (Position has :CONFIGURATION_GPS_BEIDOU) &&
                   (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_BEIDOU)) {
             options[:configuration] = Position.CONFIGURATION_GPS_BEIDOU;
-        // GPS L1 and GLONASS - (e.g. Fenix 5 Plus)
+        // GPS L1 and GLONASS - Applicability TBC
         } else if (Position has :CONFIGURATION_GPS_GLONASS) &&
                   (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GLONASS)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GLONASS;
-        // GPS L1 - redundant (not applicable)?
+        // GPS L1 - Theoretically redundant?
         } else if (Position has :CONFIGURATION_GPS) &&
                   (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS)) {
             options[:configuration] = Position.CONFIGURATION_GPS;
@@ -62,7 +62,7 @@ function startLocationEvents() {
         started = startUpdates(options)
     }
 
-    // Use constellations parameter for ConnectIQ 3.2.0 and later - redundant (not possible)?
+    // Use constellations parameter for ConnectIQ 3.2.0 and later - Theoretically redundant?
     if (!started && Position has :CONSTELLATION_GLONASS) {
         options[:constellations] = [ Position.CONSTELLATION_GPS, Position.CONSTELLATION_GLONASS ];
         started = startUpdates(options)
