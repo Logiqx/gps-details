@@ -24,7 +24,7 @@ The Garmin Forerunner 255 faithfully captures the dynamics of the test drive, wi
 
 ### Outstanding Issue
 
-GP3S have observed that accuracy issues / spikes are far more prevalent on the APEX 2 Pro / VERTIX 2 when using windsurfing mode.
+GP3S have observed that accuracy issues / spikes are far more prevalent on the APEX 2 Pro / VERTIX 2 when using windsurfing mode. This page shows one simple test drive but in the real world, large spikes have always occurred in windsurfing mode.
 
 This is almost certainly due to the use of positional data for speeds, rather than the Doppler-derived speeds of the Airoha chipset. This behavior is somewhat undesirable because people within the wider community also use the windsurfing mode, prone to inaccuracies and spikes.
 
