@@ -4,6 +4,7 @@
 
 This project is work in progress and there are more issues to be documented:
 
+- [Windsurfing vs Speedsurfing](windsurfing/README.md) - 28 Aug 2024
 - [Smoothing update](smoothing/update.md) - 22 Aug 2024
 - [Speed Issues](doppler/README.md) - 19 Aug 202
 - [Smoothing](smoothing/README.md) - 28 May 2024
