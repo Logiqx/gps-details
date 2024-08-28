@@ -12,7 +12,7 @@ Test data is not available for windsurfing mode on the APEX 2 / APEX 2 Pro / VER
 
 The COROS APEX 2 Pro loses a lot of the subtle details relating to speed, presumably due to the filtering / smoothing that is implemented.
 
-It should also be noted that somewhat elevated speeds are also quite common for the APEX 2 / APEX 2 Pro / VERTIX 2 / VERTIX 2S with 3.0508.0 onwards.
+It should also be noted that slightly elevated speeds are also quite common for the APEX 2 / APEX 2 Pro / VERTIX 2 / VERTIX 2S, when using the windsurfing mode.
 
 ![v-3-0510-0-apex-2-pro-wsurf](img/v-3-0510-0-apex-2-pro-wsurf.png)
 
