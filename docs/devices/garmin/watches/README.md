@@ -29,10 +29,10 @@ GNSS chipset details are provided for the following Garmin series:
 
 - Rugged - multisport
   - [fēnix](fenix.md)
-  - [Instinct](instinct.md) - unsupported by the apps
   - [epix](epix.md)
   - [quatix](quatix.md)
   - [tactix](tactix.md)
+  - [Instinct](instinct.md) - unsupported by the apps
 - Lightweight - running / fitness
   - [Forerunner](forerunner.md)
   - [Enduro](enduro.md)
