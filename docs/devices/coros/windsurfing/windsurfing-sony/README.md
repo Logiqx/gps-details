@@ -10,7 +10,7 @@ This is undesirable because people within the wider community also use the winds
 
 ![v-3-05-0-apex-pro-wsurf](img/v-3-05-0-apex-pro-wsurf.png)
 
-The Garmin vivoactive 4 (red) is capturing the speed data from the Sony GNSS chipset, and there are no spikes present.
+The Garmin vivoactive 4 (red) is capturing the speed data from the Sony GNSS chipset, and there are no spikes present during this test.
 
 The Garmin is working as well as can be expected for a watch using the Sony GNSS chipset, noting the propensity for repeated speeds / flat spots.
 
@@ -44,3 +44,10 @@ The Garmin is working as well as can be expected for a watch using the Sony GNSS
 
 ![v-3-0508-0-va-4-wsurf](img/v-3-0508-0-va-4-wsurf.png)
 
+
+
+### Outstanding Issue
+
+GP3S have observed that accuracy issues / spikes are far more prevalent on the APEX Pro / VERTIX when using windsurfing mode. This is almost certainly due to the use of positional data for speeds, rather than the Doppler-derived speeds of the Sony chipset. This behavior is somewhat undesirable because people within the wider community also use the windsurfing mode, prone to inaccuracies and spikes.
+
+Our suggestion / preference would be for the windsurfing mode to process GNSS data in exactly the same way as the speedsurfing mode, once fixed.

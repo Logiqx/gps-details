@@ -4,9 +4,9 @@
 
 This article attempts to clearly show the differences between speedsurfing and windsurfing modes on COROS watches.
 
-Various different firmware versions are used to illustrate the problems in 3.0408.0, 3.0508.0, and 3.0410.0.
+Various different firmware versions are used to illustrate the problems in 3.0408.0, 3.0409.0, 3.0508.0, and 3.0510.0.
 
-All of the examples use data gathered whilst driving around a short circuit; 3 laps with total distance of 5 km.
+All of the examples use data gathered whilst driving around a short test circuit; 3 laps with total distance of 5 km.
 
 ![circuit](img/circuit.jpg)
 
