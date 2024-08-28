@@ -6,13 +6,13 @@
 
 Firmware 3.05.0 (red) appears to be using the positional data for speeds in windsurfing mode. Spikes are clearly evident when comparing to a 5 Hz [Motion GPS](https://www.motion-gps.com/motion/index.html) (blue).
 
-This is undesirable because people within the wider community also use the windsurfing mode, which is prone to inaccuracies and spikes.
+This is undesirable because people within the wider community also use the windsurfing mode, which is prone to inaccuracies and spikes. GP3S have seen many more data issues and spikes for the windsurfing mode than speedsurfing mode.
 
 ![v-3-05-0-apex-pro-wsurf](img/v-3-05-0-apex-pro-wsurf.png)
 
 The Garmin vivoactive 4 (red) is capturing the speed data from the Sony GNSS chipset, and there are no spikes present during this test.
 
-The Garmin is working as well as can be expected for a watch using the Sony GNSS chipset, noting the propensity for repeated speeds / flat spots.
+The Garmin is working as well as can be expected considering the Sony GNSS chipset and its propensity for repeated speeds / flat spots.
 
 ![v-3-05-0-va-4-wsurf](img/v-3-05-0-va-4-wsurf.png)
 
@@ -40,7 +40,7 @@ This is undesirable because people within the wider community also use the winds
 
 The Garmin vivoactive 4 (red) is capturing the speed data from the Sony GNSS chipset, which is better than the positional data.
 
-The Garmin is working as well as can be expected for a watch using the Sony GNSS chipset, noting the propensity for repeated speeds / flat spots.
+The Garmin is working as well as can be expected considering the Sony GNSS chipset and its propensity for repeated speeds / flat spots.
 
 ![v-3-0508-0-va-4-wsurf](img/v-3-0508-0-va-4-wsurf.png)
 
@@ -48,6 +48,8 @@ The Garmin is working as well as can be expected for a watch using the Sony GNSS
 
 ### Outstanding Issue
 
-GP3S have observed that accuracy issues / spikes are far more prevalent on the APEX Pro / VERTIX when using windsurfing mode. This is almost certainly due to the use of positional data for speeds, rather than the Doppler-derived speeds of the Sony chipset. This behavior is somewhat undesirable because people within the wider community also use the windsurfing mode, prone to inaccuracies and spikes.
+GP3S have observed that accuracy issues / spikes are far more prevalent on the APEX Pro / VERTIX when using windsurfing mode, instead of speedsurfing mode.
+
+This is almost certainly due to the use of positional data for speeds, rather than the Doppler-derived speeds of the Sony chipset. This behavior is somewhat undesirable because people within the wider community also use the windsurfing mode, prone to inaccuracies and spikes.
 
 Our suggestion / preference would be for the windsurfing mode to process GNSS data in exactly the same way as the speedsurfing mode, once fixed.
