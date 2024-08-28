@@ -2,9 +2,27 @@
 
 ### Overview
 
-The GNSS chipset is probably the most significant factor when it comes to the accuracy and reliability of different Garmin watches. Additional factors include the antenna design, GNSS firmware, and Garmin firmware. User settings, activity mode, and / or app choice are also really important.
+The GNSS chipset is probably the most significant factor when it comes to the accuracy and reliability of different Garmin watches. Additional factors include the antenna design, GNSS firmware, Garmin firmware, and user settings. The activity mode and / or app choice are also really important.
 
 This page lists the GNSS chipsets of the many Garmin watches that people may wish to use for GPS-Speedsurfing (GP3S). The information is intended for people choosing a Garmin watch, or curious about the chipset inside their current watch.
+
+
+
+### Popular Watches
+
+GNSS details are provided for the following Garmin watches:
+
+- Rugged - multisport
+  - [fēnix](fenix.md)
+  - [epix](epix.md)
+  - [quatix](quatix.md)
+  - [tactix](tactix.md)
+  - [Instinct](instinct.md) - unsupported by the apps
+- Lightweight - running / fitness
+  - [Forerunner](forerunner.md)
+  - [Enduro](enduro.md)
+  - [vívoactive](vivoactive.md)
+  - [Venu](venu.md)
 
 
 
@@ -21,25 +39,7 @@ The following Connect IQ data fields worth trying:
 
 
 
-### Devices frequently used for GP3S
-
-GNSS chipset details are provided for the following Garmin series:
-
-- Rugged - multisport
-  - [fēnix](fenix.md)
-  - [epix](epix.md)
-  - [quatix](quatix.md)
-  - [tactix](tactix.md)
-  - [Instinct](instinct.md) - unsupported by the apps
-- Lightweight - running / fitness
-  - [Forerunner](forerunner.md)
-  - [Enduro](enduro.md)
-  - [vívoactive](vivoactive.md)
-  - [Venu](venu.md)
-
-
-
-### Devices rarely used for GP3S
+### Less Popular Watches
 
 These series are rarely used on GP3S, despite being supported by the recommended apps:
 
