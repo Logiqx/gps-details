@@ -19,6 +19,8 @@ Garmin first used the Sony GNSS chipset in 2019 and multiple teardowns show the 
 
 The Sony GNSS chipset was primarily used 2019-2021, but also in Jan 2022 for the Instinct 2 and Feb 2022 for the Venu 2 Plus.
 
+Garmin have hinted at slightly different versions of the Sony chipset over time, hence CXD56xxxx being written in these pages.
+
 Several of the Garmin watches using the Sony chipset are also listed by [DC Rainmaker](https://www.dcrainmaker.com/2021/01/gps-accuracy-impacting-devices.html).
 
 
