@@ -14,7 +14,7 @@ The various models are listed in reverse-chronological order. The release dates 
 
 | Model                       | Released   | API | Chipset | References |
 | --------------------------- | ---------- | ---------- | ---------- | ---------- |
-| Venu 3 / 3S | 2023-08 | 5.0.x | AG3335MN or AG3352 | Garmin [manual](https://www8.garmin.com/manuals-apac/webhelp/venu33s/EN-SG/GUID-220C5858-1518-4580-AEA8-EC0E2A523BFE-7277.html) + DCR [review](https://www.dcrainmaker.com/2023/08/garmin-venu-3-in-depth-review-more-sleep-analytics-power-meters-and-more.html) |
+| Venu 3 / 3S | 2023-08 | 5.0.x | AG3335MN or AG3352? | Garmin [manual](https://www8.garmin.com/manuals-apac/webhelp/venu33s/EN-SG/GUID-220C5858-1518-4580-AEA8-EC0E2A523BFE-7277.html) + DCR [review](https://www.dcrainmaker.com/2023/08/garmin-venu-3-in-depth-review-more-sleep-analytics-power-meters-and-more.html) |
 | Venu Sq 2 [Music] | 2022-09  | 5.0.x | AG3335MN | Garmin [manual](https://www8.garmin.com/manuals-apac/webhelp/venusq2/EN-SG/GUID-57C7FCDE-E149-4898-96F3-F5D53D177F00-4988.html) + FCC [teardown](https://fccid.io/IPH-A4390/Internal-Photos/Internal-Photos-5919160) + DCR [review](https://www.dcrainmaker.com/2022/09/garmin-venu-sq-2-in-depth-review.html) |
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
