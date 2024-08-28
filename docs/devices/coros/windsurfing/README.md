@@ -1,5 +1,11 @@
 ## COROS Activity Comparison
 
+Author: Michael George
+
+Created: 28 Aug 2024
+
+
+
 ### Background
 
 This article attempts to show the differences between speedsurfing and windsurfing modes on COROS watches.
