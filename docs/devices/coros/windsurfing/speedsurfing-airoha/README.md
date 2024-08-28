@@ -1,6 +1,6 @@
-## COROS - Speedsurfing
+## COROS APEX 2 / APEX 2 Pro / VERTIX 2 / VERTIX 2S
 
-### APEX 2 / APEX 2 Pro / VERTIS 2 / VERTIX 2S
+### Speedsurfing
 
 #### 3.0308
 
