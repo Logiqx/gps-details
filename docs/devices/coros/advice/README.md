@@ -76,9 +76,37 @@ TODO
   - https://support.coros.com/hc/en-us/articles/5859961688212-The-watch-is-not-displaying-the-correct-time
 - WiFi - manual sync, downloading maps and firmware updates
 
-#### Accounts
+#### Applications
 
-Link COROS to GP3S
+COROS do not support 3rd part applications like Apple or Garmin
+
+
+
+### Linking Accounts
+
+#### GP3S
+
+Link to Garmin Connect to GP3S
+
+It knows how to process speeds correctly, when provided with  a FIT upload
+
+Filters will remove the worst spikes, but other errors will still be present
+
+#### Hoolan and Waterspeed
+
+Link to Garmin Connect to Hoolan and Waterspeed
+
+They know how to process speeds correctly, when provided with  a FIT upload
+
+
+
+#### Strava and Relive
+
+Link to Garmin Connect to Strava and Relive
+
+They do not know how to process speeds correctly, even when provided with  a FIT upload
+
+You will see bogus numbers recorded
 
 
 
@@ -127,6 +155,8 @@ Spikes are capped in exports
   - Ignore Strava and SportsTrackLive
     - Don't know about Relive which is also popular
 
+- Waterspeed does not handle COROS GPX properly at this time
+
 
 
 ### Known Issues
@@ -149,6 +179,6 @@ Use speedsurfing, not windsurfing
 
 Be mindful of the pitfalls when exporting and importing sessions. Use FIT.
 
-Known issues.
+Known issues - firmware, stats and data
 
 Sail fast, and have fun!

@@ -143,9 +143,30 @@ Application will select the activity profile and satellite settings
 APPro
 https://forums.garmin.com/developer/connect-iq/f/showcase/2976/app-appro-windsurf
 
-#### Accounts
 
-- Link to Garmin Connect to GP3S, Hoolan, Waterspeed
+### Linking Accounts
+
+#### GP3S
+
+Link to Garmin Connect to GP3S
+
+It knows how to process speeds correctly, when provided with  a FIT upload
+
+Filters will remove the worst spikes, but other errors will still be present
+
+#### Hoolan and Waterspeed
+
+Link to Garmin Connect to Hoolan and Waterspeed
+
+They know how to process speeds correctly, when provided with  a FIT upload
+
+#### Strava and Relive
+
+Link to Garmin Connect to Strava and Relive
+
+They do not know how to process speeds correctly, even when provided with  a FIT upload
+
+You will see bogus numbers recorded
 
 
 
@@ -187,8 +208,7 @@ GPSResults, GpsarPro, GPS Speedreader
   - GP3S using FIT
   - Ignore Strava and SportsTrackLive
     - Don't know about Relive which is also popular
-
-
+  - Waterspeed will import GPX but not suitable for Garmin
 
 ### Known Issues
 
