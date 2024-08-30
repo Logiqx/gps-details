@@ -4,9 +4,7 @@
 
 This article will focus specifically on the COROS range
 
-![COROS_Wearables_Logo](img/COROS_Wearables_Logo.png)
-
-![GP3S Logo](img/gp3s-logo.png)
+![GP3S Logo](img/combined-logo.png)
 
 The problem with max speeds, popular at all levels... most prone to errors
 
@@ -34,11 +32,11 @@ Last couple of years, good watches started to appear
 - GNSS chipset is a primary factor
   - Early models used Sony
     - Repeated speeds
-    - Low resolution / precision - unique to COROS
     - Spikes after loss of lock
+    - Low resolution / precision of speeds - unique to COROS
   - Latest models use Airoha
     - Decent data when using the right firmware, settings, activity
-    - Can be pretty  terrible data if you get these things wrong!
+    - Can be pretty terrible data if you get these things wrong!
 
 #### General Features
 
@@ -115,6 +113,8 @@ Less important
 - Gesture backlight - off
 - WiFi - manual sync, downloading maps and firmware updates
 
+Be sure to re-check your settings after a firmware update.
+
 
 
 #### Applications
@@ -153,7 +153,7 @@ They know how to process speeds correctly, when provided with  a FIT upload
 
 #### Strava and Relive
 
-Link to Garmin Connect to Strava and Relive
+Link to Garmin Connect to Strava and Relive as an activity diary.
 
 They do not know how to process speeds correctly, even when provided with  a FIT upload
 
@@ -170,6 +170,8 @@ You will see bogus numbers recorded
 
 #### Recording an Activity
 
+Firmware and setttings
+
 What is the latest GPS data?
 
 Activity profiles / filters - show example
@@ -178,8 +180,8 @@ Use speedsurfing mode, not windsurfing
 
 #### Additional Tips
 
-- Find my phone
 - Backlight during night
+- Find my phone + find my watch
 - Camera control - Insta360 / GoPro
 - Marking a waypoint - lost something!
 
@@ -191,13 +193,19 @@ Use speedsurfing mode, not windsurfing
 
 Ignore max and take 2s with a pinch of salt, compare to 10s / 100m / 250m
 
-GPSResults, GpsarPro, GPS Speedreader
+- [GPSResults](https://www.gps-speed.com/download_e.html) by Manfred Fuchs
+
+- [GpsarPro](http://gpsactionreplay.free.fr/index.php?menu=2) by Yann Mathet
+
+- [GPS Speedreader](https://github.com/prichterich/GPS-Speedreader/) by Peter Richterich
 
 #### Exporting Activities
 
 - FIT vs GPX
 
 Spikes are capped in exports
+
+Beware subsequent conversions - e.g. GPSBabel
 
 #### Importing Activities
 

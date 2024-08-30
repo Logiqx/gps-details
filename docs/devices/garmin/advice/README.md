@@ -111,7 +111,23 @@ Recommended watches from 2015 onwards, due to MT3333 and app support:
 
 #### Firmware
 
-TODO
+Dodgy
+
+- GP3S Fenix 7
+  - 3865 (GNSS) = 2.23
+- Mark + zugm - Fenix 7 
+  - 3866 = 2.27
+- John FR-255
+  - 3865 (GNSS) = 2.33
+
+OK
+
+- Mike FR-255
+  - 3865 (GNSS) = 9.03 and 10
+  - 3955 = 30.2
+  - 3992 (FR-255) = 19.18
+
+Be sure to re-check your settings after a firmware update.
 
 #### Settings
 
@@ -181,7 +197,7 @@ They know how to process speeds correctly, when provided with  a FIT upload
 
 #### Strava and Relive
 
-Link to Garmin Connect to Strava and Relive
+Link to Garmin Connect to Strava and Relive as an activity diary.
 
 They do not know how to process speeds correctly, even when provided with  a FIT upload
 
@@ -197,6 +213,8 @@ You will see bogus numbers recorded
 
 #### Recording an Activity
 
+Firmware and setttings
+
 What is the latest GPS data?
 
 Activity profiles / filters - SUP example
@@ -205,7 +223,7 @@ Use windsurfing (or other) activity profile, or recommended application.
 
 #### Additional Tips
 
-- Find my phone
+- Find my phone + find my watch
 
 
 
@@ -215,11 +233,19 @@ Use windsurfing (or other) activity profile, or recommended application.
 
 Ignore max and take 2s with a pinch of salt, compare to 10s / 100m / 250m
 
-GPSResults, GpsarPro, GPS Speedreader
+- [GPSResults](https://www.gps-speed.com/download_e.html) by Manfred Fuchs
+
+- [GpsarPro](http://gpsactionreplay.free.fr/index.php?menu=2) by Yann Mathet
+
+- [GPS Speedreader](https://github.com/prichterich/GPS-Speedreader/) by Peter Richterich
+
+
 
 #### Exporting Activities
 
 - Export FIT
+
+Beware subsequent conversions - e.g. GPSBabel
 
 #### Importing Activities
 
