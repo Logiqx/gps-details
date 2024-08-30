@@ -225,9 +225,7 @@ Activity profiles / filters
 Ignore max and take 2s with a pinch of salt, compare to 10s / 100m / 250m
 
 - [GPSResults](https://www.gps-speed.com/download_e.html) by Manfred Fuchs
-
 - [GpsarPro](http://gpsactionreplay.free.fr/index.php?menu=2) by Yann Mathet
-
 - [GPS Speedreader](https://github.com/prichterich/GPS-Speedreader/) by Peter Richterich
 
 ### Exporting Activities
