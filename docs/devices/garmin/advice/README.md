@@ -32,6 +32,8 @@ Not as simple as Garmin, or Fenix.
 
 ### GNSS Chipset
 
+Create coloured timeline?
+
 - GNSS chipset is a primary factor
   - pre-2012 = SiRF
   - 2012 to 2018 = MediaTek
@@ -168,9 +170,9 @@ IMPORTANT - Application will select the activity profile and satellite settings
 - Activity profile / app / data field
   - Activity type = other / windsurfing / kitesurfing
   - Satellite settings = all systems, GPS + Galileo, or GPS + GLONASS
-  - Apps / data fields
-    - Windsurfing application, APPro Windsurf, GPSTC V4
-    - Windsurf PRO and Any Sport PRO do not support all systems
+- Apps / data fields
+  - Windsurfing application, APPro Windsurf, GPSTC V4
+  - Windsurf PRO and Any Sport PRO do not support all systems
 
 APPro
 https://forums.garmin.com/developer/connect-iq/f/showcase/2976/app-appro-windsurf
@@ -224,7 +226,11 @@ What is the latest GPS data?
 
 Activity profiles / filters - SUP example
 
-- DO NOT use SUP
+![activity-sup](img/activity-sup.png)
+
+- DO NOT use SUP, swim, walk, run, etc.
+
+![activity-sup](img/activity-wsurf.png)
 
 Built in activities
 
@@ -260,9 +266,11 @@ Ignore max and take 2s with a pinch of salt, compare to 10s / 100m / 250m
 
 ### Exporting Activities
 
-- Export FIT
+- Export FIT - actually a ZIP file
 
-Beware subsequent conversions - e.g. GPSBabel
+![export-fit](img/export-fit.png)
+
+Explain ZIP and warn against converting to GPX with GPSBabel.
 
 ### Importing Activities
 
