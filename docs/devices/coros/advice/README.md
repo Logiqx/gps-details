@@ -1,6 +1,8 @@
-## COROS Advice for Speed Sailors
-
 ![GP3S Logo](img/combined-logo.png)
+
+
+
+## COROS Advice for Speed Sailors
 
 ### Introduction
 

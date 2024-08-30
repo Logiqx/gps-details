@@ -1,6 +1,8 @@
-## Garmin Advice for Speed Sailors
-
 ![GP3S Logo](img/combined-logo.png)
+
+
+
+## Garmin Advice for Speed Sailors
 
 ### Introduction
 
