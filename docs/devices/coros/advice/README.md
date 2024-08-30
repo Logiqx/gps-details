@@ -183,6 +183,9 @@ Use speedsurfing mode, not windsurfing
 - Backlight during night
 - Find my phone + find my watch
 - Camera control - Insta360 / GoPro
+  - GoPro - COROS help on [control](https://support.coros.com/hc/en-us/articles/4411031553044-How-to-control-GoPro-Cameras) + article by [GoPro](https://gopro.com/en/gb/news/open-gopro-coros)
+  - Insta360 - COROS help on [control](https://support.coros.com/hc/en-us/articles/4406181409300-How-to-control-Insta360-from-your-COROS-watch) + [data overlay](https://support.coros.com/hc/en-us/articles/28945366751764-Insta360-Data-Overlay)
+
 - Marking a waypoint - lost something!
 
 
