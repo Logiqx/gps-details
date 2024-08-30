@@ -1,10 +1,10 @@
 ## Garmin Advice for Speed Sailors
 
+![GP3S Logo](img/combined-logo.png)
+
 ### Introduction
 
 This article will focus specifically on the Garmin range
-
-![GP3S Logo](img/combined-logo.png)
 
 
 The problem with max speeds, popular at all levels... most prone to errors
