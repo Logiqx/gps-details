@@ -2,9 +2,7 @@
 
 
 
-## Garmin Advice for Speed Sailors
-
-### Introduction
+## Introduction
 
 This article will focus specifically on the Garmin range
 
@@ -26,11 +24,11 @@ Last couple of years, good watches started to appear
 
 
 
-### Watch Choice
+## Watch Choice
 
 Not as simple as Garmin, or Fenix.
 
-#### GNSS Chipset
+### GNSS Chipset
 
 - GNSS chipset is a primary factor
   - pre-2012 = SiRF
@@ -44,7 +42,7 @@ Not as simple as Garmin, or Fenix.
 
 Link to my chipset details.
 
-#### General Features
+### General Features
 
 Activity profiles / applications
 - Windsurfing activity - not available on Forerunner
@@ -61,7 +59,7 @@ Things to consider:
 Mileage might vary... excuse the pun!
 
 
-#### Recommendations
+### Recommendations
 
 
 Cheapest
@@ -112,9 +110,9 @@ Recommended watches from 2015 onwards, due to MT3333 and app support:
 
 
 
-### Watch Setup
+## Watch Setup
 
-#### Firmware
+### Firmware
 
 Dodgy
 
@@ -134,7 +132,7 @@ OK
 
 Be sure to re-check your settings after a firmware update.
 
-#### Settings
+### Settings
 
 Sats
 
@@ -161,7 +159,7 @@ Recording
     - Settings -> Activities & Apps -> [Activity] -> [Activity] Settings -> Satellites = All Systems (default = GPS)
     - Alternatively, can change it before you start the activity by pressing the menu button
 
-#### Applications
+### Applications
 
 IMPORTANT - Application will select the activity profile and satellite settings
 
@@ -176,9 +174,9 @@ APPro
 https://forums.garmin.com/developer/connect-iq/f/showcase/2976/app-appro-windsurf
 
 
-### Linking Accounts
+## Linking Accounts
 
-#### GP3S
+### GP3S
 
 Link to Garmin Connect to GP3S
 
@@ -194,13 +192,13 @@ It knows how to process speeds correctly, when provided with  a FIT upload
 
 Filters will remove the worst spikes, but other errors will still be present
 
-#### Hoolan and Waterspeed
+### Hoolan + Waterspeed
 
 Link to Garmin Connect to Hoolan and Waterspeed
 
 They know how to process speeds correctly, when provided with  a FIT upload
 
-#### Strava, Relive
+### Strava + Relive
 
 Link to Garmin Connect to Strava and Relive as an activity diary.
 
@@ -210,13 +208,13 @@ You will see bogus numbers recorded
 
 
 
-### Watch Usage
+## Watch Usage
 
-#### Wearing the Watch
+### Wearing the Watch
 
 - How to wear - over wetsuit, back hand, not underhand
 
-#### Recording an Activity
+### Recording an Activity
 
 Firmware and setttings
 
@@ -241,15 +239,15 @@ Recommended applications
 
 IMPORTANT - Remember that the app will choose the satellite mode and activity profile.
 
-#### Additional Tips
+### Additional Tips
 
 - Find my phone + find my watch
 
 
 
-### Data Analysis
+## Data Analysis
 
-#### Reviewing Results
+### Reviewing Results
 
 Ignore max and take 2s with a pinch of salt, compare to 10s / 100m / 250m
 
@@ -260,14 +258,13 @@ Ignore max and take 2s with a pinch of salt, compare to 10s / 100m / 250m
 - [GPS Speedreader](https://github.com/prichterich/GPS-Speedreader/) by Peter Richterich
 
 
-
-#### Exporting Activities
+### Exporting Activities
 
 - Export FIT
 
 Beware subsequent conversions - e.g. GPSBabel
 
-#### Importing Activities
+### Importing Activities
 
 - Import to suitable platform
   - GP3S using FIT
@@ -275,7 +272,8 @@ Beware subsequent conversions - e.g. GPSBabel
     - Don't know about Relive which is also popular
   - Waterspeed will import GPX but not suitable for Garmin
 
-### Known Issues
+
+## Known Issues
 
 Firmware in 2022, but fixed some time before 2024
 
@@ -283,7 +281,7 @@ GPX
 
 
 
-### Summary
+## Summary
 
 Choose an Airoha watch, set it up properly
 

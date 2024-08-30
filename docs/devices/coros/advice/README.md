@@ -1,10 +1,6 @@
 ![GP3S Logo](img/combined-logo.png)
 
-
-
-## COROS Advice for Speed Sailors
-
-### Introduction
+## Introduction
 
 This article will focus specifically on the COROS range
 
@@ -27,11 +23,11 @@ Last couple of years, good watches started to appear
 
 
 
-### Watch Choice
+## Watch Choice
 
 GP3S background info.
 
-#### GNSS Chipset
+### GNSS Chipset
 
 - GNSS chipset is a primary factor
   - Early models used Sony
@@ -46,7 +42,7 @@ Nowadays, would only recommend the APEX 2, APEX 2 Pro, VERTIX 2, and VERTIX 2S. 
 
 Earlier models such as the APEX Pro and VERTIX are too prone to inaccuracies, just like Garmin watches using the same family of Sony GNSS chipset.
 
-#### General Features
+### General Features
 
 Records sats, HDOP, COG
 
@@ -63,16 +59,16 @@ Things to consider:
 
 Mileage might vary... excuse the pun!
 
-#### Recommendations
+### Recommendations
 
 - Choose Airoha - APEX 2, APEX 2 Pro, VERTIX 2, VERTIX 2S
 - Avoid Sony - APEX, APEX Pro, VERTIX
 
 
 
-### Watch Setup
+## Watch Setup
 
-#### Firmware
+### Firmware
 
 Firmware
 
@@ -99,7 +95,7 @@ If you have 3.0508.0 on your APEX Pro or VERTIX you can downgrade using this pag
 
 
 
-#### Settings
+### Settings
 
 Sats
 
@@ -156,7 +152,7 @@ It is also worth having a read of the settings [guide](https://drive.google.com/
 
 
 
-#### Applications
+### Applications
 
 COROS do not support 3rd part applications like Apple or Garmin.
 
@@ -164,9 +160,9 @@ Use speedsurfing mode, or GPS cardio.
 
 
 
-### Linking Accounts
+## Linking Accounts
 
-#### GP3S
+### GP3S
 
 Link to COROS to GP3S
 
@@ -182,7 +178,7 @@ It knows how to process speeds correctly, when provided with  a FIT upload
 
 Filters will remove the worst spikes, but other errors will still be present
 
-#### Hoolan and Waterspeed
+### Hoolan + Waterspeed
 
 Link to Garmin Connect to Hoolan and Waterspeed
 
@@ -190,7 +186,7 @@ They know how to process speeds correctly, when provided with  a FIT upload
 
 
 
-#### Strava and Relive
+### Strava + Relive
 
 Link to Garmin Connect to Strava and Relive as an activity diary.
 
@@ -200,14 +196,14 @@ You will see bogus numbers recorded
 
 
 
-### Watch Usage
+## Watch Usage
 
-#### Wearing the Watch
+### Wearing the Watch
 
 - How to wear - over wetsuit, back hand, not underhand
 - Rinse under tap
 
-#### Recording an Activity
+### Recording an Activity
 
 Firmware and setttings
 
@@ -218,7 +214,7 @@ Activity profiles / filters
 - Use speedsurfing or GPS cardio
 - Avoid windsurfing and custom activities!
 
-#### Additional Tips
+### Additional Tips
 
 - Backlight during night
 - Find my phone + find my watch
@@ -230,9 +226,9 @@ Activity profiles / filters
 
 
 
-### Data Analysis
+## Data Analysis
 
-#### Reviewing Results
+### Reviewing Results
 
 Ignore max and take 2s with a pinch of salt, compare to 10s / 100m / 250m
 
@@ -242,7 +238,7 @@ Ignore max and take 2s with a pinch of salt, compare to 10s / 100m / 250m
 
 - [GPS Speedreader](https://github.com/prichterich/GPS-Speedreader/) by Peter Richterich
 
-#### Exporting Activities
+### Exporting Activities
 
 - FIT vs GPX
 
@@ -250,7 +246,7 @@ Spikes are capped in exports
 
 Beware subsequent conversions - e.g. GPSBabel
 
-#### Importing Activities
+### Importing Activities
 
 - Import to suitable platform
   - GP3S using FIT
@@ -261,7 +257,7 @@ Beware subsequent conversions - e.g. GPSBabel
 
 
 
-### Known Issues
+## Known Issues
 
 Firmware since May 2024
 
@@ -275,7 +271,7 @@ Alphas - watch / app and the actual data
 
 
 
-### Summary
+## Summary
 
 Choose an Airoha watch, set it up properly.
 
