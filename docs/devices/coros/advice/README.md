@@ -234,6 +234,12 @@ Ignore max and take 2s with a pinch of salt, compare to 10s / 100m / 250m
 
 - FIT vs GPX
 
+![export-fit](img/export-fit.png)
+
+App
+
+![export-app](img/export-app-highlighted.jpg)
+
 Spikes are capped in exports
 
 Beware subsequent conversions - e.g. GPSBabel
