@@ -27,6 +27,8 @@ Last couple of years, good watches started to appear
 
 ### Watch Choice
 
+GP3S background info.
+
 #### GNSS Chipset
 
 - GNSS chipset is a primary factor

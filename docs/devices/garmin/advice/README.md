@@ -26,6 +26,8 @@ Last couple of years, good watches started to appear
 
 ### Watch Choice
 
+Not as simple as Garmin, or Fenix.
+
 #### GNSS Chipset
 
 - GNSS chipset is a primary factor
@@ -38,11 +40,12 @@ Last couple of years, good watches started to appear
     - Decent data when using the right firmware, settings, activity / application
     - Can be pretty terrible data if you get these things wrong!
 
-
+Link to my chipset details.
 
 #### General Features
 
 Activity profiles / applications
+- Windsurfing activity - not available on Forerunner
 - Windsurfing application, APPro Windsurf, GPSTC V4
 - I've reviewed every other application
 
@@ -50,7 +53,7 @@ Things to consider:
 - Satellite systems (Multi-Band, All Systems, GPS + Galileo / GPS + GLONASS)
 - AMOLED display
 - HR monitor
-- Buttons or touchscreen (e.g. vívoactive / Venu)
+- Buttons or touchscreen (e.g. vívoactive / Venu) - relevant in water!
 - Battery life
 
 Mileage might vary... excuse the pun!
@@ -158,7 +161,7 @@ Recording
 
 #### Applications
 
-Application will select the activity profile and satellite settings
+IMPORTANT - Application will select the activity profile and satellite settings
 
 - Activity profile / app / data field
   - Activity type = other / windsurfing / kitesurfing
@@ -195,7 +198,7 @@ Link to Garmin Connect to Hoolan and Waterspeed
 
 They know how to process speeds correctly, when provided with  a FIT upload
 
-#### Strava and Relive
+#### Strava, Relive
 
 Link to Garmin Connect to Strava and Relive as an activity diary.
 
@@ -219,7 +222,22 @@ What is the latest GPS data?
 
 Activity profiles / filters - SUP example
 
-Use windsurfing (or other) activity profile, or recommended application.
+- DO NOT use SUP
+
+Built in activities
+
+- windsurfing - not available on Forerunner
+- other
+
+Recommended applications
+
+- Windsurfing application, APPro Windsurf, GPSTC V4
+- Mention
+  - Windsurfing - older devices
+  - Lots of people use JMG-APP Wind-Kite Pro (does wingfoil), 
+  - Other mention Sail Racer Lite, Kite Tracker, Zef
+
+IMPORTANT - Remember that the app will choose the satellite mode and activity profile.
 
 #### Additional Tips
 
