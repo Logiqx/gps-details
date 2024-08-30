@@ -111,25 +111,17 @@ Time auto-sync
 
 System - hold the bottom-right button
 
-
 - Activity Interface
-
   - Auto scroll = off
 - WiFi
-
   - Add network for manual sync, downloading maps and firmware updates
-
 - More settings
-
   - Gesture backlight = off
   - Touch screen = map only
   - Auto lock
-
     - Standby mode - hold to unlock
     - Activity mode - hold to unlock
-
   - Satellite systems
-
     - Mode = all systems on
 
 
