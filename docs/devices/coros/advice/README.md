@@ -148,6 +148,8 @@ COROS App
 
 Be sure to re-check your settings after a firmware update.
 
+It is also worth having a read of the settings [guide](https://drive.google.com/file/d/1YQbuPNeTJ3ivgykGI4qOz2yzMxxHmD9B/view?usp%3Dsharing) by Ingolf van Oostveen.
+
 
 
 #### Applications
