@@ -14,9 +14,11 @@ The GNSS chipset is probably the most significant factor when it comes to the ac
 Important factors to avoid speed sailing roulette, plus additional tips:
 
 - Watch choice - GNSS chipset, general features
-- Watch setup - firmware, settings, applications, and accounts
+- Watch setup - firmware, watch settings, applications
+- Linked accounts - GP3S, Hoolan, Waterspeed, Strava, Relive
 - Watch usage - wearing the watch, recording an activity, additional tips
-- Data analysis - reviewing results, exporting + importing activities
+- Data analysis - reviewing results, exporting activities, importing activities
+- Known issues
 
 Until earlier this year, I'd have advised against a Garmin
 
@@ -132,7 +134,7 @@ OK
 
 Be sure to re-check your settings after a firmware update.
 
-### Settings
+### Watch Settings
 
 Sats
 

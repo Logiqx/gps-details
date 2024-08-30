@@ -11,9 +11,11 @@ The GNSS chipset is probably the most significant factor when it comes to the ac
 Important factors to avoid speed sailing roulette, plus additional tips:
 
 - Watch choice - GNSS chipset, general features
-- Watch setup - firmware, settings, and accounts
-- Watch Usage - wearing the watch, recording an activity, plus additional tips
-- Data analysis - reviewing results, exporting activities, and importing activities
+- Watch setup - firmware, watch settings
+- Linked accounts - GP3S, Hoolan, Waterspeed, Strava, Relive
+- Watch usage - wearing the watch, recording an activity, additional tips
+- Data analysis - reviewing results, exporting activities, importing activities
+- Known issues
 
 Until COROS released watches there were limited options for speedsailing
 
@@ -95,7 +97,7 @@ If you have 3.0508.0 on your APEX Pro or VERTIX you can downgrade using this pag
 
 
 
-### Settings
+### Watch Settings
 
 Sats
 
