@@ -242,7 +242,7 @@ App
 
 Spikes are capped in exports
 
-Beware subsequent conversions - e.g. GPSBabel
+Warn against converting to GPX with GPSBabel.
 
 ### Importing Activities
 

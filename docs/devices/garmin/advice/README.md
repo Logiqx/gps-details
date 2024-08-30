@@ -270,6 +270,10 @@ Ignore max and take 2s with a pinch of salt, compare to 10s / 100m / 250m
 
 ![export-fit](img/export-fit.png)
 
+App - web browser
+
+![export-app-highlighted](img/export-app-highlighted.png)
+
 Explain ZIP and warn against converting to GPX with GPSBabel.
 
 ### Importing Activities
