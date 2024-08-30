@@ -38,6 +38,10 @@ Last couple of years, good watches started to appear
     - Decent data when using the right firmware, settings, activity
     - Can be pretty terrible data if you get these things wrong!
 
+Nowadays, would only recommend the APEX 2, APEX 2 Pro, VERTIX 2, and VERTIX 2S. The PACE 3 has the same GNSS chipset, but it does not have the speedsurfing activity.
+
+Earlier models such as the APEX Pro and VERTIX are too prone to inaccuracies, just like Garmin watches using the same family of Sony GNSS chipset.
+
 #### General Features
 
 Records sats, HDOP, COG
@@ -105,13 +109,42 @@ Time auto-sync
 
 ![auto-sync](img/auto-sync.jpg)
 
-Less important
+System - hold the bottom-right button
 
 
-- Auto lock - Standby mode + Activity mode - hold to unlock
-- Touch screen - off
-- Gesture backlight - off
-- WiFi - manual sync, downloading maps and firmware updates
+- Activity Interface
+
+  - Auto scroll = off
+- WiFi
+
+  - Add network for manual sync, downloading maps and firmware updates
+
+- More settings
+
+  - Gesture backlight = off
+  - Touch screen = map only
+  - Auto lock
+
+    - Standby mode - hold to unlock
+    - Activity mode - hold to unlock
+
+  - Satellite systems
+
+    - Mode = all systems on
+
+
+Speedsurfing - prior to starting the activity
+
+- Speed into run = 12 knots
+- Activity alert
+  - New record alert = on
+
+COROS App
+
+- Configure the activity settings for speedsurfing
+  - Activity data pages - personal preference
+  - Button settings - personal preference
+  - Activity alert - new record alert = on
 
 Be sure to re-check your settings after a firmware update.
 
@@ -174,9 +207,10 @@ Firmware and setttings
 
 What is the latest GPS data?
 
-Activity profiles / filters - show example
+Activity profiles / filters
 
-Use speedsurfing mode, not windsurfing
+- Use speedsurfing or GPS cardio
+- Avoid windsurfing and custom activities!
 
 #### Additional Tips
 
@@ -224,6 +258,8 @@ Beware subsequent conversions - e.g. GPSBabel
 ### Known Issues
 
 Firmware since May 2024
+
+New record alerts
 
 Run detection
 
