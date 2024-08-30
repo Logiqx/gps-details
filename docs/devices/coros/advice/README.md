@@ -4,6 +4,10 @@
 
 This article will focus specifically on the COROS range
 
+![COROS_Wearables_Logo](img/COROS_Wearables_Logo.png)
+
+![GP3S Logo](img/gp3s-logo.png)
+
 The problem with max speeds, popular at all levels... most prone to errors
 
 The GNSS chipset is probably the most significant factor when it comes to the accuracy and reliability of GPS watches. Additional factors include antenna design, GNSS firmware, watch firmware, and user settings. The activity mode and / or app choice are also really important.
@@ -64,21 +68,60 @@ Mileage might vary... excuse the pun!
 
 #### Firmware
 
-TODO
+Firmware
+
+![firmware](img/firmware.jpg)
+
+IMPORTANT
+
+- APEX Pro and VERTIX
+  - 3.0309.0 and 3.0409.0 were the last good versions, keep them installed
+  - DO NOT upgrade to 3.0508.0
+- APEX 2, APEX 2 Pro, VERTIX 2 and VERTIX 2S
+  - 3.0308.0 was the last good version, keep it installed
+  - DO NOT upgrade to 3.0408.0, 3.0409.0, 3.0508.0 or 3.0510.0
+
+App
+
+![apex-pro-fw](img/apex-pro-fw.png)
+
+
+
+If you have 3.0508.0 on your APEX Pro or VERTIX you can downgrade using this page:
+
+[How to manually update my COROS watch](https://support.coros.com/hc/en-us/articles/15344945273620-How-to-manually-update-my-COROS-watch) published by COROS
+
+
 
 #### Settings
 
-- GPS - mode - all systems or dual frequency
-- Gesture backlight - off
-- Touch screen - off
+Sats
+
+GPS - mode - all systems or dual frequency
+
+![satellites](img/satellites.jpg)
+
+Time auto-sync
+
+- https://support.coros.com/hc/en-us/articles/5859961688212-The-watch-is-not-displaying-the-correct-time
+
+![auto-sync](img/auto-sync.jpg)
+
+Less important
+
+
 - Auto lock - Standby mode + Activity mode - hold to unlock
-- Time auto-sync
-  - https://support.coros.com/hc/en-us/articles/5859961688212-The-watch-is-not-displaying-the-correct-time
+- Touch screen - off
+- Gesture backlight - off
 - WiFi - manual sync, downloading maps and firmware updates
+
+
 
 #### Applications
 
-COROS do not support 3rd part applications like Apple or Garmin
+COROS do not support 3rd part applications like Apple or Garmin.
+
+Use speedsurfing mode, or GPS cardio.
 
 
 
@@ -86,7 +129,15 @@ COROS do not support 3rd part applications like Apple or Garmin
 
 #### GP3S
 
-Link to Garmin Connect to GP3S
+Link to COROS to GP3S
+
+[https://www.gps-speedsurfing.com/mygps.aspx?mnu=mydevices](https://www.gps-speedsurfing.com/mygps.aspx?mnu=mydevices)
+
+![gp3s-devices](img/gp3s-devices.png)
+
+COROS
+
+![gp3s-coros](img/gp3s-coros.png)
 
 It knows how to process speeds correctly, when provided with  a FIT upload
 

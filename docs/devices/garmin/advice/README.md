@@ -4,6 +4,9 @@
 
 This article will focus specifically on the Garmin range
 
+![GP3S Logo](img/combined-logo.png)
+
+
 The problem with max speeds, popular at all levels... most prone to errors
 
 The GNSS chipset is probably the most significant factor when it comes to the accuracy and reliability of GPS watches. Additional factors include antenna design, GNSS firmware, watch firmware, and user settings. The activity mode and / or app choice are also really important.
@@ -112,22 +115,30 @@ TODO
 
 #### Settings
 
-- Data recording = every 1 second
-  - Satellite settings = all systems, GPS + Galileo, or GPS + GLONASS
+Sats
 
+![satellites](img/satellites.jpg)
+
+Recording
+
+![recording](img/recording.jpg)
+
+- Satellite settings = all systems, GPS + Galileo, or GPS + GLONASS
+
+- Data recording = every 1 second
 - Phone Apps
   - Device Settings -> System -> Data recording = Every 1 Second (default = Smart)
 - Watch
   - Vivoactive 3
     - Settings -> Activities & Apps -> [Activity] -> [Activity] settings -> GPS = GPS + Galileo (default = On)
-	  - Alternatively, can change it before you start the activity by swiping
+    - Alternatively, can change it before you start the activity by swiping
   - Vivoactive 4
     - Settings -> Activities & Apps -> [Activity] -> [Activity] settings -> GPS = GPS + Galileo (default = On)
-	  - Alternatively, can change it before you start the activity by swiping
+    - Alternatively, can change it before you start the activity by swiping
   - FR 255
     - Settings -> System -> Satellites = All Systems (default = GPS)
     - Settings -> Activities & Apps -> [Activity] -> [Activity] Settings -> Satellites = All Systems (default = GPS)
-	  - Alternatively, can change it before you start the activity by pressing the menu button
+    - Alternatively, can change it before you start the activity by pressing the menu button
 
 #### Applications
 
@@ -149,6 +160,14 @@ https://forums.garmin.com/developer/connect-iq/f/showcase/2976/app-appro-windsur
 #### GP3S
 
 Link to Garmin Connect to GP3S
+
+[https://www.gps-speedsurfing.com/mygps.aspx?mnu=mydevices](https://www.gps-speedsurfing.com/mygps.aspx?mnu=mydevices)
+
+![gp3s-devices](img/gp3s-devices.png)
+
+Garmin
+
+![gp3s-coros](img/gp3s-garmin.png)
 
 It knows how to process speeds correctly, when provided with  a FIT upload
 
