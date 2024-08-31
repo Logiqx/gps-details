@@ -4,14 +4,15 @@
 
 ## Introduction
 
-This article will focus specifically on the Garmin range
+Do you own a Garmin watch, or planning to buy one for windsurfing / wingfoiling / kitesurfing? Then if so this guide has been written specifically for the benefit of you and your mates!
 
+Knowing how fast you have been going on the water and whether you are faster than your mates adds an element of fun to your water time, but your watch choice and setup makes a big difference to the accuracy.
 
-The problem with max speeds, popular at all levels... most prone to errors
+The problem with reporting max speeds (popular at all levels) is that they are the most prone to errors; some large and some small. Only last week my COROS APEX Pro reported [37.88](https://www.facebook.com/michael.george.545/posts/10220672656646659) knots when wingfoiling, instead of the actual 23 knots.
 
-The GNSS chipset is probably the most significant factor when it comes to the accuracy and reliability of GPS watches. Additional factors include antenna design, GNSS firmware, watch firmware, and user settings. The activity mode and / or app choice are also really important.
+All GPS receivers are prone to errors, but some more so than others. Even if you own a good / accurate device the way the setup and usage will have a huge impact on the likelihood of speeds being real.
 
-Important factors to avoid speed sailing roulette, plus additional tips:
+This is why I've decided to write guides for COROS and Garmin devices. There is a lot to cover, but I'll try to be concise. Both of the guides have the same structure and the Garmin one includes the following sections:
 
 - Watch choice - GNSS chipset, general features
 - Watch setup - firmware, watch settings, applications
@@ -20,15 +21,19 @@ Important factors to avoid speed sailing roulette, plus additional tips:
 - Data analysis - reviewing results, exporting activities, importing activities
 - Known issues
 
-Until earlier this year, I'd have advised against a Garmin
-
-Last couple of years, good watches started to appear
+I'd encourage you as a Garmin owner (or potential owner) to have a read of this guide to ensure you are getting the best out of your watch.
 
 
 
 ## Watch Choice
 
 Not as simple as Garmin, or Fenix.
+
+Until earlier this year, I'd have advised against a Garmin
+
+Last couple of years, good watches started to appear
+
+
 
 ### GNSS Chipset
 
