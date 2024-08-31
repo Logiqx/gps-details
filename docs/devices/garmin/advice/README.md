@@ -168,7 +168,7 @@ Recording
     - Settings -> Activities & Apps -> [Activity] -> [Activity] Settings -> Satellites = All Systems (default = GPS)
     - Alternatively, can change it before you start the activity by pressing the menu button
 
-### Applications
+### Watch Apps
 
 IMPORTANT - Application will select the activity profile and satellite settings
 

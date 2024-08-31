@@ -197,7 +197,7 @@ Notes:
 
 
 
-### Applications
+### Watch Apps
 
 COROS watches do not benefit from third party applications, like Apple or Garmin watches.
 
