@@ -278,11 +278,13 @@ Ensure you are always using the corrrect watch settings:
 
 **ACTIVITY MODE**
 
-Now to the next thing of importance which is the choice of activity mode. The image below compares an APEX 2 Pro (red) and PACE 3 (green) against a 5 Hz Motion GPS (blue). The terrible accuracy from the watches is very clear, and entirely due to use of the "custom" activity.
+The next topic is how different activity modes use different data sources, filtering and smoothing. The implementation of each activity is unique to the watch manufacturer and I've chosen the "custom" activity for illustrative purposes.
+
+The image below compares speeds from an APEX 2 Pro (red) and PACE 3 (green) against a 5 Hz Motion GPS (blue). The terrible accuracy from the watches is very clear, and entirely due to use of the "custom" activity. It is unsuitable for windsurfing / wingfoiling / kitesurfing!
 
 ![custom-actity](img/custom-activity.png)
 
-Different activity modes use different data sources, filtering and smoothing. The activity modes are proprietary to the watch manufacturer and the "custom" activity was chosen to illustrate the significance of activity modes.
+
 
 **IMPORTANT**
 
