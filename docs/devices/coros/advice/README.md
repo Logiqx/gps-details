@@ -286,6 +286,12 @@ The image below compares speeds from an APEX 2 Pro (red) and PACE 3 (green) agai
 
 
 
+TODO / WIP
+
+This article will not describe all of the COROS activities (out of scope), but VERTIX 2 spikes are typically associated with windsurfing mode + standard GPS.
+
+
+
 **IMPORTANT**
 
 - Use the speedsurfing activity for the best possible accuracy from your COROS.
@@ -371,6 +377,9 @@ Alphas - watch / app and the actual data
 Choose an Airoha watch, set it up properly.
 
 Use speedsurfing, not windsurfing
+
+- Mention VERTIX 2 spikes being windsurfing mode, using standard GPS.
+- Firmware issues similar
 
 Be mindful of the pitfalls when exporting and importing sessions. Use FIT.
 
