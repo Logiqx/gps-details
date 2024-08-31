@@ -39,7 +39,7 @@ The COROS watches have become popular on [gps-speedsurfing.com](https://www.gps-
 
 At the time, COROS were the only brand willing to collaborate with the speedsurfing community and they developed a dedicated speedsurfing activity. Sure, it wasn't perfect (and a bit buggy) but it was a decent start.
 
-Since the original APEX Pro / VERTIX, several new watches released and approved for use on [gps-speedsurfing.com](https://www.gps-speedsurfing.com/); APEX 2 / APEX 2 Pro / VERTIX 2 / VERTIX 2S. The newer devices are significantly better in terms of accuracy.
+Since the original APEX Pro / VERTIX, several new watches have been released and approved for use on [gps-speedsurfing.com](https://www.gps-speedsurfing.com/); APEX 2 / APEX 2 Pro / VERTIX 2 / VERTIX 2S. The newer devices are significantly better in terms of accuracy.
 
 
 
@@ -55,7 +55,7 @@ The Sony-based watches (COROS and Garmin) have a number of inherent issues:
 - Big spikes after loss of lock; submersion, inside buildings / vehicles, etc.
 - Low resolution / precision of speed; unique to the Sony chipset used by COROS.
 
-The APEX 2, APEX 2 Pro, VERTIX 2 and VERTIX 2S use an Airoha / MediaTek chipset. These can produce significantly better data with the right firmware, watch settings, and activity mode. They can also be unreliable / inaccurate if you get any of these things wrong!
+The APEX 2, APEX 2 Pro, VERTIX 2 and VERTIX 2S use an Airoha / MediaTek chipset. These can record good quality data with the right firmware, watch settings, and activity mode. They can also be unreliable / inaccurate if you get any of these things wrong!
 
 
 
@@ -83,7 +83,7 @@ These differences might help your to choose the watch best suited to your own re
 
 ### Recommendations
 
-Nowadays, I can recommend the APEX 2, APEX 2 Pro, VERTIX 2, and VERTIX 2S. Although the PACE 3 uses the Airoha GNSS chipset, it does not have the speedsurfing activity which is crucial for reliable / accurate data.
+Nowadays, I can only recommend the APEX 2, APEX 2 Pro, VERTIX 2, and VERTIX 2S. Although the PACE 3 uses the Airoha GNSS chipset, it does not have the speedsurfing activity which is crucial for reliable / accurate data.
 
 The earlier models such as the APEX Pro and VERTIX are too prone to inaccuracies, just like Garmin watches using the same family of Sony GNSS chipset. If you own an APEX Pro or VERTIX then it may be worth treating yourself to an upgrade!
 
@@ -128,11 +128,11 @@ You can also check the firmware version from within the COROS application, but b
 
 ### Watch Settings
 
-The GPS / GNSS mode has far more impact than you might think. The default mode of standard GPS gives longer battery life which is great for ultra-running / endurance-cycling but far more likely to record fictitious speeds.
+The GPS / GNSS mode has far more impact than you might think. The default mode of standard GPS gives longer battery life, which is great for ultra-running or endurance-cycling, but far more likely to report fictitious speeds.
 
 The worst errors that I have seen from the Airoha-based COROS watches have occurred when using the standard GPS mode. It's really important that you use All Systems or Dual Frequency on the latest watches.
 
-If you have one of the older Sony-based watches then you should choose one of the modes which uses multiple systems, and not the standard GPS. Personally, I use GPS + BeiDou + Galileo + QZSS.
+If you have one of the older Sony-based watches then you should choose one of the modes which uses multiple systems, and not just standard GPS. Personally, I use GPS + BeiDou + Galileo + QZSS.
 
 System -> More Settings -> Satellite Systems -> Mode
 
@@ -233,7 +233,7 @@ What actually happens is the FIT files for your sessions are processed by GP3S, 
 
 Hoolan and Waterspeed are popular apps with Apple watch users. Hoolan and Waterspeed can both be linked to your Garmin Connect account, ensuring that watersport activities are automatically uploaded to their platforms.
 
-This capability doesn't exist for COROS watches right now, but maybe might become available in the future. I'm not privy to any information saying that this will ever happen, just saying that it is theoretically possible!
+This capability doesn't exist for COROS watches right now, but might become available in the future. I'm not privy to any information saying that this will ever happen, just saying that it is theoretically possible!
 
 
 
@@ -243,7 +243,7 @@ You can link your COROS account to Strava and Relive, but I feel obliged to prov
 
 If you want to get techie, Strava does not process the Doppler-derived speeds from the GPS / GNSS chipset and therefore prone to spikes. These spikes may be small (e.g. just a few knots), or large (e.g. tens of knots).
 
-Strava is fine as an activity diary, recording where you sailed and how far, but you should completely disregard and high speeds being reported. No, you can't just eyeball the data and remove obvious spikes yourself...
+Strava is fine as an activity diary, recording where you sailed and how far, but you should completely disregard any of the max speeds being reported. No, you can't just eyeball the data and remove obvious spikes yourself...
 
 
 
@@ -251,7 +251,7 @@ Strava is fine as an activity diary, recording where you sailed and how far, but
 
 ### Wearing the Watch
 
-Sadly we don't live in an ideal world where your GPS is either working, or not working. GPS errors vary by orders of magnitude and speeds being displayed does not mean the GPS / GNSS receiver is working either working or accurate.
+Sadly we don't live in an ideal world where your GPS is either working, or not working. GPS errors vary by orders of magnitude and speeds being displayed does not mean the GPS / GNSS receiver is either working or accurate.
 
 How you wear your GPS receiver can significantly impact the accuracy and reliability of the data being recorded, but you can minimise the risk of errors by following these principles:
 
