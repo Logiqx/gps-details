@@ -244,9 +244,9 @@ Now to the next thing of importance which is the activity mode. The image below 
 
 ![custom-actity](img/custom-activity.png)
 
-Different activity modes use different types of filtering and smoothing. These are proprietary implementation by the watch manufacturer (i.e. COROS) and this specific example was chosen to illustrate the significance of the activity mode.
+Different activity modes use different types data, filtering and smoothing. These are proprietary implementations by the watch manufacturer (i.e. COROS) and this specific example was chosen to illustrate the significance of the activity mode.
 
-Guidance:
+IMPORTANT:
 
 - Use the speedsurfing activity for the most accurate speeds from your COROS.
   - Do NOT use the windsurfing activity which is [non-Doppler](https://medium.com/@mikeg888/the-importance-of-doppler-b886b14bb65d) and prone to errors.
@@ -258,18 +258,18 @@ Guidance:
 
 ### Additional Tips
 
-To ensure the dial continues to function well:
+To ensure the crown dial doesn't seize up:
 
 - Clean under a running tap as described by [COROS](https://support.coros.com/hc/en-us/articles/4407431266836-COROS-Watches-Maintenance-and-Cleaning-Tips).
 
 Handy everyday tips:
 
 - The backlight makes for a handy torch in the middle of the night.
-- Find my phone + find my watch can be super-handy!
+- Find my phone + find my watch can be super-handy.
 
 Additional tips and features:
 
-- Camera control - Insta360 / GoPro.
+- You can control your action camera from some of the COROS watches.
   - GoPro - COROS help on [control](https://support.coros.com/hc/en-us/articles/4411031553044-How-to-control-GoPro-Cameras) + article by [GoPro](https://gopro.com/en/gb/news/open-gopro-coros).
   - Insta360 - COROS help on [control](https://support.coros.com/hc/en-us/articles/4406181409300-How-to-control-Insta360-from-your-COROS-watch) + [data overlay](https://support.coros.com/hc/en-us/articles/28945366751764-Insta360-Data-Overlay).
 - Learn to save your location, just in case you lose something in the sea.
