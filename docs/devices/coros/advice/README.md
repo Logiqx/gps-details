@@ -10,26 +10,21 @@ The problem with max speeds (popular at all levels) is their susceptibility to e
 
 All GPS receivers are prone to errors, but some are more prone to issues than others. Even if you own a decent GPS watch, your setup and usage will have a huge impact on the likelihood of speeds being accurate / real.
 
-This is why I've written dedicated guides for the COROS and Garmin watches. There is quite a lot to cover, but I'll try to be concise. Both of the guides have an identical structure:
+This guide has been written to help you get the best out of your watch(es), and avoid the various pitfalls that await you and your mates at every stage! There is quite a lot to cover, but I'll try to be concise and will cover the following topics:
 
 - Watch choice
   - GNSS chipset and general features
-
 - Watch setup
   - Firmware and watch settings
-
 - Linked accounts
   - GP3S, Hoolan, Waterspeed, Strava, Relive
-
 - Watch usage
   - Wearing the watch, recording an activity, additional tips
-
 - Data analysis
   - Reviewing results, exporting activities, importing activities
-
 - Known issues
 
-This guide has been written to help you get the best out of your watch, and avoid the various pitfalls that are present in default settings!
+Please let me know if you find the guide useful, or whether anything needs further clarification.
 
 
 
@@ -167,10 +162,8 @@ Prior to starting the activity you can also change the following settings:
 
 - Speed into a Run
   - 12 knots or 22 km/h
-
 - Speed Units
   - knots or km/h
-
 - Activity Alert
   - New Record Alert = on
 
@@ -180,10 +173,8 @@ Within the COROS app you can also configure the speedsurfing activity:
 
 - Activity data pages
   - Set according to personal preference(s)
-
 - Button settings
   - Set according to personal preference(s)
-
 - Activity alert
   - New Record Alert = on
 
@@ -287,7 +278,7 @@ Ensure you are always using the corrrect watch settings:
 
 **ACTIVITY MODE**
 
-Now to the next thing of importance which is the choice of activity mode. The image below compares an APEX 2 Pro (red) and PACE 3 (green) against a Motion GPS (blue). The terrible accuracy from the watches is very clear, and entirely due to use of the "custom" activity.
+Now to the next thing of importance which is the choice of activity mode. The image below compares an APEX 2 Pro (red) and PACE 3 (green) against a 5 Hz Motion GPS (blue). The terrible accuracy from the watches is very clear, and entirely due to use of the "custom" activity.
 
 ![custom-actity](img/custom-activity.png)
 
@@ -355,7 +346,6 @@ Warn against converting to GPX with GPSBabel.
   - GP3S using FIT
   - Ignore Strava and SportsTrackLive
     - Don't know about Relive which is also popular
-
 - Waterspeed does not handle COROS GPX properly at this time
 
 
