@@ -256,9 +256,9 @@ I was guilty of denying these were actually relevant when I started speedsurfing
 
 ### Recording an Activity
 
-**QUICK REMINDER**
+**FIRMWARE AND SETTINGS**
 
-Ensure you are always using an appropriate firmware:
+Ensure you are using an appropriate firmware:
 
 - APEX / VERTIX
   - Use 3.0309.0 or 3.0409.0.
@@ -269,10 +269,10 @@ Ensure you are always using an appropriate firmware:
   - Avoid 3.0408.0, 3.0409.0, 3.0508.0 and 3.0510.0.
 
 
-Ensure you are always using the corrrect watch settings:
+Ensure you are using the correct watch settings:
 
-- Ensure you are using multiple systems, not standard GPS.
-- Ensure you have latest GPS data, which makes the initial signal acquisition faster.
+- It should be using multiple systems, not standard GPS.
+- It should have latest GPS data, which speeds up the initial signal acquisition.
 
 
 
@@ -304,13 +304,13 @@ This article will not describe all of the COROS activities (out of scope), but V
 
 ### Additional Tips
 
-To ensure the crown dial doesn't seize up:
+To ensure the crown dial and buttons do not seize up:
 
-- Regularly clean as described by [COROS](https://support.coros.com/hc/en-us/articles/4407431266836-COROS-Watches-Maintenance-and-Cleaning-Tips).
+- Regularly clean the watch body as described by [COROS](https://support.coros.com/hc/en-us/articles/4407431266836-COROS-Watches-Maintenance-and-Cleaning-Tips).
 
 Handy everyday tips:
 
-- The backlight makes for a handy torch in the middle of the night.
+- The backlight can sometimes be used as a makeshift torch!
 - Find my phone + find my watch can be super-useful when they have been misplaced.
 
 Additional tips and features:
@@ -328,7 +328,15 @@ Additional tips and features:
 
 ### Reviewing Results
 
-Ignore max and take 2s with a pinch of salt, compare to 10s / 100m / 250m
+Ignore max and take 2s with a pinch of salt, compare to 10s / 100m / 250m.
+
+Recommend looking at the data on a laptop, rather than blindly uploading results.
+
+Causes
+
+- GPS mode, windsurfing (non-Doppler), water / crash, building / vehicle / trailor, gybe entry / exit
+
+Particularly relevant when using unapproved devices.
 
 - [GPSResults](https://www.gps-speed.com/download_e.html) by Manfred Fuchs
 - [GpsarPro](http://gpsactionreplay.free.fr/index.php?menu=2) by Yann Mathet
@@ -336,7 +344,9 @@ Ignore max and take 2s with a pinch of salt, compare to 10s / 100m / 250m
 
 ### Exporting Activities
 
-- FIT vs GPX
+FIT vs GPX
+
+GPX is fine for planning routes and navigation
 
 ![export-fit](img/export-fit.png)
 
