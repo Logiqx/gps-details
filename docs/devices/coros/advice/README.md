@@ -200,11 +200,17 @@ Activity modes will be discussed in the section "Recording an Activity".
 
 
 
-## Linking Accounts
+## Linked Accounts
 
-### GP3S
+It is a good idea to link your COROS account to other websites, such as GPS-Speedsurfing and Hoolan or Waterspeed.
 
-You can link your COROS account to [GP3S](https://www.gps-speedsurfing.com/) using the "[My Devices](https://www.gps-speedsurfing.com/mygps.aspx?mnu=mydevices)" page.
+This will ensure that your sessions are automatically uploaded to these websites, without doing manual data exports and data imports.
+
+Some of the more popular choices are described in the following sections.
+
+### GPS-Speedsurfing
+
+You can link your COROS account to [GPS-Speedsurfing](https://www.gps-speedsurfing.com/) (GP3S) using the "[My Devices](https://www.gps-speedsurfing.com/mygps.aspx?mnu=mydevices)" page.
 
 Dashboard -> My Items -> My Devices
 
@@ -264,7 +270,7 @@ Ensure you are using an appropriate firmware:
   - Use 3.0309.0 or 3.0409.0.
   - Avoid 3.0508.0.
 
-- APEX 2 Pro / VERTIX 2 / VERTIX 2S
+- APEX 2 / APEX 2 Pro / VERTIX 2 / VERTIX 2S
   - Use 3.0308.0.
   - Avoid 3.0408.0, 3.0409.0, 3.0508.0 and 3.0510.0.
 
@@ -326,73 +332,118 @@ Additional tips and features:
 
 ## Data Analysis
 
-### Reviewing Results
+You've already set up your watch correctly and have recorded a session using the speedsurfing activity.
 
-Ignore max and take 2s with a pinch of salt, compare to 10s / 100m / 250m.
+The watches provides some nice feedback during the session, so you will already have a good idea of your results.
 
-Recommend looking at the data on a laptop, rather than blindly uploading results.
+Once you are off the water, your watch will send all of the data to your phone where it can be reviewed in the COROS app.
 
-Causes
-
-- GPS mode, windsurfing (non-Doppler), water / crash, building / vehicle / trailor, gybe entry / exit
-
-Particularly relevant when using unapproved devices.
-
-- [GPSResults](https://www.gps-speed.com/download_e.html) by Manfred Fuchs
-- [GpsarPro](http://gpsactionreplay.free.fr/index.php?menu=2) by Yann Mathet
-- [GPS Speedreader](https://github.com/prichterich/GPS-Speedreader/) by Peter Richterich
+If you've linked your COROS account to GPS-Speedsurfing, Hoolan or Waterspeed then the session will be automatically uploaded.
 
 ### Exporting Activities
 
-FIT vs GPX
+If you haven't linked your COROS account to GPS-Speedsurfing, Hoolan or Waterspeed then you may need to manually export your data.
 
-GPX is fine for planning routes and navigation
+The most important point is to export as a FIT file, not GPX. GPX is fine for route planning and navigation, but not speed analysis.
+
+In a nutshell, GPX still doesn't have an agreed way to exchange [Doppler speeds]((https://medium.com/@mikeg888/the-importance-of-doppler-b886b14bb65d)) which is highly undesirable and is thoroughly [documented](https://logiqx.github.io/gps-wizard/gpx/).
+
+I've spent a LOT of time trying to resolve the GPX issues across multiple devices and platforms, but my advice is still to use FIT files.
 
 ![export-fit](img/export-fit.png)
 
-App
+You can also export the FIT file from within the phone app. You can download the file, or send it to people via e-mail, Messenger, WhatsApp, etc.
 
 ![export-app](img/export-app-highlighted.jpg)
 
-Spikes are capped in exports
+A couple of final notes:
 
-Warn against converting to GPX with GPSBabel.
+- Large spikes will often be filtered by COROS and somewhat lessened in data exports.
+  - Personally, I'd prefer for the original data to be exported, allowing the downstream processing to handle it accordingly.
+- You should avoid the temptation to convert from FIT to GPX using tools such as GPSBabel.
+  - The conversion process can introduce artificial speeds (even spikes) which is undesirable.
+
+### Laptop Analysis
+
+I would encourage you to have a look sessions on your on a laptop, giving you some insight into your sailing and the performance of your watch.
+
+This is particularly important with unapproved devices such as the PACE 2 or PACE 3, because you can remove any obvious spikes.
+
+These are the best applications for speed analysis, listed in alphabetical order:
+
+- [GpsarPro](http://gpsactionreplay.free.fr/index.php?menu=2) by Yann Mathet - 60 day trial, Windows + Mac
+- [GPSResults](https://www.gps-speed.com/download_e.html) by Manfred Fuchs - 30 day trial, Windows
+- [GPS Speedreader](https://github.com/prichterich/GPS-Speedreader/) by Peter Richterich - unrestricted, Windows + Mac
 
 ### Importing Activities
 
-- Import to suitable platform
-  - GP3S using FIT
-  - Ignore Strava and SportsTrackLive
-    - Don't know about Relive which is also popular
-- Waterspeed does not handle COROS GPX properly at this time
+If you haven't linked your COROS account to GPS-Speedsurfing, Hoolan or Waterspeed then you may need to manually import your data.
+
+The most important point is to import a FIT file from your watch, not GPX. This was discussed earlier in the section "Exporting Activities".
+
+I would be happy to recommend uploading your FIT to GPS-Speedsurfing because it knows how to process your speeds correctly.
+
+Some of the other platforms will often mis-report your speeds though:
+
+- Waterspeed is currently unable to import FIT files and ignores the Doppler speeds in GPX files produced by COROS.
+- Strava can import FIT files but it ignores the Doppler speeds and thus prone to over-reporting and spikes.
+- SportsTrackLive ignores the Doppler speeds and thus prone to over-reporting and spikes.
+- Relive is also popular, but I have not tried it and cannot comment on whether it handles speeds correctly.
 
 
 
 ## Known Issues
 
-Firmware since May 2024
+### Firmware
 
-New record alerts
+Firmware issues in 2024 have already discussed, but just as a reminder:
 
-Run detection
+- APEX Pro + VERTIX
+  - 3.0309.0 and 3.0409.0 were the last good versions, so keep them installed.
+  - DO NOT upgrade to 3.0508.0
+- APEX 2 + APEX 2 Pro + VERTIX 2 / 2S
+  - 3.0308.0 was the last good version, so keep it installed.
+  - DO NOT upgrade to 3.0408.0, 3.0409.0, 3.0508.0 or 3.0510.0
 
-Alphas - watch / app and the actual data
+### Watch Display
 
-- Temporal delay affecting position vs speed
+There are a number of niggly display bugs that you may notice during a session:
+
+- New record alerts sometimes say the wrong thing, like "2s" instead of "5 x 10s".
+- Run detection does not understand turns (gybe or tack), so you can sail for hours and only do one run!
+- The algorithm that calculates alphas on the watch does not work correctly, quite different to GP3S.
+
+### Data Exports
+
+There are some known recording issues:
+
+- Newer watches such as the VERTIX 2 can record the GNSS data in a way that leads to [fantasy alphas](https://logiqx.github.io/gps-details/devices/coros/alpha/) on GP3S.
 
 
 
 ## Summary
 
-Choose an Airoha watch, set it up properly.
+I appreciate this was quite a long article, so here is a quick summary!
 
-Use speedsurfing, not windsurfing
+1. Choose a watch that uses the Airoha chipset - APEX 2, APEX 2 Pro, VERTIX 2 or VERTIX 2S.
+2. Set it up properly - firmware and settings, especially the satellite systems which should be "all systems".
+3. Link your COROS account to GP3S, Hoolan, Waterspeed, etc.
+4. Wear your watch on your back hand (when speed sailing) and always use the speedsurfing mode, not windsurfing.
+5. Try out the applications GpsarPro, GPSResults, and GPSSpeedreader to study and verify your tracks.
+6. Aware of the known issues will help you to recognise when things are not quite right.
 
-- Mention VERTIX 2 spikes being windsurfing mode, using standard GPS.
-- Firmware issues similar
+A couple of notes about the most common causes of data issues, elevated speeds, and spikes:
 
-Be mindful of the pitfalls when exporting and importing sessions. Use FIT.
+- Exporting GPX files and importing them into GP3S, Waterspeed, Strava, etc.
+- COROS watches using the Sony chipset are prone to spikes - APEX Pro, VERTIX
+- COROS watches that do not provide a speedsurfing mode are prone to spikes - APEX, PACE 2, PACE 3, etc.
+- Firmware issues since May 2024 have made the better watches suffer from these same issues!
+- Newer watches such as the VERTIX 2 are prone to spikes when using standard GPS and windsurfing mode.
 
-Known issues - firmware, stats and data
 
-Sail fast, and have fun!
+
+I hope this guide is useful to people.
+
+[Forever Speed!](https://www.worldspeedtour.com/about-us/)
+
+Michael George (K888)
