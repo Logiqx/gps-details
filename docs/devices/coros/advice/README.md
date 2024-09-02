@@ -99,7 +99,7 @@ System -> More Settings -> Device Info -> Software
 **IMPORTANT** - recent firmware releases have been detrimental to the accuracy / reliability of COROS watches. Those issues are being worked on right now!
 
 - APEX Pro + VERTIX
-  - 3.0309.0 and 3.0409.0 were the last good versions, so keep them installed.
+  - 3.0309.0 and 3.0409.0 were good versions, so keep them installed.
   - DO NOT upgrade to 3.0508.0
 - APEX 2 + APEX 2 Pro + VERTIX 2 / 2S
   - 3.0308.0 was the last good version, so keep it installed.
@@ -148,13 +148,13 @@ These are some other settings that I would recommend / advise:
 - System -> Activity Interface
   - Auto Scroll = off / on, depending on personal preference
 - System -> Wi-Fi
-  - Add network for manual sync, and faster downloads of maps + newer firmware
+  - Add for manual sync, and faster downloads of maps + newer firmware
 - System -> More Settings
-  - Gesture Backlight = off, avoiding the annoyingly bright light when in bed
-  - Touch Screen = map only, since touch screens tend to be eratic when wet
-  - Auto Lock
-    - Standby Mode - hold to unlock, since it is easier than using the dial
-    - Activity Mode - hold to unlock, since it is easier than using the dial
+  - Gesture Backlight = off, avoiding the bright light when sleeping!
+  - Touch Screen = map only, since it can behave eratically when wet
+- System -> More Settings -> Auto Lock
+  - Standby Mode = hold to unlock, since it is easier than using the dial
+  - Activity Mode = hold to unlock, since it is easier than using the dial
 
 
 
@@ -292,18 +292,16 @@ The image below compares speeds from an APEX 2 Pro (red) and PACE 3 (green) agai
 
 
 
-TODO / WIP
-
 This article will not describe all of the COROS activities (out of scope), but VERTIX 2 spikes are typically associated with windsurfing mode + standard GPS.
 
 
 
 **IMPORTANT**
 
-- Use the speedsurfing activity for the best possible accuracy from your COROS.
-  - Do NOT use the windsurfing activity which is [non-Doppler](https://medium.com/@mikeg888/the-importance-of-doppler-b886b14bb65d) - prone to errors and significant spikes.
+- Use the speedsurfing activity for the best possible accuracy.
+  - Do NOT use the windsurfing activity which is [non-Doppler](https://medium.com/@mikeg888/the-importance-of-doppler-b886b14bb65d).
 - Use the GPS cardio activity on watches such as the APEX, PACE 2 or PACE 3.
-  - Do not use the "custom" activities - ideal as they might sound the resulting data is absolutely terrible!
+  - Do not use the “custom” activities as the data is absolutely terrible!
 
 
 
@@ -316,8 +314,8 @@ To ensure the crown dial and buttons do not seize up:
 
 Handy everyday tips:
 
-- The backlight can sometimes be used as a makeshift torch!
-- Find my phone + find my watch can be super-useful when they have been misplaced.
+- The backlight can provide some illumination in complete darkness.
+- Find my phone + find my watch can be super-useful when misplaced.
 
 Additional tips and features:
 
@@ -325,7 +323,7 @@ Additional tips and features:
   - GoPro - COROS help on [control](https://support.coros.com/hc/en-us/articles/4411031553044-How-to-control-GoPro-Cameras) + article by [GoPro](https://gopro.com/en/gb/news/open-gopro-coros).
   - Insta360 - COROS help on [control](https://support.coros.com/hc/en-us/articles/4406181409300-How-to-control-Insta360-from-your-COROS-watch) + [data overlay](https://support.coros.com/hc/en-us/articles/28945366751764-Insta360-Data-Overlay).
 - Learn to save your location, just in case you lose something in the sea!
-  - This will allow you to return to the spot with a mask + snorkel, or a diver.
+  - \- You can then return to the same spot with a mask + snorkel, or a diver.
 
 
 
@@ -399,7 +397,7 @@ Some of the other platforms will often mis-report your speeds though:
 Firmware issues in 2024 have already discussed, but just as a reminder:
 
 - APEX Pro + VERTIX
-  - 3.0309.0 and 3.0409.0 were the last good versions, so keep them installed.
+  - 3.0309.0 and 3.0409.0 were good versions, so keep them installed.
   - DO NOT upgrade to 3.0508.0
 - APEX 2 + APEX 2 Pro + VERTIX 2 / 2S
   - 3.0308.0 was the last good version, so keep it installed.
@@ -442,7 +440,7 @@ A couple of notes about the most common causes of data issues, elevated speeds, 
 
 
 
-I hope this guide is useful to people.
+I hope this guide is useful to people who own a COROS watch. The advice will help you to get the most from your watch and maximise the chances of your speeds being accurate.
 
 [Forever Speed!](https://www.worldspeedtour.com/about-us/)
 
