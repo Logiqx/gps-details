@@ -61,7 +61,7 @@ GNSS receivers constantly track the individual satellite signals but in reality 
 
 The example below shows a single wingfoil run during from Weymouth Speed Week 2023 and it is easy to see in the 5 Hz data that "speeds" in excess of 31 knots are outliers. Whether the 31 and 32 knots were caused by sudden arm movements or measurement errors, they do not represent the actual board speed. When a GPS logger is recording at 1 Hz these anomalies need to be carefully considered, much akin to the issue of aliasing.
 
-Essentially, if you record the 5 Hz data then you can handle the anomalies properly (and should never pay attention to the individual values, which is covered in an [article](https://medium.com/@mikeg888/what-to-make-of-max-speeds-b83c05569e6c) that I wrote about max speeds). Should a 1 Hz logger simply just record every 5th sample then anomalies can be difficult to identify. Under such circumstances, 1 Hz logging can make it harder to distinguish between the anomalies and genuine speeds.
+Essentially, if you record the 5 Hz data then you can handle the anomalies properly (and should never pay attention to the individual values, which is covered in an [article](https://medium.com/@mikeg888/what-to-make-of-max-speeds-b83c05569e6c) that I wrote about max speeds). Should a 1 Hz logger simply just record every Nth sample then anomalies can be difficult to identify. Under such circumstances, 1 Hz logging can make it harder to distinguish between the anomalies and genuine speeds.
 
 ![wing](img/wing.png)
 
@@ -69,9 +69,9 @@ Essentially, if you record the 5 Hz data then you can handle the anomalies prope
 
 When logging at 1 Hz you don't want to include anomalies due to sudden arm movements, or measurement errors. The cycling demonstration shows how a sampling rate that is too low can result in very misleading data. Similar principles also apply to speeds being recorded by a GPS logger and you don't want outliers or noise to be recorded as the actual board speed.
 
-[Decimation](https://en.wikipedia.org/wiki/Downsampling_(signal_processing)) (aka downsampling) is the process of taking every Nth sample. For example, 10 Hz data downsampled to 1 Hz will retain 1 in 10 of the samples. The use of a [low-pass filter](https://en.wikipedia.org/wiki/Low-pass_filter) prior to decimation is often referred to as [anti-aliasing](https://en.wikipedia.org/wiki/Anti-aliasing) and in its simplest form may be a simple [moving average](https://en.wikipedia.org/wiki/Moving_average). Low-pass filters may be implemented within the GNSS chipset itself, or within the micro-controller that is logging the data, prior to decimation.
+[Decimation](https://en.wikipedia.org/wiki/Downsampling_(signal_processing)) (aka downsampling) is the process of taking every Nth sample. For example, 10 Hz data downsampled to 1 Hz will retain 1 in 10 of the samples. The use of a [low-pass filter](https://en.wikipedia.org/wiki/Low-pass_filter) prior to decimation is often referred to as an [anti-aliasing](https://en.wikipedia.org/wiki/Anti-aliasing) filter and in its simplest form may be a simple [moving average](https://en.wikipedia.org/wiki/Moving_average). Low-pass filters may be implemented within the GNSS chipset itself, or within the micro-controller that is logging the data, prior to decimation.
 
-Since a simple moving average is essentially a low-pass filter, it is perhaps worth showing a 2 second moving average for the wingfoil run shown earlier. The MA can be seen to lower than the peaks but we need to bear in mind that all values are equal to the true board speed +/- some amount due to arm movements and / or measurement errors. The moving average is more representative of the board speed than any individual sample.
+Since a moving average can be used as a low-pass filter, it is perhaps worth showing a 2 second moving average for the same wingfoil run. The MA can be seen to lower than the peaks but we need to bear in mind that all values represent the actual board speed +/- some amount due to arm movements and / or measurement errors. The moving average is more representative of the board speed than any individual sample.
 
 ![wing-2s](img/wing-2s.png)
 
@@ -79,7 +79,11 @@ Since a simple moving average is essentially a low-pass filter, it is perhaps wo
 
 ### COROS Example
 
-The graph below shows data from three devices on the same arm, during a short walk. The Motion @ 5 Hz (blue) captures the arm movements, Motion @1 Hz (red) clearly exhibits aliasing and COROS APEX 2 Pro (green, beta firmware 3.0708) has clearly been through a low-pass filter. Whilst there is some variability in the COROS data it is clearly not recording the extreme speeds that were calculated prior to decimation.
+The graph below shows data from three devices on the same arm, during a short walk. The Motion @ 5 Hz (blue) captures the arm movements, Motion @1 Hz (red) clearly exhibits aliasing and COROS APEX 2 Pro (green, beta firmware 3.0708) has clearly been filtered. Whilst there is some variability in the COROS data it is clearly not reporting the extremes of the two Motions.
+
+The exact nature of the filter in the APEX 2 Pro is unknown and it may have been implemented by Airoha, or COROS. In principle, it could be a simple 1 second moving average using the internal 10 Hz data, or it may have been implemented within the [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter). It could also be filtering the raw doppler observables (prior to a 1 Hz velocity calculation), or decimating velocities that have been calculated at 10 Hz.
+
+However the filtering has been implemented in this instance, the reported speeds do not contain the extreme variations of a swinging arm.
 
 ![low-pass](img/low-pass.png)
 
@@ -89,7 +93,7 @@ The graph below shows data from three devices on the same arm, during a short wa
 
 This is a very short article which aims to introduce the reader to concepts such as sampling rates and aliasing. The presence of aliasing or low-pass filtering can often be evident when testing GPS loggers. This article provides some basic background information.
 
-The issue of outliers can be mitigated somewhat by low-pass filters because they will attenuate the anomalies. When logging at 1 Hz then low-pass filtering is advisable prior to decimation. If available, higher sampling rates (e.g. 5 or 10 Hz) will allow for greater scrutiny of the data.
+The issue of outliers can be mitigated somewhat by low-pass filtering because it will attenuate any anomalies. When logging at 1 Hz, low-pass filtering is advisable prior to decimation. If available, higher sampling rates (e.g. 5 or 10 Hz) enable greater scrutiny of the data.
 
-Behaviors can vary for different firmware releases (especially COROS) and it can be useful to mention these within test the results. Hopefully this article will prove useful in explaining the basic concepts, without going in to excessive detail.
+Behavior of GPS loggers can vary for different firmware releases (especially COROS) and it can be useful to mention these topics within test the results. Hopefully this article will prove useful in explaining the basic concepts, without going in to excessive detail.
 
