@@ -1,5 +1,14 @@
 ## COROS
 
+### Reference
+
+This project is work in progress and there are more things to be documented:
+
+- [Firmware](firmware/README.md) behaviors - 22 Sep 2024
+- [FIT](fit/README.md) files - 22 Sep 2024
+
+
+
 ### Investigations
 
 This project is work in progress and there are more issues to be documented:
