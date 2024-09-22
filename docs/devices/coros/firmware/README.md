@@ -45,7 +45,7 @@ The beta release 3.0706.0 appears to fix the issues between May and Aug 2024.
 
 ### Jul - Aug 2024
 
-The 3.05xx.0 releases exhibit issues because speedsurfing behaves is like windsurfing, which is non-doppler.
+The 3.05xx.0 releases exhibit issues because speedsurfing behavior is like windsurfing, which is non-doppler.
 
 |               | APEX Pro   | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
 | :------- | :--------: | :--------: | :--------: | :--------: | :--------: |

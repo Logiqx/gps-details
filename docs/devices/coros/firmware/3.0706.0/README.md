@@ -47,7 +47,7 @@ The doppler-derived speeds (red) appear to have passed through a low-pass filter
 
 #### Sailing Test
 
-Comparing the APEX 2 Pro with 3.0706.0 against the Motion GPS @ 5 Hz it can be seen that it can faithfully capturing the board speeds.
+Comparing the APEX 2 Pro with 3.0706.0 against the Motion GPS @ 5 Hz it can be seen that it can faithfully capture the board speeds.
 
 The two devices are typically within 0.1 knots of each other for the majority of the time. Differences do occur but that is par for the course!
 
@@ -61,7 +61,7 @@ The two devices are typically within 0.1 knots of each other for the majority of
 
 GPSResults can be used to compare the position-derived speeds (green) and recorded speeds (red).
 
-The windsurfing data is heavily filtered and is believed to be derived from the positional data, which means the speeds are non-Doppler.
+The windsurfing data is heavily filtered and is believed to be derived from the positional data, which would mean the speeds are non-Doppler.
 
 The windsurfing activity behaves like many other [activities](../../activities/README.md) on the COROS watches - e.g. bike, flatwater, GPS cardio, etc.
 

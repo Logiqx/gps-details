@@ -2,7 +2,7 @@
 
 ### Overview
 
-The 3.0510.0 release exhibits issues because speedsurfing behaves is like windsurfing, which is non-doppler.
+The 3.0510.0 release exhibits issues because speedsurfing behavior is like windsurfing, which is non-doppler.
 
 
 
