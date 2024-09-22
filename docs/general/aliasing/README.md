@@ -37,7 +37,7 @@ Motion #815 @ 5 Hz (red) was essentially recording the bike speed, whilst Motion
 
 ![intro_1](img/intro_1.png)
 
-The graph below clearly shows that Motion # 801 @ 1 Hz is affected by [aliasing](https://en.wikipedia.org/wiki/Aliasing). The aliasing occurred because the frequency of the swinging arm exceeded the [Nyquist rate](https://en.wikipedia.org/wiki/Nyquist_rate) of 0.5 Hz.
+The graph below clearly shows that Motion # 801 @ 1 Hz is affected by aliasing. The aliasing occurred because the frequency of the swinging arm exceeded the [Nyquist frequency](https://en.wikipedia.org/wiki/Nyquist_rate) of 0.5 Hz.
 
 Note: The amplitude for Motion #801 is slightly greater than Motion #825 because it was being worn on the hand, whereas #801 was on the forearm.
 
@@ -51,21 +51,23 @@ It can also be seen that near-identical aliasing artefacts were present in data 
 
 ### Why it Matters
 
-The vast majority of GNSS chipsets determine speed using the observable [Doppler shift](https://en.wikipedia.org/wiki/Doppler_effect) for each satellite signal. This doppler shift is directly attributable to the relative motion of that specific satellite and the GNSS receiver. Through some clever math (and knowledge of the satellite positions and velocities) it is possible to determine the velocity of the receiver in 3D and 2D. The 2D speed is referred to as speed over ground (SOG) or [ground speed](https://en.wikipedia.org/wiki/Ground_speed).
+GNSS chipsets typically determine speed using the observable [Doppler shift](https://en.wikipedia.org/wiki/Doppler_effect) for each of the satellite signals. This doppler shift is directly attributable to the relative motion of a specific satellite and the GNSS receiver. Through some clever math (and knowledge of the satellite positions and velocities) it is possible to determine the velocity of the receiver in 3D and 2D. The 2D speed is referred to as speed over ground (SOG) or [ground speed](https://en.wikipedia.org/wiki/Ground_speed).
 
-GNSS receivers constantly track the individual satellite signals but in reality they are calculating the doppler shifts over periods of time spanning just a few tens of milliseconds. GNSS receivers therefore have the ability to calculate speeds which are near-instantaneous, which can often be really useful but on the other hand they can capture movements that are irrelevant, or simply due to measurement error.
+GNSS receivers constantly track the individual satellite signals but in reality they are frequently re-assessing the doppler shifts, typically for periods of time lasting no more than a few tens of milliseconds. GNSS receivers therefore have the ability to calculate speeds which are near-instantaneous, which can be really useful but on the other hand they can capture movements that may be irrelevant, or simply due to measurement error.
 
-The example below shows a single wingfoil run during from Weymouth Speed Week 2023 and it is easy to see in the 5 Hz data that "speeds" in excess of 31 knots are outliers. Whether the 31 and 32 knots were caused by sudden arm movements or were simply measurement errors, they do not represent the actual board speed. When a GPS logger is recording at 1 Hz then these anomalies need to be considered, which is closely related to aliasing.
+The example below shows a single wingfoil run during from Weymouth Speed Week 2023 and it is easy to see in the 5 Hz data that "speeds" in excess of 31 knots are outliers. Whether the 31 and 32 knots were caused by sudden arm movements or measurement errors, they do not represent the actual board speed. When a GPS logger is recording at 1 Hz these anomalies need to be carefully considered, much akin to the issue of aliasing.
 
 ![wing](img/wing.png)
 
-
-
 ### Low-pass Filtering
 
-When logging speeds at 1 Hz you don't really want to include anomalies due to sudden arm movements or measurement errors. The aliasing demonstration (earlier in this article) shows how a sampling rate that is too low can result in very misleading data. Similar principles also apply to the speeds being recorded to a GPS logger and you don't want irrelevant outliers to be recorded as if they are the board speed.
+When logging at 1 Hz you don't want to include anomalies due to sudden arm movements, or measurement errors. The cycling demonstration shows how a sampling rate that is too low can result in very misleading data. Similar principles also apply to speeds being recorded by a GPS logger and you don't want outliers or noise to be recorded as the actual board speed.
 
 [Decimation](https://en.wikipedia.org/wiki/Downsampling_(signal_processing)) (aka downsampling) is the process of taking every Nth sample. For example, 10 Hz data downsampled to 1 Hz will retain 1 in 10 of the samples. The use of a [low-pass filter](https://en.wikipedia.org/wiki/Low-pass_filter) prior to decimation is often referred to as [anti-aliasing](https://en.wikipedia.org/wiki/Anti-aliasing) and in its simplest form may be a simple [moving average](https://en.wikipedia.org/wiki/Moving_average). Low-pass filters may be implemented within the GNSS chipset itself, or within the micro-controller that is logging the data, prior to decimation.
+
+The graph below shows data from three devices on the same arm, during a short walk. The Motion @ 5 Hz (blue) captures the arm movements, Motion @1 Hz (red) clearly exhibits aliasing and COROS APEX 2 Pro (green, beta 3.0708) has clearly been through a low-pass filter. Whilst there is some variability in the COROS data it is clearly not recording the extreme speeds that were calculated prior to decimation.
+
+![low-pass](img/low-pass.png)
 
 
 
