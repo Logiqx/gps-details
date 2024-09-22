@@ -8,7 +8,9 @@ This brief document lists the various pieces of metadata in the hopes that they 
 
 
 
-### Satellite Systems
+### Useful Information
+
+#### Satellite Systems
 
 System -> More Settings -> Satellite Systems -> Mode.
 
@@ -18,7 +20,7 @@ It would be really helpful if the satellite systems used for an activity were to
 
 
 
-### Firmware
+#### Watch Firmware
 
 System -> More Settings -> Device Info -> Firmware.
 
@@ -28,7 +30,7 @@ This is documented on GitHub in issue [#16](https://github.com/Logiqx/gp3s-coros
 
 
 
-### Serial Number
+#### Serial Number
 
 System -> More Settings -> Device Info -> Serial Number.
 
@@ -38,7 +40,7 @@ This is documented on GitHub in issue [#16](https://github.com/Logiqx/gp3s-coros
 
 
 
-### GNSS Firmware
+#### GNSS Firmware
 
 System -> More Settings -> Device Info -> Satellite Systems.
 
@@ -48,7 +50,7 @@ It would be helpful if the GNSS firmware version was recorded in the FIT file.
 
 
 
-### Activity
+#### Activity Type
 
 There is no direct way to distinguish between windsurfing and speedsurfing activities.
 
