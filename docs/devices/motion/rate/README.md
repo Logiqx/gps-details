@@ -137,7 +137,9 @@ Follow this [link](windfoiling/README.md) for the full details of the windfoilin
 It is not known how the Motion is producing data at different log rates:
 
 - How are CFG-RATE-MEAS and CFG-RATE-NAV (previously UBX-CFG-RATE) being used inside the Motion?
-  - Logging at 5 Hz could be done in one of 2 ways, but it's unclear whether the results would differ:
-    - CFG-RATE-MEAS = 100 and CFG-RATE-NAV = 2
-    - CFG-RATE-MEAS = 200 and CFG-RATE-NAV = 1
+  - Logging at 1 Hz could be done in several ways, but it's unclear whether the results would differ:
+    - CFG-RATE-MEAS = 100 and CFG-RATE-NAV = 10
+    - CFG-RATE-MEAS = 200 and CFG-RATE-NAV = 5
+    - CFG-RATE-MEAS = 500 and CFG-RATE-NAV = 2
+    - CFG-RATE-MEAS = 1000 and CFG-RATE-NAV = 1
   - It is also not clear to me whether navigation solutions can use several recent GNSS measurements, or just the latest.
