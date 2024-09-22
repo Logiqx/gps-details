@@ -20,7 +20,7 @@ The beta has yet to be released for the APEX Pro and VERTIX. This will provide f
 
 The short article about [sampling rates and aliasing](../../../../general/aliasing/README.md) provides the background required to understand this section.
 
-A simple walking test used APEX 2 Pro watches to determine that 3.0706.0 is using low-pass filtering for the speedsurfing activity.
+A simple walking test used APEX 2 Pro watches to determine whether 3.0706.0 is using low-pass filtering for the speedsurfing activity.
 
 ![walking](img/devices.jpg)
 
@@ -71,7 +71,7 @@ The windsurfing activity behaves like many other [activities](../../activities/R
 
 Comparing the APEX 2 Pro with 3.0706.0 against the Motion GPS @ 5 Hz it can be seen that there is more smoothing than speedsurfing, and the COROS does not accurately capture the low speeds during turns.
 
-The COROS speeds are not nearly so close to the Motion when using the windsurfing mode. They are often out by several tenths of a knot and sometimes multiple knots, especially sudden bursts of speed and during turns.
+The COROS speeds are not nearly so close to the Motion when using the windsurfing mode. They are often out by several tenths of a knot and sometimes multiple knots, especially during sudden bursts of speed and when slowing down during turns.
 
 ![sailing-windsurfing](img/sailing-windsurfing.png)
 
