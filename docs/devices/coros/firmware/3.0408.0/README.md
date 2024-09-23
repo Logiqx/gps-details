@@ -2,7 +2,7 @@
 
 ### Overview
 
-The 3.0408.0 release exhibits major smoothing issues on Airoha watches (APEX 2, APEX 2 Pro, VERTIX 2), reminiscent of Garmin watches in 2022.
+The 3.0408.0 release in May 2024 exhibits major smoothing issues on Airoha watches (APEX 2, APEX 2 Pro, VERTIX 2), reminiscent of Garmin watches in 2022.
 
 
 
@@ -18,16 +18,16 @@ The 3.0408.0 release exhibits major smoothing issues on Airoha watches (APEX 2, 
 
 The short article about [sampling rates and aliasing](../../../../general/aliasing/README.md) provides the background required to understand this section.
 
-A simple walking test used APEX 2 Pro watches to determine whether 3.0408.0 is using low-pass filtering for the speedsurfing activity.
+A simple walking test used an APEX 2 Pro watch to determine whether 3.0408.0 is using low-pass filtering for the speedsurfing activity.
 
 ![walking](img\devices.jpg)
 
-The firmware releases 3.0408.0 was tested alongside Motion GPS #801 @ 1 Hz and #805 @ 5 Hz for speedsurfing and windsurfing activities.
+The firmware release 3.0408.0 was tested alongside Motion GPS #801 @ 1 Hz and #805 @ 5 Hz for speedsurfing and windsurfing activities.
 
 - Filtering is clearly evident for windsurfing (red) and speedsurfing (green) activities, when compared against the Motion @ 1 Hz (blue).
 - Unlike any previous (or subsequent) firmware the speedsurfing mode (green) is subject to heavier filtering than windsurfing.
 
-![3.0308-3.0706](img/walk.png)
+![walk](img/walk.png)
 
 
 

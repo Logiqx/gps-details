@@ -2,7 +2,7 @@
 
 ### Overview
 
-The 3.0308.0 release exhibits the original / accepted behavior, similar in many respects to the Garmin watches in 2024.
+The 3.0308.0 release in Jan 2024 exhibits the original / accepted behavior, similar in many respects to the Garmin watches in 2024.
 
 However, unique to the COROS is the temporal offset issue on the APEX 2, APEX 2 Pro, VERTIX 2 which causes [fantasy alphas](../../alpha/README.md).
 

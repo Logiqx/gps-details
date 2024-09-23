@@ -2,7 +2,7 @@
 
 ### Overview
 
-The beta release 3.0706.0 appears to fix the issues seen between May and Aug 2024.
+The beta release 3.0706.0 in Sep 2024 appears to fix the issues seen between May and Aug 2024.
 
 The beta has yet to be released for the APEX Pro and VERTIX. This will provide further evidence about the use of Doppler speeds.
 
