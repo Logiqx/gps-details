@@ -37,7 +37,7 @@ The firmware releases 3.0308.0 and 3.0706 were tested simultaneously for speedsu
 
 #### Walking Test
 
-GPSResults can be used to compare the position-derived speeds (green) and probable doppler-derived speeds (red).
+GPSResults can be used to compare the position-derived speeds (green) and probable doppler-derived speeds (red) of the speedsurfing activity.
 
 It should be noted that COROS are applying custom filters to the positional data, clearly evident in the green trace (ignoring the spikes).
 
@@ -59,7 +59,7 @@ The two devices are typically within 0.1 knots of each other for the majority of
 
 #### Walking Test
 
-GPSResults can be used to compare the position-derived speeds (green) and recorded speeds (red).
+GPSResults can be used to compare the position-derived speeds (green) and recorded speeds (red) of the windsurfing activity.
 
 The windsurfing data is heavily filtered and is believed to be derived from the positional data, which would mean the speeds are non-Doppler.
 
