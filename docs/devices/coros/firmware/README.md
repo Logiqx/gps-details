@@ -57,7 +57,9 @@ The 3.05xx.0 releases exhibit issues because speedsurfing behavior is like winds
 
 ### May - Jun 2024
 
-The 3.04xx.0 releases exhibit major smoothing issues on Airoha watches, reminiscent of Garmin watches in 2022.
+The 3.04xx.0 releases exhibit major smoothing issues on Airoha watches (APEX 2, APEX 2 Pro, VERTIX 2), reminiscent of Garmin watches in 2022.
+
+The smoothing issues do not affect the Sony watches (APEX Pro, VERTIX).
 
 
 |          | APEX Pro   | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |

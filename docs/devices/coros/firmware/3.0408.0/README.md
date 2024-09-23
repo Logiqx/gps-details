@@ -2,7 +2,7 @@
 
 ### Overview
 
-The 3.0408.0 release exhibits major smoothing issues on Airoha watches, reminiscent of Garmin watches in 2022.
+The 3.0408.0 release exhibits major smoothing issues on Airoha watches (APEX 2, APEX 2 Pro, VERTIX 2), reminiscent of Garmin watches in 2022.
 
 
 
