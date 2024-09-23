@@ -61,7 +61,7 @@ Comparing the APEX 2 Pro with the Motion @ 5 Hz there is obvious [aliasing](../.
 
 GPSResults can be used to compare the position-derived speeds (green) and probable doppler-derived speeds (red).
 
-Differences in the plots show some independence of position and time.
+Differences in the plots show some independence of position and speed.
 
 ![walk-speedsurfing](img/walk-speedsurfing.png)
 
