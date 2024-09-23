@@ -4,7 +4,9 @@
 
 The 3.0506.0 beta release in Jul 2024 exhibits issues because speedsurfing behaves much like windsurfing, which is non-doppler and thus prone to spikes.
 
-It was initially thought to fix the issues in [3.0408.0](../3.0408.0/README.md) but that turned out to be incorrect.
+The 3.0506.0 beta was initially thought to fix the speed issues in [3.0408.0](../3.0408.0/README.md) and [3.0409.0](../3.0409.0/README.md). However [3.0508.0](../3.0508.0/README.md) on the APEX Pro and VERTIX made it clear that there were some new speed issues. The non-Doppler speed issues of 3.0506.0 and 3.0508.0 were [documented](../../doppler/README.md) on 19 Aug 2024.
+
+
 
 
 
