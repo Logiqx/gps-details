@@ -35,16 +35,6 @@ The firmware releases 3.0308.0 and 3.0706 were tested simultaneously for speedsu
 
 ### Speedsurfing
 
-#### Walking Test
-
-GPSResults can be used to compare the position-derived speeds (green) and probable doppler-derived speeds (red) of the speedsurfing activity.
-
-It should be noted that COROS are applying custom filters to the positional data, clearly evident in the green trace (ignoring the spikes).
-
-The doppler-derived speeds (red) appear to have passed through a low-pass filter; either within the Airoha chip or implemented by COROS.
-
-![walk-speedsurfing](img/walk-speedsurfing.png)
-
 #### Sailing Test
 
 Comparing the APEX 2 Pro with 3.0706.0 against the Motion GPS @ 5 Hz it can be seen that it can faithfully capture the board speeds.
@@ -53,19 +43,27 @@ The two devices are typically within 0.1 knots of each other for the majority of
 
 ![sailing-speedsurfing](img/sailing-speedsurfing.png)
 
+GPSResults can be used to compare the position-derived speeds (green) and doppler-derived speeds (red) of the speedsurfing activity.
+
+It should be noted that COROS are applying custom filters to the positional data, clearly evident in the green trace (ignoring the spikes).
+
+The doppler-derived speeds (red) contain more detail than the position-derived speeds.
+
+![sailing-speedsurfing-gpsresults](img/sailing-speedsurfing-gpsresults.png)
 
 
-### Windsurfing
 
 #### Walking Test
 
-GPSResults can be used to compare the position-derived speeds (green) and recorded speeds (red) of the windsurfing activity.
+GPSResults can be used to compare the position-derived speeds (green) and probable doppler-derived speeds (red) when walking.
 
-The windsurfing data is heavily filtered and is believed to be derived from the positional data, which would mean the speeds are non-Doppler.
+It should be noted that COROS are applying custom filters to the positional data, clearly evident in the green trace (ignoring the spikes).
 
-The windsurfing activity behaves like many other [activities](../../activities/README.md) on the COROS watches - e.g. bike, flatwater, GPS cardio, etc.
+The doppler-derived speeds (red) appear to have passed through a low-pass filter; either within the Airoha chip or implemented by COROS.
 
-![walk-windsurfing](img/walk-windsurfing.png)
+![walk-speedsurfing](img/walk-speedsurfing.png)
+
+### Windsurfing
 
 #### Sailing Test
 
@@ -74,6 +72,26 @@ Comparing the APEX 2 Pro with 3.0706.0 against the Motion GPS @ 5 Hz it can be s
 The COROS speeds are not nearly so close to the Motion when using the windsurfing mode. They are often out by several tenths of a knot and sometimes multiple knots, especially during sudden bursts of speed and when slowing down during turns.
 
 ![sailing-windsurfing](img/sailing-windsurfing.png)
+
+GPSResults can be used to compare the position-derived speeds (green) and recorded speeds (red) of the windsurfing activity.
+
+The windsurfing data is heavily filtered and is believed to be derived from the positional data, which would mean the speeds are non-Doppler.
+
+The windsurfing activity behaves like many other [activities](../../activities/README.md) on the COROS watches - e.g. bike, flatwater, GPS cardio, etc.
+
+![sailing-windsurfing-gpsresults](img/sailing-windsurfing-gpsresults.png)
+
+
+
+#### Walking Test
+
+GPSResults can be used to compare the position-derived speeds (green) and recorded speeds (red) when walking.
+
+The windsurfing data is heavily filtered and is believed to be derived from the positional data, which would mean the speeds are non-Doppler.
+
+The windsurfing activity behaves like many other [activities](../../activities/README.md) on the COROS watches - e.g. bike, flatwater, GPS cardio, etc.
+
+![walk-windsurfing](img/walk-windsurfing.png)
 
 
 

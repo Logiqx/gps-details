@@ -67,7 +67,7 @@ The expected doppler-derived speeds (red) have been filtered even more heavily t
 
 #### Sailing Test
 
-GPSResults can be used to compare the position-derived speeds (green) and expected doppler-derived speeds (red) of the windsurfing activity.
+GPSResults can be used to compare the position-derived speeds (green) and recorded speeds (red) of the windsurfing activity.
 
 The windsurfing data is heavily filtered and is believed to be derived from the positional data, which would mean the speeds are non-Doppler.
 

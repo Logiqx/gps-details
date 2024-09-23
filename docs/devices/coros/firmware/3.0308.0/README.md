@@ -35,16 +35,6 @@ The firmware releases 3.0308.0 and 3.0706 were tested simultaneously for speedsu
 
 ### Speedsurfing
 
-#### Walking Test
-
-GPSResults can be used to compare the position-derived speeds (green) and probable doppler-derived speeds (red) of the speedsurfing activity.
-
-There is obvious [aliasing](../../../../general/aliasing/README.md) in this data which suggests little or no filtering. Differences in the plots show some independence of position and time.
-
-![walk-speedsurfing](img/walk-speedsurfing.png)
-
-
-
 #### Sailing Test
 
 Comparing the APEX 2 Pro with 3.0706.0 against the Motion GPS @ 5 Hz the speedsurfing mode can be seen to capture the highs and lows.
@@ -52,6 +42,26 @@ Comparing the APEX 2 Pro with 3.0706.0 against the Motion GPS @ 5 Hz the speedsu
 However there is quite a lot of sawtooth evident in the 3.0706.0 data, which is consistent with the aliasing observations in the walking test.
 
 ![sailing-speedsurfing](img/sailing-speedsurfing.png)
+
+GPSResults can be used to compare the position-derived speeds (green) and doppler-derived speeds (red) of the speedsurfing activity.
+
+It should be noted that COROS are applying custom filters to the positional data, clearly evident in the green trace (ignoring the spikes).
+
+The doppler-derived speeds (red) contain more detail than the position-derived speeds, although quite a lot of sawtooth evident.
+
+![sailing-speedsurfing-gpsresults](img/sailing-speedsurfing-gpsresults.png)
+
+
+
+#### Walking Test
+
+GPSResults can be used to compare the position-derived speeds (green) and probable doppler-derived speeds (red) when walking.
+
+There is obvious [aliasing](../../../../general/aliasing/README.md) in this data which suggests little or no filtering. Differences in the plots show some independence of position and time.
+
+![walk-speedsurfing](img/walk-speedsurfing.png)
+
+
 
 #### Fantasy Alphas
 
@@ -63,18 +73,6 @@ The 3.0308.0 firmware is prone to [fantasy alphas](../../alpha/README.md) becaus
 
 ### Windsurfing
 
-#### Walking Test
-
-GPSResults can be used to compare the position-derived speeds (green) and recorded speeds (red) of the windsurfing activity.
-
-The windsurfing data is heavily filtered and is believed to be derived from the positional data, which would mean the speeds are non-Doppler.
-
-The windsurfing activity behaves like many other [activities](../../activities/README.md) on the COROS watches - e.g. bike, flatwater, GPS cardio, etc.
-
-![walk-windsurfing](img/walk-windsurfing.png)
-
-
-
 #### Sailing Test
 
 Comparing the APEX 2 Pro with 3.0706.0 against the Motion GPS @ 5 Hz it can be seen that there is more smoothing than speedsurfing, and the COROS does not accurately capture the low speeds during turns.
@@ -82,6 +80,28 @@ Comparing the APEX 2 Pro with 3.0706.0 against the Motion GPS @ 5 Hz it can be s
 The COROS speeds are not nearly so close to the Motion when using the windsurfing mode. They are often out by several tenths of a knot and sometimes multiple knots, especially during sudden bursts of speed and when slowing down during turns.
 
 ![sailing-windsurfing](img/sailing-windsurfing.png)
+
+
+
+GPSResults can be used to compare the position-derived speeds (green) and recorded speeds (red) of the windsurfing activity.
+
+The windsurfing data is heavily filtered and is believed to be derived from the positional data, which would mean the speeds are non-Doppler.
+
+The windsurfing activity behaves like many other [activities](../../activities/README.md) on the COROS watches - e.g. bike, flatwater, GPS cardio, etc.
+
+![sailing-windsurfing-gpsresults](img/sailing-windsurfing-gpsresults.png)
+
+
+
+#### Walking Test
+
+GPSResults can be used to compare the position-derived speeds (green) and recorded speeds (red) when walking.
+
+The windsurfing data is heavily filtered and is believed to be derived from the positional data, which would mean the speeds are non-Doppler.
+
+The windsurfing activity behaves like many other [activities](../../activities/README.md) on the COROS watches - e.g. bike, flatwater, GPS cardio, etc.
+
+![walk-windsurfing](img/walk-windsurfing.png)
 
 
 
