@@ -55,9 +55,13 @@ The doppler-derived speeds (red) contain more detail than the position-derived s
 
 #### Walking Test
 
-GPSResults can be used to compare the position-derived speeds (green) and probable doppler-derived speeds (red) when walking.
+Comparing the APEX 2 Pro with the Motion @ 5 Hz there is obvious [aliasing](../../../../general/aliasing/README.md) which suggests there is no low-pass filter.
 
-There is obvious [aliasing](../../../../general/aliasing/README.md) in this data which suggests little or no filtering. Differences in the plots show some independence of position and time.
+![aliasing](img/aliasing.png)
+
+GPSResults can be used to compare the position-derived speeds (green) and probable doppler-derived speeds (red).
+
+Differences in the plots show some independence of position and time.
 
 ![walk-speedsurfing](img/walk-speedsurfing.png)
 
