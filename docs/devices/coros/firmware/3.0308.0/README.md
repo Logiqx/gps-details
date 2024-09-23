@@ -22,14 +22,14 @@ The short article about [sampling rates and aliasing](../../../../general/aliasi
 
 A simple walking test used APEX 2 Pro watches to determine whether 3.0308.0 is using low-pass filtering for the speedsurfing activity.
 
-![walking](W:/home/mike/projects/work/gps-details/docs/devices/coros/firmware/3.0706.0/img/devices.jpg)
+![walking](img/devices.jpg)
 
 The firmware releases 3.0308.0 and 3.0706 were tested simultaneously for speedsurfing and windsurfing activities.
 
 - The speedsurfing activity exhibits aliasing in 3.0308.0 (blue) but low-pass filtering is evident in 3.0706.0 (red).
 - The windsurfing activity exhibits heavier filtering than speedsurfing. The 3.0308.0 and 3.0706.0 data is very similar in nature (green and magenta).
 
-![3.0308-3.0706](W:/home/mike/projects/work/gps-details/docs/devices/coros/firmware/3.0706.0/img/3.0308-3.0706.png)
+![3.0308-3.0706](img/3.0308-3.0706.png)
 
 
 
