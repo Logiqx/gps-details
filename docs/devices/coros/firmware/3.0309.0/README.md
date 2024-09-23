@@ -2,7 +2,7 @@
 
 ### Overview
 
-The 3.0309.0 release exhibits the original / accepted behavior, similar in many respects to the Garmin watches in 2024.
+The 3.0309.0 release exhibits the original / accepted behavior.
 
 
 
