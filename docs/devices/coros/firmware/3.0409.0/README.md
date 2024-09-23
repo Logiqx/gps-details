@@ -2,7 +2,9 @@
 
 ### Overview
 
-The 3.0409.0 release exhibits smoothing issues on Airoha watches, similar to Garmin watches in 2022.
+The 3.0409.0 release exhibits major smoothing issues on Airoha watches, similar to Garmin watches in 2022.
+
+It behaves in the same was as [3.0408.0](../3.0408.0/README.md) which has already been documented.
 
 
 

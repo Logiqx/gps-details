@@ -57,7 +57,7 @@ The 3.05xx.0 releases exhibit issues because speedsurfing behavior is like winds
 
 ### May - Jun 2024
 
-The 3.04xx.0 releases exhibit smoothing issues on Airoha watches, similar to Garmin watches in 2022.
+The 3.04xx.0 releases exhibit major smoothing issues on Airoha watches, reminiscent of Garmin watches in 2022.
 
 
 |          | APEX Pro   | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
@@ -71,7 +71,7 @@ The 3.04xx.0 releases exhibit smoothing issues on Airoha watches, similar to Gar
 
 The 3.03xx.0 releases exhibit the original / accepted behavior, similar in many respects to the Garmin watches in 2024.
 
-However, unique to the COROS is the temporal offset issue on the Airoha watches which causes [fantasy alphas](../alpha/README.md).
+However, unique to the COROS is the temporal offset issue on the APEX 2, APEX 2 Pro, VERTIX 2 which causes [fantasy alphas](../alpha/README.md).
 
 
 |                                |  APEX Pro  |   VERTIX   |   APEX 2   | APEX 2 Pro |  VERTIX 2  |
