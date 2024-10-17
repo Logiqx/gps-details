@@ -17,7 +17,7 @@ GNSS details are provided for the following Garmin watches:
   - [epix](epix.md)
   - [quatix](quatix.md)
   - [tactix](tactix.md)
-  - [Instinct](instinct.md) - unsupported by the apps
+  - [Instinct](instinct.md)
 - Lightweight - running / fitness
   - [Forerunner](forerunner.md)
   - [Enduro](enduro.md)

@@ -4,7 +4,7 @@
 
 This page lists the GNSS chipsets that are used in the Garmin Instinct watches.
 
-It should be noted that the Instinct is not supported by the most popular apps - [Windsurfing application](https://apps.garmin.com/apps/9d47be43-2724-44e4-8f5e-3005b0766087?tid=1), [APPro WIndsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791?tid=1) and [GPSTC V4](https://apps.garmin.com/apps/f0f3fbd5-9de3-4d69-b89b-10b76d6a9f0f?tid=1).
+It should be noted that the Instinct is not supported by [Windsurfing application](https://apps.garmin.com/apps/9d47be43-2724-44e4-8f5e-3005b0766087?tid=1) or [GPSTC V4](https://apps.garmin.com/apps/f0f3fbd5-9de3-4d69-b89b-10b76d6a9f0f?tid=1).
 
 The various models are listed in reverse-chronological order. The release dates are generally from Garmin announcements.
 
