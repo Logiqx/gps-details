@@ -2,5 +2,7 @@
 
 Some guidance relating to various topics.
 
-- [Enabling Location Events](location-events.md)
-
+- [Suitable Sports](suitable-sports.md)
+- [GNSS Configuration](gnss-config.md)
+- [Additional FIT Fields](fit-fields.md)
+- [Data Quality](data-quality.md)
