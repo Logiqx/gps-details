@@ -2,7 +2,7 @@
 
 ### GNSS Configuration
 
-How to use GNSS constellations other than GPS on the maximum number of devices, when [enabling location events](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#enableLocationEvents-instance_function).
+Use of GNSS constellations other than standard GPS when [enabling location events](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#enableLocationEvents-instance_function).
 
 ```c
 function startUpdates(options) {

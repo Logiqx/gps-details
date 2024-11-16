@@ -2,7 +2,7 @@
 
 ### Suitable Sports
 
-Only a few of the sports in [Toybox.ActivtyRecording](https://developer.garmin.com/connect-iq/api-docs/Toybox/ActivityRecording.html) are suitable for speed sailing apps.
+Only a few of the sports in [Toybox.ActivityRecording](https://developer.garmin.com/connect-iq/api-docs/Toybox/ActivityRecording.html) are suitable for speed sailing apps.
 
 | name              | value |
 | ----------------- | ----- |
@@ -11,5 +11,4 @@ Only a few of the sports in [Toybox.ActivtyRecording](https://developer.garmin.c
 | SPORT_KITESURFING | 44    |
 
 Note: The sport used for the activity recording is automatically saved to the FIT.
-
 
