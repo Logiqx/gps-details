@@ -10,9 +10,9 @@ Additional fields should be written to the FIT using the [Toybox.FitContributor]
 
 #### Session
 
-| name        | type            | **mesgType**      | source                                                       | example                                         |
-| ----------- | --------------- | ----------------- | ------------------------------------------------------------ | ----------------------------------------------- |
-| gnss_config | DATA_TYPE_UINT8 | MESG_TYPE_SESSION | [GNSS configuration](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html) | 5 = CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1 |
+| name        | type            | **mesgType**      | source                                                       | example                       |
+| ----------- | --------------- | ----------------- | ------------------------------------------------------------ | ----------------------------- |
+| gnss_config | DATA_TYPE_UINT8 | MESG_TYPE_SESSION | [GNSS configuration](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html) | 3 = CONFIGURATION_GPS_GALILEO |
 
 Note: The sport is automatically written to the FIT by the [activity recording](https://developer.garmin.com/connect-iq/api-docs/Toybox/ActivityRecording.html) module.
 
