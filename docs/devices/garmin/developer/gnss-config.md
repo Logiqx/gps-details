@@ -2,9 +2,9 @@
 
 ### GNSS Configuration
 
-Use of standard GPS is not recommended on modern watches. All systems or multi-band are advisable.
+Use of standard GPS is not recommended on modern watches; all systems or all + multi-band are advisable.
 
-Example of how to specify suitable GNSS constellations when using [Position.enableLocationEvents](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#enableLocationEvents-instance_function).
+Here is some example code to select the suitable GNSS constellations via [Position.enableLocationEvents](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#enableLocationEvents-instance_function).
 
 ```c
 function startUpdates(options) {
