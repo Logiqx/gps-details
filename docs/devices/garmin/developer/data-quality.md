@@ -1,8 +1,6 @@
-## Garmin Developer Tips
+## Garmin Developer Tips - Data Quality
 
-### Data Quality
-
-#### Overview
+### Overview
 
 This document is very much WIP but it captures some initial thoughts.
 
@@ -12,7 +10,7 @@ General usability is a separate topic that will be discussed on another page.
 
 
 
-#### Thoughts from Scott Simms
+### Thoughts from Scott Simms
 
 How to crunch the numbers, both in apps like APPro and for official posting.
 

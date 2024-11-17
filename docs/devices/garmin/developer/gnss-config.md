@@ -1,6 +1,6 @@
-## Garmin Developer Tips
+## Garmin Developer Tips - GNSS Configuration
 
-### GNSS Configuration
+### Example Code
 
 Use of standard GPS is not recommended on modern watches; all systems or all + multi-band are advisable.
 

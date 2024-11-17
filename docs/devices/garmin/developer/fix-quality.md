@@ -1,8 +1,6 @@
-## Garmin Developer Tips
+## Garmin Developer Tips - Fix Quality
 
-### Fix Quality
-
-#### Background
+### Background
 
 The [Toybox.Position](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html) module provides a GNSS fix [quality](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#Quality-module) indicator.
 
@@ -16,7 +14,7 @@ The [Toybox.Position](https://developer.garmin.com/connect-iq/api-docs/Toybox/Po
 
 
 
-#### Recommendations
+### Recommendations
 
 In addition to recording the GNSS fix quality in the FIT file ([see further details](fit-fields.md)), it is recommended that the user be made aware of the fix quality. Only two colors / categories should be presented to the user.
 

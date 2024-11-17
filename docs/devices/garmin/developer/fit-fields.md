@@ -1,6 +1,6 @@
-## Garmin Developer Tips
+## Garmin Developer Tips - Additional FIT Fields
 
-### Additional FIT Fields
+### Overview
 
 It is requested that speed sailing applications record some additional metadata to the FIT file.
 
@@ -12,7 +12,7 @@ This document is very much WIP and yet to be finalized / agreed.
 
 
 
-#### Session
+### Session
 
 | name        | type            | **mesgType**      | source                                                       | example                       |
 | ----------- | --------------- | ----------------- | ------------------------------------------------------------ | ----------------------------- |
@@ -22,7 +22,7 @@ Note: The sport is automatically written to the FIT by the [Toybox.ActivityRecor
 
 
 
-#### Record
+### Record
 
 | name        | type            | **mesgType**     | source                                                       | example          |
 | ----------- | --------------- | ---------------- | ------------------------------------------------------------ | ---------------- |

@@ -1,8 +1,6 @@
-## Garmin Developer Tips
+## Garmin Developer Tips - Data Recording
 
-### Data Recording
-
-#### Frequency
+### Frequency
 
 It is imperative that the data recording frequency is set to "every second" but this is the responsibility of the watch user.
 
@@ -12,7 +10,7 @@ If the frequency is not every second then the user should be alerted to the fact
 
 
 
-#### Fix Quality
+### Fix Quality
 
 The user should be aware of the [fix quality](fix-quality.md) at all times.
 

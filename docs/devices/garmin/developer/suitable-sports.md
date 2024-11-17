@@ -1,6 +1,6 @@
-## Garmin Developer Tips
+## Garmin Developer Tips - Suitable Sports
 
-### Suitable Sports
+### Overview
 
 Only a few of the sports in [Toybox.Activity](https://developer.garmin.com/connect-iq/api-docs/Toybox/Activity.html#Sport-module) are suitable for speed sailing apps.
 

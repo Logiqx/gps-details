@@ -1,8 +1,6 @@
-## Garmin Developer Tips
+## Garmin Developer Tips - Accuracy Estimates
 
-### Accuracy Estimates
-
-#### Overview
+### Overview
 
 Accuracy estimates are available in the Android [Location](https://developer.android.com/reference/android/location/Location) class and Apple [CLLocation](https://developer.apple.com/documentation/corelocation/cllocation) class. These estimates relate to the position and speed accuracy at the 68th percentile confidence level. Full details of the accuracy estimates provided by Android and Apple can be found on a page detailing both [APIs](https://logiqx.github.io/gps-wizard/apis/location.html).
 
@@ -10,7 +8,7 @@ It is worth noting the Airoha AG3335M chipset used in many modern [Garmin watche
 
 
 
-#### References
+### References
 
 We do not have access to the Airoha_IoT_SDK_for_GNSS_Developers_Guide, but details about accuracy estimates can be found in the Airoha documentation from SIMCom and Quectel.
 
