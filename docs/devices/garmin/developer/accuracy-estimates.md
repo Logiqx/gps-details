@@ -12,9 +12,7 @@ It is worth noting the Airoha AG3335M chipset used in many modern [Garmin watche
 
 #### References
 
-We do not have access to the Airoha_IoT_SDK_for_GNSS_Developers_Guide, but details about accuracy estimates can be found in the Airoha documentation from SIMCom, Quectel, and Robu.in.
+We do not have access to the Airoha_IoT_SDK_for_GNSS_Developers_Guide, but details about accuracy estimates can be found in the Airoha documentation from SIMCom and Quectel.
 
 - [SIMCom SIM68D Series NMEA Message User Guide](https://en.simcom.com/technical_files.html?pro_cat=10&pro_li=71&time=0&filetype=0) - confirmed as [AG3335M](https://www.avnet.com/wps/wcm/connect/onesite/3a0ea576-cf1b-4a79-8479-5fff508b3c01/EBV-IoT+-+SIMCom+GNSS+Modules+Info+Sheet.pdf?MOD=AJPERES&CVID=nxzMVxi&CVID=nxvsTVu&srsltid=AfmBOopCaoUOA7bpMqRLKpTbZg2-YQLGgqttJoFp0sA4-TuMiJUObcdp)
 - [Quectel LC29H Series & LC79H (AL) GNSS Protocol Specification](https://forums.quectel.com/uploads/short-url/gJTnPOK8MkEJIgLFR7QgjvrpUey.pdf) - confirmed as [AG3335 platform](https://www.quectel.com/news-and-pr/gnss-lc29h-launch/)
-- [REYAX RYS352x PAIR Command Guide](https://robu.in/wp-content/uploads/2024/07/RYS352x_PAIR_Command_Guide.pdf)
-
