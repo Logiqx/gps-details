@@ -14,7 +14,9 @@ General usability is a separate topic that will be discussed on another page.
 
 #### Thoughts from Scott Simms
 
-In terms of data quality issues, there will need to be some agreement, or at least communication if such decisions have already been taken, on how to handle scenarios both in apps like APPro and when crunching the numbers for official posting. I would really like to see the same rules implemented in both cases where possible. For example: 
+How to crunch the numbers, both in apps like APPro and for official posting.
+
+Ideally the same rules should be implemented in both cases, where possible. 
 
 - Heading and speed data going awry  
 - Missing points - that is a big deal for 1hz logging! 
