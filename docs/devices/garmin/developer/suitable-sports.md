@@ -2,7 +2,7 @@
 
 ### Suitable Sports
 
-Only a few of the sports in [Toybox.ActivityRecording](https://developer.garmin.com/connect-iq/api-docs/Toybox/ActivityRecording.html) are suitable for speed sailing apps.
+Only a few of the sports in [Toybox.Activity](https://developer.garmin.com/connect-iq/api-docs/Toybox/Activity.html#Sport-module) are suitable for speed sailing apps.
 
 | name              | value |
 | ----------------- | ----- |

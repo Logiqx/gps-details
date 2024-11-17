@@ -2,7 +2,9 @@
 
 ### GNSS Configuration
 
-Use of GNSS constellations other than standard GPS when [enabling location events](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#enableLocationEvents-instance_function).
+Use of standard GPS is not recommended on modern watches. All systems or multi-band are advisable.
+
+Example of how to specify suitable GNSS constellations when using [Position.enableLocationEvents](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#enableLocationEvents-instance_function).
 
 ```c
 function startUpdates(options) {

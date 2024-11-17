@@ -2,7 +2,11 @@
 
 ### Additional FIT Fields
 
-Additional fields from [Toybox.Position](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html) should be written to the FIT using the [Toybox.FitContributor](https://developer.garmin.com/connect-iq/api-docs/Toybox/FitContributor.html) module.
+It is requested that speed sailing applications record some additional metadata to the FIT file.
+
+This metadata includes the GNSS configuration  (e.g. GPS + GALILEO) and fix quality (e.g. quality = good).
+
+The relevant fields from [Toybox.Position](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html) can be written to the FIT using the [Toybox.FitContributor](https://developer.garmin.com/connect-iq/api-docs/Toybox/FitContributor.html) module.
 
 This document is very much WIP and yet to be finalized / agreed.
 

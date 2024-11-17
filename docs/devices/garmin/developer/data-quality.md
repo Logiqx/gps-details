@@ -4,9 +4,11 @@
 
 #### Overview
 
-Transparency is highly desirable and one such area relates to filtering, etc.
-
 This document is very much WIP but it captures some initial thoughts.
+
+Consistency between applications is highly desirable, especially when it comes to calculations and filtering.
+
+General usability is a separate topic that will be discussed on another page.
 
 
 
