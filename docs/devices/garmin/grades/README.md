@@ -64,8 +64,7 @@ Categorization (green, yellow, or grey) of new watches added to the database sho
 
 FIT files from approved apps will contain additional information which identifies the GNSS settings, and fix quality. It is worth mentioning that FIT files have a complex structure and are therefore less susceptible to hacking than the fixed structures of SBN, SBP, UBX, OAO, etc.
 
-GPX not only has compatibility issues (especially when it comes to Doppler speeds), but they are highly susceptible to the editing of speeds. It may therefore be worth dropping support for GPX uploads via the web interface) since COROS, Garmin and Suunto all support FIT. Users can either upload the FIT, or make use of the integrations (automatic posting) provided by COROS, Garmin, Suunto and Waterspeed.
+GPX not only has compatibility issues (especially when it comes to Doppler speeds), but they are highly susceptible to the editing of speeds. It may therefore be worth dropping support for GPX uploads (via the web interface) since COROS, Garmin and Suunto all support FIT. Users can either upload the FIT, or make use of the integrations (automatic posting) provided by COROS, Garmin, Suunto and Waterspeed.
 
-Should anyone try to be clever and convert GPX files (or anything else) to FIT using a tool such as [GPSBabel](https://www.gpsbabel.org/) then the file will not contain the information that is written by approved apps and as cuh, it would receive a grey icon.
-
+Should anyone try to be clever and convert GPX files (or anything else) to FIT using a tool such as [GPSBabel](https://www.gpsbabel.org/) then the file will not contain the information that is written by approved apps and as such, it would receive a grey icon.
 
