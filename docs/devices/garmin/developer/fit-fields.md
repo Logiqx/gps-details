@@ -4,7 +4,7 @@
 
 It is requested that speed sailing applications record some additional metadata to the FIT file.
 
-This metadata includes the GNSS configuration  (e.g. GPS + GALILEO) and fix quality (e.g. quality = good).
+This metadata includes the GNSS configuration  (e.g. GPS + GALILEO) and [fix quality](fix-quality.md) (e.g. quality = good).
 
 The relevant fields from [Toybox.Position](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html) can be written to the FIT using the [Toybox.FitContributor](https://developer.garmin.com/connect-iq/api-docs/Toybox/FitContributor.html) module.
 
