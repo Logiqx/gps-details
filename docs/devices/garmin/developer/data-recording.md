@@ -21,7 +21,7 @@ The user should be aware of the [fix quality](fix-quality.md) at all times.
 
 
 
-#### Controls
+### Controls
 
 The following are general recommendations relating to the user interface:
 
