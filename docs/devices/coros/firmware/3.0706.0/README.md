@@ -2,7 +2,10 @@
 
 ### Overview
 
-The beta release 3.0706.0 in Sep 2024 appears to fix the issues seen between May and Aug 2024.
+The beta release 3.0706.0 in Sep 2024 appears to fix the issues seen between May and Aug 2024, but only for some watches.
+
+- The fix is only present for the APEX 2 + APEX 2 Pro.
+- The VERTIX 2 + 2S are broken and have reverted back to the behavior of 3.040x.0 in May 2024.
 
 The beta has yet to be released for the APEX Pro and VERTIX. This will provide further evidence about the use of Doppler speeds.
 
@@ -63,6 +66,8 @@ The doppler-derived speeds (red) appear to have passed through a low-pass filter
 
 ![walk-speedsurfing](img/walk-speedsurfing.png)
 
+
+
 ### Windsurfing
 
 #### Sailing Test
@@ -97,11 +102,15 @@ The windsurfing activity behaves like many other [activities](../../activities/R
 
 ### Summary
 
-The initial test results for 3.0706.0 are very encouraging for the speedsurfing activity:
+The initial test results for 3.0706.0 on the APEX 2 and APEX 2 Pro are very encouraging for the speedsurfing activity:
 
 - The new firmware is believed to be recording the Doppler-derived speeds.
 - Aliasing is not being observed whilst walking, which suggests that a low-pass filter is being employed by Airoha or COROS.
 - The speed results closely match those of the Motion GPS.
+
+Issues:
+
+- The VERTIX 2 and VERTIX 2S have not been fixed and have reverted back to the behavior of 3.040x.0 in May 2024.
 
 Upcoming tasks:
 
