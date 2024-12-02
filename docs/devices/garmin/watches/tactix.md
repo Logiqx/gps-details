@@ -12,12 +12,12 @@ The various models are listed in reverse-chronological order. The release dates 
 
 ### Airoha
 
-| Model                       | Released   | API | Chipset | References |
-| --------------------------- | ---------- | ---------- | ---------- | ---------- |
-| tactix 7 AMOLED | 2023-09 | 5.0.x | AG3335M | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + [unveiling](https://www.garmin.com/en-US/newsroom/press-release/outdoor/garmin-unveils-tactix-7-amoled-edition-mission-ready-in-the-brightest-day-or-darkest-night/) |
-| tactix 7 Pro Ballistics | 2022-04 | 5.0.x | AG3335M | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-| tactix 7 Pro | 2022-04 | 5.0.x | AG3335M | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-| tactix 7 | 2022-04 | 5.0.x | AG3335MN | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| Model                       | Released   | API | Chipset | APPro? | References |
+| --------------------------- | ---------- | ---------- | ---------- | :--------: | ---------- |
+| tactix 7 AMOLED | 2023-09 | 5.0.x | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + [unveiling](https://www.garmin.com/en-US/newsroom/press-release/outdoor/garmin-unveils-tactix-7-amoled-edition-mission-ready-in-the-brightest-day-or-darkest-night/) |
+| tactix 7 Pro Ballistics | 2022-04 | 5.0.x | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| tactix 7 Pro | 2022-04 | 5.0.x | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| tactix 7 | 2022-04 | 5.0.x | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 

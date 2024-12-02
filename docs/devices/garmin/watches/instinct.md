@@ -12,10 +12,10 @@ The various models are listed in reverse-chronological order. The release dates 
 
 ### Airoha
 
-| Model                       | Released   | API | Chipset | References |
-| --------------------------- | ---------- | ---------- | ---------- | ---------- |
-| Instinct 2X Solar Tactical | 2023-04 | 3.4.x | AG3335M | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-31D23DBB-57C2-4DF7-A0C9-8D1A00AB4BE7/EN-US/GUID-7778C63A-5928-4315-B25B-3DA9B3E467B6.html) |
-| Instinct 2X Solar | 2023-04 | 3.4.x | AG3335M | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-31D23DBB-57C2-4DF7-A0C9-8D1A00AB4BE7/EN-US/GUID-7778C63A-5928-4315-B25B-3DA9B3E467B6.html) + DCR [review](https://www.dcrainmaker.com/2023/04/garmin-instinct-2x-in-depth-review-bigger-and-flashlight-equipped.html) |
+| Model                       | Released   | API | Chipset | APPro? | References |
+| --------------------------- | ---------- | ---------- | ---------- | :--------: | ---------- |
+| Instinct 2X Solar Tactical | 2023-04 | 3.4.x | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-31D23DBB-57C2-4DF7-A0C9-8D1A00AB4BE7/EN-US/GUID-7778C63A-5928-4315-B25B-3DA9B3E467B6.html) |
+| Instinct 2X Solar | 2023-04 | 3.4.x | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-31D23DBB-57C2-4DF7-A0C9-8D1A00AB4BE7/EN-US/GUID-7778C63A-5928-4315-B25B-3DA9B3E467B6.html) + DCR [review](https://www.dcrainmaker.com/2023/04/garmin-instinct-2x-in-depth-review-bigger-and-flashlight-equipped.html) |
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 

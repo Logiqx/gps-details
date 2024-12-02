@@ -12,16 +12,16 @@ The various models are listed in reverse-chronological order. The release dates 
 
 ### Airoha
 
-| Model                       | Released   | API | Chipset | References |
-| --------------------------- | ---------- | ---------- | ---------- | ---------- |
-| fēnix E | 2024-08 | 5.0.x | AG3335MN or AG3352? | Garmin [specifications](https://www.garmin.com/en-GB/p/1652337/pn/010-03025-00#specs) |
-| fēnix 8 - 47/51 mm Sapphire Solar | 2024-08 | 5.0.x | AG3335M | Garmin [specifications](https://www.garmin.com/en-GB/p/1389491/pn/010-02906-21#specs) |
-| fēnix 8 - 42/47/51 mm AMOLED | 2024-08 | 5.0.x | AG3335M | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
-| fēnix 7 / 7S / 7X Pro Sapphire Solar | 2023-05 | 5.0.x | AG3335M | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
-| fēnix 7 / 7S / 7X Pro Solar | 2023-05 | 5.0.x | AG3335M | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
-| fēnix 7 / 7S / 7X Sapphire Solar | 2022-01 | 5.0.x | AG3335M | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
-| fēnix 7 / 7S / 7X Solar | 2022-01 | 5.0.x | AG3335MN | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html)<br />F Tipi [teardown](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/) + element14 [teardown](https://youtu.be/vb8yyu8En1o?t=485) |
-| fēnix 7 / 7S | 2022-01 | 5.0.x | AG3335MN | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
+| Model                       | Released   | API | Chipset | APPro? | References |
+| --------------------------- | ---------- | ---------- | ---------- | :--------: | ---------- |
+| fēnix E | 2024-08 | 5.0.x | AG3335MN or AG3352? | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1652337/pn/010-03025-00#specs) |
+| fēnix 8 - 47/51 mm Sapphire Solar | 2024-08 | 5.0.x | AG3335M | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1389491/pn/010-02906-21#specs) |
+| fēnix 8 - 42/47/51 mm AMOLED | 2024-08 | 5.0.x | AG3335M | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
+| fēnix 7 / 7S / 7X Pro Sapphire Solar | 2023-05 | 5.0.x | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
+| fēnix 7 / 7S / 7X Pro Solar | 2023-05 | 5.0.x | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
+| fēnix 7 / 7S / 7X Sapphire Solar | 2022-01 | 5.0.x | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
+| fēnix 7 / 7S / 7X Solar | 2022-01 | 5.0.x | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html)<br />F Tipi [teardown](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/) + element14 [teardown](https://youtu.be/vb8yyu8En1o?t=485) |
+| fēnix 7 / 7S | 2022-01 | 5.0.x | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
