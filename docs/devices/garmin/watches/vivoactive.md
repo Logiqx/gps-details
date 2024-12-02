@@ -11,8 +11,10 @@ The various models are listed in reverse-chronological order. The release dates 
 ### Airoha
 
 | Model                       | Released   | API | Chipset | APPro? | References |
-| --------------------------- | ---------- | ---------- | ---------- | :--------: | ---------- |
-| vívoactive 5 | 2023-09 | 5.0.x | AG3335MN or AG3352? | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-5D183A14-BB43-4A9B-B441-5F824214CE40/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2023/09/garmin-vivoactive-5-in-depth-review-now-with-an-amoled-display.html) |
+| --------------------------- | :--------: | :--------: | :--------: | :--------: | ---------- |
+| vívoactive 5 | 2023-09 | 5.0.x | AG3335MN ? | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-5D183A14-BB43-4A9B-B441-5F824214CE40/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2023/09/garmin-vivoactive-5-in-depth-review-now-with-an-amoled-display.html) |
+
+? - single band so could be AG3335MN or AG3352.
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
