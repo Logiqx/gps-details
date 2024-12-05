@@ -39,8 +39,12 @@ The official COROS release notes are often out of date and do not mention any of
 
 The beta release 3.0706.0 appears to fix the issues between May and Aug 2024, but only on the APEX 2 and APEX 2 Pro.
 
+The VERTIX 2 + 2S are broken and have reverted back to the behavior of 3.040x.0 in May 2024.
+
 |               | APEX Pro | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
 | :------- | :--------: | :--------: | :--------: | :--------: | :--------: |
+| [3.0708.1113](3.0708.1113/README.md) beta | - | - | 2024-11-13 | 2024-11-13 | 2024-11-13 |
+| [3.0708.0](3.0708.0/README.md) | - | - | 2024-10-15 | 2024-10-15 | 2024-10-15 |
 | [3.0706.0](3.0706.0/README.md) beta | - | - | 2024-09-13 | 2024-09-13 | 2024-09-13 |
 
 
