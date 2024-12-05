@@ -4,7 +4,11 @@
 
 Several COROS firmware releases during 2024 have been problematic for the speedsurfing community. This page captures the various issues, listing the 2024 firmware releases in reverse-chronological order.
 
-Owners of an APEX Pro or VERTIX with firmware 3.050x.0 (released Aug 2024) are encouraged to [downgrade](downgrade.md) to 3.0309.0.
+Current status:
+
+- Owners of an APEX Pro or VERTIX with firmware 3.0508.0 (released Aug 2024) are encouraged to [downgrade](downgrade.md) to 3.0309.0.
+- Owners of the APEX 2 and APEX 2 Pro are advised to upgrade to firmware 3.0708.0
+- Owners of a VERTIX 2 or 2S are advised to avoid the firmware 3.04xx.0, 3.05xx.0, and 3.0708.0.
 
 Prior to reviewing the details on this page it is advisable to read the article about [sampling rates and aliasing](../../../general/aliasing/README.md). It would also be beneficial to read the [article](../windsurfing/README.md) comparing the windsurfing and speedsurfing activities on COROS watches.
 
@@ -16,8 +20,8 @@ There have been four distinct behaviors for speedsurfing activities during 2024:
 
 - **Jan 2024** - 3.03xx.0 - original behavior, similar in many respects to the Garmin watches in 2024.
 - **May - Jun 2024** - 3.04xx.0 - smoothing issues on APEX 2 / APEX 2 Pro / VERTIX 2, reminiscent of Garmin watches in 2022.
-- **Jul - Aug 2024** - 3.05xx.0 - speedsurfing behaves like windsurfing, which is non-doppler and prone to errors / spikes.
-- **Sep 2024** - 3.07xx.0 - appears to fix the issues between May and Aug 2024.
+- **Jul - Aug 2024** - 3.05xx.0 - speedsurfing behaves much like windsurfing, which is non-doppler and prone to errors / spikes.
+- **Sep - Nov 2024** - 3.0708.0 - fixes the May to Aug issues on the APEX 2 and APEX 2 Pro, but it breaks the VERTIX 2 + 2S.
 
 
 
@@ -35,7 +39,7 @@ The official COROS release notes are often out of date and do not mention any of
 
 ### Firmware History
 
-#### Sep 2024
+#### Sep - Nov 2024
 
 The beta release 3.0706.0 appears to fix the issues between May and Aug 2024, but only on the APEX 2 and APEX 2 Pro.
 

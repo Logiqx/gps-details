@@ -11,7 +11,7 @@ This will be very much welcomed by owners of the VERTIX 2 and 2S, who will no lo
 
 
 
-### GNSS
+### Satellite Systems
 
 | APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
 | :----: | :--------: | :-----------: |

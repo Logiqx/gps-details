@@ -10,7 +10,7 @@ The non-Doppler speed issues of 3.0506.0 and 3.0508.0 were [documented](../../do
 
 
 
-### GNSS
+### Satellite Systems
 
 | APEX Pro | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
 | :------: | :----: | :----: | :--------: | :-----------: |

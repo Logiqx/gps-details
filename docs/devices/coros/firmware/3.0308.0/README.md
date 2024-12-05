@@ -8,11 +8,11 @@ However, unique to the COROS is the temporal offset issue on the APEX 2, APEX 2 
 
 
 
-### GNSS
+### Satellite Systems
 
-| APEX Pro | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
-| :------: | :----: | :----: | :--------: | :-----------: |
-|    -     |   -    | 3.1.0  |   3.1.0    |     3.1.0     |
+| APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
+| :----: | :--------: | :-----------: |
+| 3.1.0  |   3.1.0    |     3.1.0     |
 
 
 

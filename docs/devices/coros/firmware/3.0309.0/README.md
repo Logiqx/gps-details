@@ -10,9 +10,9 @@ Owners of an APEX Pro or VERTIX with firmware 3.050x.0 (released Aug 2024) are e
 
 
 
-### GNSS
+### Satellite Systems
 
-| APEX Pro | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
-| :------: | :----: | :----: | :--------: | :-----------: |
-|  20047   | 20047  |   -    |     -      |       -       |
+| APEX Pro | VERTIX |
+| :------: | :----: |
+|  20047   | 20047  |
 

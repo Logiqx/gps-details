@@ -8,9 +8,9 @@ This release behaves in exactly the same way as [3.0508.0](../3.0508.0/README.md
 
 
 
-### GNSS
+### Satellite Systems
 
-| APEX Pro | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
-| :------: | :----: | :----: | :--------: | :-----------: |
-|    -     |   -    | 3.1.0  |   3.1.0    |     3.1.0     |
+| APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
+| :----: | :--------: | :-----------: |
+| 3.1.0  |   3.1.0    |     3.1.0     |
 

@@ -11,11 +11,11 @@ The beta has yet to be released for the APEX Pro and VERTIX. This will provide f
 
 
 
-### GNSS
+### Satellite Systems
 
-| APEX Pro | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
-| :------: | :----: | :----: | :--------: | :-----------: |
-|    ?     |   ?    | 3.1.0  |   3.1.0    |     3.1.0     |
+| APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
+| :----: | :--------: | :-----------: |
+| 3.1.0  |   3.1.0    |     3.1.0     |
 
 
 

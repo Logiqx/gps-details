@@ -13,7 +13,7 @@ The issues affecting the VERTIX 2 and 2S appear to be resolved in [3.0708.1113](
 
 
 
-### GNSS
+### Satellite Systems
 
 | APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
 | :----: | :--------: | :-----------: |
