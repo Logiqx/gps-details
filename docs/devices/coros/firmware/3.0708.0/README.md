@@ -9,7 +9,7 @@
 
 There is a tendency for the VERTIX 2 and 2S to report speeds that are too low, which is frustrating for anyone affected.
 
-The issues affecting the VERTIX 2 and 2S were released in the [3.0708.1113](../3.0708.1113/README.md) which is a private beta, due for public release later in 2024.
+The issues affecting the VERTIX 2 and 2S appear to be resolved in [3.0708.1113](../3.0708.1113/README.md) which is a private beta, due for public release later in 2024.
 
 
 
@@ -23,7 +23,7 @@ The issues affecting the VERTIX 2 and 2S were released in the [3.0708.1113](../3
 
 ### Quick Test
 
-3 laps of a short test circuit were driven in a relatively open environment. The total distance was almost exactly 5 km.
+3 laps of a short test circuit were driven in a relatively open-sky environment. The total distance was almost exactly 5 km.
 
 - The VERTIX 2 and APEX 2 Pro were both running firmware 3.0708.0.
 
@@ -33,7 +33,7 @@ The issues affecting the VERTIX 2 and 2S were released in the [3.0708.1113](../3
 
 
 
-At the end of the drive the Vertix 2 was recording a 2s result of 43.44 knots, which was 2 knots slower than the APEX 2 Pro showing 45.39 knots.
+At the end of the drive the Vertix 2 was reporting a 2s result of 43.44 knots, which was 2 knots slower than the APEX 2 Pro showing 45.39 knots.
 
 ![watch-2s-10s](img/watch-2s-10s.jpg)
 
@@ -47,9 +47,7 @@ The 250 m results differed by 0.37 knots and the 500 m results differed by 0.78 
 
 ### Quick Review
 
-Comparing the APEX 2 Pro against Motion 815 @ 5 Hz they can be seen to be very similar.
-
-The high and low speeds are practically identical throughout the drive. The APEX 2 Pro data lags behind the Motion by around 1.5 seconds.
+Comparing the APEX 2 Pro against Motion 815 @ 5 Hz they can be seen to be very similar. The high and low speeds are practically identical throughout the drive. The APEX 2 Pro data lags behind the Motion by around 1.5 seconds.
 
 ![APEX 2 Pro vs Motion](img/apex-2-pro.png)
 
@@ -72,5 +70,5 @@ Comparing the VERTIX 2 against the APEX 2 Pro eliminates any potential confusion
 
 There is a tendency for the VERTIX 2 and 2S to report speeds that are too low, which is frustrating for anyone affected.
 
-The issues affecting the VERTIX 2 and 2S were released in the [3.0708.1113](../3.0708.1113/README.md) which is a private beta, due for public release later in 2024.
+The issues affecting the VERTIX 2 and 2S appear to be resolved in [3.0708.1113](../3.0708.1113/README.md) which is a private beta, due for public release later in 2024.
 
