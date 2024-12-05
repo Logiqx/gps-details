@@ -28,12 +28,15 @@ GNSS details are provided for the following Garmin watches:
 
 ### Recommended Apps
 
-The following Connect IQ apps are worth trying:
+The following app is highly recommended for its features and ease of use:
 
 - [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791)
+
+The following app may be worth trying if APPro does not support your watch:
+
 - [Windsurfing application](https://apps.garmin.com/apps/9d47be43-2724-44e4-8f5e-3005b0766087)
 
-The following Connect IQ data fields worth trying:
+The following data field may be worth trying if you compete in the [GPS Team Challenge](https://www.gpsteamchallenge.com.au/):
 
 - [GPSTC V4](https://apps.garmin.com/apps/f0f3fbd5-9de3-4d69-b89b-10b76d6a9f0f)
 
