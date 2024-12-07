@@ -20,54 +20,54 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 
 #### Rugged - Multisport
 
-| Series   | Model                                     | Multi-Band |
-| -------- | ----------------------------------------- | :--------: |
-| fēnix    | fēnix E                                   |     -      |
-|          | fēnix 8 - 47/51 mm Sapphire Solar         |     Y      |
-|          | fēnix 8 - 42/47/51 mm AMOLED              |     Y      |
-|          | fēnix 7/7S/7X Pro Sapphire Solar          |     Y      |
-|          | fēnix 7/7S/7X Pro Solar                   |     Y      |
-|          | fēnix 7/7S/7X Sapphire Solar              |     Y      |
-|          | fēnix 7/7S/7X Solar                       |     -      |
-|          | fēnix 7/7S                                |     -      |
-| epix     | epix Pro (Gen 2) - Sapphire - 42/47/51 mm |     Y      |
-|          | epix Pro (Gen 2) - 42/47/51 mm            |     Y      |
-|          | epix (Gen 2) - Sapphire                   |     Y      |
-|          | epix (Gen 2)                              |     -      |
-| quatix   | quatix 7 Pro                              |     Y      |
-|          | quatix 7 Sapphire                         |     Y      |
-|          | quatix 7X Solar                           |     -      |
-|          | quatix 7                                  |     -      |
-| tactix   | tactix 7 AMOLED                           |     Y      |
-|          | tactix 7 Pro Ballistics                   |     Y      |
-|          | tactix 7 Pro                              |     Y      |
-|          | tactix 7                                  |     -      |
-| Instinct | Instinct 2X Solar Tactical                |     Y      |
-|          | Instinct 2X                               |     Y      |
+| Series                  | Model                                     | Multi-Band |
+| ----------------------- | ----------------------------------------- | :--------: |
+| [fēnix](fenix.md)       | fēnix E                                   |     -      |
+|                         | fēnix 8 - 47/51 mm Sapphire Solar         |     Y      |
+|                         | fēnix 8 - 42/47/51 mm AMOLED              |     Y      |
+|                         | fēnix 7/7S/7X Pro Sapphire Solar          |     Y      |
+|                         | fēnix 7/7S/7X Pro Solar                   |     Y      |
+|                         | fēnix 7/7S/7X Sapphire Solar              |     Y      |
+|                         | fēnix 7/7S/7X Solar                       |     -      |
+|                         | fēnix 7/7S                                |     -      |
+| [epix](epix.md)         | epix Pro (Gen 2) - Sapphire - 42/47/51 mm |     Y      |
+|                         | epix Pro (Gen 2) - 42/47/51 mm            |     Y      |
+|                         | epix (Gen 2) - Sapphire                   |     Y      |
+|                         | epix (Gen 2)                              |     -      |
+| [quatix](quatix.md)     | quatix 7 Pro                              |     Y      |
+|                         | quatix 7 Sapphire                         |     Y      |
+|                         | quatix 7X Solar                           |     -      |
+|                         | quatix 7                                  |     -      |
+| [tactix](tactix.md)     | tactix 7 AMOLED                           |     Y      |
+|                         | tactix 7 Pro Ballistics                   |     Y      |
+|                         | tactix 7 Pro                              |     Y      |
+|                         | tactix 7                                  |     -      |
+| [Instinct](instinct.md) | Instinct 2X Solar Tactical                |     Y      |
+|                         | Instinct 2X                               |     Y      |
 
 
 
 #### Lightweight - Running / Triathlon
 
-| Series     | Model                 | Multi-Band |
-| ---------- | --------------------- | :--------: |
-| Forerunner | Forerunner 165        |     -      |
-|            | Forerunner 965        |     Y      |
-|            | Forerunner 265 / 265S |     Y      |
-|            | Forerunner 955        |     Y      |
-|            | Forerunner 255 / 255S |     Y      |
-| Enduro     | Enduro 3              |     Y      |
-|            | Enduro 2              |     Y      |
+| Series                      | Model                 | Multi-Band |
+| --------------------------- | --------------------- | :--------: |
+| [Forerunner](forerunner.md) | Forerunner 165        |     -      |
+|                             | Forerunner 965        |     Y      |
+|                             | Forerunner 265 / 265S |     Y      |
+|                             | Forerunner 955        |     Y      |
+|                             | Forerunner 255 / 255S |     Y      |
+| [Enduro](enduro.md)         | Enduro 3              |     Y      |
+|                             | Enduro 2              |     Y      |
 
 
 
 #### Lightweight - Fitness / Fashion
 
-| Series     | Model             | Multi-Band |
-| ---------- | ----------------- | :--------: |
-| vívoactive | vívoactive 5      |     -      |
-| Venu       | Venu 3 / 3S       |     -      |
-|            | Venu Sq 2 [Music] |     -      |
+| Series                      | Model             | Multi-Band |
+| --------------------------- | ----------------- | :--------: |
+| [vívoactive](vivoactive.md) | vívoactive 5      |     -      |
+| [Venu](venu.md)             | Venu 3 / 3S       |     -      |
+|                             | Venu Sq 2 [Music] |     -      |
 
 
 
