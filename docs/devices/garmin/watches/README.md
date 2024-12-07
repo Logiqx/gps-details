@@ -8,7 +8,7 @@ This page lists the GNSS chipsets of the many Garmin watches that people may wis
 
 
 
-### Recommended Watches
+### Airoha GNSS Chipset
 
 When choosing a Garmin watch it is highly recommended that you choose a model which incorporates an Airoha GNSS chipset. The speeds from the AIroha chipset are a lot more trustworthy than earlier watches, especially the ones using a Sony GNSS chipset.
 
