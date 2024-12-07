@@ -14,6 +14,8 @@ When choosing a Garmin watch it is highly recommended that you choose a model wh
 
 There are numerous Garmin watches that incorporate the Airoha AG3335M (multi-band GNSS) or AG3335MN (single-band GNSS). The following sections list all of the Airoha-based Garmin watches that you might wish to consider for wind sports.
 
+Disclaimer: It should be noted that not all of these watches have been tested extensively. Whilst they all use Airoha chipsets there are other factors that impact GNSS accuracy, such as the antenna design and watch firmware. Testing different watches is an ongoing activity.
+
 
 
 #### Rugged - Multisport
