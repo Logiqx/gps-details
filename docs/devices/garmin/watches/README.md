@@ -71,11 +71,11 @@ There are numerous Garmin watches that incorporate the Airoha AG3335M (multi-ban
 
 ### Recommended Apps
 
-The following app is highly recommended for its features and ease of use:
+The following app is highly recommended for wind sports, due to its features and ease of use:
 
 - [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791)
 
-The following app may be worth trying if APPro does not support your watch:
+The following app may be worth trying if APPro cannot be installed on your watch:
 
 - [Windsurfing application](https://apps.garmin.com/apps/9d47be43-2724-44e4-8f5e-3005b0766087)
 
