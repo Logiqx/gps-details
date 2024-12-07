@@ -23,7 +23,6 @@ There is a tendency for the VERTIX 2 and 2S to report speeds that are too low, w
 3 laps of a short test circuit were driven in a relatively open-sky environment. The total distance was almost exactly 5 km.
 
 - The APEX 2 Pro was running firmware 3.0708.0 which is known to be working properly and serves as a benchmark.
-
 - The VERTIX 2 was running firmware 3.0709.0.
 - The Motion GPS was recording at 5 Hz.
 
