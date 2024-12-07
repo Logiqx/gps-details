@@ -10,7 +10,7 @@ This page lists the GNSS chipsets of the many Garmin watches that people may wis
 
 ### Airoha GNSS Chipset
 
-When choosing a Garmin watch it is highly recommended that you choose a model which incorporates an Airoha GNSS chipset. The speeds from the AIroha chipset are a lot more trustworthy than earlier watches, especially the ones using a Sony GNSS chipset.
+When choosing a Garmin watch it is highly recommended that you choose a model which incorporates an Airoha GNSS chipset. The speeds from the Airoha chipset are a lot more trustworthy than earlier watches, especially the ones using a Sony GNSS chipset.
 
 There are numerous Garmin watches that incorporate the Airoha AG3335M (multi-band GNSS) or AG3335MN (single-band GNSS). The following sections list all of the Airoha-based Garmin watches that you might wish to consider for wind sports.
 
