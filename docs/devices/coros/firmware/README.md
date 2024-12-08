@@ -14,6 +14,30 @@ Prior to reviewing the details on this page it is advisable to read the article 
 
 
 
+### Summary
+
+This table is a summary of the COROS firmware releases since the beginning of 2024.
+
+- 😊🤙 = working
+- 😐🤞= ok-ish
+- 😡👎= broken
+
+|               | APEX Pro | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
+| :------- | :--------: | :--------: | :--------: | :--------: | :--------: |
+| [3.0709.0](3.0709.0/README.md) |  |  | ? | ? | 😡👎 |
+| [3.0708.1113](3.0708.1113/README.md) beta | - | - | - | 😊🤙 | 😊🤙 |
+| [3.0708.0](3.0708.0/README.md) | - | - | 😊🤙 | 😊🤙 | 😡👎 |
+| [3.0706.0](3.0706.0/README.md) beta | - | - | 😊🤙 | 😊🤙 | 😡👎 |
+| [3.0510.0](3.0510.0/README.md) | - | - | 😐🤞 | 😐🤞 | 😐🤞 |
+| [3.0508.0](3.0508.0/README.md) | 😡👎 | 😡👎 | 😐🤞 | 😐🤞 | 😐🤞 |
+| [3.0506.0](3.0506.0/README.md) beta | - | - | 😐🤞 | 😐🤞 | 😐🤞 |
+| [3.0409.0](3.0409.0/README.md) | 😊🤙 | 😊🤙 | 😡👎 | 😡👎 | 😡👎 |
+| [3.0408.0](3.0408.0/README.md) | - | - | 😡👎 | 😡👎 | 😡👎 |
+| [3.0309.0](3.0309.0/README.md) | 😊🤙 | 😊🤙 |     -      |     -      |     -      |
+| [3.0308.0](3.0308.0/README.md) |     -      |     -      | 😊🤙 | 😊🤙 | 😊🤙 |
+
+
+
 ### Distinct Behaviors
 
 There have been four distinct behaviors for speedsurfing activities during 2024:
