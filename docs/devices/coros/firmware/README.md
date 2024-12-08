@@ -19,8 +19,8 @@ Prior to reviewing the details on this page it is advisable to read the article 
 This table is a summary of the COROS firmware releases since the beginning of 2024.
 
 - 😊🤙 = working
-- 😐🤞= ok-ish
-- 😡👎= broken
+- 😐🤞 = ok-ish
+- 😡👎 = broken
 
 |               | APEX Pro | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 | VERTIX 2S |
 | :------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
