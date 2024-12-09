@@ -112,21 +112,21 @@ Technical specification, including GNSS details are provided for the following G
 
 These series are rarely used on GP3S, despite being supported by the recommended apps:
 
-- Descent
-- D2
-- MARQ
+- Descent - dive computers
+- D2 - aviator smartwatches
+- MARQ - luxury smartwatches
 
 These series are rarely used on GP3S (nowadays) and not supported by the recommended apps:
 
-- Edge
-- eTrex
-- Foretrex
-- Gekko
+- Edge - bike computers
+- eTrex - GPS navigators
+- Foretrex - GPS navigators
+- Gekko - GPS navigator
 
 These series are not listed on GP3S and not supported by the recommended apps:
 
-- Approach
-- Swim
+- Approach - golf watches
+- Swim - swimming watch
 
 
 
