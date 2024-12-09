@@ -120,7 +120,7 @@ These watches are not used on GP3S, but are supported by [Windsurfing applicatio
 - Approach - golf smartwatches
 - MARQ - luxury smartwatches
 
-These devices are not supported by the recommended the recommended apps:
+These devices are not supported by the recommended apps:
 
 - Edge - bike computers
 - eTrex - GPS navigators
