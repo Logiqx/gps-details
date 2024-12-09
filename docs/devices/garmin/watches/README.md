@@ -89,7 +89,7 @@ The following data field may be worth trying if you compete in the [GPS Team Cha
 
 ### Watch Specifications
 
-### Popular Watches
+#### Popular Watches
 
 Technical specification, including GNSS details are provided for the following Garmin watches:
 
@@ -108,7 +108,7 @@ Technical specification, including GNSS details are provided for the following G
 
 
 
-### Less Popular Watches
+#### Less Popular Watches
 
 These watches are rarely used on GP3S, but supported by [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) and [Windsurfing application](https://apps.garmin.com/apps/9d47be43-2724-44e4-8f5e-3005b0766087):
 
