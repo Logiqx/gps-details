@@ -8,6 +8,8 @@ It does not include the fix that was present in [3.0708.1113](../3.0708.1113/REA
 
 There is a tendency for the VERTIX 2 and 2S to report speeds that are too low, which is frustrating for anyone who is affected.
 
+The APEX 2 and APEX 2 Pro both work well when running 3.0709.0.
+
 
 
 ### Satellite Systems
@@ -55,5 +57,4 @@ It does not include the fix that was present in [3.0708.1113](../3.0708.1113/REA
 
 There is a tendency for the VERTIX 2 and 2S to report speeds that are too low, which is frustrating for anyone who is affected.
 
-
-
+The APEX 2 and APEX 2 Pro both work well when running 3.0709.0.
