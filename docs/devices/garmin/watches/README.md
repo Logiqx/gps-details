@@ -110,17 +110,14 @@ Technical specification, including GNSS details are provided for the following G
 
 #### Less Popular Watches
 
-These watches are rarely used on GP3S, but supported by [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) and [Windsurfing application](https://apps.garmin.com/apps/9d47be43-2724-44e4-8f5e-3005b0766087):
-
-- Descent - dive computers
-- D2 - aviator smartwatches
-
-These watches are not used on GP3S, but are supported by [Windsurfing application](https://apps.garmin.com/apps/9d47be43-2724-44e4-8f5e-3005b0766087):
+These watches are rarely / never used on GP3S, but supported by [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) or [Windsurfing application](https://apps.garmin.com/apps/9d47be43-2724-44e4-8f5e-3005b0766087):
 
 - Approach - golf smartwatches
+- Descent - dive computers
+- D2 - aviator smartwatches
 - MARQ - luxury smartwatches
 
-These devices are not supported by the recommended apps:
+These devices are rarely / never used on GP3S, and not supported by the recommended apps:
 
 - Edge - bike computers
 - eTrex - GPS navigators
