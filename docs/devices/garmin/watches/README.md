@@ -18,7 +18,7 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 
 
 
-#### Rugged - Multisport
+#### Rugged
 
 | Series                  | Model                                     | Multi-Band |
 | ----------------------- | ----------------------------------------- | :--------: |
@@ -47,7 +47,7 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 
 
 
-#### Lightweight - Running / Triathlon
+#### Running / Triathlon
 
 | Series                      | Model                 | Multi-Band |
 | --------------------------- | --------------------- | :--------: |
@@ -61,7 +61,7 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 
 
 
-#### Lightweight - Fitness / Fashion
+#### Fitness / Fashion
 
 | Series                      | Model             | Multi-Band |
 | --------------------------- | ----------------- | :--------: |
@@ -93,16 +93,16 @@ The following data field may be worth trying if you compete in the [GPS Team Cha
 
 Technical specification, including GNSS details are provided for the following Garmin watches:
 
-- Rugged - Multisport
+- Rugged
   - [fēnix](fenix.md)
   - [epix](epix.md)
   - [quatix](quatix.md)
   - [tactix](tactix.md)
   - [Instinct](instinct.md)
-- Lightweight - Running / Triathlon
+- Running / Triathlon
   - [Forerunner](forerunner.md)
   - [Enduro](enduro.md)
-- Lightweight - Fitness / Fashion
+- Fitness / Fashion
   - [vívoactive](vivoactive.md)
   - [Venu](venu.md)
 
