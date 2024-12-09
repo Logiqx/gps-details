@@ -25,25 +25,25 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 | [fēnix](fenix.md)       | fēnix E                                   |     -      |
 |                         | fēnix 8 - 47/51 mm Sapphire Solar         |     Y      |
 |                         | fēnix 8 - 42/47/51 mm AMOLED              |     Y      |
-|                         | fēnix 7/7S/7X Pro Sapphire Solar          |     Y      |
-|                         | fēnix 7/7S/7X Pro Solar                   |     Y      |
-|                         | fēnix 7/7S/7X Sapphire Solar              |     Y      |
-|                         | fēnix 7/7S/7X Solar                       |     -      |
+|                         | fēnix 7/7S/7X - Pro Sapphire Solar        |     Y      |
+|                         | fēnix 7/7S/7X - Pro Solar                 |     Y      |
+|                         | fēnix 7/7S/7X - Sapphire Solar            |     Y      |
+|                         | fēnix 7/7S/7X - Solar                     |     -      |
 |                         | fēnix 7/7S                                |     -      |
 | [epix](epix.md)         | epix Pro (Gen 2) - Sapphire - 42/47/51 mm |     Y      |
 |                         | epix Pro (Gen 2) - 42/47/51 mm            |     Y      |
-|                         | epix (Gen 2) - Sapphire                   |     Y      |
-|                         | epix (Gen 2)                              |     -      |
-| [quatix](quatix.md)     | quatix 7 Pro                              |     Y      |
-|                         | quatix 7 Sapphire                         |     Y      |
-|                         | quatix 7X Solar                           |     -      |
+|                         | epix (Gen 2) - Sapphire - 47 mm           |     Y      |
+|                         | epix (Gen 2) - 47 mm                      |     -      |
+| [quatix](quatix.md)     | quatix 7 - Pro                            |     Y      |
+|                         | quatix 7 - Sapphire                       |     Y      |
+|                         | quatix 7X - Solar                         |     -      |
 |                         | quatix 7                                  |     -      |
-| [tactix](tactix.md)     | tactix 7 AMOLED                           |     Y      |
-|                         | tactix 7 Pro Ballistics                   |     Y      |
-|                         | tactix 7 Pro                              |     Y      |
+| [tactix](tactix.md)     | tactix 7 - AMOLED                         |     Y      |
+|                         | tactix 7 - Pro Ballistics                 |     Y      |
+|                         | tactix 7 - Pro                            |     Y      |
 |                         | tactix 7                                  |     -      |
-| [Instinct](instinct.md) | Instinct 2X Solar Tactical                |     Y      |
-|                         | Instinct 2X                               |     Y      |
+| [Instinct](instinct.md) | Instinct 2X Solar - Tactical              |     Y      |
+|                         | Instinct 2X Solar                         |     Y      |
 
 
 
