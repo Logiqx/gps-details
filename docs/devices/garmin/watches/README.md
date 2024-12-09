@@ -23,8 +23,8 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 | Series                  | Model                                     | Multi-Band |
 | ----------------------- | ----------------------------------------- | :--------: |
 | [fēnix](fenix.md)       | fēnix E                                   |     -      |
-|                         | fēnix 8 - 47/51 mm Sapphire Solar         |     Y      |
-|                         | fēnix 8 - 42/47/51 mm AMOLED              |     Y      |
+|                         | fēnix 8 - 47/51 mm - Sapphire Solar       |     Y      |
+|                         | fēnix 8 - 42/47/51 mm - AMOLED            |     Y      |
 |                         | fēnix 7/7S/7X - Pro Sapphire Solar        |     Y      |
 |                         | fēnix 7/7S/7X - Pro Solar                 |     Y      |
 |                         | fēnix 7/7S/7X - Sapphire Solar            |     Y      |
