@@ -44,6 +44,9 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 |                         | tactix 7                                  |     -      |
 | [Instinct](instinct.md) | Instinct 2X Solar - Tactical              |     Y      |
 |                         | Instinct 2X Solar                         |     Y      |
+|                         | Instinct Crossover Solar - Tactical       |     -      |
+|                         | Instinct Crossover Solar                  |     -      |
+|                         | Instinct Crossover                        |     -      |
 
 
 
