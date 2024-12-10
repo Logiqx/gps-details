@@ -27,9 +27,9 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| tactix Delta - Sapphire            | 2020-01  | 3.4.x | ? | CXD56xxxx |      |            |
-| tactix Delta - Solar with Ballistics | 2020-01  | 3.4.x | ? | CXD56xxxx |      |            |
-| tactix Delta - Solar               | 2020-01  | 3.4.x | ? | CXD56xxxx |      |            |
+| tactix Delta - Sapphire            | 2020-01  | 3.4.x | ? | CXD56xxxx | Y |            |
+| tactix Delta - Solar with Ballistics | 2020-01  | 3.4.x | ? | CXD56xxxx | Y |            |
+| tactix Delta - Solar               | 2020-01  | 3.4.x | ? | CXD56xxxx | Y |            |
 
 Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets are available on another page.
 
@@ -39,9 +39,9 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| tactix Charlie | 2018-03  | 3.1.x | ? | MT3333  |      |                                                              |
-| tactix Bravo   | 2016-01  | 1.4.x | ? | MT3333  |      | DCR [explainer](https://www.dcrainmaker.com/2016/01/garmins-tactix-bravo.html) |
-| tactix         | 2013-10  | -     | ? | MT333x  |      | DCR [review](https://www.dcrainmaker.com/2013/10/garmin-tactix-review.html) |
+| tactix Charlie | 2018-03  | 3.1.x | ? | MT3333  | Y |                                                              |
+| tactix Bravo   | 2016-01  | 1.4.x | ? | MT3333  | Y | DCR [explainer](https://www.dcrainmaker.com/2016/01/garmins-tactix-bravo.html) |
+| tactix         | 2013-10  | -     | ? | MT333x  | - | DCR [review](https://www.dcrainmaker.com/2013/10/garmin-tactix-review.html) |
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
 

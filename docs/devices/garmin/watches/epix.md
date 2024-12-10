@@ -29,9 +29,9 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| epix (Korea) |   | 1.2.x | 2457 | MT3333  |      |      |
-| epix (Japan) |  | 1.2.x | 2332 | MT3333 | | |
-| epix | 2015-01 | 1.2.x | 1988 | MT3333 | | |
+| epix (Korea) |   | 1.2.x | 2457 | MT3333  | - |      |
+| epix (Japan) |  | 1.2.x | 2332 | MT3333 | - | |
+| epix | 2015-01 | 1.2.x | 1988 | MT3333 | - | |
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
 

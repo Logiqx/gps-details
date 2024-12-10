@@ -27,10 +27,10 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| Venu 2 Plus     | 2022-01  | 5.0.x | 3851, 4017 | CXD56xxxx |        | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-A17FE8AC-DA32-4494-ABD1-AD1A388CC0C0/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-venu-2-plus-in-depth-review.html) |
-| Venu Daimler | ? | 5.0.x | 3737, 3740 | CXD56xxxx | |  |
-| Venu 2 / 2S     | 2021-04  | 5.0.x | 3703, 3704, 3949, 3950 | CXD56xxxx |        | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-D93137A9-B374-4A24-8A4D-A66C9AC91265/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2021/04/garmin-venu2-venu2s-smartwatch-review.html) |
-| Venu Sq [Music] | 2020-09  | 3.3.x | 3600, 3837 | CXD56xxxx |        | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-1C3C7630-B695-44C3-AF56-949C1D4889FB/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2020/09/garmin-venu-sq-in-depth-review.html) |
-| Venu            | 2019-09  | 3.3.x | 3226 | CXD5603GF |        | Garmin [manual](https://www8.garmin.com/manuals/webhelp/venu/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2019/12/garmin-venu-smartwatch-sports-review.html) |
+| Venu 2 Plus     | 2022-01  | 5.0.x | 3851, 4017 | CXD56xxxx | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-A17FE8AC-DA32-4494-ABD1-AD1A388CC0C0/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-venu-2-plus-in-depth-review.html) |
+| Venu Daimler | ? | 5.0.x | 3737, 3740 | CXD56xxxx | ? |  |
+| Venu 2 / 2S     | 2021-04  | 5.0.x | 3703, 3704, 3949, 3950 | CXD56xxxx | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-D93137A9-B374-4A24-8A4D-A66C9AC91265/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2021/04/garmin-venu2-venu2s-smartwatch-review.html) |
+| Venu Sq [Music] | 2020-09  | 3.3.x | 3600, 3837 | CXD56xxxx | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-1C3C7630-B695-44C3-AF56-949C1D4889FB/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2020/09/garmin-venu-sq-in-depth-review.html) |
+| Venu            | 2019-09  | 3.3.x | 3226 | CXD5603GF | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/venu/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2019/12/garmin-venu-smartwatch-sports-review.html) |
 
 Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets are available on another page.

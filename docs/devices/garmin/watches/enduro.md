@@ -26,8 +26,8 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| Enduro (Asia) |    ?     | 3.4.x |  3872   | CXD56xxxx |        |                                                              |
-| Enduro        | 2021-02  | 3.4.x |  3638   | CXD56xxxx |        | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-BD965919-30AA-4EB5-95D7-A899658C50EB/EN-US/GUID-31C5EBD6-A5E6-46FA-9EDE-43DBA4872546.html) + DCR [review](https://www.dcrainmaker.com/2021/02/garmin-enduro-watch-review.html) |
+| Enduro (Asia) |    ?     | 3.4.x |  3872   | CXD56xxxx | - |                                                              |
+| Enduro        | 2021-02  | 3.4.x |  3638   | CXD56xxxx | - | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-BD965919-30AA-4EB5-95D7-A899658C50EB/EN-US/GUID-31C5EBD6-A5E6-46FA-9EDE-43DBA4872546.html) + DCR [review](https://www.dcrainmaker.com/2021/02/garmin-enduro-watch-review.html) |
 
 Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets are available on another page.
 
