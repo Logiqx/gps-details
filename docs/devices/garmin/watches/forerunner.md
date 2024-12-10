@@ -35,7 +35,7 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | --------------------------- |
 | Forerunner 55 (Asia)        | 2021-06 | 3.4.x | 4033 | CXD56xxxx |  | Garmin [forum](https://forums.garmin.com/developer/connect-iq/f/discussion/271658/what-is-it-fr158) |
 | Forerunner 945 LTE (Asia) | 2021-06 | 4.2.x | 3978 | CXD56xxxx | | |
-| Forerunner 55 | 2021-06 | 3.4.x | 3869 | CXD56xxxx | | |
+| Forerunner 55 | 2021-06 | 3.4.x | 3869 | CXD56xxxx | | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-3A791586-B59F-4B37-B9C5-5A41F8C6BE0B/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) |
 | Forerunner 745 (Asia)     | 2020-09 | 3.3.x | 3794 | CXD56xxxx |  |  |
 | Forerunner 945 LTE          | 2021-06 | 4.2.x | 3652 | CXD56xxxx |  |  |
 | Forerunner 745 | 2020-09 | 3.3.x | 3589 | CXD56xxxx | | |
