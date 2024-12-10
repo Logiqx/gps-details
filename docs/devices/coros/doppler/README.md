@@ -18,8 +18,6 @@ In both sessions the max 2 second speeds is more than 2 knots higher than the re
 
 ### Background
 
-I should clarify that I am not a member of the GP3S team, but I do provide advice on technical issues / matters. I am also responsible for the technology and time keeping at the worlds longest running speed competition ([Weymouth Speed Week](https://weymouthspeedweek.com/)) and the recent [ISWC World Championships](https://speedwindsurfing.org/).
-
 The importance of Doppler-derived speeds has been recognised by the speed surfing community for years and has been summarised in a short [article](https://medium.com/@mikeg888/the-importance-of-doppler-b886b14bb65d) that I wrote earlier this year. The next two images will illustrate how the VERTIX used to behave prior to firmware V 3.0508.0.
 
 The first image compares what is believed to be the Doppler-derived speed of the VERTIX (blue) against the position-derived speed of the VERTIX (red) and the speed from a VERTIX 2 (green). The sawtooth artefacts in the position-derived speeds (red) of the VERTIX are very prominent.
