@@ -5,7 +5,7 @@
 This page lists the GNSS chipsets that are used in the Garmin Enduro watches.
 
 - The Enduro 2 is essentially a fēnix 7X - Sapphire Solar but with longer battery life and slightly different features.
-- The Enduro 3 is essentially a fēnix 8 - 51 mm Sapphire Solar but without voice features, and diving features.
+- The Enduro 3 is essentially a fēnix 7X - Sapphire Solar but with longer battery life and slightly newer software.
 
 The various models are listed in reverse-chronological order. The release dates are generally from Garmin announcements.
 
