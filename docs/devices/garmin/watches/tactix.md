@@ -40,7 +40,7 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
 | tactix Charlie | 2018-03  | 3.1.x | ? | MT3333  | Y |                                                              |
-| tactix Bravo   | 2016-01  | 1.4.x | ? | MT3333  | Y | DCR [explainer](https://www.dcrainmaker.com/2016/01/garmins-tactix-bravo.html) |
+| tactix Bravo   | 2016-01  | 1.4.x | ? | MT3333  | - | DCR [explainer](https://www.dcrainmaker.com/2016/01/garmins-tactix-bravo.html) |
 | tactix         | 2013-10  | -     | ? | MT333x  | - | DCR [review](https://www.dcrainmaker.com/2013/10/garmin-tactix-review.html) |
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.

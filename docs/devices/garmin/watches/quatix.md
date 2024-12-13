@@ -41,7 +41,7 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
 | quatix 5 - Sapphire | 2017-06  | 3.1.x | ? | MT3333  | ? |            |
 | quatix 5          | 2017-06  | 3.1.x | ? | MT3333  | Y |            |
-| quatix 3          | 2016-01  | 1.4.x | ? | MT3333  | Y |            |
+| quatix 3          | 2016-01  | 1.4.x | ? | MT3333  | - |            |
 | quatix            | 2012-07  | -     | ? | MT333x  | - |            |
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.

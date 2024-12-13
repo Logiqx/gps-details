@@ -59,10 +59,10 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | Forerunner 30               | 2017-09 | - |  | MT3333 | - |  |
 | Forerunner 935              | 2017-03 | 3.1.x |  | MT3333 | Y |  |
 | Forerunner 35               | 2016-08 | - |  | MT3333 | - |  |
-| Forerunner 735XT            | 2016-05 | 2.4.x |  | MT3333 | Y | iFixit [teardown](https://www.ifixit.com/Teardown/Garmin+Forerunner+735XT+Teardown/117852) |
-| Forerunner 630              | 2015-10 | 1.4.x |  | MT3333 | Y | Tech T [teardown](https://youtu.be/WdbPKmjUrKc?t=114) |
-| Forerunner 235        | 2015-10 | 1.4.x |  | MT3333 | Y | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
-| Forerunner 230 | 2015-10 | 1.4.x |  | MT3333 | Y | Embedded [teardown](https://embeddedcomputing.com/27555-tear-down-garmin-forerunner-230-gps-running-watch/) |
+| Forerunner 735XT            | 2016-05 | 2.4.x |  | MT3333 | - | iFixit [teardown](https://www.ifixit.com/Teardown/Garmin+Forerunner+735XT+Teardown/117852) |
+| Forerunner 630              | 2015-10 | 1.4.x |  | MT3333 | - | Tech T [teardown](https://youtu.be/WdbPKmjUrKc?t=114) |
+| Forerunner 235        | 2015-10 | 1.4.x |  | MT3333 | - | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
+| Forerunner 230 | 2015-10 | 1.4.x |  | MT3333 | - | Embedded [teardown](https://embeddedcomputing.com/27555-tear-down-garmin-forerunner-230-gps-running-watch/) |
 | Forerunner 25               | 2015-08 | - |  | MT333x | - |  |
 | Forerunner 225              | 2015-05 | - |  | MT333x | - | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
 | Forerunner 920XT            | 2014-10 | 1.4.x |  | MT3333 | - |  |
