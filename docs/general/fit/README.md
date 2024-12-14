@@ -18,16 +18,22 @@ This document captures some of the useful metadata in FIT files from Garmin and 
 
 FIT files from COROS use the same product number for the APEX 2 and APEX 2 Pro. A simple workaround is proposed using the product_name field, mapping the APEX 2 to product number 821. More details about the issue are on [GitHub](https://github.com/Logiqx/gp3s-coros/issues/36).
 
-| Name          | Field / Value | Criteria                                            | Garmin? | COROS? |
-| ------------- | ------------- | --------------------------------------------------- | :-----: | :----: |
-| manufacturer  | manufacturer  | -                                                   |    Y    |   Y    |
-| product       | product       | -                                                   |    Y    |   Y    |
-|               | 821           | product = 822 and product_name == "COROS Wearables" |    -    |   Y    |
-| product_name  | product_name  | -                                                   |    -    |   Y    |
-|               | "APEX 2"      | product = 822 and product_name == "COROS Wearables" |    -    |   Y    |
-| serial_number | serial_number | -                                                   |    Y    |   -    |
+| Name                       | Field / Value | Criteria                                            | Garmin? | COROS? |
+| -------------------------- | ------------- | --------------------------------------------------- | :-----: | :----: |
+| manufacturer <sup>1</sup>  | manufacturer  | -                                                   |    Y    |   Y    |
+| product <sup>1 2</sup>     | product       | -                                                   |    Y    |   Y    |
+|                            | 821           | product = 822 and product_name == "COROS Wearables" |    -    |   Y    |
+| product_name <sup>1</sup>  | product_name  | -                                                   |    -    |   Y    |
+|                            | "APEX 2"      | product = 822 and product_name == "COROS Wearables" |    -    |   Y    |
+| serial_number <sup>3</sup> | serial_number | -                                                   |    Y    |   -    |
 
+Notes:
 
+1. Suunto and Timex also include manufacturer, product and product_name.
+2. Garmin used to include garmin_product instead of product.
+3. Timex also includes serial_number.
+
+  
 
 #### developer_data_id
 
