@@ -2,13 +2,13 @@
 
 ### Background
 
-The speedsurfing mode on the VERTIX 2 and VERTIX 2S has been unreliable since firmware [3.0408.0](3.0408.0/README.md) which was released in May 2024.
+The speedsurfing mode on the VERTIX 2 and VERTIX 2S has been unreliable since firmware [3.0408.0](../3.0408.0/README.md) which was released in May 2024.
 
-The problems are fixed in [3.0708.1113](3.0708.1113/README.md) beta, but the fix will not be in a public firmware release until late January 2025.
+The problems are fixed in [3.0708.1113](README.md) beta, but the fix will not be in a public firmware release until late January 2025.
 
-This page describes how to install [3.0708.1113](3.0708.1113/README.md) beta on your VERTIX 2 or VERTIX 2S.
+This page describes how to install [3.0708.1113](README.md) beta on your VERTIX 2 or VERTIX 2S.
 
-The watches same issues used to affect the APEX 2 and APEX 2 Pro, but they were fixed in [3.0706.0](../3.0706.0/README.md) beta and [3.0708.0](3.0708.0/README.md).
+The watches same issues used to affect the APEX 2 and APEX 2 Pro, but they were fixed in [3.0706.0](../3.0706.0/README.md) beta and [3.0708.0](../3.0708.0/README.md).
 
 
 
@@ -50,6 +50,6 @@ The installation will then begin and will take several minutes. Once complete, y
 
 ### That's It
 
-Hopefully these instructions have helped you to install [3.0708.1113](3.0708.1113/README.md) beta on your VERTIX 2 or VERTIX 2S. I appreciate it still requires some technical skills!
+Hopefully these instructions have helped you to install 3.0708.1113 beta on your VERTIX 2 or VERTIX 2S. I appreciate it still requires some technical skills!
 
 COROS plans to ship the same fix(es) in their next public firmware release which is due late in January. This beta will allow you to enjoy reliable speeds in the meantime!
