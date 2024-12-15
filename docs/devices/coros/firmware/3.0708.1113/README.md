@@ -9,7 +9,7 @@
 
 This will be very much welcomed by owners of the VERTIX 2 and 2S, who will no longer see their watches under-reporting their speeds! 
 
-If you wish to install 3.0708.1113 on your VERTIX 2 / 2S then written [instructions](install.md) are now available!
+If you wish to install 3.0708.1113 on your VERTIX 2 / 2S then written [instructions](install.md) are available!
 
 
 
