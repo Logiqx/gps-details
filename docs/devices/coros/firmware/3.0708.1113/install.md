@@ -12,7 +12,7 @@ The exact same issues used to affect the APEX 2 and APEX 2 Pro, but they were fi
 
 
 
-### Step 1 - Download
+### Step 1 - Download Files to your Computer
 
 The first step is to download the firmware from Google Drive.
 
@@ -24,7 +24,7 @@ Click the link and download the appropriate ZIP to your computer.
 
 ![VERTIX-2-download](img/VERTIX-2-download.png)
 
-### Step 2 - Start the Installation
+### Step 2 - Copy Files to your Watch
 
 Connect the watch to your computer and wait for two external drives to be listed - "LOG FILES" and "VERTIX 2" (or "VERTIX 2S").
 
@@ -38,7 +38,7 @@ The image below is a screenshot of the "LOG FILES" drive and "Upgrade" folder.
 
 
 
-### Step 3 - Complete the Installation
+### Step 3 - Complete the Update
 
 Wait for several seconds after the copy has completed then (ideally) eject the drive, or if you don't know how to eject a drive, simply unplug the watch from the computer.
 
@@ -48,8 +48,8 @@ The installation will then begin and will take several minutes. Once complete, y
 
 
 
-### That's It
+### Wrap Up
 
-Hopefully these instructions have helped you to install 3.0708.1113 beta on your VERTIX 2 or VERTIX 2S. I appreciate it still requires some technical skills!
+Hopefully these instructions have helped you to install 3.0708.1113 beta on your VERTIX 2 or VERTIX 2S. Sorry, manual updates do require some technical skills!
 
 COROS plans to ship the same fix(es) in their next public firmware release which is due late in January. This beta will allow you to enjoy reliable speeds in the meantime!
