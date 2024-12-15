@@ -8,7 +8,7 @@ The problems are fixed in [3.0708.1113](README.md) beta, but the fix will not be
 
 This page describes how to install [3.0708.1113](README.md) beta on your VERTIX 2 or VERTIX 2S.
 
-The watches same issues used to affect the APEX 2 and APEX 2 Pro, but they were fixed in [3.0706.0](../3.0706.0/README.md) beta and [3.0708.0](../3.0708.0/README.md).
+The exact same issues used to affect the APEX 2 and APEX 2 Pro, but they were fixed in [3.0706.0](../3.0706.0/README.md) beta and [3.0708.0](../3.0708.0/README.md).
 
 
 
