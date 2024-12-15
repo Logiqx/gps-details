@@ -6,9 +6,13 @@ Several COROS firmware releases during 2024 have been problematic for the speeds
 
 Current status:
 
-- Owners of an APEX Pro or VERTIX with firmware 3.0508.0 (released Aug 2024) are encouraged to [downgrade](downgrade.md) to 3.0309.0.
 - Owners of the APEX 2 and APEX 2 Pro are advised to upgrade to firmware 3.0708.0
-- Owners of a VERTIX 2 or 2S are advised to avoid the firmware 3.04xx.0, 3.05xx.0, and 3.0708.0.
+- Owners of a VERTIX 2 or 2S are advised to avoid the firmware 3.04xx.0, 3.05xx.0, and 3.0708.0. You might wish to install 3.0708.1113 as described below.
+- Owners of an APEX Pro or VERTIX with firmware 3.0508.0 (released Aug 2024) are encouraged to [downgrade](downgrade.md) to 3.0309.0.
+
+Fixing your watch:
+
+- If you wish to install 3.0708.1113 on your VERTIX 2 / 2S then written [instructions](3.0708.1113/install.md) are now available!
 
 Prior to reviewing the details on this page it is advisable to read the article about [sampling rates and aliasing](../../../general/aliasing/README.md). It would also be beneficial to read the [article](../windsurfing/README.md) comparing the windsurfing and speedsurfing activities on COROS watches.
 
