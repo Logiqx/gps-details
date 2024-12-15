@@ -6,7 +6,7 @@ The speedsurfing mode on the VERTIX 2 and VERTIX 2S has been unreliable since fi
 
 The problems are fixed in [3.0708.1113](README.md) beta, but the fix will not be in a public firmware release until late January 2025.
 
-This page describes how to install [3.0708.1113](README.md) beta on your VERTIX 2 or VERTIX 2S.
+This page describes how to install 3.0708.1113 beta on your VERTIX 2 or VERTIX 2S.
 
 The exact same issues used to affect the APEX 2 and APEX 2 Pro, but they were fixed in [3.0706.0](../3.0706.0/README.md) beta and [3.0708.0](../3.0708.0/README.md).
 
@@ -26,9 +26,9 @@ Click the link and download the appropriate ZIP to your computer.
 
 ### Step 2 - Copy Files to your Watch
 
-Connect the watch to your computer and wait for two external drives to be listed - "LOG FILES" and "VERTIX 2" (or "VERTIX 2S").
+Connect the watch to your computer and wait for the two external drives to be listed - "LOG FILES" and "VERTIX 2" (or "VERTIX 2S").
 
-Copy the contents of the ZIP file into the "Install" folder which is located on the "LOG FILES" drive.
+Copy the contents of the ZIP file into the "Upgrade" folder which is located on the "LOG FILES" drive.
 
 ![VERTIX-2-laptop](img/VERTIX-2-laptop.jpg)
 

@@ -6,12 +6,13 @@ Several COROS firmware releases during 2024 have been problematic for the speeds
 
 Current status:
 
+- Owners of an APEX Pro or VERTIX with firmware 3.0508.0 (released Aug 2024) are encouraged to downgrade to 3.0309.0 - see below.
 - Owners of the APEX 2 and APEX 2 Pro are advised to upgrade to firmware 3.0708.0
-- Owners of a VERTIX 2 or 2S are advised to avoid the firmware 3.04xx.0, 3.05xx.0, and 3.0708.0. You might wish to install 3.0708.1113 as described below.
-- Owners of an APEX Pro or VERTIX with firmware 3.0508.0 (released Aug 2024) are encouraged to [downgrade](downgrade.md) to 3.0309.0.
+- Owners of a VERTIX 2 or 2S are advised to avoid the firmware 3.04xx.0, 3.05xx.0, and 3.0708.0. You might wish to install 3.0708.1113 - see below.
 
 Fixing your watch:
 
+- If you wish to install 3.0309.0 on your APEX Pro or VERTIX then written [instructions](3.0309.0/install.md) are now available!
 - If you wish to install 3.0708.1113 on your VERTIX 2 / 2S then written [instructions](3.0708.1113/install.md) are now available!
 
 Prior to reviewing the details on this page it is advisable to read the article about [sampling rates and aliasing](../../../general/aliasing/README.md). It would also be beneficial to read the [article](../windsurfing/README.md) comparing the windsurfing and speedsurfing activities on COROS watches.
@@ -86,7 +87,7 @@ The VERTIX 2 + 2S are broken and have reverted back to the behavior of 3.040x.0 
 
 The 3.05xx.0 releases exhibit issues because speedsurfing behaves much like windsurfing, which is non-doppler and thus prone to spikes.
 
-Owners of an APEX Pro or VERTIX with firmware 3.050x.0 (released Aug 2024) are advised to [downgrade](downgrade.md) to 3.0309.0.
+Owners of an APEX Pro or VERTIX with firmware 3.050x.0 (released Aug 2024) are advised to [downgrade](3.0309.0/install.md) to the 3.0309.0 firmware.
 
 |               | APEX Pro   | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
 | :------- | :--------: | :--------: | :--------: | :--------: | :--------: |
@@ -116,7 +117,7 @@ The 3.03xx.0 releases exhibit the original behavior, similar in many respects to
 
 However, unique to the COROS is the temporal offset issue on the APEX 2, APEX 2 Pro, VERTIX 2 which causes [fantasy alphas](../alpha/README.md).
 
-Owners of an APEX Pro or VERTIX with firmware 3.050x.0 (released Aug 2024) are encouraged to [downgrade](downgrade.md) to 3.0309.0.
+Owners of an APEX Pro or VERTIX with firmware 3.050x.0 (released Aug 2024) are advised to [downgrade](3.0309.0/install.md) to the 3.0309.0 firmware.
 
 
 |                                |  APEX Pro  |   VERTIX   |   APEX 2   | APEX 2 Pro |  VERTIX 2  |
