@@ -55,6 +55,8 @@ An issue has been observed on the COROS VERTIX 2 and the COROS APEX 2 Pro which 
 
 The exact nature of the COROS bug is unknown, but the problem can clearly be seen when examining data within a FIT file.
 
+The issue is definitely present in firmware versions between 2.69 (5 Jul 2022) and 3.0308.0 (31 Jan 2024). It is unclear how much earlier the issue was present, or if it has since been resolved. There has not been a lot of focus on the alpha issue due to investigations affecting the firmware releases since 3.0408.0 (10 May 2024).
+
 
 
 #### Normal Data
