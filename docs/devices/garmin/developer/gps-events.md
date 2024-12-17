@@ -97,6 +97,22 @@ GPS L1 + L5, QZSS L1 + L5, GLONASS, Galileo E1 + E5a, BeiDou B1I + B2a
 
 
 
+### Determining the GPS mode
+
+Simple test for all systems, with or without multi-band:
+
+```
+mode & 0xc3 == 0xc3
+```
+
+Simple test for all systems + multi-band:
+
+```
+mode & 0x1cc3 == 0x1cc3
+```
+
+
+
 ### SatIQ - Auto Select
 
 The Garmin description:
