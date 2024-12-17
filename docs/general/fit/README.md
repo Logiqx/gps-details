@@ -8,7 +8,7 @@ Created: 14 Dec 2024
 
 ### Overview
 
-This document captures some of the useful metadata in FIT files from Garmin and COROS devices. The various FIT records are described below and the insights that should (ideally) be retained.
+This document describes the useful metadata that is available in the FIT files from Garmin, COROS and some other watch manufacturers.
 
 
 
