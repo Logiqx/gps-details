@@ -76,7 +76,7 @@ GPS L1, QZSS L1, GLONASS, Galileo E1, BeiDou B1I
 
 
 
-#### All + Multi-Band
+### All + Multi-Band
 
 #### Connect IQ Apps
 
