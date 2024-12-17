@@ -95,7 +95,7 @@ GPS L1 + L5, QZSS L1 + L5, GLONASS, Galileo E1 + E5a, BeiDou B1I + B2a
 | All + Multi-Band    | 15571 | 00111100 11010011 |
 | SatIQ - Auto Select | 15827 | 00111101 11010011 |
 
-#### 
+
 
 ### SatIQ - Auto Select
 
