@@ -94,3 +94,13 @@ GPS L1 + L5, GLONASS, Galileo E1 + E5a, BeiDou B1I + B2a
 | App                          | Dec  | Bin               |
 | ---------------------------- | ---- | ----------------- |
 | APPro + Hoolan + Windsurfing | 7363 | 00011100 11000011 |
+
+
+
+### SatIQ - Auto Select
+
+The Garmin description:
+
+> Garmin SatIQ™ satellite technology is a GPS technology that determines the optimal GPS mode based on your environment. SatIQ can determine when Multiband GNSS is needed, like near tall buildings or in a dense forest, or when a low power GPS mode can achieve the same accuracy, like in more open areas. By choosing AutoSelect in the satellite setting on your device, SatIQ can automatically toggle between GPS modes in order to maximize battery life without compromising positional accuracy.
+
+What this means is that there will be multiple GPS events throughout the course of the session, switching between different modes according to the conditions.
