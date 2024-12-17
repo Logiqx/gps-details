@@ -21,7 +21,7 @@ GPS L1
 QZSS L1
 00010000
 
-GLONASS, GALILEO L1, BEIDOU L1
+GLONASS, Galileo E1, BeiDou B1I
 11000010
 ```
 
@@ -31,7 +31,7 @@ Most significant byte:
 QZSS L5
 00100000
 
-GPS L5, GALILEO L5,BEIDOU L5
+GPS L5, Galileo E5a, BeiDou B2a
 00011100
 
 SatIQ - Auto Select
@@ -59,7 +59,7 @@ GPS L1, QZSS L1
 
 #### Garmin Activities
 
-GPS L1, QZSS L1, GLONASS, GALILEO L1, BEIDOU L1
+GPS L1, QZSS L1, GLONASS, Galileo E1, BeiDou B1I
 
 | Satellites Setting  | Dec  | Bin               |
 | ------------------- | ---- | ----------------- |
@@ -68,7 +68,7 @@ GPS L1, QZSS L1, GLONASS, GALILEO L1, BEIDOU L1
 
 #### Connect IQ Apps
 
-GPS L1, GLONASS, GALILEO L1, BEIDOU L1
+GPS L1, GLONASS, Galileo E1, BeiDou B1I
 
 | App            | Dec  | Bin               |
 | -------------- | ---- | ----------------- |
@@ -80,7 +80,7 @@ GPS L1, GLONASS, GALILEO L1, BEIDOU L1
 
 #### Garmin Activities
 
-GPS L1 + L5, QZSS L1 + L5, GLONASS, GALILEO L1 + L5, BEIDOU L1 + L5
+GPS L1 + L5, QZSS L1 + L5, GLONASS, Galileo E1 + E5a, BeiDou B1I + B2a
 
 | Satellites Setting  | Dec   | Bin               |
 | ------------------- | ----- | ----------------- |
@@ -89,7 +89,7 @@ GPS L1 + L5, QZSS L1 + L5, GLONASS, GALILEO L1 + L5, BEIDOU L1 + L5
 
 #### Connect IQ Apps
 
-GPS L1 + L5, GLONASS, GALILEO L1 + L5, BEIDOU L1 + L5
+GPS L1 + L5, GLONASS, Galileo E1 + E5a, BeiDou B1I + B2a
 
 | App                          | Dec  | Bin               |
 | ---------------------------- | ---- | ----------------- |
