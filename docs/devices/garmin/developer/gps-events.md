@@ -4,7 +4,9 @@
 
 FIT files from newer Garmin devices contain records for the GPS Events.
 
-Event type 49 indicates a mode change and the mode itself is a 16-bit value.
+These can easily be viewed using the online [FIT File Viewer](https://www.fitfileviewer.com/). The developer mode allows you to see the underlying values.
+
+GPS event type 49 indicates a mode change and the mode itself is a 16-bit value, indicating the systems / signals.
 
 
 
