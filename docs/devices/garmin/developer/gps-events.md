@@ -20,11 +20,11 @@ Least significant byte:
 GPS L1
 00000001
 
-QZSS L1
-00010000
-
 GLONASS, Galileo E1, BeiDou B1I
 11000010
+
+QZSS L1
+00010000
 
 Unknown / Unused
 --?-??--
@@ -33,11 +33,11 @@ Unknown / Unused
 Most significant byte:
 
 ```
-QZSS L5
-00100000
-
 GPS L5, Galileo E5a, BeiDou B2a
 00011100
+
+QZSS L5
+00100000
 
 SatIQ - Auto Select
 00000001
