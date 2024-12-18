@@ -44,6 +44,14 @@ n.b. Garmin activities always have an additional bit set when compared to Connec
 
 ### GPS Only
 
+#### Connect IQ Apps
+
+GPS L1
+
+| App            | Dec  | Bin               |
+| -------------- | ---- | ----------------- |
+| APPro + Hoolan | 1    | 00000000 00000001 |
+
 #### Garmin Activities
 
 GPS L1, QZSS L1
