@@ -25,6 +25,9 @@ QZSS L1
 
 GLONASS, Galileo E1, BeiDou B1I
 11000010
+
+Unknown / Unused
+--?-??--
 ```
 
 Most significant byte:
@@ -38,6 +41,9 @@ GPS L5, Galileo E5a, BeiDou B2a
 
 SatIQ - Auto Select
 00000001
+
+Unknown / Unused
+??----?-
 ```
 
 n.b. Garmin activities always have an additional bit set when compared to Connect IQ apps, which is presumed to be QZSS.
