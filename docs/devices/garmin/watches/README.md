@@ -2,7 +2,7 @@
 
 ### Overview
 
-The GNSS chipset is probably the most significant factor when it comes to the accuracy and reliability of GPS watches. Additional factors include antenna design, GNSS firmware, watch firmware, and user settings. The activity mode and / or app choice are also really important.
+The GNSS chipset is probably the most significant factor when it comes to the accuracy and reliability of GPS watches. Additional factors include antenna design, GNSS firmware, watch firmware, and user settings. The activity profile and / or app choice are also really important.
 
 This page lists the GNSS chipsets of the many Garmin watches that people may wish to use for GPS-Speedsurfing (GP3S). The information is intended for people choosing a Garmin watch, or curious about the suitability of their current watch.
 
@@ -89,6 +89,27 @@ The following app may be worth trying if APPro cannot be installed on your watch
 The following data field may be worth trying if you compete in the [GPS Team Challenge](https://www.gpsteamchallenge.com.au/):
 
 - [GPSTC V4](https://apps.garmin.com/apps/f0f3fbd5-9de3-4d69-b89b-10b76d6a9f0f)
+
+
+
+### Activity Profiles
+
+If you are using a standard Garmin activity profile, it is important that you use one that is suited to wind sports.
+
+The vast majority of activity profiles on Garmin watches perform filtering of the speed data that is highly undesirable.
+
+Suitable Garmin activity profiles include:
+
+- Windsurf
+- Kiteboard
+- Other
+
+The following Garmin activity profiles are NOT suitable:
+
+- SUP (Stand Up Paddleboard)
+- Surf
+- Sailing
+- Boating
 
 
 
