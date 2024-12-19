@@ -104,9 +104,9 @@ Accuracy estimates are available in the Android [Location](https://developer.and
 
 The Airoha AG3335M chipset is capable of providing these metrics but they are not currently exposed via the Garmin API. It is highly desirable for the accuracy estimates from the Airoha chipset to be exposed via the Garmin [Toybox.Position](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html) module in a future API.
 
-I was digging into Garmin's FIT SDK yesterday and discovered that a field called GPS accuracy is already present. The units are meters, so it will almost certainly be positional accuracy (aka hAcc). iI know from my previous investigations that hAcc issues are an excellent proxy for sAcc issues. This applies to all of the GNSS chipsets that I've studied and tested; e.g. SiRF, UBX, Broadcom, Qualcomm, Samsung.
+I was digging into Garmin's FIT SDK recently and discovered that a field called GPS accuracy is already present. The units are meters, so it will almost certainly be positional accuracy (aka hAcc). I know from my previous investigations that hAcc issues are a decent proxy for sAcc issues. This applies to all of the GNSS chipsets that I've studied and tested; e.g. SiRF, UBX, Broadcom, Qualcomm, Samsung.
 
-The next question is whether Garmin have some way that we can force watches to record the GPS accuracy (hAcc) in FIT files. Someone in Garmin seems to have developed this capability already, based on what I can see in their FIT SDK. However, I can find nothing related in the Connect IQ developer documentation. Perhaps it is something that can be achieved with some kind of debug build?
+The next question is whether Garmin have some way that we can force watches to record the GPS accuracy (aka hAcc) in FIT files. Someone in Garmin seems to have developed this capability already, based on what I can see in their FIT SDK. However, I can find nothing related in the Connect IQ developer documentation. Perhaps it is something that can be achieved with some kind of debug build?
 
 
 
@@ -135,9 +135,9 @@ This looks interesting and may relate to the time offsets, but I have yet to inv
 
 #### Device Status
 
-This includes the battery level during the session.
+This includes the battery level during the session and may be interesting, should power saving kick in, or suchlike.
 
-../developer/fix-quality.md)
+
 
 
 
