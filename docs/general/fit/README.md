@@ -98,5 +98,4 @@ n.b. Garmin watches back in early-mid 2022 experienced the issues that COROS hav
 | ---------------- | ---------------- | ------------------------------------------------ | :-----: | :----: |
 | firmware_version | software_version | device_type is empty, or device_index == creator |    Y    |   -    |
 | gnss_version     | software_version | device_type == 0                                 |    Y    |   -    |
-|                  |                  |                                                  |         |        |
 
