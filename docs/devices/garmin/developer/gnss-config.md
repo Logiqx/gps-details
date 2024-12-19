@@ -34,32 +34,36 @@ function startLocationEvents() {
 
     // Use configuration parameter for ConnectIQ 3.3.6 and later (e.g. Fenix 5 Plus)
     if (Position has :hasConfigurationSupport) {
-        // GPS L1, GLONASS, GALILEO L1, BEIDOU L1 (e.g. Fenix 7)
-        if (Position has :CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1) &&
-           (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1  )) {
+        // GPS L1 + L5, GLONASS, Galileo E1 + E5a, and BeiDou B1I + B2a (e.g. Fenix 7 Pro)
+        if (Position has :CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1_L5) &&
+              (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1_L5)) {
+            options[:configuration] = Position.CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1_L5;
+        // GPS L1, GLONASS, Galileo E1, and BeiDou B1I (e.g. Fenix 7)
+        } else if (Position has :CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1) &&
+              (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1;
-        // GPS L1 and GALILEO L1 - May be skipped in the simulator (e.g. Fenix 6)
+        // GPS L1 and Galileo E1 - May be skipped in the simulator (e.g. Fenix 6)
         } else if (Position has :CONFIGURATION_GPS_GALILEO) &&
-                  (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GALILEO)) {
+              (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GALILEO)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GALILEO;
-        // GPS L1 and BEIDOU L1 - May be used in the simulator (e.g. Fenix 6)
+        // GPS L1 and BeiDou B1I - May be used in the simulator (e.g. Fenix 6)
         } else if (Position has :CONFIGURATION_GPS_BEIDOU) &&
-                  (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_BEIDOU)) {
+              (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_BEIDOU)) {
             options[:configuration] = Position.CONFIGURATION_GPS_BEIDOU;
         // GPS L1 and GLONASS - Applicability TBC
         } else if (Position has :CONFIGURATION_GPS_GLONASS) &&
-                  (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GLONASS)) {
+              (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GLONASS)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GLONASS;
         // GPS L1 - Theoretically redundant on watches supporting ConnectIQ 3.3.6
         } else if (Position has :CONFIGURATION_GPS) &&
-                  (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS)) {
+              (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS)) {
             options[:configuration] = Position.CONFIGURATION_GPS;
         }
         started = startUpdates(options)
     }
     // Use constellations parameter for ConnectIQ 3.2.0 to 3.3.5 (e.g. vivoactive 3 music)
     else {
-        // GPS L1 and GALILEO L1
+        // GPS L1 and Galileo E1
         if (Position has :CONSTELLATION_GALILEO {
             options[:constellations] = [ Position.CONSTELLATION_GPS, Position.CONSTELLATION_GALILEO ];
         }
