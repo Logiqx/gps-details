@@ -6,7 +6,7 @@ The Airoha AG3335M and AG3335MN are used in the latest watches from Garmin, conf
 
 The main difference is the [Airoha](../../../chipsets/airoha/devices.md) AG3335M is multi-band and AG3335MN is single-band. The AG3335MN actually supports NavIC on L1 + L5, instead of multi-band for the other systems, but NavIC is not supported by Garmin devices.
 
-Airoha is a subsidiary of [MediaTek](../../../chipsets/mediatek/devices.md) who made the MT3333 which was the most widely used GNSS chipset in watches, prior to the [Sony](../../../chipsets/sony/devices.md) era. The MT3333 is actually has an update rate of 10 Hz but sports watches do not update at that frequency.
+Airoha is a subsidiary of [MediaTek](../../../chipsets/mediatek/devices.md) who made the MT3333 which was the most widely used GNSS chipset in watches, prior to the [Sony](../../../chipsets/sony/devices.md) era. The MT3333 actually has an update rate of 10 Hz but sports watches do not update at that frequency.
 
 The Airoha AG3335 series are direct descendants of the MT3333, but are far more capable.
 
@@ -28,7 +28,7 @@ Looking at reference manuals for GNSS modules that use the AG3335M gives insight
   - $PQTMVEL (proprietary Quectel) - estimate of 2D speed accuracy, 3D speed accuracy. and heading accuracy.
   - $PAIR030 (PAIR_COMMON_GET_POS_XYZ) - 3-dimensional position space 1-sigma accuracy estimate (in meters).
   - $PAIR031 (PAIR_COMMON_GET_VEL_XYZ) - 3-dimensional speed 1-sigma accuracy (m/s).
-  - I'm 99.7% sure the Airpha chipsets will have PAIR commands for 2D position accuracy and 2D speed accuracy.
+  - I'm 99.7% sure the Airoha chipsets will have PAIR commands for 2D position accuracy and 2D speed accuracy.
 - Multiple power saving modes.
   - GPS Low Power (GLP), Adaptive Low Power (ALP), Fitness Low Power (FLP), Ultra Low Power (ULP), Periodic Power Saving.
   - We probably don't want any of these power saving features activated.

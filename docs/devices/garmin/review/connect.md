@@ -4,7 +4,7 @@
 
 The only real choice on Forerunner watches is "other" because they don't offer windsurf or kiteboard to users. However, Connect IQ apps can use any of the Garmin activity profiles (including windsurf and kiteboard), even if the watch itself does not offer them to the user.
 
-Garmin connect shows different information for different activity profile, and has a variety of icons. You can change the sport in Garmin Connect, but that doesn't change the underlying data. The underlying data and filters applied will be completely unchanged.
+Garmin connect shows different information for different activity profiles, and has a variety of icons. You can change the sport in Garmin Connect, but that doesn't change the underlying data. The underlying data and filters applied will be completely unchanged.
 
 ![event-type](img/event-type.png)
 

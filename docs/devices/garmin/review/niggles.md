@@ -10,7 +10,7 @@ There are a few minor niggles in the Garmin data, which I have listed on this pa
 
 Temporal offsets of 1 or 2 seconds seem to affect Garmin watches. I don't think that I've ever seen the data being early, only ever delayed.
 
-This is not a major issue per-se, but something to be aware of when testing comparing devices. The delay can sometimes change by a second or two in the middle of a session.
+This is not a major issue per-se, but something to be aware of when testing or comparing devices. The delay can sometimes change by a second or two in the middle of a session.
 
 
 

@@ -63,7 +63,7 @@ The application details from the developer_data_id record can be used to identif
 
 #### Session
 
-Applications such as APPro may record some human-readable information that relates to the session.information.
+Applications such as APPro may record some human-readable information that relates to the session.
 
 | Name        | Example                      |
 | ----------- | ---------------------------- |
@@ -86,7 +86,7 @@ Likewise the regular *altitude* field is 16-bits and limited to 6553.5 m (6.5 km
 
 #### Fix Quality
 
-Connect IQ apps such as APPro are able to acquire GNSS fix [quality](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#Quality-module) indicator and it to the FIT file as a field called fix_quality.
+Connect IQ apps such as APPro are able to check the GNSS fix [quality](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#Quality-module) and record it in the FIT file, accompanying the latitude + longitude + speed data.
 
 | Name                  | Value | Description                                                  | Sats |  HDOP  |
 | --------------------- | :---: | ------------------------------------------------------------ | :--: | :----: |

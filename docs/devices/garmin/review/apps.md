@@ -18,7 +18,7 @@ I looked at every windsurfing-related app and datafield on the Connect IQ store,
 Here are some general comments about third party apps:
 
 - It is crucial that apps select the appropriate activity profile (e.g. windsurf) and GNSS mode.
-  - The default behavior of third party app us standard GPS, which often does not perform well.
+  - The default behavior of third party app is standard GPS, which often does not perform well.
   - Datafields are reliant upon the user selecting a suitable activity profile and GNSS mode.
   - It was off the back of this that I created some example code for the [GNSS config](../developer/gnss-config.md) on different watches.
 - Further tips and advice for Garmin app developers are on a dedicated [developer](../developer/README.md) page.
