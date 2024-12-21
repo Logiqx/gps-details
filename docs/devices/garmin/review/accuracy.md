@@ -18,7 +18,7 @@ The data from the two Motions can be averaged and compared to the individual Mot
 
 
 
-The same kind of comparison can be done for the Garmin watches, comparing them to the average of the Motions. It should be noted that the differences are an order of magnitude greater than the Motions. The differences being 10 times greater is observed during all test sessions.
+The same kind of comparison can be done for the Garmin watches, comparing them to the average of the Motions. It should be noted that the differences are an order of magnitude greater than the Motions. This order of magnitude difference has been pretty typical during my Garmin testing.
 
 ![accuracy-3](img/accuracy-3.png)
 
@@ -26,7 +26,7 @@ The same kind of comparison can be done for the Garmin watches, comparing them t
 
 ### Summary
 
-I don't have much time right now, so I can't write up months worth of test results, so I will summise:
+I don't have much time right now, so I can't write up months worth of individual test results. Here is a summary:
 
 - When set up correctly and used correctly, Airoha-based Garmin watches can often produce 2s results that are within 0.1 kts of the Motions and usually within 0.3 knots. I don't recall ever seeing much more than 0.5 knots difference for 2s.
 - Over longer distances the results are typically within 0.1 or 0.2 kts, when compared against the Motion.
