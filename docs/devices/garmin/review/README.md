@@ -53,7 +53,7 @@ The following pages cover a variety of topics in more detail.
 
 - General topics
   - Garmin [watches](../watches/README.md)
-  - Recommended [apps + datafields](apps.md)
+  - Decent [apps + datafields](apps.md)
   - Watches [tested](tested.md)
 - User topics
   - Watch [settings](settings.md)
