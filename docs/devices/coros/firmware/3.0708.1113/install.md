@@ -24,6 +24,8 @@ Click the link and download the appropriate ZIP to your computer.
 
 ![VERTIX-2-download](img/VERTIX-2-download.png)
 
+
+
 ### Step 2 - Copy Files to your Watch
 
 Connect the watch to your computer and wait for the two external drives to be listed - "LOG FILES" and "VERTIX 2" (or "VERTIX 2S").
@@ -43,6 +45,8 @@ The image below is a screenshot of the "LOG FILES" drive and "Upgrade" folder.
 Wait for several seconds after the copy has completed then (ideally) eject the drive, or if you don't know how to eject a drive, simply unplug the watch from the computer.
 
 The installation will then begin and will take several minutes. Once complete, you may wish to check your firmware via System -> More Settings -> Device Info -> Software.
+
+In the unlikely event that the update should freeze, you might need to restart your watch. Hold the power button (top button) for 15 seconds to turn off your watch, then press the same button for a second to turn it back on again. The update should re-start and hopefully install successfully.
 
 ![img](img/VERTIX-2-watch.jpg)
 
