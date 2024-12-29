@@ -2,9 +2,9 @@
 
 ### History
 
-The Airoha AG3335M and AG3335MN are used in the latest watches from Garmin, confirmed by teardowns.
+The Airoha AG3335M and AG3335MN are used in the latest watches from Garmin, confirmed by several teardowns.
 
-The main difference is the [Airoha](../../../chipsets/airoha/devices.md) AG3335M is multi-band and AG3335MN is single-band. The AG3335MN actually supports NavIC on L1 + L5, instead of multi-band for the other systems, but NavIC is not supported by Garmin devices.
+The main difference is that the [Airoha](../../../chipsets/airoha/devices.md) AG3335M is multi-band and AG3335MN is single-band. The AG3335MN actually supports NavIC L5, but it does not support GPS L5 / QZSS L5 / Galileo E5a / BeiDou B2a.
 
 Airoha is a subsidiary of [MediaTek](../../../chipsets/mediatek/devices.md) who made the MT3333 which was the most widely used GNSS chipset in watches, prior to the [Sony](../../../chipsets/sony/devices.md) era. The MT3333 actually has an update rate of 10 Hz but sports watches do not update at that frequency.
 
