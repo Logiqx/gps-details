@@ -20,5 +20,6 @@ This project is work in progress and new articles are added periodically:
 - [Activities](activities/README.md) - 9 Jul 2024
 - [Smoothing](smoothing/README.md) - 28 May 2024
 - [Fantasy Alphas](alpha/README.md) - 21 Dec 2023
+- [Data Issues](issues/README.md) - 2 Apr 2022
 - [Speed Resolution](resolution/README.md) - 2 Apr 2022
 

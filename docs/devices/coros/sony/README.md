@@ -34,9 +34,7 @@ TLDR - Quantization is evident and speeds essentially have a resolution of aroun
 
 #### Repeating Speeds
 
-In April 2022, I also documented the fact that speeds will often be repeated, sometimes for more than 15 seconds.
-
-The original article is still available at [https://logiqx.github.io/gps-guides/devices/coros/data-issues.html#repeated-speeds](https://logiqx.github.io/gps-guides/devices/coros/data-issues.html#repeated-speeds)
+In April 2022, I wrote an [article](../issues/README.md#repeated-speeds) describing how speeds will often be repeated, sometimes for more than 15 seconds.
 
 The image below shows a VERTIX speedsurfing session from 28 Jul 2024, where the a speed of 21.200 knots was recorded continuously for 17 seconds. This clearly is not something that can really happen on a windsurfer.
 
