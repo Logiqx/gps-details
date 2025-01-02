@@ -22,9 +22,7 @@ All of the data and the Excel workbook can be downloaded using the link(s) at th
 
 #### Quantization 
 
-In April 2022, I documented an observation about the resolution of the speeds being recorded by the APEX Pro and VERTIX.
-
-The original article is still available at [https://logiqx.github.io/gps-guides/devices/coros/apex-pro/speed-resolution.html](https://logiqx.github.io/gps-guides/devices/coros/apex-pro/speed-resolution.html)
+In April 2022, I wrote an [article](../resolution/README.md) about the resolution of the speeds being recorded by the APEX Pro and VERTIX.
 
 The quantization can easily be demonstrated by sorting all of the speeds within a file, then displaying the differences using a simple chart.
 
