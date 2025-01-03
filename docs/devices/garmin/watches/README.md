@@ -25,11 +25,11 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 | [fēnix](fenix.md)       | fēnix E                                |     -      |
 |                         | fēnix 8 - Sapphire Solar               |     Y      |
 |                         | fēnix 8 - AMOLED                       |     Y      |
-|                         | fēnix 7/7S/7X - Pro Sapphire Solar     |     Y      |
-|                         | fēnix 7/7S/7X - Pro Solar              |     Y      |
-|                         | fēnix 7/7S/7X - Sapphire Solar         |     Y      |
-|                         | fēnix 7/7S/7X - Solar                  |     -      |
-|                         | fēnix 7/7S                             |     -      |
+|                         | fēnix 7 - Pro Sapphire Solar           |     Y      |
+|                         | fēnix 7 - Pro Solar                    |     Y      |
+|                         | fēnix 7 - Sapphire Solar               |     Y      |
+|                         | fēnix 7 - Solar                        |     -      |
+|                         | fēnix 7                                |     -      |
 | [epix](epix.md)         | epix Pro (Gen 2) - Sapphire            |     Y      |
 |                         | epix Pro (Gen 2)                       |     Y      |
 |                         | epix (Gen 2) - Sapphire                |     Y      |
