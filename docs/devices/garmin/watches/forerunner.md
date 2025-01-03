@@ -63,13 +63,15 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | Forerunner 630              | 2015-10 | 1.4.0 |  | MT3333 | - | Tech T [teardown](https://youtu.be/WdbPKmjUrKc?t=114) |
 | Forerunner 235        | 2015-10 | 1.4.0 |  | MT3333 | - |  |
 | Forerunner 230 | 2015-10 | 1.4.0 |  | MT3333 | - | Embedded [teardown](https://embeddedcomputing.com/27555-tear-down-garmin-forerunner-230-gps-running-watch/) |
-| Forerunner 25               | 2015-08 | - |  | MT333x | - |  |
+| Forerunner 25               | 2015-08 | - |  | MT3333 ? | - |  |
 | Forerunner 225              | 2015-05 | - |  | MT3333 | - |                                                              |
 | Forerunner 920XT            | 2014-10 | 1.4.0 |  | MT3333 | - |  |
-| Forerunner 15               | 2014-05 | - |  | MT333x | - |  |
+| Forerunner 15               | 2014-05 | - |  | MT3333 ? | - |  |
 | Forerunner 620              | 2013-09 | - |  | MT3333 | - |                                                              |
 | Forerunner 220              | 2013-09 | - |  | MT3333 | - | EE World [teardown](https://www.eeworldonline.com/teardown-garmin-forerunner-220-sport-watch-heart-monitor/) |
 | Forerunner 10    | 2012-08 | - |  | MT333x | - |  |
+
+The MT333x in watches prior to 2013 was likely to be the MT3339 or MT3337.
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
 

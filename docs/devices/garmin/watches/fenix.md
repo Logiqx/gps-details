@@ -54,8 +54,10 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | fēnix Chronos          | 2016-08  | 3.1.0 | 2432 | MT3333  | Y | DCR [review](https://www.dcrainmaker.com/2016/08/garmin-chronos-details.html) |
 | fēnix 3 HR             | 2016-01  | 1.4.0 | 2413 | MT3333  | - | Red Turtle [teardown](https://medium.com/personal-notes-on-the-garmin-f%C4%93nix-3-hr/f%C4%93nix-3-hr-a-non-destructive-teardown-bcfb45f1b746) |
 | fēnix 3                | 2015-01  | 1.4.0 | 2050 | MT3333  | - | F Tipi [teardown](http://www.f-blog.info/diving-inside-garmin-fenix-3-tear-down-etc/) + iFixit [teardown](https://www.ifixit.com/Guide/Garmin+Fenix+3+Motherboard+Replacement/113919) |
-| fēnix 2                | 2014-02  | -     | 1967 | MT333x  | - |                                                              |
+| fēnix 2                | 2014-02  | -     | 1967 | MT3333 | - |                                                              |
 | fēnix                  | 2012-07  | -     | 1551 | MT333x  | - |                                                              |
+
+The MT333x in watches prior to 2013 was likely to be the MT3339 or MT3337.
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
 

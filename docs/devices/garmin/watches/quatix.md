@@ -44,5 +44,7 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | quatix 3          | 2016-01  | 1.4.0 | ? | MT3333  | - |            |
 | quatix            | 2012-07  | -     | ? | MT333x  | - |            |
 
+The MT333x in watches prior to 2013 was likely to be the MT3339 or MT3337.
+
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
 
