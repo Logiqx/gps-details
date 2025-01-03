@@ -13,8 +13,8 @@ A short [article](https://www.airoha.com/products/p/VXKPfHI9iDCvsRWN) for ION GN
 The SIMCOM GNSS solutions [comparison](https://www.avnet.com/wps/wcm/connect/onesite/3a0ea576-cf1b-4a79-8479-5fff508b3c01/EBV-IoT+-+SIMCom+GNSS+Modules+Info+Sheet.pdf?MOD=AJPERES&CVID=nxzMVxi&CVID=nxvsTVu&srsltid=AfmBOopCaoUOA7bpMqRLKpTbZg2-YQLGgqttJoFp0sA4-TuMiJUObcdp) table provides some details on features:
 
 - AG3331 is single band for GPS / GLONASS / BeiDou / QZSS , but isn't used by Garmin or COROS.
-- [AG3335M](https://www.airoha.com/products/p/A0Dmm0pijWW3MScb) is multi-band (L1 + L5) but has no support the NavIC.
-- AG3335MN is single-band for GPS / GLONASS / Galileo / BeiDou / QZSS but it supports NavIC / IRNSS on L5.
+- [AG3335M](https://www.airoha.com/products/p/A0Dmm0pijWW3MScb) is multi-band (L1 + L5) for GPS / GLONASS / Galileo / BeiDou / QZSS / NavIC.
+- AG3335MN is single-band for GPS / GLONASS / Galileo / BeiDou / QZSS but it supports NavIC on L5.
 - [AG3352](https://www.airoha.com/products/p/zy4r082hgNywp1bg) is another single-band chip on the Airoha website, which could well be used in future watches.
 
 
