@@ -42,13 +42,16 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 |                         | tactix 7 - Pro Ballistics                 |     Y      |
 |                         | tactix 7 - Pro                            |     Y      |
 |                         | tactix 7                                  |     -      |
-| [Instinct](instinct.md) | Instinct 2X Solar - Tactical              |     Y      |
+| [Instinct](instinct.md) | Instinct 3 AMOLED - 45/50 mm \*           |     Y      |
+|                         | Instinct 3 Solar - 45/50 mm \*            |     Y      |
+|                         | Instinct E - 40/45 mm \*                  |     -      |
+|                         | Instinct 2X Solar - Tactical              |     Y      |
 |                         | Instinct 2X Solar                         |     Y      |
 |                         | Instinct Crossover Solar - Tactical \*    |     -      |
 |                         | Instinct Crossover Solar \*               |     -      |
 |                         | Instinct Crossover \*                     |     -      |
 
-Note \* - The Instinct Crossover is not supported by [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791).
+Note \* - The Instinct Crossover, Instinct 3 and Instinct E are not supported by [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791).
 
 
 
