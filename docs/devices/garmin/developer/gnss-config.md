@@ -127,11 +127,12 @@ Use the constellations parameter for Connect IQ 3.3.0.
 
 Use the configuration parameter for Connect IQ 3.4.0.
 
-| Watch         | GNSS Chipset   |   Config 1    |   Config 2   | Config 3      |
+| Watch         | GNSS Chipset   |   Config 1    |   Config 2   |   Config 3    |
 | ------------- | -------------- | :-----------: | :----------: | :-----------: |
 | fēnix 6       | Sony CXD5603GF | GPS + Galileo | GPS + BeiDou | GPS + GLONASS |
 | Forerunner 55 | Sony CXD56xxxx | GPS + Galileo | GPS + BeiDou | GPS + GLONASS |
 | Instinct 2    | Sony CXD56xxxx | GPS + Galileo | GPS + BeiDou | GPS + GLONASS |
+| Instinct 2X   | Airoha AG3335M |  Multi-Band   | All Systems  |       -       |
 
 
 
