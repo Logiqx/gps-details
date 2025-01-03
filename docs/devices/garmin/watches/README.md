@@ -20,36 +20,36 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 
 #### Rugged
 
-| Series                  | Model                                     | Multi-Band |
-| ----------------------- | ----------------------------------------- | :--------: |
-| [fēnix](fenix.md)       | fēnix E                                   |     -      |
-|                         | fēnix 8 - 47/51 mm - Sapphire Solar       |     Y      |
-|                         | fēnix 8 - 42/47/51 mm - AMOLED            |     Y      |
-|                         | fēnix 7/7S/7X - Pro Sapphire Solar        |     Y      |
-|                         | fēnix 7/7S/7X - Pro Solar                 |     Y      |
-|                         | fēnix 7/7S/7X - Sapphire Solar            |     Y      |
-|                         | fēnix 7/7S/7X - Solar                     |     -      |
-|                         | fēnix 7/7S                                |     -      |
-| [epix](epix.md)         | epix Pro (Gen 2) - Sapphire - 42/47/51 mm |     Y      |
-|                         | epix Pro (Gen 2) - 42/47/51 mm            |     Y      |
-|                         | epix (Gen 2) - Sapphire - 47 mm           |     Y      |
-|                         | epix (Gen 2) - 47 mm                      |     -      |
-| [quatix](quatix.md)     | quatix 7 - Pro                            |     Y      |
-|                         | quatix 7 - Sapphire                       |     Y      |
-|                         | quatix 7X - Solar                         |     -      |
-|                         | quatix 7                                  |     -      |
-| [tactix](tactix.md)     | tactix 7 - AMOLED                         |     Y      |
-|                         | tactix 7 - Pro Ballistics                 |     Y      |
-|                         | tactix 7 - Pro                            |     Y      |
-|                         | tactix 7                                  |     -      |
-| [Instinct](instinct.md) | Instinct 3 AMOLED - 45/50 mm \*           |     Y      |
-|                         | Instinct 3 Solar - 45/50 mm \*            |     Y      |
-|                         | Instinct E - 40/45 mm \*                  |     -      |
-|                         | Instinct 2X Solar - Tactical              |     Y      |
-|                         | Instinct 2X Solar                         |     Y      |
-|                         | Instinct Crossover Solar - Tactical \*    |     -      |
-|                         | Instinct Crossover Solar \*               |     -      |
-|                         | Instinct Crossover \*                     |     -      |
+| Series                  | Model                                  | Multi-Band |
+| ----------------------- | -------------------------------------- | :--------: |
+| [fēnix](fenix.md)       | fēnix E                                |     -      |
+|                         | fēnix 8 - Sapphire Solar               |     Y      |
+|                         | fēnix 8 - AMOLED                       |     Y      |
+|                         | fēnix 7/7S/7X - Pro Sapphire Solar     |     Y      |
+|                         | fēnix 7/7S/7X - Pro Solar              |     Y      |
+|                         | fēnix 7/7S/7X - Sapphire Solar         |     Y      |
+|                         | fēnix 7/7S/7X - Solar                  |     -      |
+|                         | fēnix 7/7S                             |     -      |
+| [epix](epix.md)         | epix Pro (Gen 2) - Sapphire            |     Y      |
+|                         | epix Pro (Gen 2)                       |     Y      |
+|                         | epix (Gen 2) - Sapphire                |     Y      |
+|                         | epix (Gen 2)                           |     -      |
+| [quatix](quatix.md)     | quatix 7 - Pro                         |     Y      |
+|                         | quatix 7 - Sapphire                    |     Y      |
+|                         | quatix 7X - Solar                      |     -      |
+|                         | quatix 7                               |     -      |
+| [tactix](tactix.md)     | tactix 7 - AMOLED                      |     Y      |
+|                         | tactix 7 - Pro Ballistics              |     Y      |
+|                         | tactix 7 - Pro                         |     Y      |
+|                         | tactix 7                               |     -      |
+| [Instinct](instinct.md) | Instinct 3 AMOLED \*                   |     Y      |
+|                         | Instinct 3 Solar \*                    |     Y      |
+|                         | Instinct E \*                          |     -      |
+|                         | Instinct 2X Solar - Tactical           |     Y      |
+|                         | Instinct 2X Solar                      |     Y      |
+|                         | Instinct Crossover Solar - Tactical \* |     -      |
+|                         | Instinct Crossover Solar \*            |     -      |
+|                         | Instinct Crossover \*                  |     -      |
 
 Note \* - The Instinct Crossover, Instinct 3 and Instinct E are not supported by [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791).
 
@@ -71,11 +71,11 @@ Note \* - The Instinct Crossover, Instinct 3 and Instinct E are not supported by
 
 #### Fitness / Fashion
 
-| Series                      | Model             | Multi-Band |
-| --------------------------- | ----------------- | :--------: |
-| [vívoactive](vivoactive.md) | vívoactive 5      |     -      |
-| [Venu](venu.md)             | Venu 3 / 3S       |     -      |
-|                             | Venu Sq 2 [Music] |     -      |
+| Series                      | Model        | Multi-Band |
+| --------------------------- | ------------ | :--------: |
+| [vívoactive](vivoactive.md) | vívoactive 5 |     -      |
+| [Venu](venu.md)             | Venu 3 / 3S  |     -      |
+|                             | Venu Sq 2    |     -      |
 
 
 
