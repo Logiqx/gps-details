@@ -4,7 +4,7 @@
 
 This page lists the GNSS chipsets that are used in the Garmin tactix watches.
 
-The tactix is similar to the Fenix, but with some additional military, tactical and aviation [features](https://www.garmin.com/en-GB/compare/?compareProduct=865945&compareProduct=802703).
+The tactix is similar to the 51 mm fēnix / epix, but with some additional military, tactical and aviation [features](https://www.garmin.com/en-GB/compare/?compareProduct=865945&compareProduct=802703).
 
 The various models are listed in reverse-chronological order. The release dates are generally from Garmin announcements.
 

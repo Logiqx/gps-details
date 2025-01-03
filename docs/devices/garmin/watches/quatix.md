@@ -27,8 +27,8 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
+| quatix 6X - Solar | 2020-05  | 3.4.x | ? | CXD56xxxx | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-3D8FCD7B-7C56-43A9-8665-5CDE4FFD7DF3/EN-US/GUID-31C5EBD6-A5E6-46FA-9EDE-43DBA4872546.html) |
 | quatix 6 - Titanium | 2020-04  | 3.4.x | ? | CXD56xxxx | ? | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-3D8FCD7B-7C56-43A9-8665-5CDE4FFD7DF3/EN-US/GUID-31C5EBD6-A5E6-46FA-9EDE-43DBA4872546.html) |
-| quatix 6X - Solar | 2020-04  | 3.4.x | ? | CXD56xxxx | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-3D8FCD7B-7C56-43A9-8665-5CDE4FFD7DF3/EN-US/GUID-31C5EBD6-A5E6-46FA-9EDE-43DBA4872546.html) |
 | quatix 6          | 2020-04  | 3.4.x | ? | CXD56xxxx | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-3D8FCD7B-7C56-43A9-8665-5CDE4FFD7DF3/EN-US/GUID-31C5EBD6-A5E6-46FA-9EDE-43DBA4872546.html) |
 
 Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets are available on another page.
