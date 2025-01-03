@@ -14,14 +14,16 @@ The various models are listed in reverse-chronological order. The release dates 
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| Instinct 3 AMOLED - 45/50 mm | 2025-01 |  |  | AG3335M |  |  |
-| Instinct 3 Solar - 45/50 mm | 2025-01 |  |  | AG3335M |  | DCR [review](https://www.dcrainmaker.com/2025/01/garmin-instinct-3-series-hands-on-everything-you-need-to-know.html) |
-| Instinct E - 40/45 mm | 2025-01 |  |  | AG3335MN |  |  |
+| Instinct 3 AMOLED - 45/50 mm | 2025-01 | ? | ? | AG3335M | - |  |
+| Instinct 3 Solar - 45/50 mm | 2025-01 | ? | ? | AG3335M | - | DCR [review](https://www.dcrainmaker.com/2025/01/garmin-instinct-3-series-hands-on-everything-you-need-to-know.html) |
+| Instinct E - 40/45 mm | 2025-01 | ? | ? | AG3335MN ? | - |  |
 | Instinct 2X Solar - Tactical | 2023-04 | 3.4.0 | 4394 | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-31D23DBB-57C2-4DF7-A0C9-8D1A00AB4BE7/EN-US/GUID-7778C63A-5928-4315-B25B-3DA9B3E467B6.html) |
 | Instinct 2X Solar | 2023-04 | 3.4.0 | 4394 | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-31D23DBB-57C2-4DF7-A0C9-8D1A00AB4BE7/EN-US/GUID-7778C63A-5928-4315-B25B-3DA9B3E467B6.html) + DCR [review](https://www.dcrainmaker.com/2023/04/garmin-instinct-2x-in-depth-review-bigger-and-flashlight-equipped.html) |
 | Instinct Crossover Solar - Tactical | 2022-11  | 3.4.0 | 4155 | AG3335MN | - |                                                              |
 | Instinct Crossover Solar   | 2022-11  | 3.4.0 | 4155 | AG3335MN | - |  |
 | Instinct Crossover | 2022-11 | 3.4.0 | 4155 | AG3335MN | - | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-64328278-25D1-45C2-BF05-6EC0CFD000D0/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+
+? - single band so could be AG3335MN or AG3352.
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
