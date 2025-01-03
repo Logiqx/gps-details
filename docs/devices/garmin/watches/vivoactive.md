@@ -35,7 +35,7 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
 | vívoactive 3 Mercedes-Benz | 2019-03 | 3.0.0 | 3473 | MT3333 | - |  |
-| vívoactive 3 Music LTE | 2019-02  | 3.1.0 | 3066 | MT3333  | ? |                                                              |
+| vívoactive 3 Music LTE | 2019-02  | 3.1.0 | 3066 | MT3333  | Y |                                                              |
 | vívoactive 3 Music     | 2018-06  | 3.2.0 | 2988, 3163 | MT3333  | Y |                                                              |
 | vívoactive 3           | 2017-09  | 3.1.0 | 2700 | MT3333  | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/vivoactive3/EN-US/GUID-A8048FBA-ABB9-4786-B888-303A20574D68.html) + DCR [article](https://www.dcrainmaker.com/2017/08/garmin-vivoactive-3-everything-you-need-to-know.html) |
 | vívoactive HR          | 2016-02  | 2.4.0 | 2337, 2497 | MT3333  | - | Garmin [manual](https://www8.garmin.com/manuals/webhelp/vivoactivehr/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2016/05/garmin-vivoactivehr-review.html) |
