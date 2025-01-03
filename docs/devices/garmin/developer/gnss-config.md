@@ -90,7 +90,7 @@ function startLocationEvents() {
 
 #### API Level 3.1.0
 
-There is now mechanism to choose the GNSS configuration with Connect IQ 3.1.0.
+There is no mechanism to choose the GNSS configuration with Connect IQ 3.1.0.
 
 | Watch          | GNSS Chipset    | Default | Alternative |
 | -------------- | --------------- | :-----: | :---------: |
