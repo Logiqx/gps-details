@@ -34,11 +34,11 @@ function startLocationEvents() {
 
     // Use configuration parameter for Connect IQ 3.3.6 and later (e.g. fēnix 6)
     if (Position has :hasConfigurationSupport) {
-        // GPS L1 + L5, GLONASS, Galileo E1 + E5a, and BeiDou B1I + B2a (e.g. fēnix 7 Pro)
+        // GPS L1 + L5, GLONASS, Galileo E1 + E5a, and BeiDou B1I + B2a (e.g. Forerunner 255)
         if (Position has :CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1_L5) &&
               (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1_L5)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1_L5;
-        // GPS L1, GLONASS, Galileo E1, and BeiDou B1I (e.g. fēnix 7)
+        // GPS L1, GLONASS, Galileo E1, and BeiDou B1I (e.g. vívoactive 5)
         } else if (Position has :CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1) &&
               (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1;
@@ -46,15 +46,15 @@ function startLocationEvents() {
         } else if (Position has :CONFIGURATION_GPS_GALILEO) &&
               (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GALILEO)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GALILEO;
-        // GPS L1 and BeiDou B1I - May be used in the simulator (e.g. fēnix 6)
+        // GPS L1 and BeiDou B1I
         } else if (Position has :CONFIGURATION_GPS_BEIDOU) &&
               (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_BEIDOU)) {
             options[:configuration] = Position.CONFIGURATION_GPS_BEIDOU;
-        // GPS L1 and GLONASS - Applicability TBC
+        // GPS L1 and GLONASS
         } else if (Position has :CONFIGURATION_GPS_GLONASS) &&
               (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GLONASS)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GLONASS;
-        // GPS L1 - Theoretically redundant on watches supporting Connect IQ 3.3.6
+        // GPS L1 - Theoretically redundant
         } else if (Position has :CONFIGURATION_GPS) &&
               (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS)) {
             options[:configuration] = Position.CONFIGURATION_GPS;
@@ -134,6 +134,8 @@ Use the configuration parameter for Connect IQ 3.4.0.
 | Instinct 2    | Sony CXD56xxxx | GPS + Galileo | GPS + BeiDou | GPS + GLONASS |
 | Instinct 2X   | Airoha AG3335M |  Multi-Band   | All Systems  |       -       |
 
+Note: The GPS + Galileo configuration may be skipped in the simulator, resulting in GPS + BeiDou being chosen.
+
 
 
 #### API Level 5.0.0
@@ -146,3 +148,4 @@ Use the configuration parameter for Connect IQ 5.0.0.
 | Forerunner 255 | Airoha AG3335M  | Multi-Band  | All Systems |
 | vívoactive 5   | Airoha AG3335MN | All Systems |      -      |
 
+Note: The fēnix 7 Pro may skip multi-band / all systems in the simulator, resulting in GPS + Galileo being chosen.
