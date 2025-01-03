@@ -113,6 +113,17 @@ The following Garmin activity profiles are NOT suitable:
 
 
 
+### Important Settings
+
+- Use the best possible GNSS setting.
+  - Airoha - All Systems + Multi-Band > All Systems > Standard GPS
+  - Sony - GPS + Galileo > GPS + BeiDou > GPS + GLONASS > Standard GPS
+  - MediaTek - GPS + Galileo > GPS + GLONASS > Standard GPS
+- Use recording frequency of "every second".
+- Ensure phone is automatically updating its time from the network.
+
+
+
 ### Watch Specifications
 
 #### Popular Watches
