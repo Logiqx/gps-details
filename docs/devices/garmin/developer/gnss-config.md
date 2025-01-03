@@ -92,11 +92,11 @@ function startLocationEvents() {
 
 There is no mechanism to choose the GNSS configuration with Connect IQ 3.1.0.
 
-| Watch          | GNSS Chipset    | Default | Alternative |
-| -------------- | --------------- | :-----: | :---------: |
-| fēnix 5        | MediaTek MT3333 |   GPS   |      -      |
-| Forerunner 645 | MediaTek MT3333 |   GPS   |      -      |
-| vívoactive 3   | MediaTek MT3333 |   GPS   |      =      |
+| Watch          | GNSS Chipset    | Config |
+| -------------- | --------------- | :----: |
+| fēnix 5        | MediaTek MT3333 |  GPS   |
+| Forerunner 645 | MediaTek MT3333 |  GPS   |
+| vívoactive 3   | MediaTek MT3333 |  GPS   |
 
 
 
@@ -104,7 +104,7 @@ There is no mechanism to choose the GNSS configuration with Connect IQ 3.1.0.
 
 Use the constellations parameter for Connect IQ 3.2.0.
 
-| Watch                | GNSS Chipset    |    Default    |  Alternative  |
+| Watch                | GNSS Chipset    |   Config 1    |   Config 2    |
 | -------------------- | --------------- | :-----------: | :-----------: |
 | Forerunner 645 Music | MediaTek MT3333 | GPS + Galileo | GPS + GLONASS |
 | vívoactive 3 Music   | MediaTek MT3333 | GPS + Galileo | GPS + GLONASS |
@@ -115,7 +115,7 @@ Use the constellations parameter for Connect IQ 3.2.0.
 
 Use the constellations parameter for Connect IQ 3.3.0.
 
-| Watch          | GNSS Chipset    |    Default    |  Alternative  |
+| Watch          | GNSS Chipset    |   Config 1    |   Config 2    |
 | -------------- | --------------- | :-----------: | :-----------: |
 | fēnix 5 Plus   | MediaTek MT3333 | GPS + Galileo | GPS + GLONASS |
 | Forerunner 245 | Sony CXD5603GF  | GPS + Galileo | GPS + GLONASS |
@@ -127,11 +127,11 @@ Use the constellations parameter for Connect IQ 3.3.0.
 
 Use the configuration parameter for Connect IQ 3.4.0.
 
-| Watch         | GNSS Chipset   |    Default    |  Alternative  |
-| ------------- | -------------- | :-----------: | :-----------: |
-| fēnix 6       | Sony CXD5603GF | GPS + Galileo | GPS + GLONASS |
-| Forerunner 55 | Sony CXD56xxxx | GPS + Galileo | GPS + GLONASS |
-| Instinct 2    | Sony CXD56xxxx | GPS + Galileo | GPS + GLONASS |
+| Watch         | GNSS Chipset   |   Config 1    |   Config 2   | Config 3      |
+| ------------- | -------------- | :-----------: | :----------: | :-----------: |
+| fēnix 6       | Sony CXD5603GF | GPS + Galileo | GPS + BeiDou | GPS + GLONASS |
+| Forerunner 55 | Sony CXD56xxxx | GPS + Galileo | GPS + BeiDou | GPS + GLONASS |
+| Instinct 2    | Sony CXD56xxxx | GPS + Galileo | GPS + BeiDou | GPS + GLONASS |
 
 
 
@@ -139,7 +139,7 @@ Use the configuration parameter for Connect IQ 3.4.0.
 
 Use the configuration parameter for Connect IQ 5.0.0.
 
-| Watch          | GNSS Chipset    |   Default   | Alternative |
+| Watch          | GNSS Chipset    |  Config 1   |  Config 2   |
 | -------------- | --------------- | :---------: | :---------: |
 | fēnix 7 Pro    | Airoha AG3335M  | Multi-Band  | All Systems |
 | Forerunner 255 | Airoha AG3335M  | Multi-Band  | All Systems |
