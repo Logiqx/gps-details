@@ -32,7 +32,7 @@ function startLocationEvents() {
         :acquisitionType => Position.LOCATION_CONTINUOUS
     };
 
-    // Use configuration parameter for ConnectIQ 3.3.6 and later (e.g. fēnix 6)
+    // Use configuration parameter for Connect IQ 3.3.6 and later (e.g. fēnix 6)
     if (Position has :hasConfigurationSupport) {
         // GPS L1 + L5, GLONASS, Galileo E1 + E5a, and BeiDou B1I + B2a (e.g. fēnix 7 Pro)
         if (Position has :CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1_L5) &&
@@ -54,14 +54,14 @@ function startLocationEvents() {
         } else if (Position has :CONFIGURATION_GPS_GLONASS) &&
               (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GLONASS)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GLONASS;
-        // GPS L1 - Theoretically redundant on watches supporting ConnectIQ 3.3.6
+        // GPS L1 - Theoretically redundant on watches supporting Connect IQ 3.3.6
         } else if (Position has :CONFIGURATION_GPS) &&
               (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS)) {
             options[:configuration] = Position.CONFIGURATION_GPS;
         }
         started = startUpdates(options)
     }
-    // Use constellations parameter for ConnectIQ 3.2.0 to 3.3.5 (e.g. vívoactive 4)
+    // Use constellations parameter for Connect IQ 3.2.0 to 3.3.5 (e.g. vívoactive 4)
     else {
         // GPS L1 and Galileo E1
         if (Position has :CONSTELLATION_GALILEO {
@@ -74,7 +74,7 @@ function startLocationEvents() {
         started = startUpdates(options)
     }
     
-    // Use standard GPS with versions prior to ConnectIQ 3.2.0
+    // Use standard GPS with versions prior to Connect IQ 3.2.0
     if (!started) {
         options = Position.LOCATION_CONTINUOUS;
         started = startUpdates(options)
@@ -83,4 +83,65 @@ function startLocationEvents() {
     return started;            
 }
 ```
+
+
+
+### Test Cases
+
+#### API Level 3.1.0
+
+There is now mechanism to choose the GNSS configuration with Connect IQ 3.1.0.
+
+| Watch          | GNSS Chipset    | Default | Alternative |
+| -------------- | --------------- | :-----: | :---------: |
+| fēnix 5        | MediaTek MT3333 |   GPS   |      -      |
+| Forerunner 645 | MediaTek MT3333 |   GPS   |      -      |
+| vívoactive 3   | MediaTek MT3333 |   GPS   |      =      |
+
+
+
+#### API Level 3.2.0
+
+Use the constellations parameter for Connect IQ 3.2.0.
+
+| Watch                | GNSS Chipset    |    Default    |  Alternative  |
+| -------------------- | --------------- | :-----------: | :-----------: |
+| Forerunner 645 Music | MediaTek MT3333 | GPS + Galileo | GPS + GLONASS |
+| vívoactive 3 Music   | MediaTek MT3333 | GPS + Galileo | GPS + GLONASS |
+
+
+
+#### API Level 3.3.0
+
+Use the constellations parameter for Connect IQ 3.3.0.
+
+| Watch          | GNSS Chipset    |    Default    |  Alternative  |
+| -------------- | --------------- | :-----------: | :-----------: |
+| fēnix 5 Plus   | MediaTek MT3333 | GPS + Galileo | GPS + GLONASS |
+| Forerunner 245 | Sony CXD5603GF  | GPS + Galileo | GPS + GLONASS |
+| vívoactive 4   | Sony CXD5603GF  | GPS + Galileo | GPS + GLONASS |
+
+
+
+#### API Level 3.4.0
+
+Use the configuration parameter for Connect IQ 3.4.0.
+
+| Watch         | GNSS Chipset   |    Default    |  Alternative  |
+| ------------- | -------------- | :-----------: | :-----------: |
+| fēnix 6       | Sony CXD5603GF | GPS + Galileo | GPS + GLONASS |
+| Forerunner 55 | Sony CXD56xxxx | GPS + Galileo | GPS + GLONASS |
+| Instinct 2    | Sony CXD56xxxx | GPS + Galileo | GPS + GLONASS |
+
+
+
+#### API Level 5.0.0
+
+Use the configuration parameter for Connect IQ 5.0.0.
+
+| Watch          | GNSS Chipset    |   Default   | Alternative |
+| -------------- | --------------- | :---------: | :---------: |
+| fēnix 7 Pro    | Airoha AG3335M  | Multi-Band  | All Systems |
+| Forerunner 255 | Airoha AG3335M  | Multi-Band  | All Systems |
+| vívoactive 5   | Airoha AG3335MN | All Systems |      -      |
 
