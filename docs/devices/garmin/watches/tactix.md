@@ -14,10 +14,10 @@ The various models are listed in reverse-chronological order. The release dates 
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| tactix 7 - AMOLED | 2023-09 | 5.0.x | ? | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + [unveiling](https://www.garmin.com/en-US/newsroom/press-release/outdoor/garmin-unveils-tactix-7-amoled-edition-mission-ready-in-the-brightest-day-or-darkest-night/) |
-| tactix 7 - Pro Ballistics | 2022-04 | 5.0.x | ? | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-| tactix 7 - Pro | 2022-04 | 5.0.x | ? | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-| tactix 7 | 2022-04 | 5.0.x | 4135 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| tactix 7 - AMOLED | 2023-09 | 5.0.0 | ? | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + [unveiling](https://www.garmin.com/en-US/newsroom/press-release/outdoor/garmin-unveils-tactix-7-amoled-edition-mission-ready-in-the-brightest-day-or-darkest-night/) |
+| tactix 7 - Pro Ballistics | 2022-04 | 5.0.0 | ? | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| tactix 7 - Pro | 2022-04 | 5.0.0 | ? | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| tactix 7 | 2022-04 | 5.0.0 | 4135 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
@@ -27,9 +27,9 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| tactix Delta - Sapphire            | 2020-01  | 3.4.x | ? | CXD56xxxx | Y |            |
-| tactix Delta - Solar with Ballistics | 2020-01  | 3.4.x | ? | CXD56xxxx | Y |            |
-| tactix Delta - Solar               | 2020-01  | 3.4.x | ? | CXD56xxxx | Y |            |
+| tactix Delta - Sapphire            | 2020-01  | 3.4.0 | ? | CXD56xxxx | Y |            |
+| tactix Delta - Solar with Ballistics | 2020-01  | 3.4.0 | ? | CXD56xxxx | Y |            |
+| tactix Delta - Solar               | 2020-01  | 3.4.0 | ? | CXD56xxxx | Y |            |
 
 Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets are available on another page.
 
@@ -39,8 +39,8 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| tactix Charlie | 2018-03  | 3.1.x | ? | MT3333  | Y |                                                              |
-| tactix Bravo   | 2016-01  | 1.4.x | ? | MT3333  | - | DCR [explainer](https://www.dcrainmaker.com/2016/01/garmins-tactix-bravo.html) |
+| tactix Charlie | 2018-03  | 3.1.0 | ? | MT3333  | Y |                                                              |
+| tactix Bravo   | 2016-01  | 1.4.0 | ? | MT3333  | - | DCR [explainer](https://www.dcrainmaker.com/2016/01/garmins-tactix-bravo.html) |
 | tactix         | 2013-10  | -     | ? | MT333x  | - | DCR [review](https://www.dcrainmaker.com/2013/10/garmin-tactix-review.html) |
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
