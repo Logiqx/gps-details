@@ -52,7 +52,7 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | fēnix 5 / 5S / 5X Plus | 2018-06  | 3.3.0 | 3110, 2900, 3111 | MT3333  | Y | EDN [teardown](https://www.edn.com/teardown-a-smartwatch-with-an-athletic-tradition/) |
 | fēnix 5 / 5S / 5X      | 2017-01  | 3.1.0 | 2697, 2544, 2604 | MT3333  | Y | F Tipi [teardown](http://www.f-blog.info/garmin-fenix-5x-inner-parts-teardown-disassembly-assembly-etc-no-disassemble/) |
 | fēnix Chronos          | 2016-08  | 3.1.0 | 2432 | MT3333  | Y | DCR [review](https://www.dcrainmaker.com/2016/08/garmin-chronos-details.html) |
-| fēnix 3 HR             | 2016-01  | 1.4.0 | 2413 | MT3333  | - |                                                              |
+| fēnix 3 HR             | 2016-01  | 1.4.0 | 2413 | MT3333  | - | Red Turtle [teardown](https://medium.com/personal-notes-on-the-garmin-f%C4%93nix-3-hr/f%C4%93nix-3-hr-a-non-destructive-teardown-bcfb45f1b746) |
 | fēnix 3                | 2015-01  | 1.4.0 | 2050 | MT3333  | - | F Tipi [teardown](http://www.f-blog.info/diving-inside-garmin-fenix-3-tear-down-etc/) + iFixit [teardown](https://www.ifixit.com/Guide/Garmin+Fenix+3+Motherboard+Replacement/113919) |
 | fēnix 2                | 2014-02  | -     | 1967 | MT333x  | - |                                                              |
 | fēnix                  | 2012-07  | -     | 1551 | MT333x  | - |                                                              |

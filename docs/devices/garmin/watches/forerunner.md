@@ -61,15 +61,15 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | Forerunner 35               | 2016-08 | - |  | MT3333 | - |  |
 | Forerunner 735XT            | 2016-05 | 2.4.0 |  | MT3333 | - | iFixit [teardown](https://www.ifixit.com/Teardown/Garmin+Forerunner+735XT+Teardown/117852) |
 | Forerunner 630              | 2015-10 | 1.4.0 |  | MT3333 | - | Tech T [teardown](https://youtu.be/WdbPKmjUrKc?t=114) |
-| Forerunner 235        | 2015-10 | 1.4.0 |  | MT3333 | - | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
+| Forerunner 235        | 2015-10 | 1.4.0 |  | MT3333 | - |  |
 | Forerunner 230 | 2015-10 | 1.4.0 |  | MT3333 | - | Embedded [teardown](https://embeddedcomputing.com/27555-tear-down-garmin-forerunner-230-gps-running-watch/) |
 | Forerunner 25               | 2015-08 | - |  | MT333x | - |  |
-| Forerunner 225              | 2015-05 | - |  | MT333x | - | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
+| Forerunner 225              | 2015-05 | - |  | MT3333 | - |                                                              |
 | Forerunner 920XT            | 2014-10 | 1.4.0 |  | MT3333 | - |  |
 | Forerunner 15               | 2014-05 | - |  | MT333x | - |  |
-| Forerunner 620              | 2013-09 | - |  | MT333x | - | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
+| Forerunner 620              | 2013-09 | - |  | MT3333 | - |                                                              |
 | Forerunner 220              | 2013-09 | - |  | MT3333 | - | EE World [teardown](https://www.eeworldonline.com/teardown-garmin-forerunner-220-sport-watch-heart-monitor/) |
-| Forerunner 10    | 2012-08 | - |  | MT333x | - | [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) |
+| Forerunner 10    | 2012-08 | - |  | MT333x | - |  |
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
 
@@ -85,14 +85,14 @@ Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chi
 | Forerunner 610   | 2011-04 | - |  | SiRFstarIV | - | DCR [review](https://www.dcrainmaker.com/2011/04/garmin-forerunner-610-in-depth-review.html) |
 | Forerunner 410   | 2010-10 | - |  | SiRFstarIV | - |  |
 | Forerunner 210   | 2010-10 | - |  | SiRFstarIV | - |  |
-| Forerunner 110   | 2010-03 | - |  | SiRFstarIV | - |  |
+| Forerunner 110   | 2010-03 | - |  | SiRFstarIV | - | DCR [review](https://www.dcrainmaker.com/2010/03/garmin-forerunner-110-first-look-review.html) |
 | Forerunner 405CX | 2009-04 | - |  | SiRFstarIII ? | - |  |
 | Forerunner 310XT | 2009-04 | - |  | SiRFstarIII ? | - |  |
 | Forerunner 60    | 2009-01 | - |  | SiRFstarIII ? | - |  |
 | Forerunner 405   | 2008-01 | - |  | SiRFstarIII | - |  |
 | Forerunner 50    | 2007-08 | - |  | SiRFstarIII | - |  |
-| Forerunner 305   | 2006-01 | - |  | SiRFstarIII | - | [Wikipedia](https://en.wikipedia.org/wiki/Garmin_Forerunner#Models) |
-| Forerunner 205   | 2006-01 | - |  | SiRFstarIII | - | [Wikipedia](https://en.wikipedia.org/wiki/Garmin_Forerunner#Models) |
+| Forerunner 305   | 2006-01 | - |  | SiRFstarIII | - | Garmin [manual](https://static.garmin.com/pumac/984_OwnersManual.pdf) |
+| Forerunner 205   | 2006-01 | - |  | SiRFstarIII | - | Garmin [manual](https://static.garmin.com/pumac/984_OwnersManual.pdf) |
 | Forerunner 301   | 2005-01 | - |  | SiRFstarII | - |  |
 | Forerunner 201   | 2003-08 | - |  | SiRFstarII | - |  |
 | Forerunner 101   | 2003-03 | - |  | SiRFstarII | - |  |
