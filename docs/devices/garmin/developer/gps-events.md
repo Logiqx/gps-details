@@ -20,8 +20,11 @@ Least significant byte:
 GPS L1
 00000001
 
-GLONASS, Galileo E1, BeiDou B1I
-11000010
+GLONASS
+00000010
+
+Galileo E1, BeiDou B1I
+11000000
 
 QZSS L1
 00010000
@@ -46,70 +49,36 @@ Unknown / Unused
 ??----?-
 ```
 
-n.b. Garmin activities always have an additional bit set when compared to Connect IQ apps, which is presumed to be QZSS.
-
 
 
 ### GPS Only
 
-#### Connect IQ Apps
-
-GPS L1
-
-| App            | Dec  | Bin               |
-| -------------- | ---- | ----------------- |
-| APPro + Hoolan | 1    | 00000000 00000001 |
-
-#### Garmin Activities
-
-GPS L1, QZSS L1
-
-| Satellites Setting  | Dec  | Bin               |
-| ------------------- | ---- | ----------------- |
-| GPS Only            | 17   | 00000000 00010001 |
-| SatIQ - Auto Select | 273  | 00000001 00010001 |
+| Satellites Setting      | Dec  | Bin               |
+| ----------------------- | ---- | ----------------- |
+| GPS L1                  | 1    | 00000000 00000001 |
+| GPS L1, QZSS L1         | 17   | 00000000 00010001 |
+| SatIQ - GPS L1, QZSS L1 | 273  | 00000001 00010001 |
 
 
 
 ### All Systems
 
-#### Connect IQ Apps
-
-GPS L1, GLONASS, Galileo E1, BeiDou B1I
-
-| App            | Dec  | Bin               |
-| -------------- | ---- | ----------------- |
-| APPro + Hoolan | 195  | 00000000 11000011 |
-
-#### Garmin Activities
-
-GPS L1, QZSS L1, GLONASS, Galileo E1, BeiDou B1I
-
-| Satellites Setting  | Dec  | Bin               |
-| ------------------- | ---- | ----------------- |
-| All Systems         | 211  | 00000000 11010011 |
-| SatIQ - Auto Select | 467  | 00000001 11010011 |
+| Satellites Setting                                       | Dec  | Bin               |
+| -------------------------------------------------------- | ---- | ----------------- |
+| GPS L1, GLONASS, Galileo E1, BeiDou B1I                  | 195  | 00000000 11000011 |
+| GPS L1, QZSS L1, GLONASS, Galileo E1, BeiDou B1I         | 211  | 00000000 11010011 |
+| SatIQ - GPS L1, QZSS L1, GLONASS, Galileo E1, BeiDou B1I | 467  | 00000001 11010011 |
 
 
 
 ### All + Multi-Band
 
-#### Connect IQ Apps
-
-GPS L1 + L5, GLONASS, Galileo E1 + E5a, BeiDou B1I + B2a
-
-| App                          | Dec  | Bin               |
-| ---------------------------- | ---- | ----------------- |
-| APPro + Hoolan + Windsurfing | 7363 | 00011100 11000011 |
-
-#### Garmin Activities
-
-GPS L1 + L5, QZSS L1 + L5, GLONASS, Galileo E1 + E5a, BeiDou B1I + B2a
-
-| Satellites Setting  | Dec   | Bin               |
-| ------------------- | ----- | ----------------- |
-| All + Multi-Band    | 15571 | 00111100 11010011 |
-| SatIQ - Auto Select | 15827 | 00111101 11010011 |
+| Satellites Setting                                           | Dec   | Bin               |
+| ------------------------------------------------------------ | ----- | ----------------- |
+| GPS L1+L5, GLONASS, Galileo E1+E5a, BeiDou B1I+B2a | 7363 | 00011100 11000011 |
+| GPS L1+L5, QZSS L1+L5, GLONASS, Galileo E1+E5a, BeiDou B1I+B2a | 15571 | 00111100 11010011 |
+| GPS L1+L5, QZSS L1+L5, GLONASS, Galileo E1+E5a, BeiDou B1I+B2a, MYSTERY | 16083 | 00111110 11010011 |
+| SatIQ - GPS L1+L5, QZSS L1+L5, GLONASS, Galileo E1+E5a, BeiDou B1I+B2a | 15827 | 00111101 11010011 |
 
 
 
