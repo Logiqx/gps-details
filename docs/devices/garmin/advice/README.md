@@ -55,7 +55,7 @@ Link to my chipset details.
 
 Activity profiles / applications
 - Windsurfing activity - not available on Forerunner
-- Windsurfing application, APPro Windsurf, GPSTC V4
+- APPro Windsurf, GPSTC V4
 - I've reviewed every other application
 
 Things to consider:
@@ -176,7 +176,7 @@ IMPORTANT - Application will select the activity profile and satellite settings
   - Activity type = other / windsurfing / kitesurfing
   - Satellite settings = all systems, GPS + Galileo, or GPS + GLONASS
 - Apps / data fields
-  - Windsurfing application, APPro Windsurf, GPSTC V4
+  - APPro Windsurf, GPSTC V4
   - Windsurf PRO and Any Sport PRO do not support all systems
 
 APPro
@@ -244,7 +244,7 @@ Built in activities
 
 Recommended applications
 
-- Windsurfing application, APPro Windsurf, GPSTC V4
+- APPro Windsurf, GPSTC V4
 - Mention
   - Windsurfing - older devices
   - Lots of people use JMG-APP Wind-Kite Pro (does wingfoil), 

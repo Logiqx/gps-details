@@ -4,8 +4,8 @@
 
 The vast majority of my testing has been on the Forerunner 255.
 
-- Windsurfing Application - windsurf activity profile, multi-band.
 - APPro Windsurf -  windsurf activity profile, all systems and multi-band.
+- Windsurfing Application - windsurf activity profile, multi-band.
 - GPSTC - generic activity profile (aka "other"), all systems and multi-band.
 
 Just recently, I have also tested the following devices:

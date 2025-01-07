@@ -2,7 +2,7 @@
 
 ### Overview
 
-I looked at every windsurfing-related app and datafield on the Connect IQ store, but settled on the following:
+I looked at every windsurfing-related app and datafield on the Connect IQ store, but focused on the following:
 
 - [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) by Scott Simms
   - This app supports windsurf and kitesurf activity profiles, plus multi-band.
