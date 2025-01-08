@@ -19,10 +19,12 @@ Least significant byte:
 ```
 00000001 = GPS L1
 00000010 = GLONASS
+-----?-- = Unknown
+----?--- = Unknown
 00010000 = QZSS L1
+--?----- = Unknown
 01000000 = Galileo E1
 10000000 = BeiDou B1I
---?-??-- = Unknown / Unused
 ```
 
 Most significant byte:
