@@ -1,5 +1,11 @@
 ## Garmin Review
 
+Author: Michael George
+
+Created: 19 Dec 2024
+
+
+
 ### Introduction
 
 During 2024, I have been reviewing the performance of Garmin watches and their suitability for wind sports.

@@ -17,36 +17,22 @@ It is possible to determine what the various bits represent based on various tes
 Least significant byte:
 
 ```
-GPS L1
-00000001
-
-GLONASS
-00000010
-
-Galileo E1, BeiDou B1I
-11000000
-
-QZSS L1
-00010000
-
-Unknown / Unused
---?-??--
+00000001 = GPS L1
+00000010 = GLONASS
+00010000 = QZSS L1
+01000000 = Galileo E1
+10000000 = BeiDou B1I
+--?-??-- = Unknown / Unused
 ```
 
 Most significant byte:
 
 ```
-GPS L5, Galileo E5a, BeiDou B2a
-00011100
-
-QZSS L5
-00100000
-
-SatIQ - Auto Select
-00000001
-
-Unknown / Unused
-??----?-
+00000001 = SatIQ - Auto Select
+------?- = Unknown
+00011100 = GPS L5, Galileo E5a, BeiDou B2a
+00100000 = QZSS L5
+??------ = Unknown / Unused
 ```
 
 
@@ -61,10 +47,11 @@ Unknown / Unused
 
 
 
-### All Systems
+### Multi-GNSS
 
 | Satellites Setting                                       | Dec  | Bin               |
 | -------------------------------------------------------- | ---- | ----------------- |
+| GPS L1, Galileo E1                                       | 65   | 00000000 01000001 |
 | GPS L1, GLONASS, Galileo E1, BeiDou B1I                  | 195  | 00000000 11000011 |
 | GPS L1, QZSS L1, GLONASS, Galileo E1, BeiDou B1I         | 211  | 00000000 11010011 |
 | SatIQ - GPS L1, QZSS L1, GLONASS, Galileo E1, BeiDou B1I | 467  | 00000001 11010011 |
