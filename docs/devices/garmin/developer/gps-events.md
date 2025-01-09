@@ -41,7 +41,9 @@ Most significant byte:
 
 
 
-### GPS Only
+### Examples
+
+#### GPS Only
 
 | Satellites                   | Dec  | Bin               |
 | ---------------------------- | ---- | ----------------- |
@@ -53,7 +55,7 @@ Most significant byte:
 
 
 
-### Dual Systems
+#### Dual Systems
 
 | Satellites         | Dec  | Bin               |
 | ------------------ | ---- | ----------------- |
@@ -61,7 +63,7 @@ Most significant byte:
 
 
 
-### All Systems
+#### All Systems
 
 | Satellites                                                 | Dec  | Bin               |
 | ---------------------------------------------------------- | ---- | ----------------- |
@@ -71,7 +73,7 @@ Most significant byte:
 
 
 
-### All Systems + Multi-Band
+#### All Systems + Multi-Band
 
 | Satellites                                           | Dec   | Bin               |
 | ------------------------------------------------------------ | ----- | ----------------- |
@@ -82,7 +84,7 @@ Most significant byte:
 
 
 
-### Determining the GPS mode
+### Interpretation
 
 Simple test for all systems, with or without multi-band:
 
@@ -98,7 +100,7 @@ mode & 0x1cc3 == 0x1cc3
 
 
 
-### SatIQ - Auto Select
+### SatIQ
 
 The Garmin description:
 
