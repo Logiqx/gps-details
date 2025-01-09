@@ -32,10 +32,12 @@ Most significant byte:
 ```
 00000001 = SatIQ - Auto Select
 ------?- = Unknown
-00011100 = GPS L5, Galileo E5a, BeiDou B2a
+00011100 = GPS L5, Galileo E5a, BeiDou B2a \*
 00100000 = QZSS L5
 ??------ = Unknown / Unused
 ```
+
+\* The order of GPS L5, Galileo E5a, BeiDou B2a is yet to be determined.
 
 
 
