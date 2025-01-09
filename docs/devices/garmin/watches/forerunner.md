@@ -42,7 +42,7 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 | Forerunner 45 Plus | 2020-08 | 1.4.0 | 3469 | CXD56xxxx | - | |
 | Forerunner 45 / 45S | 2019-04 | 1.4.0 | 3469 | CXD5603GF | - |  |
 | Forerunner 945 (Asia) | 2019-04 | 3.3.0 | 3441 | CXD5603GF | Y | |
-| Forerunner 245 Music | 2019-04 | 3.3.0 | 3321 | CXD5603GF | Y | iFixit [teardown](https://www.ifixit.com/Teardown/Garmin+Forerunner+245+Music+Teardown/150396?srsltid=AfmBOoqg114zv10EakWr_a1-HPvIx9ZS2-FD9lbg5X57jVdyvS60z2Vz) |
+| Forerunner 245 Music | 2019-04 | 3.3.0 | 3321 | CXD5603GF | Y | iFixit [teardown](https://www.ifixit.com/Teardown/Garmin+Forerunner+245+Music+Teardown/150396) |
 | Forerunner 245 | 2019-04 | 3.3.0 | 3145 | CXD5603GF | Y |  |
 | Forerunner 945       | 2019-04 | 3.3.0 | 3113 | CXD5603GF | Y |            |
 
