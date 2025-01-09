@@ -41,7 +41,7 @@ Most significant byte:
 
 ### GPS Only
 
-| Satellites Setting           | Dec  | Bin               |
+| Satellites                   | Dec  | Bin               |
 | ---------------------------- | ---- | ----------------- |
 | GPS L1                       | 1    | 00000000 00000001 |
 | GPS L1, QZSS L1              | 17   | 00000000 00010001 |
@@ -53,15 +53,15 @@ Most significant byte:
 
 ### Dual Systems
 
-| Satellites Setting                                       | Dec  | Bin               |
-| -------------------------------------------------------- | ---- | ----------------- |
-| GPS L1, Galileo E1                                       | 65   | 00000000 01000001 |
+| Satellites         | Dec  | Bin               |
+| ------------------ | ---- | ----------------- |
+| GPS L1, Galileo E1 | 65   | 00000000 01000001 |
 
 
 
 ### All Systems
 
-| Satellites Setting                                         | Dec  | Bin               |
+| Satellites                                                 | Dec  | Bin               |
 | ---------------------------------------------------------- | ---- | ----------------- |
 | GPS L1, GLONASS, Galileo E1, BeiDou B1I                    | 195  | 00000000 11000011 |
 | GPS L1, QZSS L1, GLONASS, Galileo E1, BeiDou B1I           | 211  | 00000000 11010011 |
@@ -71,7 +71,7 @@ Most significant byte:
 
 ### All Systems + Multi-Band
 
-| Satellites Setting                                           | Dec   | Bin               |
+| Satellites                                           | Dec   | Bin               |
 | ------------------------------------------------------------ | ----- | ----------------- |
 | GPS L1+L5, GLONASS, Galileo E1+E5a, BeiDou B1I+B2a | 7363 | 00011100 11000011 |
 | GPS L1+L5, QZSS L1+L5, GLONASS, Galileo E1+E5a, BeiDou B1I+B2a | 15571 | 00111100 11010011 |
