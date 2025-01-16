@@ -183,7 +183,7 @@ The second manifestation is more rare than the first, and it may also take more 
 
 The degradation in the accuracy and precision of the GNSS receivers when wrapped in aluminium foil is clearly evident. Both the positional data and velocity data are affected and dropped points also occur frequently, presumably where there is no data from the GNSS receiver. When data is unavailable from the GNSS receiver, all watches continued to record other sensor data such as altitude, which is derived from the barometer.
 
-There is no clear relationship between poor GNSS signals and repeated values. There were only 4 occurrences in total during the 16 trials on Garmin watches, all of which occurred on the Forerunner 255. Half of the occurrences were whilst the watch was wrapped in foil, and half whilst the watch was operating normally. Yet, half of the trials had severely degraded signals due to the foil, sometimes to the point where there was no GNSS data.
+It was not possible to demonstrate a relationship between poor GNSS signals and repeated values. There were 4 occurrences in total on the Garmin watches, all of which occurred on the Forerunner 255. Half of the occurrences were whilst the watch was wrapped in foil, and half whilst the watch was operating normally. Yet, half of the trials had severely degraded signals due to the foil, sometimes to the point where there was no GNSS data.
 
 The calculation for the odometer (distance in the FIT file) was confirmed as being derived from latitude and longitude data, not derived from the SOG values which was deemed to be another possibility. The behavior of the odometer was very easy to confirm, simply by looking for records where the positional speed and doppler speed differed greatly, and comparing them to the odometer values.
 
@@ -199,7 +199,7 @@ The Garmin [fix quality](https://developer.garmin.com/connect-iq/api-docs/Toybox
 
 ### Next Steps
 
-It would be really nice if Garmin would take a look at some windsurfing tracks that contain an abundance of repeated values. Timing issues can clearly affect [application fields](https://developer.garmin.com/connect-iq/api-docs/Toybox/FitContributor/Field.html) being written to the FIT, and it is very possible that system fields (e.g. latitude + longitude + speed) are similarly impacted. It is worth noting that when we see repeated latitude + longitude values in FIT files the speed is often repeated, but not always.
+It would be really nice if Garmin would take a look at some windsurfing tracks that contain an abundance of repeated values. Timing issues can clearly affect [app fields](https://developer.garmin.com/connect-iq/api-docs/Toybox/FitContributor/Field.html) being written to the FIT, and it is very possible that system fields (e.g. latitude + longitude + speed) are similarly impacted. It is worth noting that when we see repeated latitude + longitude values in FIT files the speed is often repeated, but not always.
 
 The fact that speed is not always repeated when latitude and longitude are repeated might also suggest that this is some kind of timing issue. There are several combinations of [NMEA](https://logiqx.github.io/gps-wizard/nmea/) sentences that the Garmin watches might be consuming and some of them have latitude + longitude in a different sentence to speed (e.g. GGA + VTG). Whatever NMEA sentences Garmin are consuming, they need to include HDOP for their fix quality.
 
