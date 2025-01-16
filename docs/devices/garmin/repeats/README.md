@@ -62,7 +62,7 @@ The COROS files provided limited insight, due to the heavy filtering that COROS 
 
 
 
-### Test Circuit
+#### Test Circuit
 
 The image below shows 3 laps of the test circuit and is from the Forerunner 255. The Garmin watches were set up for multi-band and the accuracy + precision of the tracks is self-evident, despite 3 individual laps being displayed. There was no significant deviation in accuracy or precision when the watches were not wrapped in foil.
 
@@ -92,7 +92,7 @@ The impact of the foil did vary for all of the watches, sometimes completely blo
 
 
 
-### Fenix 7 Pro
+#### Fenix 7 Pro
 
 The image below compares the Doppler speeds from one of the Motions (blue) with the Fenix 7 Pro (red) when it was wrapped in foil.
 
@@ -128,7 +128,7 @@ Notes:
 
 
 
-### Forerunner 255
+#### Forerunner 255
 
 One of the trials on the first day shows some brief GNSS dropouts from the Forerunner 255.
 
@@ -156,7 +156,7 @@ Notes:
 
 
 
-### Repeated Values
+#### Repeated Values
 
 There were 4 instances of repeated values during the 16 trials on Garmin watches:
 
