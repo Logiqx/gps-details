@@ -208,3 +208,12 @@ The difficult thing will be writing a description that cuts through first line s
 Lastly, whilst I don't believe the issue is related to the wearing of the device and degradation of the signal, I do not completely dismiss the idea. It just needs to be demonstrated over a dozen or so sessions that a single watch is more prone to repeated values when it is next to a rolled up the sleeve. There could be one or more issues at play, but right now a timing issues seems likely, especially in light of the Garmin documentation for [app fields](https://developer.garmin.com/connect-iq/api-docs/Toybox/FitContributor/Field.html).
 
 Time will tell...
+
+
+
+### Data
+
+All of the trials are available for download. Each OAO / FIT contains all 4 trials (back-to-back) from a single day.
+
+- [2025-01-15.zip](2025-01-15.zip)
+- [2025-01-16.zip](2025-01-16.zip)
