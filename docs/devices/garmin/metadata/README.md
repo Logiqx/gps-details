@@ -77,7 +77,7 @@ Take the following example where there is some missing GPS metadata:
 
 ![gaps-gps-metadata](img/gaps-gps-metadata.png)
 
-The corresponding FIT records have a fix quality of 3 (QUALITY_USABLE) at those same moments in time.
+The corresponding FIT records have a fix quality of 3 (QUALITY_USABLE) or suggest a loss of lock on those occasions:
 
 - 13:57:13 to 13:57:15
 - 13:57:22
