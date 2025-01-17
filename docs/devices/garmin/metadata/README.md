@@ -113,5 +113,5 @@ Further testing is planned to try to ascertain why NMEA records appear to be los
 - Unlike FIT records, GPS metadata is only saved to the file when the fix quality is 4 (QUALITY_GOOD).
   - GPS metadata is not saved when there is a loss of lock, because the fix quality is 0 (QUALITY_NOT_AVAILABLE).
 - Frozen FIT records are sometimes (maybe often or always) accompanied by missing records in GPS metadata.
-  - This could be due to imprecise timings within the Garmin event handling, or the related to the NMEA data.
+  - This could be due to imprecise timings within the Garmin event handling, or related to the NMEA data.
 - Further investigations are planned in relation to NMEA records appearing to be lost on some Garmin watches.
