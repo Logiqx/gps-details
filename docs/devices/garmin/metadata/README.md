@@ -69,7 +69,7 @@ This is particular evident in a short test file when the GNSS signals were delib
 
 In addition to complete loss of lock there is a more subtle factor, demonstrating how GPS metadata is only saved when the fix quality is 4 (QUALITY_GOOD).
 
-Take the following example where there is some GPS metadata:
+Take the following example where there is some missing GPS metadata:
 
 - 13:57:12 to 13:57:14
 - 13:57:21
