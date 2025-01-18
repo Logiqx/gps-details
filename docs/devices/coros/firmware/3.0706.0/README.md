@@ -1,4 +1,4 @@
-## 3.0706.0 beta
+## 3.0706.0 beta - 1 Oct 2024
 
 ### Overview
 

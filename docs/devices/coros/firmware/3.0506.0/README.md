@@ -1,4 +1,4 @@
-## 3.0506.0 beta
+## 3.0506.0 beta - 1 Jul 2024
 
 ### Overview
 
