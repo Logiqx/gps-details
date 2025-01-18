@@ -51,7 +51,7 @@ The GPS metadata (orange) is clearly not the raw Doppler-derived speeds, but app
 ### Hypothesis
 
 - The FIT records contain speed data that has been filtered (or not) according to the sport profile.
-- The GPS metadata contains speed data that has been through a generic filter, perhaps used for pace information?
+- The GPS metadata contains speed data that has been through a generic filter, perhaps used for live speeds or pace information?
 
 
 
@@ -107,6 +107,6 @@ The comparison of GPS metadata from both watches confirms that the filtering is 
   - The filtering is also reminiscent of the problematic COROS firmware(s) on their watches during 2024.
 - The purpose of the speeds in GPS metadata is unclear.
   - They are not used for speed graphs in Garmin Connect, or headline statistics such as max speed.
-  - Perhaps GPS metadata is used for pace information, primarily for activities with lots of arm movement?
+  - Perhaps GPS metadata is used for live speeds or pace information, primarily for activities with lots of arm movement?
 
 That's it for this investigation. The nature of the GPS metadata is far less of a mystery now!
