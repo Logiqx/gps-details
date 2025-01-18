@@ -8,9 +8,9 @@ Created: 18 Jan 2024
 
 ### Introduction
 
-This article is a continuation of the previous investigation into the [GPS Metadata](../metadata/README.md) of Garmin FIT files.
+This is a continuation of the investigation into the [GPS Metadata](../metadata/README.md) found in Garmin FIT files.
 
-Whilst the original article used the data from a short walk, this new article looks at the data from short drives.
+Whilst the original investigation primarily used the data from a short walk, this one looks at the data from short test drives.
 
 
 
@@ -26,7 +26,7 @@ This can be seen when comparing the FIT records (blue) against the data from a M
 
 
 
-The GPS metadata (orange) in the FIT file does not match the speeds in the FIT records (blue). It can be seen that the speeds in GPS Metadata are filtered / smoothed and there are some peculiar drop-offs in the speed.
+The GPS metadata (orange) in the FIT file does not match the speeds in the FIT records (blue). It can be seen that the speeds in GPS metadata are filtered / smoothed and there are some peculiar drop-offs in the speed.
 
 ![windsurf-fit](img/windsurf-fit.png)
 
@@ -34,15 +34,15 @@ The GPS metadata (orange) in the FIT file does not match the speeds in the FIT r
 
 #### Kayak
 
-The kayaking sport profile is already known to implement heavy filtering, just like stand up paddling.
+The kayaking sport profile is already known to implement heavy filtering / smoothing, just like the stand up paddling profile.
 
-This can be seen when comparing the FIT records (blue) against the data from a Motion GPS (red).
+This can be seen when comparing the speeds in FIT records (blue) against the speeds from a Motion GPS (red).
 
 ![kayak-speedreader](img/kayak-speedreader.png)
 
 
 
-The GPS metadata (orange) is clearly not the raw Doppler-derived speeds, but appears to use similar filtering to the windsurfing sport profile. Note the presence of peculiar drop-offs in the speed, just like the windsurfing example.
+The GPS metadata (orange) is clearly not the raw Doppler-derived speeds, but appears to use similar filtering to the windsurfing profile. Note it also includes the peculiar drop-offs in the speed, just like the windsurfing profile.
 
 ![kayak-fit](img/kayak-fit.png)
 
@@ -59,24 +59,24 @@ The GPS metadata (orange) is clearly not the raw Doppler-derived speeds, but app
 
 #### Approach
 
-To test the hypothesis, two Garmin watches recording the same drive will be directly compared.
+To test the hypothesis, two Garmin watches recording the same test drive were directly compared.
 
-- Kayaking sport profile - heavy filtering
-- Generic sport profile - no significant filtering
+- Kayaking - heavy filtering
+- Generic - no significant filtering
 
-The expectation is for the GPS metadata to be near-identical from both watches, whilst the speed in FIT records differs greatly.
+The expectation is for the GPS metadata to be near-identical from both watches, whilst the speed in FIT records should differ greatly.
 
 
 
 #### Results
 
-Let's begin with a comparison of the various files in GPS Speedreader.
+Let's begin with a comparison of the various GPS receivers.
 
-- Kayaking - blue
-- Other - red
+- Garmin (kayaking) - blue
+- Garmin (other) - red
 - Motion GPS - green
 
-Aside from the usual 1 second delay it can be seen how the "other" activity (red) compares favorably to the Motion (green), whilst the kayaking activity (blue) implements some heavy filtering.
+Aside from the usual 1 second delay it can be seen how the "other" activity (red) compares favorably to the Motion (green), whilst the kayaking activity (blue) implements some heavy filtering / smoothing.
 
 ![comparison-speedreader](img/comparison-speedreader.png)
 
@@ -88,7 +88,7 @@ Just as a sanity check the data from the FIT records can also be plotted in Exce
 
 
 
-The comparison of the two FIT files confirms that the filtering of GPS metadata is identical for both activities.
+The comparison of GPS metadata from both watches confirms that the filtering is identical for both activities; kayaking and other.
 
 ![comparison-metadata](img/comparison-metadata.png)
 
@@ -96,14 +96,17 @@ The comparison of the two FIT files confirms that the filtering of GPS metadata 
 
 ### Conclusions
 
-- The various sport profiles on Garmin watches apply filtering to the speed data, whatever is is deemed appropriate for the sport / activity.
+- The various sport profiles on Garmin watches filter the speed data, whatever is is deemed appropriate.
   - There are activities with minimal filtering (e.g. windsurfing, kiteboarding, other).
   - There are activities with heavy filtering (e.g. kayaking, stand up paddleboarding, surfing).
-- The GPS metadata contains speed data which has been filtered, but in a consist manner regardless of the activity.
-  - It is nowhere near as extreme as activities such as kayaking, stand up paddleboarding, surfing).
-  - It is still unsuitable for speed sailing because of the peculiar drop-offs.
-- The filtering used for GPS metadata appears to be very similar to the FIT records on Garmin watches during 2022.
-  - Subsequent testing might compare FIT records and GPS metadata for some data from early 2022.
-  - The filtering is also reminiscent to the problematic COROS firmware(s) that were released during 2024.
-- The purpose of the speeds in GPS metadata is unclear as they are not used by Garmin Connect.
-  - Perhaps it is used for pace information, since activities with lots of arm movement benefit from the filtering / smoothing?
+- GPS metadata contains speeds which have been filtered in a consist manner, regardless of the activity.
+  - The filtering is much less than FIT records for kayaking, stand up paddleboarding, surfing, etc.
+  - The speeds in GPS metadata are unsuitable for speed sailing, because of the peculiar drop-offs.
+- The filtering used for GPS metadata appears similar to the FIT records of Garmin watches during 2022.
+  - Subsequent testing might compare FIT records and GPS metadata from Garmin watches in 2022.
+  - The filtering is also reminiscent of the problematic COROS firmware(s) on their watches during 2024.
+- The purpose of the speeds in GPS metadata is unclear.
+  - They are not used for speed graphs in Garmin Connect, or headline statistics such as max speed.
+  - Perhaps GPS metadata is used for pace information, primarily for activities with lots of arm movement?
+
+That's it for this investigation. The nature of the GPS metadata is far less of a mystery now!
