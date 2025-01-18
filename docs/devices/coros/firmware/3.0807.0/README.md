@@ -14,7 +14,7 @@ The VERTIX 2S and APEX 2 have not been tested, but are assumed to perform just l
 ### Satellite Systems
 
 | APEX 2 | APEX 2 Pro | VERTIX 2 | VERTIX 2S |
-| :----: | :--------: | :------: | --------- |
+| :----: | :--------: | :------: | :------: |
 |   ?    |   3.1.0    |  3.1.0   | ?         |
 
 
