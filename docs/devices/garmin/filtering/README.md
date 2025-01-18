@@ -109,4 +109,4 @@ The comparison of GPS metadata from both watches confirms that the filtering is 
   - They are not used for speed graphs in Garmin Connect, or headline statistics such as max speed.
   - Perhaps GPS metadata is used for live speeds or pace information, primarily for activities with lots of arm movement?
 
-That's it for this investigation. The nature of the GPS metadata is far less of a mystery now!
+The nature of the speeds in GPS metadata is far less of a mystery now, but their purpose has not been established, yet.
