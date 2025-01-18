@@ -19,6 +19,7 @@ This project is work in progress and there are more things to be documented:
 
 ### Investigations
 
+- [Filtering](filtering/README.md) - 18 Jan 2025
 - [GPS metadata](metadata/README.md) - 17 Jan 2025
 - [Repeated Values](repeats/README.md) - 16 Jan 2025
 - Technical [review](review/README.md) - 19 Dec 2024
