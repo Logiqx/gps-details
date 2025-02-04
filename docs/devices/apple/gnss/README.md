@@ -31,7 +31,7 @@ Notes:
 
 I haven't seen any teardowns for the Apple Watch SE, but both watches have cellular options.
 
-The cellular models of the Apple Watch SE are roughly half the price of the Apple Watch; e.g. SE (gen 2) at £219 vs Series 10 at £399. It is therefore seems likely that the cellular models use the GNSS capabilities of the Intel PMB9955 baseband processor.
+The cellular models of the Apple Watch SE are roughly half the price of the Apple Watch; e.g. SE (gen 2) at £219 vs Series 10 at £399. It is therefore possible that the cellular models use the GNSS capabilities of the Intel PMB9955 baseband processor.
 
 The GPS models of the Apple Watch SE could either either use the same Intel baseband processor, or a dedicated GNSS chipset.
 
