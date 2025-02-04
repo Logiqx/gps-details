@@ -22,7 +22,7 @@ Notes:
 
 1. Qualcomm [MDM9635M](https://theapplewiki.com/wiki/MDM9635) was last used in the [iPhone 6s / 6s Plus](https://www.techinsights.com/blog/apple-iphone-6s-teardown) (Sep 2015) and [Apple Watch Series 3](https://www.techinsights.com/blog/apple-watch-series-3-teardown) (Sep 2017).
 2. Intel [PMB9955](https://theapplewiki.com/wiki/PMB9955) baseband processor is the [XMM7560](https://www.intel.com/content/www/us/en/products/docs/wireless-products/mobile-communications/xmm-7560-brief.html) modem chip, according to [TechInsights](https://www.techinsights.com/blog/apple-iphone-xs-max-teardown) and other sources.
-3. Teardowns show dedicated GNSS is the Broadcom BCM47754 (Apple Watch Series 6) and BCM47754 (Apple Watch Series 7).
+3. Teardowns show the Broadcom BCM47754 (Apple Watch Series 6) and BCM47764 (Apple Watch Series 7).
 4. The current assumption (on my part) is that Apple have continued to use GNSS chipsets from Broadcom.
 
 
@@ -57,7 +57,7 @@ Intel [PMB9955](https://theapplewiki.com/wiki/PMB9955) baseband processor does n
 
 Notes:
 
-1. Suspect Broadcom [BCM47765](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47765) or [BCM4778](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm4778) which supersede the BCM47754 (Apple Watch Series 6) and BCM47754 (Apple Watch Series 7).
+1. Suspect Broadcom [BCM47765](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47765) or [BCM4778](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm4778) which supersede the BCM47764 (Apple Watch Series 7).
 
 
 
