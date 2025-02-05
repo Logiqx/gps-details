@@ -6,7 +6,7 @@ Date created: 5 Feb 2025
 
 ### Introduction
 
-This is a very short document describing some data quality issues present in the GPX exports of Waterspeed.
+This document describes some data quality issues that are present in the GPX exports of Waterspeed.
 
 Five issues have been documented for the transparency, and the benefit of anyone trying to use the GPX files for analysis.
 
@@ -29,11 +29,9 @@ The screenshot below shows two glitches which are caused by timestamp issues:
 
 ![timestamps](img/timestamps.png)
 
-It is important to note that the underlying data (lat + lon + speed) is contiguous, and it is probably related to the handling of Apple timestamps.
+It is important to note that the underlying data (latitude + longitude + speed) is contiguous, and it is probably related to the handling of Apple timestamps. In reality the Apple timestamps probably hover around whole-second boundaries and differences between .999 and .001 are causing issues.
 
-In reality the Apple timestamps probably hover around whole-second boundaries and differences between .999 and .001 are causing issues.
-
-Waterspeed should round the precise timestamps (e.g. 999 ms or 1 ms) to the nearest whole-second boundary, prior to the GPX export.
+Waterspeed just needs to round the precise timestamps (e.g. 999 ms or 1 ms) to the nearest whole-second boundary, prior to the GPX export.
 
 
 
@@ -41,7 +39,7 @@ Waterspeed should round the precise timestamps (e.g. 999 ms or 1 ms) to the near
 
 It has been observed that multiple Apple Watches have a tendency for Waterspeed to record the same speed for 2 or 3 seconds in a row.
 
-This does not reflect the true board speed and the cause of this issue is unclear.
+This does not reflect the true board speed and the cause of this issue is unclear. but it affects almost every session.
 
 ![timestamps](img/repeats.png)
 
@@ -61,15 +59,13 @@ The screenshot below shows a number of missing points but 3 have been highlighte
 
 ![timestamps](img/missing.png)
 
-These missing points are undesirable because they affect speed-based distance calculations and speed categories such as 30 mins and 60 mins.
-
-They also cause files to be rejected by GPS-Speedsurfing because they are so numerous.
+These missing points are undesirable because they affect speed-based distance calculations and speed categories such as 30 mins and 60 mins. They also cause files to be rejected by GPS-Speedsurfing because they are so numerous.
 
 
 
 ### 4. Missing Speeds
 
-The image below shows 4 runs from an Apple Watch Ultra, but the third run is missing the Doppler-derived speed data.
+The image below shows 4 runs from an Apple Watch Ultra, but the third run is clearly missing the Doppler-derived speed data.
 
 The position-derived speeds (dotted blue line) are based on the recorded changes in latitude and longitude.
 
@@ -88,7 +84,7 @@ Waterspeed has 4 different GPX exports which is confusing to users.
 - GPSAR
 - Strava
 
-It would appear that the different variants have been created in response to the apps rejecting specific types of GPX error. They are conflict with the schema for GPX 1.1 in different ways. There only needs to be one GPX export in Waterspeed, which should be GPX 1.1 compliant.
+It would appear that the different variants have been created in response to the various apps handling non-compliant GPX files in different ways. There only needs to be one GPX export in Waterspeed, which should be GPX 1.1 compliant.
 
 The required changes have been documented at [https://logiqx.github.io/gps-wizard/gpx/issues/waterspeed.html](https://logiqx.github.io/gps-wizard/gpx/issues/waterspeed.html)
 
@@ -98,4 +94,4 @@ The required changes have been documented at [https://logiqx.github.io/gps-wizar
 
 The issues described above appear to affect every model of Apple Watch when using Waterspeed.
 
-Ideally should be resolved to ensure the integration of Waterspeed with GPS-Speedsurfing produces reliable results.
+Ideally they should be resolved to ensure the integration of Waterspeed with GPS-Speedsurfing produces reliable results.
