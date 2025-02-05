@@ -2,11 +2,12 @@
 
 ### Information
 
-- [Apple GNSS](gnss/README.md) provides an overview of the GNSS chipsets / capabilities in the watches
-- [Apple Watches](watches/README.md) provides a simple overview of Apple watch data
+- [Apple GNSS](gnss/README.md) - details about the GNSS chipsets in different watches.
+- [Waterspeed](waterspeed/README.md) - data quality issues present in the GPX exports of Waterspeed.
 
 
 
 ### Investigations
 
 - [Apple Watch Ultra](ultra/README.md) - 16 Nov 2024
+- [Apple Watches](watches/README.md) - 13 Jan 2024
