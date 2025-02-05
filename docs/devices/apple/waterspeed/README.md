@@ -41,15 +41,11 @@ Waterspeed should round the precise timestamps (e.g. 999 ms or 1 ms) to the near
 
 It has been observed that multiple Apple Watches have a tendency for Waterspeed to record the same speed for 2 or 3 seconds in a row.
 
-This does not reflect the true board speed and was previously thought to be a deficiency of the Apple Watches, or their GNSS chipset.
+This does not reflect the true board speed and the cause of this issue is unclear.
 
 ![timestamps](img/repeats.png)
 
-
-
 This issue affects every Apple watch that has been tested - Apple Watch Series 6, Apple Watch Series 7, Apple Watch Ultra, Apple Watch Ultra 2.
-
-It has now been confirmed that this is not a deficiency in the Apple Watches, or the GNSS chipsets. The issue is unique to Waterspeed.
 
 
 
@@ -77,11 +73,7 @@ The image below shows 4 runs from an Apple Watch Ultra, but the third run is mis
 
 The position-derived speeds (dotted blue line) are based on the recorded changes in latitude and longitude.
 
-
-
 ![ghosts](img/ghosts.png)
-
-
 
 This particular example is from an Apple Watch Ultra. It is unclear whether this is a common issue, or a one-off.
 
