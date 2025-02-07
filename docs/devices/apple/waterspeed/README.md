@@ -29,9 +29,7 @@ The screenshot below shows two glitches which are caused by timestamp issues:
 
 ![timestamps](img/timestamps.png)
 
-It is important to note that the underlying data (latitude + longitude + speed) is contiguous, and it is probably related to the handling of Apple timestamps. In reality the Apple timestamps probably hover around whole-second boundaries and differences between .999 and .001 are causing issues.
-
-Waterspeed just needs to round the precise timestamps (e.g. 999 ms or 1 ms) to the nearest whole-second boundary, prior to the GPX export.
+Waterspeed needs to ensure these timestamp issues do not occur in their GPX export.
 
 
 
