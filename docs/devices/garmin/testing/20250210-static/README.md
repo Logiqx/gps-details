@@ -64,7 +64,7 @@ The Motion distributions don't have the same limited resolution as the Garmin wa
 
 In the P50 and P95 categories the F7 Pro performed slightly better than the FR 255, but quantization errors may have contributed to this slightly. It was mentioned previously that the resolution of the speeds being recorded is around 0.018 kts.
 
-The Mini Motions perform better than both of the Garmin watches during the 6 hours, roughly twice the precision of the fenix 7 Pro. Understanding the relative performances may prove to be useful when testing Garmin watches in the future.
+The Mini Motions performed better than both of the Garmin watches during the 6 hours, roughly twice the precision of the fenix 7 Pro. Understanding the relative performances may prove to be useful when testing Garmin watches in the future.
 
 |               | FR 255 | F7 Pro | Mini 1040 | Mini 1042 |
 | ------------- | :----: | :----: | :-------: | :-------: |
@@ -75,15 +75,15 @@ The Mini Motions perform better than both of the Garmin watches during the 6 hou
 | max (kts)     | 2.086  | 1.360  |   0.121   |   0.216   |
 | distance (km) | 0.364  | 0.310  |   0.137   |   0.152   |
 
-Note: The distance was calculated by using the sum of the speeds in m/s.
+Note: The distance was calculated from the sum of the speeds (m/s) during the 6 hours of testing.
 
 
 
 ### Summary
 
-This was just a quick an easy test to establish the feasibility of static testing for Garmin watches.
+This was a quick and easy test to establish the feasibility of static testing for specific Garmin watches.
 
-The results are encouraging and suggest this approach may prove to be useful, prior to real-world testing of the watches.
+The results are encouraging and suggest this approach may prove to be useful, potentially complementing any real-world testing.
 
 The ability to capture near-zero speeds is currently limited to a private beta of APPro, but will ship in the next public release.
 
