@@ -4,9 +4,7 @@
 
 It is imperative that the data recording frequency is set to "every second" but this is the responsibility of the watch user.
 
-It is recommended that watch apps try to determine the data recording frequency when a speed sailing activity is started.
-
-If the frequency is not every second then the user should be alerted to the fact, so they can rectify it.
+There is no obvious way that a Connect IQ application can check the data recording frequency.
 
 
 
