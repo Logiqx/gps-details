@@ -2,7 +2,7 @@
 
 ### Apple Watch
 
-Teardowns of several Apple watches clearly show a dedicated GNSS chip (e.g. Broadcom BCM477x4 in Series 6 and 7). However, teardowns of the earlier Apple watches (e.g. Series 3) don't appear to show a dedicated GNSS chip. This makes me suspect the Series 3 / 4 / 5 watches may therefore have used the RF frontend + baseband processor for GNSS capabilities, just like the iPhone. The Qualcomm MDM9635M baseband processor was used in the Apple Watch Series 3, but the Intel PMB9955 has been used since the Apple Watch Series 4.
+Teardowns of several Apple watches clearly show a dedicated GNSS chip (e.g. Broadcom BCM477x4 in Series 6 and 7). However, teardowns of the earlier Apple watches (e.g. Series 3 and 4) don't appear to show a dedicated GNSS chip. This makes me suspect the Series 3 / 4 / 5 watches may therefore have used the RF frontend + baseband processor for GNSS capabilities, just like modern iPhones. The Qualcomm MDM9635M baseband processor was used in the Apple Watch Series 3, but the Intel PMB9955 has been used since the Apple Watch Series 4.
 
 | Model     | Announced | OS           | GNSS                                   | Chipset |
 | ------------ | :------: | :---------: | ------------------------------ | :-----: |
