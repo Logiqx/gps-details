@@ -62,7 +62,7 @@ The Motion distributions don't have the same limited resolution as the Garmin wa
 
 ### Results
 
-In the P50 and P95 categories the F7 Pro performed slightly better than the FR 255, but quantization errors may have contributed to this slightly. It was mentioned previously that the resolution of the speeds being recorded is around 0.018 kts.
+The p50 and p95 results of the F7 Pro are slightly better than the FR 255, but quantization errors may have contributed to this slightly. It was mentioned previously that the resolution of the speeds being recorded is around 0.018 kts.
 
 The Mini Motions performed better than both of the Garmin watches during the 6 hours, roughly twice the precision of the fenix 7 Pro. Understanding the relative performances may prove to be useful when testing Garmin watches in the future.
 
