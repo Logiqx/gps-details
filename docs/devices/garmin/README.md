@@ -19,6 +19,7 @@ This project is work in progress and there are more things to be documented:
 
 ### Investigations
 
+- [Static testing](testing/20250210-static/README.md) - 10 Feb 2025
 - [PVT data](pvt/README.md) - 18 Jan 2025
 - [Filtering](filtering/README.md) - 18 Jan 2025
 - [GPS metadata](metadata/README.md) - 17 Jan 2025
