@@ -28,9 +28,7 @@ The devices were fixed to a mast extension, and placed in an open garden for 6 h
 
 #### Timing Issues
 
-Although timings were not the primary focus of this investigation, it is worth noting how the event timings in the Forerunner 255 were not consistent.
-
-The timings of FR 255 location events drifted considerably during the 6 hours of testing, whilst the fenix 7 Pro remained relatively constant.
+Although timings were not the primary focus of this investigation, it is worth noting how the event timings in the Forerunner 255 were not consistent. The timings of FR 255 location events drifted considerably during the 6 hours of testing, whilst the fenix 7 Pro remained relatively constant.
 
 It is also noticeable that the timings of the fenix 7 pro event had occasional blips. The interval between F7 anomalies was consistently 30 minutes.
 
@@ -64,9 +62,9 @@ The Motion distributions don't have the same limited resolution as the Garmin wa
 
 ### Results
 
-In the P50 and P95 categories the F7 Pro performed slightly better than the FR 255, but quantization errors may have contributed to this slightly. It was mentioned previously that the resolution of the speeds being record is around 0.018 kts.
+In the P50 and P95 categories the F7 Pro performed slightly better than the FR 255, but quantization errors may have contributed to this slightly. It was mentioned previously that the resolution of the speeds being recorded is around 0.018 kts.
 
-The Mini Motions perform better than both of the Garmin watches, roughly twice the precision of the fenix 7 Pro.
+The Mini Motions perform better than both of the Garmin watches during the 6 hours, roughly twice the precision of the fenix 7 Pro. Understanding the relative performances may prove to be useful when testing Garmin watches in the future.
 
 |               | FR 255 | F7 Pro | Mini 1040 | Mini 1042 |
 | ------------- | :----: | :----: | :-------: | :-------: |
@@ -83,9 +81,9 @@ Note: The distance was calculated by using the sum of the speeds in m/s.
 
 ### Summary
 
-This was just a quick an easy test to establish whether static testing of Garmin watches might prove to be useful.
+This was just a quick an easy test to establish the feasibility of static testing for Garmin watches.
 
-The results suggest that this approach to testing might prove to be useful, prior to real-world testing of the watches.
+The results are encouraging and suggest this approach may prove to be useful, prior to real-world testing of the watches.
 
-The capability to capture near-zero speeds is limited to a private beta of APPro, but will ship in the next public release.
+The ability to capture near-zero speeds is currently limited to a private beta of APPro, but will ship in the next public release.
 
