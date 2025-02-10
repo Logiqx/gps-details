@@ -2,25 +2,25 @@
 
 ### Overview
 
-The *device_info* record varies considerably for different watch manufacturers.
+The amount of information in *device_info* records varies considerably for different watch manufacturers.
 
-Garmin devices record details such as the serial number, software / firmware version, driver versions, etc.
+Garmin devices record lots of details such as the serial number, software version / firmware, driver versions, etc.
 
 
 
 ### Fields
 
-| Field name       | Field type | Example      | Comment                                              |
-| ---------------- | ---------- | ------------ | ---------------------------------------------------- |
-| timestamp        | uint32     |              | Seconds since the Garmin epoch 1989–12–31T00:00:00Z  |
-| device_index     | uint8      | 2            | The watch itself is assigned device index 0          |
-| device_type      | uint8      | 0 (gps)      | Local device type when source_type is 5 <sup>1</sup> |
-| manufacturer     | uint16     | 1 (garmin)   | Numeric assigned to the manufacturer <sup>2</sup>    |
-| product          | uint16     | 3992 (fr255) | Numeric assigned to the product <sup>3</sup>         |
-| serial_number    | uint32     | 3438044558   | Optional numeric <sup>4</sup>                        |
-| software_version | uint16     | 270          | Software / firmware version, minus the decimal point |
-| source_type      | uint8      | 5 (local)    | Typically 5 (local / onboard device)                 |
-| product_name     | string     |              | Optional free-form string <sup>5</sup>               |
+| Field name       | Field type | Example      | Comment                                                      |
+| ---------------- | ---------- | ------------ | ------------------------------------------------------------ |
+| timestamp        | uint32     |              | Seconds since the Garmin epoch 1989–12–31T00:00:00Z          |
+| device_index     | uint8      | 2            | The watch itself is assigned device index 0                  |
+| device_type      | uint8      | 0 (gps)      | Local device type when source_type is 5 <sup>1</sup>         |
+| manufacturer     | uint16     | 1 (garmin)   | Numeric assigned to the manufacturer <sup>2</sup>            |
+| product          | uint16     | 3992 (fr255) | Numeric assigned to the product <sup>3</sup>                 |
+| serial_number    | uint32     | 3438044558   | Optional numeric <sup>4</sup>                                |
+| software_version | uint16     | 270          | Software / driver version, minus the decimal point           |
+| source_type      | uint8      | 5 (local)    | Typically 5 (local / onboard device)                         |
+| product_name     | string     |              | Optional free-form string, but unused by Garmin <sup>5</sup> |
 
 Notes:
 

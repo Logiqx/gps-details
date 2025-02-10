@@ -2,22 +2,22 @@
 
 ### Overview
 
-The *file_id* record must be first message in file and is useful for identifying the device.
+The *file_id* record is the first message in a FIT file and useful for quickly identifying the watch / device.
 
-Some manufacturers provide *product* and *product_name*, but some manufacturers only *product* or *product_name*.
+Some manufacturers provide *product* and *product_name*, but some manufacturers provide either *product* or *product_name*.
 
 
 
 ### Fields
 
-| Field name    | Field type | Example      | Comment                                             |
-| ------------- | ---------- | ------------ | --------------------------------------------------- |
-| type          | uint8      | 4 (activity) | Typically an activity                               |
-| manufacturer  | unit16     | 1 (garmin)   | Numeric assigned to the manufacturer <sup>1</sup>   |
-| product       | uint16     | 3992 (fr255) | Numeric assigned to the product <sup>2</sup>        |
-| serial_number | uint32     | 3438044558   | Optional numeric <sup>3</sup>                       |
-| time_created  | uint32     |              | Seconds since the Garmin epoch 1989–12–31T00:00:00Z |
-| product_name  | string     |              | Optional free-form string <sup>4</sup>              |
+| Field name    | Field type | Example      | Comment                                                      |
+| ------------- | ---------- | ------------ | ------------------------------------------------------------ |
+| type          | uint8      | 4 (activity) | Typically an activity                                        |
+| manufacturer  | unit16     | 1 (garmin)   | Numeric assigned to the manufacturer <sup>1</sup>            |
+| product       | uint16     | 3992 (fr255) | Numeric assigned to the product <sup>2</sup>                 |
+| serial_number | uint32     | 3438044558   | Optional numeric <sup>3</sup>                                |
+| time_created  | uint32     |              | Seconds since the Garmin epoch 1989–12–31T00:00:00Z          |
+| product_name  | string     |              | Optional free-form string, but unused by Garmin <sup>4</sup> |
 
 Notes:
 

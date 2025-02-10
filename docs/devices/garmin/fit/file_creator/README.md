@@ -2,7 +2,7 @@
 
 ### Overview
 
-The *file_creator* record is useful for identifying the software / firmware version.
+The *file_creator* record is useful for identifying the software version / firmware of the watch that created the FIT.
 
 It only tends to appear in FIT files from Garmin, not the likes of COROS or Suunto.
 
@@ -12,5 +12,5 @@ It only tends to appear in FIT files from Garmin, not the likes of COROS or Suun
 
 | Field name       | Field type | Example | Comment                                              |
 | ---------------- | ---------- | ------- | ---------------------------------------------------- |
-| software_version | uint16     | 1726    | Software / firmware version, minus the decimal point |
+| software_version | uint16     | 1726    | Software version / firmware, minus the decimal point |
 

@@ -19,7 +19,7 @@ The *field_description* records must be logged after the [*developer_data_id*](.
 
 Notes:
 
-1. The list of FIT base types is available in Profile.xlsx inside the [FIT SDK](https://developer.garmin.com/fit/download/).
+1. The list of FIT base types are available in Profile.xlsx inside the [FIT SDK](https://developer.garmin.com/fit/download/).
 2. The FIT base types and invalid values are also listed in Table 7 of the [FIT protocol](https://developer.garmin.com/fit/protocol/).
 
 
