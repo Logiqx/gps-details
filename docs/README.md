@@ -7,7 +7,7 @@ This repository contains information and observations relating to specific GPS /
 ### Background
 
 - [FIT fields](general/fit/README.md) - useful metadata, 14 Dec 2024
-- [Sampling Rates and Aliasing](general/aliasing/README.md) - topics including the Nyquist theorem, 22 Sep 2024
+- [Sampling rates and aliasing](general/aliasing/README.md) - topics including the Nyquist theorem, 22 Sep 2024
 
 
 

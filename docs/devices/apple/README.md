@@ -14,4 +14,4 @@ This project is work in progress and there are more things to be documented.
 This project is work in progress and new articles are added periodically.
 
 - [Apple Watch Ultra](ultra/README.md) - quick look, 6 Nov 2024
-- [Apple Watches](watches/README.md) - doppler-derived speeds, 13 Jan 2024
+- [Apple watches](watches/README.md) - doppler-derived speeds, 13 Jan 2024
