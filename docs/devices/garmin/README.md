@@ -12,8 +12,8 @@ General advice and guidance for Garmin watches is in another GitHub repo.
 
 This project is work in progress and there are more things to be documented.
 
+- [Garmin watches](watches/README.md)
 - [Developer tips](developer/README.md)
-- [Watches](watches/README.md)
 
 
 
