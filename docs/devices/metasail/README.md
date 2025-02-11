@@ -1,6 +1,6 @@
 ## Metasail
 
-### General
+### Investigations
 
 This page includes topics relating to the Metasail:
 
