@@ -11,3 +11,4 @@ There are only a few pages right now but more material will follow shortly:
 - [Metasail](metasail/README.md)
 - [Motion](motion/README.md)
 - [Sailmon](../sailmon/README.md)
+- [Suunto](suunto/README.md)
