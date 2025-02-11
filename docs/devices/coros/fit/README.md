@@ -49,12 +49,3 @@ There is no way to determine which version of the GNSS firmware was used to reco
 It would be helpful if the GNSS firmware version was recorded in the FIT file.
 
 
-
-#### Activity Type
-
-There is no direct way to distinguish between windsurfing and speedsurfing activities.
-
-They both record an activity_type of 43 in the FIT file, and a sport of windsurfing.
-
-The activity can be inferred from developer data in the FIT, but different activity types would be helpful.
-
