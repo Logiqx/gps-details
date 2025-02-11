@@ -19,7 +19,7 @@ This repository contains information and observations relating to specific GPS /
 - [Locosys](devices/locosys/README.md)
 - [Metasail](devices/metasail/README.md)
 - [Motion](devices/motion/README.md)
-- [Sailmon](sailmon/README.md)
+- [Sailmon](devices/sailmon/README.md)
 - [Suunto](devices/suunto/README.md)
 
 
