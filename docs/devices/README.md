@@ -1,8 +1,6 @@
 # GPS Devices
 
-This repository is still in the process of being created.
-
-There are only a few pages right now but more material will follow shortly:
+There are individual pages for each brand of watch / device.
 
 - [Apple](apple/README.md)
 - [COROS](coros/README.md)
