@@ -2,15 +2,15 @@
 
 ### Advice
 
-General advice and guidance for COROS watches is in another GitHub repo:
+General advice and guidance for COROS watches is in another GitHub repo.
 
-- [COROS](https://logiqx.github.io/gps-guides/guidance/coros/) advice - 10 Jan 2025
+- [COROS Advice](https://logiqx.github.io/gps-guides/guidance/coros/) - 10 Jan 2025
 
 
 
 ### Reference
 
-This project is work in progress and there are more things to be documented:
+This project is work in progress and there are more things to be documented.
 
 - [Firmware](firmware/README.md) behaviors - 22 Sep 2024
 - [FIT](fit/README.md) files - 22 Sep 2024
@@ -19,7 +19,7 @@ This project is work in progress and there are more things to be documented:
 
 ### Investigations
 
-This project is work in progress and new articles are added periodically:
+This project is work in progress and new articles are added periodically.
 
 - [Sony Traits](sony/README.md) - 1 Jan 2025
 - [Windsurfing vs Speedsurfing](windsurfing/README.md) - 28 Aug 2024
