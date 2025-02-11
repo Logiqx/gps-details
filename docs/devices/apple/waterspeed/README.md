@@ -1,4 +1,6 @@
-## Waterspeed
+## Waterspeed Observations
+
+Author: Michael George
 
 Date created: 5 Feb 2025
 
