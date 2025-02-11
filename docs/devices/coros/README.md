@@ -4,7 +4,7 @@
 
 General advice and guidance for COROS watches is in another GitHub repo.
 
-- [COROS Advice](https://logiqx.github.io/gps-guides/guidance/coros/) - 10 Jan 2025
+- [COROS advice](https://logiqx.github.io/gps-guides/guidance/coros/) - 10 Jan 2025
 
 
 
@@ -22,7 +22,7 @@ This project is work in progress and there are more things to be documented.
 This project is work in progress and new articles are added periodically.
 
 - [Sony traits](sony/README.md) - 1 Jan 2025
-- [Windsurfing vs Speedsurfing](windsurfing/README.md) - 28 Aug 2024
+- [Windsurfing vs speedsurfing](windsurfing/README.md) - 28 Aug 2024
 - [Smoothing update](smoothing/update.md) - 22 Aug 2024
 - [Speed Issues](doppler/README.md) - 19 Aug 2024
 - [Activities](activities/README.md) - 9 Jul 2024
