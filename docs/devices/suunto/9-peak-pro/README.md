@@ -35,6 +35,4 @@ Whilst the timing issues of the [Ambit3](../ambit3/README.md) are not evident, t
 
 ### Summary
 
-This is not an in-depth review of the Suunto 9 Peak Pro, simply a quick glimpse at the data.
-
-Initial impressions suggest that it is not looking any more closely at the Peak Pro for speed sailing, or any other Suunto watches from the same era.
+This is not an in-depth review of the Suunto 9 Peak Pro, simply a quick glimpse at the data. The observations suggest that it is not worth looking any more closely at the Peak Pro for speed sailing, or any other Suunto watches using the Sony chipset.
