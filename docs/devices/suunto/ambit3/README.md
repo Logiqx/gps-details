@@ -10,15 +10,7 @@ Created: 11 Feb 2025
 
 This is a very quick look at the data issue(s) affecting the Suunto Ambit3. The issue(s) were first mentioned in the GPS-Speedsurfing forum on 1 Feb 2022, and attributed to a recent software update by Suunto. Details can be found in the "[Suunto Probleem](https://gps-speedsurfing.com/default.aspx?mnu=forum&forum=1&val=182075)" thread.
 
-This brief investigation looks at 3 tracks from 3 different riders:
-
-- Ambit3 Sport, windsurfing - 7 Aug 2023
-- Ambit3 Sport, windsurfing - 1 Mar 2024
-- Ambit3 Run, kitesurfing - 9 Sep 2024
-
-The Suunto Ambit3 watches use the SiRFstar V, according to the technical specifications of the [Ambit3 Sport](https://www.suunto.com/en-gb/Support/Product-support/suunto_ambit3_sport/suunto_ambit3_sport/reference/technical-specifications/) and [Ambit3 Run](https://www.suunto.com/en-gb/Support/Product-support/suunto_ambit3_run/suunto_ambit3_run/reference/technical-specifications/).
-
-All of the tracks contain exactly the same issues, which are clearly timing related and were introduced by Suunto in late 2021.
+Whilst it is possible to identify timing issues in Suunto files (missing speeds, early records, late records, missing records) this document is not advocating these fixes in any analysis software. The purpose of this document is simply to draw analogies with timing issues in some Garmin watches.
 
 
 
@@ -35,6 +27,20 @@ Several issues are clearly evident in the screenshot.
 - Speed (solid line) is often missing, but shown as zero in GPS Speedreader.
 - Spikes in position-derived speeds (dotted line), due to timing issues. Records can be "early", or "late".
 - Speed is typically lagging the position-derived speeds by 2 second, almost certainly due to filtering / smoothing.
+
+
+
+### Devices
+
+This brief investigation looks at 3 tracks from 3 different riders:
+
+- Ambit3 Sport, windsurfing - 7 Aug 2023
+- Ambit3 Sport, windsurfing - 1 Mar 2024
+- Ambit3 Run, kitesurfing - 9 Sep 2024
+
+The Suunto Ambit3 watches use the SiRFstar V, according to the technical specifications of the [Ambit3 Sport](https://www.suunto.com/en-gb/Support/Product-support/suunto_ambit3_sport/suunto_ambit3_sport/reference/technical-specifications/) and [Ambit3 Run](https://www.suunto.com/en-gb/Support/Product-support/suunto_ambit3_run/suunto_ambit3_run/reference/technical-specifications/).
+
+All of the tracks contain exactly the same issues, which are clearly timing related and were introduced by Suunto in late 2021.
 
 
 
@@ -157,19 +163,17 @@ The way that the speed data lags behind position-derived speeds is rather suspic
 
 
 
-There appears to be a constant lag of 2 seconds, which usually indicates the speed is being filtered / smoothed.
-
-In many cases this behavior is also indicative of speeds being calculated from the latitude and longitude, so not the Doppler-derived speeds.
+There appears to be a constant lag of 2 seconds, which usually indicates the speed is being filtered / smoothed. In most cases this behavior is also indicative of speeds being calculated from latitude and longitude, so not the Doppler-derived speeds.
 
 
 
 ### Discussion
 
-This document shows the obvious data issues for the Suunto Ambit3 watches, many of which are related to timing.
+This document shows the obvious data issues for the Suunto Ambit3 watches, most of which are related to timing issues.
 
-It is perhaps worth considering the Suunto issues and how they relate to the timing issues on the Garmin Forerunner 255. Whereas Suunto drops entire records (or fields) when timing issues occur, Garmin persists the previous field values due to the design of their FIT writer.
+It is perhaps worth considering the Suunto issues and how they relate to the timing issues on the Garmin Forerunner 255. Whereas Suunto drops entire records (or fields) when timing issues occur, Garmin persists the previous field values due to the design + implementation of their FIT writer.
 
-Whilst it is possible to identify Suunto issues in FIT files (missing speeds, early records, late records, missing records) this document is not advocating these fixes in any analysis software. The purpose of this document is simply to draw analogies with timing issues in some Garmin watches.
+Whilst it is possible to identify timing issues in Suunto files (missing speeds, early records, late records, missing records) this document is not advocating these fixes in any analysis software. The purpose of this document is simply to draw analogies with timing issues in some Garmin watches.
 
 The early / late / missing issues discussed throughout this document are also evident in some Garmin FIT files, but the symptoms are slightly different. The FIT writer in Garmin watches persists field values in the absence of any updates, so the effects of timing issues are far less dramatic.
 
