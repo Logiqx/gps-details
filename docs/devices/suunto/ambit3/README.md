@@ -177,4 +177,4 @@ Whilst it is possible to identify timing issues in Suunto files (missing speeds,
 
 The early / late / missing issues discussed throughout this document are also evident in some Garmin FIT files, but the symptoms are slightly different. The FIT writer in Garmin watches persists field values in the absence of any updates, so the effects of timing issues are far less dramatic.
 
-Taking a holistic view of timing issues in sports watches may prove to be beneficial.
+Due to the obvious parallels, taking an holistic view of timing issues in sports watches may prove to be beneficial.
