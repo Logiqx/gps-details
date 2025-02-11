@@ -1,6 +1,6 @@
 ## Locosys
 
-### Information
+### Investigations
 
 This page includes topics relating to the Locosys devices.
 

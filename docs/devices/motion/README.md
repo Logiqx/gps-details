@@ -1,6 +1,6 @@
 ## Motion
 
-### Thoughts
+### Investigations
 
 This page includes a number of topics relating to the Motion Mini:
 

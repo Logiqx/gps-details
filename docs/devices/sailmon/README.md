@@ -1,6 +1,6 @@
 ## Sailmon Observations
 
-### Introduction
+### Summary
 
 I have documented my observations of data from the Sailmon Max, so they can be fed back to the Sailmon developers.
 
