@@ -59,6 +59,6 @@ In the interests of saving myself some time, subtle differences have not been wr
 This is document is a quick illustration of two obvious issues affecting the Apple Watch Ultra.
 
 - Lack of speed data during initial periods of acceleration
-- Identical speeds being recorded for multiple seconds, suggesting duty cycling or filtering.
+- Identical speeds being recorded for multiple seconds, suggesting timing issues, duty cycling or filtering.
 
 Neither of these issues should be evident if a GPS device is faithfully recording speed data.

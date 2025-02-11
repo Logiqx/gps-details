@@ -69,7 +69,11 @@ The position-derived speeds (dotted blue line) are based on the recorded changes
 
 ![ghosts](img/ghosts.png)
 
-This particular example is from an Apple Watch Ultra. It is unclear whether this is a common issue, or a one-off.
+
+
+The data shown above is from an Apple Watch Ultra, and so is the data below where speed was missing during periods of acceleration.
+
+![acceleration](img/acceleration.png)
 
 
 
