@@ -163,7 +163,7 @@ The way that the speed data lags behind position-derived speeds is rather suspic
 
 
 
-There appears to be a constant lag of 2 seconds, which usually indicates the speed is being filtered / smoothed. In most cases this behavior is also indicative of speeds being calculated from latitude and longitude, so not the Doppler-derived speeds.
+There appears to be a constant lag of 2 seconds, which usually indicates the speed is being filtered / smoothed. In sports watches this behavior can also be indicative of speeds being calculated from latitude and longitude, so not the Doppler-derived speeds.
 
 
 
