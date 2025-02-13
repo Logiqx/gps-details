@@ -76,4 +76,5 @@ Notes:
     - [TechInsights](https://www.techinsights.com/blog/apple-iphone-xs-max-teardown) believe it to be the Intel [XMM7560](https://www.intel.com/content/www/us/en/products/docs/wireless-products/mobile-communications/xmm-7560-brief.html) LTE Advanced Pro 4G LTE Baseband Processor
     - Intel [XMM7560](https://www.intel.com/content/www/us/en/products/docs/wireless-products/mobile-communications/xmm-7560-brief.html) was used in the iPhone 8 and X, which were both released in Nov 2017.
 - [Where is a navigation chip in my iPhone?](https://medium.com/@ilyakorogodin/where-is-a-navigation-chip-in-my-iphone-92ab55a61863) by Ilya Korogodin, 9 May 2022
+- [Apple Watch 7 - new GPS & Wi-Fi Chips - What it means](https://the5krunner.com/2021/09/16/apple-watch-7-new-gps-chip-what-it-means/) by the the5krunner, 2021
 
