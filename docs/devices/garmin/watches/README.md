@@ -22,9 +22,9 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 
 | Series                  | Model                                  | Multi-Band |
 | ----------------------- | -------------------------------------- | :--------: |
-| [fēnix](fenix.md)       | fēnix E                                |     -      |
-|                         | fēnix 8 - Sapphire Solar               |     Y      |
+| [fēnix](fenix.md)       | fēnix 8 - Sapphire Solar               |     Y      |
 |                         | fēnix 8 - AMOLED                       |     Y      |
+|                         | fēnix E                                |     -      |
 |                         | fēnix 7 - Pro Sapphire Solar           |     Y      |
 |                         | fēnix 7 - Pro Solar                    |     Y      |
 |                         | fēnix 7 - Sapphire Solar               |     Y      |
@@ -38,7 +38,10 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 |                         | quatix 7 - Sapphire                    |     Y      |
 |                         | quatix 7X - Solar                      |     -      |
 |                         | quatix 7                               |     -      |
-| [tactix](tactix.md)     | tactix 7 - AMOLED                      |     Y      |
+| [tactix](tactix.md)     | tactix 8 - Solar Elite                 |     Y      |
+|                         | tactix 8 - Solar                       |     Y      |
+|                         | tactix 8 - AMOLED                      |     Y      |
+|                         | tactix 7 - AMOLED                      |     Y      |
 |                         | tactix 7 - Pro Ballistics              |     Y      |
 |                         | tactix 7 - Pro                         |     Y      |
 |                         | tactix 7                               |     -      |
