@@ -35,7 +35,7 @@ This table is a summary of the COROS firmware releases since the beginning of 20
 | [3.0708.0](3.0708.0/README.md) | - | - | 😊🤙 | 😊🤙 | 😡👎 | 😡👎 |
 | [3.0706.0](3.0706.0/README.md) beta | - | - | 😊🤙 | 😊🤙 | 😡👎 | 😡👎 |
 | [3.0510.0](3.0510.0/README.md) | - | - | 😐🤞 | 😐🤞 | 😐🤞 | 😐🤞 |
-| 3.0508.0219 beta | 😊🤙 | ? | - | - | - | - |
+| [3.0508.0219](3.0508.0219/README.md) beta | 😊🤙 | ? | - | - | - | - |
 | [3.0508.0](3.0508.0/README.md) | 😡👎 | 😡👎 | 😐🤞 | 😐🤞 | 😐🤞 | 😐🤞 |
 | [3.0506.0](3.0506.0/README.md) beta | - | - | 😐🤞 | 😐🤞 | 😐🤞 | 😐🤞 |
 | [3.0409.0](3.0409.0/README.md) | 😊🤙 | 😊🤙 | 😡👎 | 😡👎 | 😡👎 | 😡👎 |
@@ -65,7 +65,8 @@ The official COROS release notes are often out of date and do not mention any of
 - [APEX 2](https://support.coros.com/hc/en-us/articles/20087491155092-COROS-APEX-2-Release-Notes)
 - [APEX 2 Pro](https://support.coros.com/hc/en-us/articles/20087492454932-COROS-APEX-2-Pro-Release-Notes)
 - [VERTIX](https://support.coros.com/hc/en-us/articles/20086432465044-COROS-VERTIX-Release-Notes)
-- [VERTIX 2 / 2S](https://support.coros.com/hc/en-us/articles/20087327564820-COROS-VERTIX-2-Release-Notes)
+- [VERTIX 2](https://support.coros.com/hc/en-us/articles/20087327564820-COROS-VERTIX-2-Release-Notes)
+- [VERTIX 2S](https://support.coros.com/hc/en-us/articles/29019524935188-COROS-VERTIX-2S-Release-Notes)
 
 
 
