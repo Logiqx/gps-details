@@ -12,6 +12,7 @@ General advice and guidance for COROS watches is in another GitHub repo.
 
 This project is work in progress and there are more things to be documented.
 
+- [Repeating speeds](swinging/README.md) - 16 Mar 2025
 - [Firmware](firmware/README.md) behaviors - 22 Sep 2024
 - [FIT](fit/README.md) files - 22 Sep 2024
 
