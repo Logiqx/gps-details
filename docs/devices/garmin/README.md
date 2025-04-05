@@ -13,7 +13,7 @@ General advice and guidance for Garmin watches is in another GitHub repo.
 This project is work in progress and there are more things to be documented.
 
 - [Garmin watches](watches/README.md)
-- [Product Codes](products/README.md)
+- [Product codes](products/README.md)
 - [Developer tips](developer/README.md)
 
 

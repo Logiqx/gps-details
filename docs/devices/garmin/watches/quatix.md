@@ -14,8 +14,8 @@ The various models are listed in reverse-chronological order. The release dates 
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| quatix 7 - Pro | 2023-11 | 5.0.0 | 4313 | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-6D76A13F-2195-4287-9B0C-2124AECF9717/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-| quatix 7 - Sapphire | 2022-04 | 5.0.0 | 3943, 3944 | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-61792F90-CAB8-4B7C-954A-1E1A080A6FB6/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| quatix 7 Pro | 2023-11 | 5.0.0 | 4313 | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-6D76A13F-2195-4287-9B0C-2124AECF9717/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| quatix 7 Sapphire | 2022-04 | 5.0.0 | 3943, 3944 | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-61792F90-CAB8-4B7C-954A-1E1A080A6FB6/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 | quatix 7X Solar | 2022-04 | 5.0.0 | 3907, 3910, 4135, 4341 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-6D76A13F-2195-4287-9B0C-2124AECF9717/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 | quatix 7 | 2022-04 | 5.0.0 | 3906, 3909 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-6D76A13F-2195-4287-9B0C-2124AECF9717/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 
