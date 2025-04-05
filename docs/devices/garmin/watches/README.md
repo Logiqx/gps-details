@@ -76,7 +76,8 @@ Note \* - The Instinct Crossover is not supported by [APPro Windsurf](https://ap
 
 | Series                      | Model        | Multi-Band |
 | --------------------------- | ------------ | :--------: |
-| [vívoactive](vivoactive.md) | vívoactive 5 |     -      |
+| [vívoactive](vivoactive.md) | vívoactive 6 |     -      |
+|                             | vívoactive 5 |     -      |
 | [Venu](venu.md)             | Venu 3 / 3S  |     -      |
 |                             | Venu Sq 2    |     -      |
 
