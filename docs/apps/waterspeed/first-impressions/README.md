@@ -10,13 +10,13 @@ Created: 6 Apr 2025
 
 The Android app looks nice and the data sync works well.
 
-This document will focus on suggestions / feedback.
+This document will focus on suggestions / feedback and use numbered section headings for clarity.
 
 
 
-### New Sessions
+### 1. New Sessions
 
-#### Sport Type
+#### 1.1 Sport Type
 
 It would be very useful if sessions were to detect the sport / craft type, when imported from Garmin FIT files.
 
@@ -50,15 +50,15 @@ It would be very useful if sessions were to detect the sport / craft type, when 
 
 
 
-#### Activity Type
+#### 1.2 Activity Type
 
 It would also be good to be able to choose a default activity type (e.g. Training) and default feeling (e.g. cheery) for imports.
 
 
 
-### Speed Results
+### 2. Speed Results
 
-#### Minor Differences
+#### 2.1 Minor Differences
 
 It has been noted that there are often differences between the results calculated by Waterspeed and dedicated speedsurfing software / websites such as GPSResults + GPSAR + GPS Speedreader. This often affects 2s, 5s, 10s the most and sometimes ± half a knot which may be significant.
 
@@ -66,7 +66,7 @@ Since Waterspeed reports the max speed reported by the GPS, it is assumed that i
 
 
 
-#### Major Differences
+#### 2. 2 Major Differences
 
 5 x 10s is the primary ranking on GPS-Speedsurfing (and related websites), but major differences are often apparent in Waterspeed.
 
@@ -78,9 +78,9 @@ In the following example, Waterspeed is reporting an average of 19.5 kts, which 
 
 
 
-### Usability / Cosmetic
+### 3. Usability / Cosmetic
 
-#### Word Wrap
+#### 3.1 Word Wrap
 
 The sessions list would benefit from an intelligent word wrap.
 
@@ -88,17 +88,17 @@ e.g. "Weymouth and Portland" \<new line> "Windsurfing", instead of a line saying
 
 ![word-wrap](img/word-wrap.png)
 
-#### Position within Sessions
+#### 3.2 Position within Sessions
 
 After viewing an individual session then closing it, the previous position in the list of sessions is lost.
 
 It's quite disorienting to the user and makes browsing of sessions difficult.
 
-Ideally the session list should restore it's prior state, looking just like it was prior to viewing an individual session.
+Ideally the session list should restore its prior state, looking just like it was prior to viewing an individual session.
 
 
 
-#### Sport Filter
+#### 3.3 Sport Filter
 
 It would be convenient if the search / filter only listed the sports which are actually present for the user, not all sports.
 
@@ -106,9 +106,9 @@ e.g. windsurfing, windfoiling, wingfoiling for myself
 
 
 
-### Enhancements
+### 4. Enhancements
 
-#### Watch Type / Model
+#### 4.1 Watch Type / Model
 
 I do a lot of device testing and often wearing multiple watches. It would be really helpful is the watch model were to be shown in the session, perhaps beneath the wind strength / direction. It is possible to determine the latest descriptions for Garmin watches using the JSON data from their Connect IQ SDK, which for convenience I have uploaded to [GitHub](https://logiqx.github.io/gps-details/devices/garmin/products/).
 
@@ -116,7 +116,7 @@ I do a lot of device testing and often wearing multiple watches. It would be rea
 
 
 
-#### 250 meters
+#### 4.2 Speed over 250 meters
 
 A very popular speed category for official events on GPS Speedsurfing (and related websites) is 250 meters.
 
@@ -126,7 +126,7 @@ Perhaps 250 meters results can be added to Waterspeed?
 
 
 
-### GPX Export
+### 5. GPX Export
 
 The GPX export is compliant with the relevant schemas, but fails to validate because of an HTTP re-direct:
 
