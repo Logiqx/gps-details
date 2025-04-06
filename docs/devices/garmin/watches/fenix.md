@@ -6,6 +6,8 @@ This page lists the GNSS chipsets that are used in the Garmin fēnix watches.
 
 The history of the fēnix (and epix) has been summarised in an [article](https://www.dcrainmaker.com/2023/12/garmin-fenix7-epix-release-history-explained.html) by DC Rainmaker.
 
+The fēnix E is essentially a re-packaged epix (Gen 2) - 47 mm, but with newer system software.
+
 The various models are listed in reverse-chronological order. The release dates are generally from [Wikipedia](https://en.wikipedia.org/wiki/Garmin_Fenix#Models).
 
 
@@ -14,31 +16,29 @@ The various models are listed in reverse-chronological order. The release dates 
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| fēnix 8 - 51 mm - Solar | 2024-08 | 5.0.0 | 4533, 4776 | AG3335M | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1389491/pn/010-02906-21#specs) |
+| fēnix 8 - 51 mm - Solar | 2024-08 | 5.0.0 | 4533 | AG3335M | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1389491/pn/010-02906-21#specs) |
 | fēnix 8 - 47 mm - Solar | 2024-08 | 5.0.0 | 4532 | AG3335M | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1389491/pn/010-02906-21#specs) |
-| fēnix 8 - 51 mm - AMOLED | 2024-08 | 5.0.0 | 4536, 4775 | AG3335M | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
-| fēnix 8 - 47 mm - AMOLED | 2024-08 | 5.0.0 | 4536, 4775 | AG3335M | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
+| fēnix 8 - 51 mm - AMOLED | 2024-08 | 5.0.0 | 4536 | AG3335M | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
+| fēnix 8 - 47 mm - AMOLED | 2024-08 | 5.0.0 | 4536 | AG3335M | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
 | fēnix 8 - 43 mm - AMOLED | 2024-08 | 5.0.0 | 4534 | AG3335M | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
-| fēnix E \* | 2024-08 | 5.0.0 | 4666 | AG3335MN | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1652337/pn/010-03025-00#specs) |
+| fēnix E | 2024-08 | 5.0.0 | 4666 | AG3335MN | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1652337/pn/010-03025-00#specs) |
 | fēnix 7X - Pro Sapphire Solar | 2023-05 | 5.0.0 | 4376 | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
 | fēnix 7 - Pro Sapphire Solar | 2023-05 | 5.0.0 | 4375 | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
 | fēnix 7S - Pro Sapphire Solar | 2023-05 | 5.0.0 | 4374 | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
 | fēnix 7X - Pro Solar | 2023-05 | 5.0.0 | 4376 | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
 | fēnix 7 - Pro Solar | 2023-05 | 5.0.0 | 4375 | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
 | fēnix 7S - Pro Solar | 2023-05 | 5.0.0 | 4374 | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
-| fēnix 7X - Sapphire Solar | 2022-01 | 5.0.0 | 3907 | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
+| fēnix 7X - Sapphire Solar | 2022-01 | 5.0.0 | 3907, 3910 | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
 | fēnix 7 - Sapphire Solar | 2022-01 | 5.0.0 | 3906, 3909 | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
 | fēnix 7S - Sapphire Solar | 2022-01 | 5.0.0 | 3905, 3908 | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
-| fēnix 7X - Solar | 2022-01 | 5.0.0 | 3907, 3910, 4135, 4341 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html)<br />F Tipi [teardown](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/) |
+| fēnix 7X - Solar | 2022-01 | 5.0.0 | 3907, 3910 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html)<br />F Tipi [teardown](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/) |
 | fēnix 7 - Solar | 2022-01 | 5.0.0 | 3906, 3909 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
 | fēnix 7S - Solar | 2022-01 | 5.0.0 | 3905, 3908 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html)<br />element14 [teardown](https://youtu.be/vb8yyu8En1o?t=485) |
-| fēnix 7X | 2022-01 | 5.0.0 | 3907, 3910, 4135, 4341 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
+| fēnix 7X | 2022-01 | 5.0.0 | 3907, 3910 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
 | fēnix 7 | 2022-01 | 5.0.0 | 3906, 3909 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
 | fēnix 7S | 2022-01 | 5.0.0 | 3905, 3908 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
 
-\* - The fēnix E is essentially a re-packaged epix (Gen 2) - 47 mm.
-
-Alternative product number(s) may be similar models.
+Alternative product number(s) are APAC variants.
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
