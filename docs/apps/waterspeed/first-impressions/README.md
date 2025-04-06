@@ -66,7 +66,7 @@ Since Waterspeed reports the max speed reported by the GPS, it is assumed that i
 
 
 
-#### 2. 2 Major Differences
+#### 2.2 Major Differences
 
 5 x 10s is the primary ranking on GPS-Speedsurfing (and related websites), but major differences are often apparent in Waterspeed.
 
