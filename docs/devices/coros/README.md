@@ -22,6 +22,7 @@ This project is work in progress and there are more things to be documented.
 
 This project is work in progress and new articles are added periodically.
 
+- [Alignment issues](alignment/README.md) - 5 Apr 2025
 - [Sony traits](sony/README.md) - 1 Jan 2025
 - [Windsurfing vs speedsurfing](windsurfing/README.md) - 28 Aug 2024
 - [Smoothing update](smoothing/update.md) - 22 Aug 2024
