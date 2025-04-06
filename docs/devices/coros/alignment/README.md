@@ -29,23 +29,25 @@ Two significant issues are apparent in the data:
 
 The calculation of alpha 500 results on GP3S relies upon positional data and speed data. The alignment issue / temporal offset causes alpha 500 results on GP3S to be completely wrong.
 
-A similar alignment / temporal offset issues have been present on the APEX 2 / APEX 2 Pro / VERTIX 2 for several years. The original document describing the issue referred to these bogus results as [fantasy alphas](../alpha/README.md).
+Similar alignment / temporal offset issues have been present on the APEX 2 / APEX 2 Pro / VERTIX 2 for several years. The original document describing the issue referred to these bogus results as [fantasy alphas](../alpha/README.md).
 
 
 
 #### Distance
 
-The speed surfing world integrates the speed data to calculate the total distance travelled. Since lots of speed data is not being recorded by this firmware (due to the alignment issue), distances are coming up short on GP3S; 38 km instead of 50 km.
+The speed surfing world integrates the speed data to calculate the total distance travelled. Since lots of speed data is not being recorded by this firmware (due to the alignment issue), distances are coming up short on GP3S; 38 km instead of 50 km for this particular session.
+
+
+
+### Testing
+
+Since this issue is intermittent it is very difficult to test and diagnose. It's not happened to me personally, but the issue affects many others at random.
 
 
 
 ### Remedy
 
-It is conceivable that this issue relates to the stitching together of NMEA sentences such as GGA and VTG, or some other combination.
-
-It is unique to COROS watches such as the APEX 2 / APEX 2 Pro / VERTIX 2 and not seen on Garmin watches using the same Airoha chipsets.
-
-Since it is intermittent it is very difficult to test. It's not happened to me personally, but the issue affects many others at random.
+It is conceivable that the underlying issue relates to the stitching together of NMEA sentences such as GGA and VTG, or some other combination. It is unique to APEX 2 / APEX 2 Pro / VERTIX 2 and has never been seen on Garmin watches using the same Airoha chipsets.
 
 
 
