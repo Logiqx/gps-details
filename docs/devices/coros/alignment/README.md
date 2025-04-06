@@ -47,9 +47,9 @@ Since this issue is intermittent it is very difficult to test and diagnose. It's
 
 ### Remedy
 
-It is conceivable that the underlying issue relates to the stitching together of NMEA sentences such as GGA and VTG, or some other combination. It is unique to APEX 2 / APEX 2 Pro / VERTIX 2 and has never been seen on Garmin watches using the same Airoha chipsets.
+It is conceivable that the underlying issue relates to the stitching together of NMEA sentences such as GGA and VTG, or some other combination. It is unique to APEX 2 / APEX 2 Pro / VERTIX 2 and has never been seen on Garmin watches using the same Airoha chipsets. I’m also conscious that the firmware issues during the latter half of 2024 were after an attempt to fix the original alignment issue, so due care is required.
 
-
+ 
 
 ### Reference
 
