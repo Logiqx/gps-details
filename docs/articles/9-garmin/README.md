@@ -48,7 +48,7 @@ This table should help you to identify the most suitable Garmin watches within y
 
 #### Forerunner 165
 
-![Forerunner-165-product-family-768x282](img/Forerunner-165-product-family-768x282.png)
+![Forerunner-165-product-family-768x282](img/Forerunner-165-product-family-768x282.jpg)
 
 The Forerunner 165 is the cheapest option worth considering and has an AMOLED display.
 
@@ -78,7 +78,7 @@ It is the only watch in this lineup without multi-band GNSS, making it unsuitabl
 
 #### Forerunner 255
 
-![forerunner255-all-m](img/forerunner255-all-m.webp)
+![forerunner255-all-m](img/forerunner255-all-m.jpg)
 
 This watch supersedes the Forerunner 245 which had a much less capable Sony GNSS chipset. It is the cheapest Garmin with support for multi-band GNSS.
 
@@ -137,7 +137,7 @@ The Instinct 2X is a great value rugged watch with multi-band GNSS. The Instinct
 
 #### Forerunner 955
 
-![46824-M-FR955-family](img/46824-M-FR955-family.webp)
+![46824-M-FR955-family](img/46824-M-FR955-family.jpg)
 
 The Forerunner 955 supersedes the 945 which used a much less capable Sony GNSS chipset.
 
@@ -197,7 +197,7 @@ There are two sizes (46 mm and 42 mm). These are the specifications for the 46 m
 
 #### Instinct 3 AMOLED
 
-![Instinct-3-768x320](img/Instinct-3-768x320.png)
+![Instinct-3-768x320](img/Instinct-3-768x320.jpg)
 
 This is the cheapest rugged watch and has an AMOLED display. There is a MIP version, but the display is a lot nicer on the AMOLED model (imho).
 
@@ -256,7 +256,7 @@ It's battery performance is not as good as the Instinct 3 AMOLED and it is not a
 
 #### fēnix 7 Pro
 
-![fenix-7-Pro-Series-768x467](img/fenix-7-Pro-Series-768x467.png)
+![fenix-7-Pro-Series-768x467](img/fenix-7-Pro-Series-768x467.jpg)
 
 The fēnix 7 Pro has recently been superseded by the fēnix 8, so the discounted price makes it an excellent purchase.
 
@@ -288,7 +288,7 @@ There are three sizes of the fēnix Pro; 7S (42 mm), 7 (47 mm) and 7X (51 mm). T
 
 #### epix Pro (Gen 2)
 
-![epix-Pro-Series-768x446](img/epix-Pro-Series-768x446.png)
+![epix-Pro-Series-768x446](img/epix-Pro-Series-768x446.jpg)
 
 The epix Pro (Gen 2) is essentially a fēnix 7 Pro with an AMOLED display.
 
