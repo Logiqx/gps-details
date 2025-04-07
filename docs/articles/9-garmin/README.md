@@ -1,4 +1,4 @@
-## Choosing a Garmin for Watersports
+## Which Garmin for Watersports?
 
 ### Introduction
 
@@ -14,9 +14,13 @@ Budget is probably the main consideration but there will be additional factors:
 - Watch size - bigger watches suit bigger wrists, but have larger screens and longer battery life
 - Some watches such as the fēnix and eipx have have premium models with titanium bezel
 
-Note about multi-band requirement for GP3S and SatIQ.
+Note about multi-band requirement for GP3S and GPS Team Challenge. Beware SatIQ.
 
 There is a quick comparison, and detailed information.
+
+- Forerunner, Instinct, fēnix and epix.
+
+Prices are for the UK
 
 Link to my Garmin guide.
 
@@ -46,25 +50,25 @@ This table should help you to identify the most suitable Garmin watches within y
 
 ![Forerunner-165-product-family-768x282](img/Forerunner-165-product-family-768x282.png)
 
-The Forerunner 165 is the cheapest option worth considering with an AMOLED display.
+The Forerunner 165 is the cheapest option worth considering and has an AMOLED display.
 
-It is the only watch in this lineup that does not support multi-band GNSS, making it unsuitable for GPS-Speedsurfing.com.
+It is the only watch in this lineup without multi-band GNSS, making it unsuitable for GPS-Speedsurfing.com and GPS Team Challenge.
 
-Price
+**Price**
 
 - £249.99 RRP, widely available for £200-ish
 
-Size
+**Size**
 
 - 43 x 43 x 11.6 mm
 - 30.4 mm (1.2") AMOLED display, 390 x 390 pixels
 
-Battery
+**Battery**
 
 - 11 days (5 days display always-on)
 - All-Systems GNSS mode: Up to 17 hours
 
-Links
+**Links**
 
 - [Press release](https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/light-up-your-run-with-the-garmin-forerunner-165-series-easy-to-use-gps-running-smartwatches-with-vibrant-amoled-displays/)
 - [Product page](https://www.garmin.com/en-GB/p/1055469)
@@ -80,22 +84,22 @@ This watch supersedes the Forerunner 245 which had a much less capable Sony GNSS
 
 There are two sizes (255 and 255S), with or without music. These are the specifications for the standard Forerunner 255.
 
-Price
+**Price**
 
 - £229.99 RRP, currently £188.69 at John Lewis
 
-Size
+**Size**
 
 - 45.6 x 45.6 x 12.9 mm
 - 33 mm (1.3″) MIP display, 260 x 260 pixels
 
-Battery
+**Battery**
 
 - Smartwatch mode: up to 14 days
 - All-Systems GNSS mode: Up to 25 hours
 - All-Systems GNSS mode plus Multi-Band: Up to 16 hours
 
-Links
+**Links**
 
 - [Press release](https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/garmin-celebrates-global-running-day-with-the-introduction-of-the-forerunner-255-series/)
 - [Product page](https://www.garmin.com/en-GB/p/780139)
@@ -107,24 +111,24 @@ Links
 
 ![Instinct-2X-768x432](img/Instinct-2X-768x432.jpeg)
 
-The Instinct 2X is a great value rugged watch with multi-band GNSS. It is not to be confused with the Instinct 2 which used a much less capable Sony GNSS chipset.
+The Instinct 2X is a great value rugged watch with multi-band GNSS. The Instinct 2X should not be confused with the Instinct 2 which used a much less capable Sony GNSS chipset. The two main downsides of this watch are the low resolution display and the limited app availability.
 
-Price
+**Price**
 
 - £339.99 RRP, currently £285 on Amazon
 
-Size
+**Size**
 
 - 50 x 50 x 14.5 mm
 - custom, two-window design; 27 x 27 mm (1.1″ x 1.1″) MIP display, 176 x 176 pixels
 
-Battery
+**Battery**
 
-- Smartwatch: 40 days unlimited with solar
+- Smartwatch: 40 days; unlimited with solar
 - All Satellite Systems: 40 hours; 65 hours with solar
 - All Satellite Systems + Multi-Band: 27 hours; 36 hours with solar
 
-Links
+**Links**
 
 - [Press release](https://www.garmin.com/en-US/newsroom/press-release/outdoor/be-bold-with-the-rugged-new-instinct-2x-solar-from-garmin/)
 - [Product page](https://www.garmin.com/en-GB/p/884585)
@@ -135,27 +139,27 @@ Links
 
 ![46824-M-FR955-family](img/46824-M-FR955-family.webp)
 
-Supersedes the 945 which uses a much less capable Sony GNSS chipset.
+The Forerunner 955 supersedes the 945 which used a much less capable Sony GNSS chipset.
 
-Slightly better battery than 255 and more sports / activities, music included. There is also a solar option.
+It has slightly better battery life than the 255, provides more sports / activities, and has music features as standard. There is also a solar option.
 
 The Forerunner 955 can be compared against the Forerunner 255 using this [link](https://www.garmin.com/en-GB/compare/?compareProduct=780139&compareProduct=777655).
 
-Price
+**Price**
 
 - £439.99 RRP, currently £300 on Google
 
-Size
+**Size**
 
 - 46.5 x 46.5 x 14.4 mm
 - 33 mm (1.3″) MIP display, 260 x 260 pixels
 
-Battery
+**Battery**
 
 - Smartwatch mode: Up to 15 days/20 days with solar
 - All Systems GNSS mode plus Multi-Band: Up to 20 hours / 22 hours with solar
 
-Links
+**Links**
 
 - [Press release](https://www.garmin.com/en-US/newsroom/press-release/wearables-health/harness-the-power-of-the-sun-with-the-forerunner-955-solar-from-garmin/)
 - [Product page](https://www.garmin.com/en-GB/p/777655)
@@ -166,25 +170,25 @@ Links
 
 ![Forerunner-265-Series-for-newsroom-768x256](img/Forerunner-265-Series-for-newsroom-768x256.jpeg)
 
-This is the successor to the Forerunner 255, adding an AMOLED display.
+The Forerunner 265 supersedes the  the Forerunner 255 and has an AMOLED display.
 
 There are two sizes (46 mm and 42 mm). These are the specifications for the 46 mm.
 
-Price
+**Price**
 
 - £379.99 RRP, but discounts are likely when the Forerunner 275 is released (soon)
 
-Size
+**Size**
 
 - 46.1 x 46.1 x 12.9 mm
 - 32.5 mm (1.3") AMOLED display, 416 x 416 pixels
 
-Battery
+**Battery**
 
 - Smartwatch mode: Up to 13 days
 - All-Systems GNSS mode + Multi-Band: Up to 14 hours
 
-Links
+**Links**
 
 - [Press release](https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/garmin-adds-amoled-displays-to-its-next-gen-forerunner-265-and-forerunner-965-gps-running-watches/)
 - [Product page](https://www.garmin.com/en-GB/p/886785/)
@@ -195,26 +199,26 @@ Links
 
 ![Instinct-3-768x320](img/Instinct-3-768x320.png)
 
-The cheapest rugged watch with AMOLED display. There is a MIP version, but the display is a lot nicer on the AMOLED model (imho).
+This is the cheapest rugged watch and has an AMOLED display. There is a MIP version, but the display is a lot nicer on the AMOLED model (imho).
 
 There are two sizes (50 mm and 45 mm). These are the specifications for the 50 mm.
 
-Price
+**Price**
 
 - £429.99 RRP
 
-Size
+**Size**
 
 - 50 x 50 x 14.4 mm
 - 33 mm (1.3″) AMOLED display, 416 x 416 pixels
 
-Battery
+**Battery**
 
 - Smartwatch: Up to 24 days (9 days always-on)
 - All Satellite Systems: Up to 32 hours
 - All Satellite Systems + Multi-Band: Up to 30 hours with SatIQ
 
-Links
+**Links**
 
 - [Press release](https://www.garmin.com/en-US/newsroom/press-release/outdoor/introducing-the-instinct-3-series-from-garmin-rugged-smartwatches-now-with-amoled-displays/)
 - [Product page](https://www.garmin.com/en-GB/p/1316397)
@@ -225,25 +229,25 @@ Links
 
 ![Forerunner-965-family-for-newsroom-768x428](img/Forerunner-965-family-for-newsroom-768x428.jpeg)
 
-This is the successor to the Forerunner 955, adding an AMOLED display.
+The Forerunner 965 supersedes the Forerunner 955 and has an AMOLED display.
 
-Battery not as good as the Instinct 3 AMOLED and not as rugged.
+It's battery performance is not as good as the Instinct 3 AMOLED and it is not as rugged, but it looks and feels sleeker.
 
-Price
+**Price**
 
 - £499.99 RRP, but discounts are likely when the Forerunner 975 is released (soon)
 
-Size
+**Size**
 
 - 47.1 x 47.1 x 13.2 mm
 - 35.4 mm (1.4") AMOLED display, 454 x 454 pixels
 
-Battery
+**Battery**
 
 - Smartwatch mode: Up to 23 days
 - All-Systems GNSS mode + Multi-Band: Up to 19 hours
 
-Links
+**Links**
 
 - [Press release](https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/garmin-adds-amoled-displays-to-its-next-gen-forerunner-265-and-forerunner-965-gps-running-watches/)
 - [Product page](https://www.garmin.com/en-GB/p/886725)
@@ -254,28 +258,28 @@ Links
 
 ![fenix-7-Pro-Series-768x467](img/fenix-7-Pro-Series-768x467.png)
 
-The fēnix 7 Pro has recently been superseded by the fēnix 8, so it is now heavily discounted and an excellent buy.
+The fēnix 7 Pro has recently been superseded by the fēnix 8, so the discounted price makes it an excellent purchase.
 
 There is a standard edition with Power Glass™ screen and stainless steel bezel, or sapphire edition with Sapphire crystal screen and titanium bezel. The non-Pro versions of fēnix 7 do not support multi-band GNSS, so the Instinct 3 AMOLED would probably be a better choice.
 
-There are three sizes in total; fēnix 7S Pro (42 mm), 7 Pro (47 mm) and 7X Pro (51 mm). These are the specifications for the fēnix 7 Pro (47 mm).
+There are three sizes of the fēnix Pro; 7S (42 mm), 7 (47 mm) and 7X (51 mm). These are the specifications for the fēnix 7 Pro (47 mm).
 
-Price
+**Price**
 
 - £579.99 RRP, currently £525 at John Lewis
 
-Size
+**Size**
 
 - 47 x 47 x 14.5 mm
 - 33 mm (1.3″) MIP display, 260 x 260 pixels
 
-Battery
+**Battery**
 
 - Smartwatch: Up to 18 days / 22 days with solar
 - All Satellite Systems: Up to 40 hours / 48 hours with solar
 - All Satellite Systems + Multi-band: Up to 23 hours / 26 hours with solar
 
-Links
+**Links**
 
 - [Press release](https://www.garmin.com/en-US/newsroom/press-release/outdoor/garmin-unveils-next-gen-fenix-7-pro-series/)
 - [Product page](https://www.garmin.com/en-GB/p/865822)
@@ -292,22 +296,22 @@ There is a standard edition with Corning® Gorilla® Glass screen and stainless 
 
 There are three different sizes of the epix Pro (Gen 2); 42, 47, and 51 mm. These are the specifications for the epix Pro (Gen 2) - 47 mm.
 
-Price
+**Price**
 
 - £739.99 RRP, currently £509 at John Lewis
 
-Size
+**Size**
 
 - 47 x 47 x 14.5 mm
 - 33 mm (1.3″) AMOLED display, 416 x 416 pixels
 
-Battery
+**Battery**
 
 - Smartwatch: Up to 16 days (6 days always-on)
 - All Satellite Systems: Up to 32 hours (24 hours always-on)
 - Satellite Systems + Multi-band: Up to 20 hours (15 hours always-on)
 
-Links
+**Links**
 
 - [Press release](https://www.garmin.com/en-US/newsroom/press-release/outdoor/conquer-every-day-and-every-adventure-with-epix-pro-series-from-garmin/)
 - [Product page](https://www.garmin.com/en-GB/p/884292)
