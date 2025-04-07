@@ -16,6 +16,8 @@ Budget is probably the main consideration but there will be additional factors:
 
 Note about multi-band requirement for GP3S and SatIQ.
 
+There is a quick comparison, and detailed information.
+
 Link to my Garmin guide.
 
 
@@ -80,7 +82,7 @@ There are two sizes (255 and 255S), with or without music. These are the specifi
 
 Price
 
-- £229.99 RRP, £188.69 at John Lewis
+- £229.99 RRP, currently £188.69 at John Lewis
 
 Size
 
@@ -109,7 +111,7 @@ The Instinct 2X is a great value rugged watch with multi-band GNSS. It is not to
 
 Price
 
-- £339.99 RRP, £285 on Amazon
+- £339.99 RRP, currently £285 on Amazon
 
 Size
 
@@ -141,7 +143,7 @@ The Forerunner 955 can be compared against the Forerunner 255 using this [link](
 
 Price
 
-- £439.99 RRP, £300 on Google
+- £439.99 RRP, currently £300 on Google
 
 Size
 
@@ -170,7 +172,7 @@ There are two sizes (46 mm and 42 mm). These are the specifications for the 46 m
 
 Price
 
-- £379.99 RRP, but discounts are likely when the 275 is released (soon)
+- £379.99 RRP, but discounts are likely when the Forerunner 275 is released (soon)
 
 Size
 
@@ -229,7 +231,7 @@ Battery not as good as the Instinct 3 AMOLED and not as rugged.
 
 Price
 
-- £499.99 RRP, but discounts are likely when the 975 is released (soon)
+- £499.99 RRP, but discounts are likely when the Forerunner 975 is released (soon)
 
 Size
 
@@ -252,13 +254,15 @@ Links
 
 ![fenix-7-Pro-Series-768x467](img/fenix-7-Pro-Series-768x467.png)
 
-There is a standard edition with Power Glass™ screen and stainless steel bezel, or sapphire edition with Sapphire crystal screen and titanium bezel.
+The fēnix 7 Pro has recently been superseded by the fēnix 8, so it is now heavily discounted and an excellent buy.
 
-There are three sizes - fēnix 7S Pro (42 mm), 7 Pro (47 mm) and 7X Pro (51 mm), but these are the specifications for the fēnix 7 Pro (47 mm).
+There is a standard edition with Power Glass™ screen and stainless steel bezel, or sapphire edition with Sapphire crystal screen and titanium bezel. The non-Pro versions of fēnix 7 do not support multi-band GNSS, so the Instinct 3 AMOLED would probably be a better choice.
+
+There are three sizes in total; fēnix 7S Pro (42 mm), 7 Pro (47 mm) and 7X Pro (51 mm). These are the specifications for the fēnix 7 Pro (47 mm).
 
 Price
 
-- £579.99 RRP, £525 at John Lewis
+- £579.99 RRP, currently £525 at John Lewis
 
 Size
 
@@ -278,19 +282,19 @@ Links
 
 
 
-#### epix Pro
+#### epix Pro (Gen 2)
 
 ![epix-Pro-Series-768x446](img/epix-Pro-Series-768x446.png)
 
-This is essentially a fēnix 7 Pro with an AMOLED display.
+The epix Pro (Gen 2) is essentially a fēnix 7 Pro with an AMOLED display.
 
-There is a standard edition with Corning® Gorilla® Glass screen and stainless steel bezel, or sapphire edition with Sapphire crystal screen and titanium bezel.
+There is a standard edition with Corning® Gorilla® Glass screen and stainless steel bezel, or sapphire edition with Sapphire crystal screen and titanium bezel. The non-pro versions of epix (Gen 2) do not support multi-band GNSS, so the Instinct 3 AMOLED would probably be a better choice.
 
-There are three different sizes; 42, 47, and 51 mm. These are the specifications for the epix Pro (Gen 2) - 47 mm.
+There are three different sizes of the epix Pro (Gen 2); 42, 47, and 51 mm. These are the specifications for the epix Pro (Gen 2) - 47 mm.
 
 Price
 
-- £739.99 RRP, £509 at John Lewis
+- £739.99 RRP, currently £509 at John Lewis
 
 Size
 
@@ -312,13 +316,13 @@ Links
 
 ### Related Watches
 
-The quatix 7 (Solar and Pro) and tactix 7 (AMOLED) are essentially the same as the fēnix 7 Pro and epix Pro, but they have not been discounted in the same way.
+The quatix 7 (Solar and Pro) and tactix 7 (AMOLED) are almost identical to the fēnix 7 Pro and epix Pro, but they have not been discounted to the same degree as the various fēnix 7 and epix models.
 
-The fēnix 8 is more suitable for scuba diving, adds voice command and a new interface but carries a hefty price tag. Likewise for the tactix 8 and maybe the (yet to be released) quatix 8.
+If your budget stretches to the fēnix 8, it would more suitable for scuba diving. It also adds voice commands and new software / user interface but it carries a hefty price tag, exceeding £850. The same is true for the tactix 8 and probably applies to the forthcoming quatix 8.
 
-The Enduro 2 and Enduro 3 are akin to the fēnix 7X - Sapphire Solar but with longer battery life. The Enduro 3 also has the newer software interface like the fēnix 8.
+The Enduro 2 and Enduro 3 are akin to the fēnix 7X - Sapphire Solar, but aimed at ultra-runners and providing a much longer battery life. The Enduro 3 also has the newer software / user interface of the fēnix 8.
 
-The Forerunner 275 and 975 is expected to be released in the near future (maybe in May 2025), which will no doubt mean the Forerunner 265 and 965 being discounted.
+The Forerunner 275 and 975 are likely to be released in the near future (perhaps in May 2025), which will likely mean the Forerunner 265 and 965 become discounted and popular choices.
 
 
 
