@@ -2,21 +2,27 @@
 
 ### Introduction
 
-Chipset - Airoha and needs to be multi-band if plan on posting to GP3S
+A few years ago... no decent watches
 
-Ruggedness - running watches are cheaper, but less robust and lower water resistence
+This guide is about getting good value for money.
 
-Screen type - MIP or AMOLED
+Budget is probably the main consideration but there will be additional factors:
 
-Watch size - bigger watches suit bigger wrists, but have larger screens and longer battery life
+- GNSS Chipset - Airoha and needs to be multi-band if plan on posting to GP3S
+- Ruggedness - running watches are cheaper, but less robust and lower water resistence
+- Screen type - MIP or AMOLED
+- Watch size - bigger watches suit bigger wrists, but have larger screens and longer battery life
+- Some watches such as the fēnix and eipx have have premium models with titanium bezel
 
-Note about SatIQ
+Note about multi-band requirement for GP3S and SatIQ.
+
+Link to my Garmin guide.
 
 
 
 ### Quick Comparison
 
-This table should help you to identify Garmin watches that suit your budget, prior to reading any detailed information.
+This table should help you to identify the most suitable Garmin watches within your budget, prior to reading any further details.
 
 |                   |   Deals    |   RRP   | Multi-band | Screen | Water resistence |
 | ----------------- | :--------: | :-----: | :--------: | :----: | :--------------: |
@@ -319,3 +325,5 @@ The Forerunner 275 and 975 is expected to be released in the near future (maybe 
 ### Summary
 
 The Forerunner watches are lightweight and have a water rating of 5 ATM, whilst the Instinct and fenix / epix are rugged watches with a water rating of 10 ATM. There is no sane reason to buy a fenix 8 for £800+ (instead of £500 for a fenix 7 Pro / epix Pro), unless it is for scuba diving.
+
+Link to my Garmin guide.
