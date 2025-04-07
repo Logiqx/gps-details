@@ -1,4 +1,6 @@
+## Choosing a Garmin for Watersports
 
+### Introduction
 
 Chipset - Airoha and needs to be multi-band if plan on posting to GP3S
 
@@ -12,44 +14,33 @@ Note about SatIQ
 
 
 
+### Quick Comparison
 
+This table should help you to identify Garmin watches that suit your budget, prior to reading any detailed information.
 
-### vívoactive 5
-
-![vivoactive-5-family-image-768x347](img/vivoactive-5-family-image-768x347.jpg)
-
-The vívoactive 5 is the cheapest option worth considering and has an AMOLED display.
-
-It has two buttons and is operated via the touchscreen. It does not support multi-band GNSS.
-
-Price
-
-- £229.99 RRP, £188.69 at John Lewis
-
-Size
-
-- 42.2 x 42.2 x 11.1 mm
-- 30.4 mm (1.2") AMOLED display, 390 x 390 pixels
-
-Battery
-
-- Smartwatch mode: Up to 11 days (5 days display always-on)
-- All-Systems GNSS mode: Up to 17 hours
-
-Links
-
-- [Press release](https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/introducing-the-vivoactive-5-gps-smartwatch-from-garmin/)
-- [Product page](https://www.garmin.com/en-GB/p/1057989)
+|                   |   Deals    |   RRP   | Multi-band | Screen | Water resistence |
+| ----------------- | :--------: | :-----: | :--------: | :----: | :--------------: |
+| Forerunner 165    |  £200-ish  | £249.99 |     -      | AMOLED |      5 ATM       |
+| Forerunner 255    |  £200-ish  | £229.99 |     Y      |  MIP   |      5 ATM       |
+| Instinct 2X       | under £300 | £339.99 |     Y      |  MIP   |      10 ATM      |
+| Forerunner 955    |  £300-ish  | £439.99 |     Y      |  MIP   |      5 ATM       |
+| Forerunner 265    |    n/a     | £379.99 |     Y      | AMOLED |      5 ATM       |
+| Instinct 3 AMOLED |    n/a     | £429.99 |     Y      | AMOLED |      10 ATM      |
+| Forerunner 965    |    n/a     | £499.99 |     Y      | AMOLED |      5 ATM       |
+| fēnix 7 Pro       |  £500-ish  | £579.99 |     Y      |  MIP   |      10 ATM      |
+| epix Pro          |  £500-ish  | £739.99 |     Y      | AMOLED |      10 ATM      |
 
 
 
-### Forerunner 165
+### Detailed Information
+
+#### Forerunner 165
 
 ![Forerunner-165-product-family-768x282](img/Forerunner-165-product-family-768x282.png)
 
-The Forerunner 165 is a cheap option worth considering with an AMOLED display.
+The Forerunner 165 is the cheapest option worth considering with an AMOLED display.
 
-It has five buttons like all of the other watches in this article. It does not support multi-band GNSS.
+It is the only watch in this lineup that does not support multi-band GNSS, making it unsuitable for GPS-Speedsurfing.com.
 
 Price
 
@@ -73,7 +64,7 @@ Links
 
 
 
-### Forerunner 255
+#### Forerunner 255
 
 ![forerunner255-all-m](img/forerunner255-all-m.webp)
 
@@ -104,7 +95,7 @@ Links
 
 
 
-### Instinct 2X
+#### Instinct 2X
 
 ![Instinct-2X-768x432](img/Instinct-2X-768x432.jpeg)
 
@@ -132,15 +123,15 @@ Links
 
 
 
-### FR 955
+#### Forerunner 955
 
 ![46824-M-FR955-family](img/46824-M-FR955-family.webp)
 
 Supersedes the 945 which uses a much less capable Sony GNSS chipset.
 
-Slightly better battery than 255 and more activites, music included. Solar option.
+Slightly better battery than 255 and more sports / activities, music included. There is also a solar option.
 
-It can be compared against the Forerunner 255 using this [link](https://www.garmin.com/en-GB/compare/?compareProduct=780139&compareProduct=777655).
+The Forerunner 955 can be compared against the Forerunner 255 using this [link](https://www.garmin.com/en-GB/compare/?compareProduct=780139&compareProduct=777655).
 
 Price
 
@@ -163,8 +154,7 @@ Links
 
 
 
-
-### Forerunner 265
+#### Forerunner 265
 
 ![Forerunner-265-Series-for-newsroom-768x256](img/Forerunner-265-Series-for-newsroom-768x256.jpeg)
 
@@ -193,7 +183,7 @@ Links
 
 
 
-### Instinct 3 AMOLED
+#### Instinct 3 AMOLED
 
 ![Instinct-3-768x320](img/Instinct-3-768x320.png)
 
@@ -223,7 +213,7 @@ Links
 
 
 
-### Forerunner 965
+#### Forerunner 965
 
 ![Forerunner-965-family-for-newsroom-768x428](img/Forerunner-965-family-for-newsroom-768x428.jpeg)
 
@@ -252,8 +242,7 @@ Links
 
 
 
-
-### fēnix 7 Pro
+#### fēnix 7 Pro
 
 ![fenix-7-Pro-Series-768x467](img/fenix-7-Pro-Series-768x467.png)
 
@@ -283,8 +272,7 @@ Links
 
 
 
-
-### epix Pro
+#### epix Pro
 
 ![epix-Pro-Series-768x446](img/epix-Pro-Series-768x446.png)
 
@@ -316,7 +304,7 @@ Links
 
 
 
-### What else?
+### Related Watches
 
 The quatix 7 (Solar and Pro) and tactix 7 (AMOLED) are essentially the same as the fēnix 7 Pro and epix Pro, but they have not been discounted in the same way.
 
@@ -326,3 +314,8 @@ The Enduro 2 and Enduro 3 are akin to the fēnix 7X - Sapphire Solar but with lo
 
 The Forerunner 275 and 975 is expected to be released in the near future (maybe in May 2025), which will no doubt mean the Forerunner 265 and 965 being discounted.
 
+
+
+### Summary
+
+The Forerunner watches are lightweight and have a water rating of 5 ATM, whilst the Instinct and fenix / epix are rugged watches with a water rating of 10 ATM. There is no sane reason to buy a fenix 8 for £800+ (instead of £500 for a fenix 7 Pro / epix Pro), unless it is for scuba diving.
