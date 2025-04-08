@@ -1,28 +1,23 @@
 ## Which Garmin for Watersports?
 
-### Introduction
+I'm often asked for GPS watch recommendations, so I've decided to create a resource focusing on the Garmin products. It's a great time to be buying a GPS watch because there are some great choices, whatever your budget.
 
-A few years ago... no decent watches
+Prior to around 2022, reliable GPS / GNSS performance was only available from specific products, and smart watches were too unreliable for speeds. It's only since late 2022 that this situation began to change, primarily due to new GNSS chipsets and firmware.
 
-This guide is about getting good value for money.
+This guide will not focus on the technicalities of GPS / GNSS accuracy and will simply focus on watches that offer good performance and value for money. Budget will often dictate your choice, but here are some factors to consider:
 
-Budget is probably the main consideration but there will be additional factors:
-
-- GNSS Chipset - Airoha and needs to be multi-band if plan on posting to GP3S
-- Ruggedness - running watches are cheaper, but less robust and lower water resistence
-- Screen type - MIP or AMOLED
+- GNSS Chipset - dictates accuracy and it needs to be multi-band if posting to [GPS-Speedsurfing](https://www.gps-speedsurfing.com/) or [https://www.gpsteamchallenge.com.au/](GPS Team Challenge)
+- Ruggedness - running watches are typically cheaper, but less robust and have lower water resistance
+- Screen type - preference for [MIP or AMOLED](https://lifehacker.com/health/which-is-better-smart-watch-display-mip-vs-amoled)
 - Watch size - bigger watches suit bigger wrists, but have larger screens and longer battery life
-- Some watches such as the fēnix and eipx have have premium models with titanium bezel
+- Flashlight / torch - feature you never knew you needed, until you got it...
 
-Note about multi-band requirement for GP3S and GPS Team Challenge. Beware SatIQ.
+This page includes a quick comparison of the watches, and detailed information.
 
-There is a quick comparison, and detailed information.
+- Forerunner - lightweight running watches, 5 ATM, without flashlight
+- Instinct, fēnix and epix - rugged watches, 10 ATM, with flashlight
 
-- Forerunner, Instinct, fēnix and epix.
-
-Prices are for the UK
-
-Link to my Garmin guide.
+Once you have chosen a watch, you should probably have a look at my [Garmin advice](https://logiqx.github.io/gps-guides/guidance/garmin/) page as well.
 
 
 
@@ -30,23 +25,23 @@ Link to my Garmin guide.
 
 This table should help you to identify the most suitable Garmin watches within your budget, prior to reading any further details.
 
-|                   |   Deals    |   RRP   | Multi-band | Screen | Water resistence |
-| ----------------- | :--------: | :-----: | :--------: | :----: | :--------------: |
-| Forerunner 165    |  £200-ish  | £249.99 |     -      | AMOLED |      5 ATM       |
-| Forerunner 255    |  £200-ish  | £229.99 |     Y      |  MIP   |      5 ATM       |
-| Instinct 2X       | under £300 | £339.99 |     Y      |  MIP   |      10 ATM      |
-| Forerunner 955    |  £300-ish  | £439.99 |     Y      |  MIP   |      5 ATM       |
-| Forerunner 265    |    n/a     | £379.99 |     Y      | AMOLED |      5 ATM       |
-| Instinct 3 AMOLED |    n/a     | £429.99 |     Y      | AMOLED |      10 ATM      |
-| Forerunner 965    |    n/a     | £499.99 |     Y      | AMOLED |      5 ATM       |
-| fēnix 7 Pro       |  £500-ish  | £579.99 |     Y      |  MIP   |      10 ATM      |
-| epix Pro          |  £500-ish  | £739.99 |     Y      | AMOLED |      10 ATM      |
+|                   |  Deals   |   RRP   | Multi-band | Screen | Water resistence |
+| ----------------- | :------: | :-----: | :--------: | :----: | :--------------: |
+| Forerunner 165    | £200-ish | £249.99 |     -      | AMOLED |      5 ATM       |
+| Forerunner 255    | £200-ish | £229.99 |     Y      |  MIP   |      5 ATM       |
+| Instinct 2X Solar | £300-ish | £339.99 |     Y      |  MIP   |      10 ATM      |
+| Forerunner 955    | £300-ish | £439.99 |     Y      |  MIP   |      5 ATM       |
+| Forerunner 265    |   n/a    | £379.99 |     Y      | AMOLED |      5 ATM       |
+| Instinct 3 AMOLED |   n/a    | £429.99 |     Y      | AMOLED |      10 ATM      |
+| Forerunner 965    |   n/a    | £499.99 |     Y      | AMOLED |      5 ATM       |
+| fēnix 7 Pro       | £500-ish | £579.99 |     Y      |  MIP   |      10 ATM      |
+| epix Pro          | £500-ish | £739.99 |     Y      | AMOLED |      10 ATM      |
+
+All of the prices are for the UK because that is easiest for me to Google.
 
 
 
-### Detailed Information
-
-#### Forerunner 165
+### Forerunner 165
 
 ![Forerunner-165-product-family-768x282](img/Forerunner-165-product-family-768x282.jpg)
 
@@ -61,12 +56,12 @@ It is the only watch in this lineup without multi-band GNSS, making it unsuitabl
 **Size**
 
 - 43 x 43 x 11.6 mm
-- 30.4 mm (1.2") AMOLED display, 390 x 390 pixels
+- 30.4 mm (1.2") display, 390 x 390 pixels
 
 **Battery**
 
-- 11 days (5 days display always-on)
-- All-Systems GNSS mode: Up to 17 hours
+- Smartwatch mode: 11 days (5 days display always-on)
+- All systems GNSS mode: Up to 17 hours
 
 **Links**
 
@@ -76,28 +71,28 @@ It is the only watch in this lineup without multi-band GNSS, making it unsuitabl
 
 
 
-#### Forerunner 255
+### Forerunner 255
 
 ![forerunner255-all-m](img/forerunner255-all-m.jpg)
 
 This watch supersedes the Forerunner 245 which had a much less capable Sony GNSS chipset. It is the cheapest Garmin with support for multi-band GNSS.
 
-There are two sizes (255 and 255S), with or without music. These are the specifications for the standard Forerunner 255.
+There are two sizes; 255 (41 mm) and 255S (46 mm), with or without music storage. These are the specifications for the Forerunner 255 (46 mm).
 
 **Price**
 
-- £229.99 RRP, currently £188.69 at John Lewis
+- £229.99 RRP, widely available for £200-ish
 
 **Size**
 
 - 45.6 x 45.6 x 12.9 mm
-- 33 mm (1.3″) MIP display, 260 x 260 pixels
+- 33 mm (1.3″) display, 260 x 260 pixels
 
 **Battery**
 
 - Smartwatch mode: up to 14 days
-- All-Systems GNSS mode: Up to 25 hours
-- All-Systems GNSS mode plus Multi-Band: Up to 16 hours
+- All systems GNSS mode: Up to 25 hours
+- All systems GNSS mode + multi-band: Up to 16 hours
 
 **Links**
 
@@ -107,26 +102,26 @@ There are two sizes (255 and 255S), with or without music. These are the specifi
 
 
 
-#### Instinct 2X
+### Instinct 2X Solar
 
 ![Instinct-2X-768x432](img/Instinct-2X-768x432.jpeg)
 
-The Instinct 2X is a great value rugged watch with multi-band GNSS. The Instinct 2X should not be confused with the Instinct 2 which used a much less capable Sony GNSS chipset. The two main downsides of this watch are the low resolution display and the limited app availability.
+The Instinct 2X Solar is a great value rugged watch with multi-band GNSS. The Instinct 2X should not be confused with the Instinct 2 which used a much less capable Sony GNSS chipset. The two main downsides of this watch are the screen resolution and limited app availability.
 
 **Price**
 
-- £339.99 RRP, currently £285 on Amazon
+- £339.99 RRP, but discounts available
 
 **Size**
 
 - 50 x 50 x 14.5 mm
-- custom, two-window design; 27 x 27 mm (1.1″ x 1.1″) MIP display, 176 x 176 pixels
+- custom, two-window design; 27 mm (1.1″) display, 176 x 176 pixels
 
 **Battery**
 
-- Smartwatch: 40 days; unlimited with solar
-- All Satellite Systems: 40 hours; 65 hours with solar
-- All Satellite Systems + Multi-Band: 27 hours; 36 hours with solar
+- Smartwatch mode: 40 days; unlimited with solar
+- All systems GNSS mode: 40 hours; 65 hours with solar
+- All systems GNSS mode + multi-band: 27 hours; 36 hours with solar
 
 **Links**
 
@@ -135,29 +130,30 @@ The Instinct 2X is a great value rugged watch with multi-band GNSS. The Instinct
 
 
 
-#### Forerunner 955
+### Forerunner 955
 
 ![46824-M-FR955-family](img/46824-M-FR955-family.jpg)
 
-The Forerunner 955 supersedes the 945 which used a much less capable Sony GNSS chipset.
+The Forerunner 955 supersedes the 945, which used a much less capable Sony GNSS chipset.
 
-It has slightly better battery life than the 255, provides more sports / activities, and has music features as standard. There is also a solar option.
+The 955 has slightly better battery life than the 255, includes more sports / activities, and has music storage as standard. There is also a solar option.
 
 The Forerunner 955 can be compared against the Forerunner 255 using this [link](https://www.garmin.com/en-GB/compare/?compareProduct=780139&compareProduct=777655).
 
 **Price**
 
-- £439.99 RRP, currently £300 on Google
+- £439.99 RRP, widely available for £300-ish
 
 **Size**
 
 - 46.5 x 46.5 x 14.4 mm
-- 33 mm (1.3″) MIP display, 260 x 260 pixels
+- 33 mm (1.3″) display, 260 x 260 pixels
 
 **Battery**
 
-- Smartwatch mode: Up to 15 days/20 days with solar
-- All Systems GNSS mode plus Multi-Band: Up to 20 hours / 22 hours with solar
+- Smartwatch mode: Up to 15 days / 20 days with solar
+- All systems GNSS mode: TBC
+- All systems GNSS mode + multi-band: Up to 20 hours / 22 hours with solar
 
 **Links**
 
@@ -166,27 +162,28 @@ The Forerunner 955 can be compared against the Forerunner 255 using this [link](
 
 
 
-#### Forerunner 265
+### Forerunner 265
 
 ![Forerunner-265-Series-for-newsroom-768x256](img/Forerunner-265-Series-for-newsroom-768x256.jpeg)
 
 The Forerunner 265 supersedes the  the Forerunner 255 and has an AMOLED display.
 
-There are two sizes (46 mm and 42 mm). These are the specifications for the 46 mm.
+There are two sizes; 46 mm and 42 mm. These are the specifications for the 46 mm.
 
 **Price**
 
-- £379.99 RRP, but discounts are likely when the Forerunner 275 is released (soon)
+- £379.99 RRP, but discounts are likely when the Forerunner 275 is released
 
 **Size**
 
 - 46.1 x 46.1 x 12.9 mm
-- 32.5 mm (1.3") AMOLED display, 416 x 416 pixels
+- 32.5 mm (1.3") display, 416 x 416 pixels
 
 **Battery**
 
 - Smartwatch mode: Up to 13 days
-- All-Systems GNSS mode + Multi-Band: Up to 14 hours
+- All systems GNSS mode: Up to 20 hours
+- All systems GNSS mode + multi-band: Up to 14 hours
 
 **Links**
 
@@ -195,13 +192,13 @@ There are two sizes (46 mm and 42 mm). These are the specifications for the 46 m
 
 
 
-#### Instinct 3 AMOLED
+### Instinct 3 AMOLED
 
 ![Instinct-3-768x320](img/Instinct-3-768x320.jpg)
 
-This is the cheapest rugged watch and has an AMOLED display. There is a MIP version, but the display is a lot nicer on the AMOLED model (imho).
+This is the cheapest rugged watch from Garmin with an AMOLED display. There is a MIP version, but the display is a lot nicer on the AMOLED model, imho.
 
-There are two sizes (50 mm and 45 mm). These are the specifications for the 50 mm.
+There are two sizes; 50 mm and 45 mm. These are the specifications for the 50 mm.
 
 **Price**
 
@@ -210,13 +207,13 @@ There are two sizes (50 mm and 45 mm). These are the specifications for the 50 m
 **Size**
 
 - 50 x 50 x 14.4 mm
-- 33 mm (1.3″) AMOLED display, 416 x 416 pixels
+- 33 mm (1.3″) display, 416 x 416 pixels
 
 **Battery**
 
-- Smartwatch: Up to 24 days (9 days always-on)
-- All Satellite Systems: Up to 32 hours
-- All Satellite Systems + Multi-Band: Up to 30 hours with SatIQ
+- Smartwatch mode: Up to 24 days (9 days always-on)
+- All systems GNSS mode: Up to 32 hours
+- All systems GNSS mode + multi-band: TBC without SatIQ
 
 **Links**
 
@@ -225,27 +222,28 @@ There are two sizes (50 mm and 45 mm). These are the specifications for the 50 m
 
 
 
-#### Forerunner 965
+### Forerunner 965
 
 ![Forerunner-965-family-for-newsroom-768x428](img/Forerunner-965-family-for-newsroom-768x428.jpeg)
 
 The Forerunner 965 supersedes the Forerunner 955 and has an AMOLED display.
 
-It's battery performance is not as good as the Instinct 3 AMOLED and it is not as rugged, but it looks and feels sleeker.
+It's battery performance is not as good as the Instinct 3 AMOLED and it is not as rugged, but it is a lot sleeker.
 
 **Price**
 
-- £499.99 RRP, but discounts are likely when the Forerunner 975 is released (soon)
+- £499.99 RRP, but discounts are likely when the Forerunner 975 is released
 
 **Size**
 
 - 47.1 x 47.1 x 13.2 mm
-- 35.4 mm (1.4") AMOLED display, 454 x 454 pixels
+- 35.4 mm (1.4") display, 454 x 454 pixels
 
 **Battery**
 
 - Smartwatch mode: Up to 23 days
-- All-Systems GNSS mode + Multi-Band: Up to 19 hours
+- All systems GNSS mode: TBC
+- All systems GNSS mode + multi-band: Up to 19 hours
 
 **Links**
 
@@ -254,13 +252,15 @@ It's battery performance is not as good as the Instinct 3 AMOLED and it is not a
 
 
 
-#### fēnix 7 Pro
+### fēnix 7 Pro
 
 ![fenix-7-Pro-Series-768x467](img/fenix-7-Pro-Series-768x467.jpg)
 
-The fēnix 7 Pro has recently been superseded by the fēnix 8, so the discounted price makes it an excellent purchase.
+The fēnix 7 Pro has been superseded by the fēnix 8, but the discounts available make it an excellent choice.
 
-There is a standard edition with Power Glass™ screen and stainless steel bezel, or sapphire edition with Sapphire crystal screen and titanium bezel. The non-Pro versions of fēnix 7 do not support multi-band GNSS, so the Instinct 3 AMOLED would probably be a better choice.
+There is a standard edition with Power Glass™ screen and stainless steel bezel, or sapphire edition with Sapphire crystal screen and titanium bezel.
+
+The non-Pro versions of fēnix 7 do not support multi-band GNSS, so the Instinct 3 AMOLED may be a better choice.
 
 There are three sizes of the fēnix Pro; 7S (42 mm), 7 (47 mm) and 7X (51 mm). These are the specifications for the fēnix 7 Pro (47 mm).
 
@@ -271,13 +271,13 @@ There are three sizes of the fēnix Pro; 7S (42 mm), 7 (47 mm) and 7X (51 mm). T
 **Size**
 
 - 47 x 47 x 14.5 mm
-- 33 mm (1.3″) MIP display, 260 x 260 pixels
+- 33 mm (1.3″) display, 260 x 260 pixels
 
 **Battery**
 
-- Smartwatch: Up to 18 days / 22 days with solar
-- All Satellite Systems: Up to 40 hours / 48 hours with solar
-- All Satellite Systems + Multi-band: Up to 23 hours / 26 hours with solar
+- Smartwatch mode: Up to 18 days / 22 days with solar
+- All systems GNSS mode: Up to 40 hours / 48 hours with solar
+- All systems GNSS mode + multi-band: Up to 23 hours / 26 hours with solar
 
 **Links**
 
@@ -286,15 +286,17 @@ There are three sizes of the fēnix Pro; 7S (42 mm), 7 (47 mm) and 7X (51 mm). T
 
 
 
-#### epix Pro (Gen 2)
+### epix Pro (Gen 2)
 
 ![epix-Pro-Series-768x446](img/epix-Pro-Series-768x446.jpg)
 
 The epix Pro (Gen 2) is essentially a fēnix 7 Pro with an AMOLED display.
 
-There is a standard edition with Corning® Gorilla® Glass screen and stainless steel bezel, or sapphire edition with Sapphire crystal screen and titanium bezel. The non-pro versions of epix (Gen 2) do not support multi-band GNSS, so the Instinct 3 AMOLED would probably be a better choice.
+There is a standard edition with Corning® Gorilla® Glass screen and stainless steel bezel, or sapphire edition with Sapphire crystal screen and titanium bezel.
 
-There are three different sizes of the epix Pro (Gen 2); 42, 47, and 51 mm. These are the specifications for the epix Pro (Gen 2) - 47 mm.
+The non-pro versions of epix (Gen 2) do not support multi-band GNSS, so the Instinct 3 AMOLED may be a better choice.
+
+There are three different sizes of the epix Pro (Gen 2); 42 / 47 / 51 mm. These are the specifications for the epix Pro (Gen 2) - 47 mm.
 
 **Price**
 
@@ -303,13 +305,13 @@ There are three different sizes of the epix Pro (Gen 2); 42, 47, and 51 mm. Thes
 **Size**
 
 - 47 x 47 x 14.5 mm
-- 33 mm (1.3″) AMOLED display, 416 x 416 pixels
+- 33 mm (1.3″) display, 416 x 416 pixels
 
 **Battery**
 
-- Smartwatch: Up to 16 days (6 days always-on)
-- All Satellite Systems: Up to 32 hours (24 hours always-on)
-- Satellite Systems + Multi-band: Up to 20 hours (15 hours always-on)
+- Smartwatch mode: Up to 16 days (6 days always-on)
+- All systems GNSS mode: Up to 32 hours (24 hours always-on)
+- All systems GNSS mode + multi-band: Up to 20 hours (15 hours always-on)
 
 **Links**
 
@@ -318,20 +320,23 @@ There are three different sizes of the epix Pro (Gen 2); 42, 47, and 51 mm. Thes
 
 
 
-### Related Watches
+### Related Models
 
-The quatix 7 (Solar and Pro) and tactix 7 (AMOLED) are almost identical to the fēnix 7 Pro and epix Pro, but they have not been discounted to the same degree as the various fēnix 7 and epix models.
+The quatix 7 (Solar and Pro) and tactix 7 (AMOLED) are almost identical to the fēnix 7 Pro and epix Pro, but they have not seen such big discounts as the various fēnix 7 Pro and epix Pro models.
 
-If your budget stretches to the fēnix 8, it would more suitable for scuba diving. It also adds voice commands and new software / user interface but it carries a hefty price tag, exceeding £850. The same is true for the tactix 8 and probably applies to the forthcoming quatix 8.
+If your budget stretches to the fēnix 8, it is more suitable for scuba diving. It also adds voice commands and new software / user interface, but carries a hefty price tag. This is similar for the tactix 8 and probably the forthcoming quatix 8.
 
-The Enduro 2 and Enduro 3 are akin to the fēnix 7X - Sapphire Solar, but aimed at ultra-runners and providing a much longer battery life. The Enduro 3 also has the newer software / user interface of the fēnix 8.
+The Enduro 2 and Enduro 3 are essentially a modified fēnix 7X - Sapphire, but aimed at ultra-runners due to the extended battery life. The Enduro 3 also has the newer software / user interface of the fēnix 8.
 
-The Forerunner 275 and 975 are likely to be released in the near future (perhaps in May 2025), which will likely mean the Forerunner 265 and 965 become discounted and popular choices.
+The Forerunner 275 and 975 are expected in the near future, perhaps in May 2025. The Forerunner 265 and 965 will likely be discounted once they have been superseded. Expect some bargains when that happens!
 
 
 
 ### Summary
 
-The Forerunner watches are lightweight and have a water rating of 5 ATM, whilst the Instinct and fenix / epix are rugged watches with a water rating of 10 ATM. There is no sane reason to buy a fenix 8 for £800+ (instead of £500 for a fenix 7 Pro / epix Pro), unless it is for scuba diving.
+The Forerunner watches are lightweight and have a water rating of 5 ATM, whilst the Instinct + fēnix + epix are rugged watches with a water rating of 10 ATM.
 
-Link to my Garmin guide.
+Ultimately your budget and personal requirements will guide you to one or two possible watches. There are of course then the different sizes / colors / materials, optional music storage, and solar options.
+
+Once you have chosen a watch, you should probably have a look at my [Garmin advice](https://logiqx.github.io/gps-guides/guidance/garmin/) page as well.
+
