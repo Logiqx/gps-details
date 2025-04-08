@@ -327,7 +327,7 @@ The Forerunner 275 and 975 are expected to be released in the near future, perha
 
 ### Summary
 
-The watches described on this page all use an Airoha GNSS chipset, which makes their performance superior to earlier models. This is why the guide does not discuss models such as the Forerunner 245 / 945 and Instinct 2 (not to be confused with 2X) which used a Sony GNSS chipset.
+The watches described on this page all use an Airoha GNSS chipset, which makes their performance superior to earlier models. This is why the guide does not discuss models such as the Forerunner 245 / 945, Instinct 2 (not to be confused with 2X) and fēnix 6 which used a Sony GNSS chipset.
 
 The Forerunner watches are lightweight and have a water rating of 5 ATM, whilst the Instinct + fēnix + epix are rugged watches with a water rating of 10 ATM. The rugged watches also have a built-in flashlight which nobody expects to need, but everyone loves!
 
