@@ -71,8 +71,7 @@ It is the only watch in this lineup without multi-band GNSS, making it unsuitabl
 
 **Links**
 
-- [Press release](https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/light-up-your-run-with-the-garmin-forerunner-165-series-easy-to-use-gps-running-smartwatches-with-vibrant-amoled-displays/)
-- [Product page](https://www.garmin.com/en-GB/p/1055469)
+- [Press release](https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/light-up-your-run-with-the-garmin-forerunner-165-series-easy-to-use-gps-running-smartwatches-with-vibrant-amoled-displays/) and [product page](https://www.garmin.com/en-GB/p/1055469)
 
 
 
@@ -102,8 +101,7 @@ There are two sizes; 255 (46 mm) and 255S (41 mm), with or without music storage
 
 **Links**
 
-- [Press release](https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/garmin-celebrates-global-running-day-with-the-introduction-of-the-forerunner-255-series/)
-- [Product page](https://www.garmin.com/en-GB/p/780139)
+- [Press release](https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/garmin-celebrates-global-running-day-with-the-introduction-of-the-forerunner-255-series/) and [product page](https://www.garmin.com/en-GB/p/780139)
 
 
 
@@ -131,8 +129,7 @@ The Instinct 2X Solar is a rugged watch with multi-band GNSS. The Instinct 2X sh
 
 **Links**
 
-- [Press release](https://www.garmin.com/en-US/newsroom/press-release/outdoor/be-bold-with-the-rugged-new-instinct-2x-solar-from-garmin/)
-- [Product page](https://www.garmin.com/en-GB/p/884585)
+- [Press release](https://www.garmin.com/en-US/newsroom/press-release/outdoor/be-bold-with-the-rugged-new-instinct-2x-solar-from-garmin/) and [product page](https://www.garmin.com/en-GB/p/884585)
 
 
 
@@ -163,8 +160,7 @@ The Forerunner 955 can be compared against the Forerunner 255 using this [link](
 
 **Links**
 
-- [Press release](https://www.garmin.com/en-US/newsroom/press-release/wearables-health/harness-the-power-of-the-sun-with-the-forerunner-955-solar-from-garmin/)
-- [Product page](https://www.garmin.com/en-GB/p/777655)
+- [Press release](https://www.garmin.com/en-US/newsroom/press-release/wearables-health/harness-the-power-of-the-sun-with-the-forerunner-955-solar-from-garmin/) and [product page](https://www.garmin.com/en-GB/p/777655)
 
 
 
@@ -193,8 +189,7 @@ There are two sizes; 46 mm and 42 mm. These are the specifications for the 46 mm
 
 **Links**
 
-- [Press release](https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/garmin-adds-amoled-displays-to-its-next-gen-forerunner-265-and-forerunner-965-gps-running-watches/)
-- [Product page](https://www.garmin.com/en-GB/p/886785/)
+- [Press release](https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/garmin-adds-amoled-displays-to-its-next-gen-forerunner-265-and-forerunner-965-gps-running-watches/) and [product page](https://www.garmin.com/en-GB/p/886785/)
 
 
 
@@ -223,8 +218,7 @@ There are two sizes; 50 mm and 45 mm. These are the specifications for the 50 mm
 
 **Links**
 
-- [Press release](https://www.garmin.com/en-US/newsroom/press-release/outdoor/introducing-the-instinct-3-series-from-garmin-rugged-smartwatches-now-with-amoled-displays/)
-- [Product page](https://www.garmin.com/en-GB/p/1316397)
+- [Press release](https://www.garmin.com/en-US/newsroom/press-release/outdoor/introducing-the-instinct-3-series-from-garmin-rugged-smartwatches-now-with-amoled-displays/) and [product page](https://www.garmin.com/en-GB/p/1316397)
 
 
 
@@ -253,8 +247,7 @@ It's not rugged like the Instinct 3 AMOLED, but it is sleeker and has a slightly
 
 **Links**
 
-- [Press release](https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/garmin-adds-amoled-displays-to-its-next-gen-forerunner-265-and-forerunner-965-gps-running-watches/)
-- [Product page](https://www.garmin.com/en-GB/p/886725)
+- [Press release](https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/garmin-adds-amoled-displays-to-its-next-gen-forerunner-265-and-forerunner-965-gps-running-watches/) and [product page](https://www.garmin.com/en-GB/p/886725)
 
 
 
@@ -285,8 +278,7 @@ There are three sizes of the fēnix Pro; 7S (42 mm), 7 (47 mm) and 7X (51 mm). T
 
 **Links**
 
-- [Press release](https://www.garmin.com/en-US/newsroom/press-release/outdoor/garmin-unveils-next-gen-fenix-7-pro-series/)
-- [Product page](https://www.garmin.com/en-GB/p/865822)
+- [Press release](https://www.garmin.com/en-US/newsroom/press-release/outdoor/garmin-unveils-next-gen-fenix-7-pro-series/) and [product page](https://www.garmin.com/en-GB/p/865822)
 
 
 
@@ -317,8 +309,7 @@ There are three sizes of the epix Pro (Gen 2); 42 / 47 / 51 mm. These are the sp
 
 **Links**
 
-- [Press release](https://www.garmin.com/en-US/newsroom/press-release/outdoor/conquer-every-day-and-every-adventure-with-epix-pro-series-from-garmin/)
-- [Product page](https://www.garmin.com/en-GB/p/884292)
+- [Press release](https://www.garmin.com/en-US/newsroom/press-release/outdoor/conquer-every-day-and-every-adventure-with-epix-pro-series-from-garmin/) and [product page](https://www.garmin.com/en-GB/p/884292)
 
 
 
