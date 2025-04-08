@@ -10,7 +10,7 @@ Created: 7 Apr 2025
 
 I'm often asked for GPS watch recommendations, so I've decided to create a resource focusing on Garmin products. It's a great time to be buying a GPS watch for watersports because there are some really great choices, whatever your budget.
 
-Prior to early 2023, reliable GPS / GNSS performance was only available from dedicated loggers, and smart watches were somewhat unreliable for measuring speeds. It's only since mid-2023 that this situation began to change, primarily due to latest GNSS chipsets and firmware.
+Prior to early 2023, reliable GPS / GNSS performance was only available from dedicated loggers, and smart watches were somewhat unreliable for measuring speeds. It's only since mid-2023 that this situation began to change, primarily due to the latest GNSS chipsets and firmware.
 
 This guide will not discuss any of the technicalities relating to GPS / GNSS accuracy. It will simply focus on watches that provide decent performance and good value for money. Budget will typically dictate suitable choices, but there are several factors to consider.
 
@@ -110,7 +110,7 @@ There are two sizes; FR 255 (46 mm) and FR 255S (41 mm), with or without music s
 
 ![Instinct-2X-768x432](img/Instinct-2X-768x432.jpeg)
 
-The Instinct 2X Solar is a rugged watch with multi-band GNSS. The Instinct 2X should not be confused with the Instinct 2, which used the much less capable Sony GNSS chipset. The two main downsides of this watch are the screen resolution and somewhat limited app availability.
+The Instinct 2X Solar is a rugged watch with multi-band GNSS. It should not be confused with the Instinct 2, which used the much less capable Sony GNSS chipset. The two main downsides of this watch are the screen resolution and somewhat limited app availability.
 
 **Price**
 
@@ -170,7 +170,7 @@ The FR 955 can be compared against the FR 255 using this [link](https://www.garm
 
 The FR 265 supersedes the  the FR 255 and has an AMOLED display.
 
-There are two sizes; 46 mm (specifications below) and 42 mm.
+There are two sizes; 46 mm (see below) and 42 mm.
 
 **Price**
 
@@ -199,7 +199,7 @@ There are two sizes; 46 mm (specifications below) and 42 mm.
 
 This is the cheapest rugged watch from Garmin with an AMOLED display. There is a MIP version, but the AMOLED display is a lot nicer.
 
-There are two sizes; 50 mm (specifications below) and 45 mm.
+There are two sizes; 50 mm (see below) and 45 mm.
 
 **Price**
 
