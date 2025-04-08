@@ -2,8 +2,9 @@
 
 ### Advice
 
-General advice and guidance for Garmin watches is in another GitHub repo.
+General advice and guidance for Garmin watches.
 
+- [Which Garmin for Watersports?](https://medium.com/@mikeg888/which-garmin-for-watersports-e1000c43a868) - 8 Apr 2025
 - [Garmin advice](https://logiqx.github.io/gps-guides/guidance/garmin/) - 10 Jan 2025
 
 
