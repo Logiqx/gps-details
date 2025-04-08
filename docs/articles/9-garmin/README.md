@@ -12,15 +12,15 @@ I'm often asked for GPS watch recommendations, so I've decided to create a resou
 
 Prior to around 2022, reliable GPS / GNSS performance was only available from dedicated loggers, and smart watches were unreliable for measuring speeds. It's only since late 2022 that this situation began to change, primarily due to latest GNSS chipsets and firmware.
 
-This guide will not discuss any of the technicalities relating to GPS / GNSS accuracy. It will simply focus on watches that provide decent performance and good value for money. Budget will often dictate buying choices, but here are some additional factors to consider:
+This guide will not discuss any of the technicalities relating to GPS / GNSS accuracy. It will simply focus on watches that provide decent performance and good value for money. Budget will typically dictate suitable choices, but there are several factors to consider.
 
 - GNSS chipset - dictates accuracy and needs to be multi-band if posting to [GPS-Speedsurfing](https://www.gps-speedsurfing.com/) or [GPS Team Challenge](https://www.gpsteamchallenge.com.au/)
 - Ruggedness - running watches are typically cheaper, but less robust and with lower water resistance
-- Screen type - decide whether you would prefer [MIP or AMOLED](https://lifehacker.com/health/which-is-better-smart-watch-display-mip-vs-amoled)
+- Screen type - decide whether you prefer [MIP or AMOLED](https://lifehacker.com/health/which-is-better-smart-watch-display-mip-vs-amoled)
 - Watch size - bigger watches suit bigger wrists, but have larger screens and longer battery life
-- Flashlight / torch - amazing feature that you never knew you needed
+- Flashlight - amazing feature that you never knew you needed
 
-This page includes an overall comparison, plus summaries for each watch, and links to further information.
+This page includes an overall comparison, summaries for individual watches, and links to further resources.
 
 - Forerunner - lightweight running watches, resistent to 5 ATM, without flashlight
 - Instinct, fēnix and epix - rugged watches, resistent to 10 ATM, with flashlight
@@ -83,9 +83,9 @@ It is the only watch in this lineup without multi-band GNSS, making it unsuitabl
 
 ![forerunner255-all-m](img/forerunner255-all-m.jpg)
 
-This watch supersedes the Forerunner 245 which had a much less capable Sony GNSS chipset. It is the cheapest Garmin with support for multi-band GNSS.
+The Forerunner 255 is the cheapest Garmin with support for multi-band GNSS. It supersedes the Forerunner 245, which had a much less capable Sony GNSS chipset.
 
-There are two sizes; 255 (46 mm) and 255S (41 mm), with or without music storage. These are the specifications for the Forerunner 255 (46 mm).
+There are two sizes; 255 (46 mm) and 255S (41 mm), with or without music storage. These are the specifications for the 46 mm.
 
 **Price**
 
@@ -114,7 +114,7 @@ There are two sizes; 255 (46 mm) and 255S (41 mm), with or without music storage
 
 ![Instinct-2X-768x432](img/Instinct-2X-768x432.jpeg)
 
-The Instinct 2X Solar is a great value rugged watch with multi-band GNSS. The Instinct 2X should not be confused with the Instinct 2 which used a much less capable Sony GNSS chipset. The two main downsides of this watch are the screen resolution and limited app availability.
+The Instinct 2X Solar is a rugged watch with multi-band GNSS. The Instinct 2X should not be confused with the Instinct 2, which used a much less capable Sony GNSS chipset. The two main downsides of this watch are the screen design + resolution and somewhat limited app availability.
 
 **Price**
 
@@ -144,7 +144,7 @@ The Instinct 2X Solar is a great value rugged watch with multi-band GNSS. The In
 
 The Forerunner 955 supersedes the 945, which used a much less capable Sony GNSS chipset.
 
-The 955 has slightly better battery life than the 255, includes more sports / activities, and has music storage as standard. There is also a solar option.
+The 955 has slightly better battery life than the 255, includes more sports / activities, and has music storage as standard. There is also a solar option which improves the battery performance.
 
 The Forerunner 955 can be compared against the Forerunner 255 using this [link](https://www.garmin.com/en-GB/compare/?compareProduct=780139&compareProduct=777655).
 
@@ -204,7 +204,7 @@ There are two sizes; 46 mm and 42 mm. These are the specifications for the 46 mm
 
 ![Instinct-3-768x320](img/Instinct-3-768x320.jpg)
 
-This is the cheapest rugged watch from Garmin with an AMOLED display. There is a MIP version, but the display is a lot nicer on the AMOLED model, imho.
+This is the cheapest rugged watch from Garmin with an AMOLED display. There is a MIP version, but the AMOLED display is a lot nicer.
 
 There are two sizes; 50 mm and 45 mm. These are the specifications for the 50 mm.
 
@@ -266,9 +266,7 @@ It's not rugged like the Instinct 3 AMOLED, but it is sleeker and has a slightly
 
 The fēnix 7 Pro has been superseded by the fēnix 8, but the discounts available make it excellent value for money.
 
-There is a standard edition with Power Glass™ screen and stainless steel bezel, or sapphire edition with Sapphire crystal screen and titanium bezel.
-
-The non-Pro versions of fēnix 7 do not support multi-band GNSS, so the Instinct 3 AMOLED may be a better choice.
+There is a standard edition with Power Glass™ screen and stainless steel bezel, or sapphire edition with Sapphire crystal screen and titanium bezel. The non-Pro versions of fēnix 7 do not support multi-band GNSS, so the Instinct 3 AMOLED may be a better choice.
 
 There are three sizes of the fēnix Pro; 7S (42 mm), 7 (47 mm) and 7X (51 mm). These are the specifications for 47 mm.
 
@@ -300,9 +298,7 @@ There are three sizes of the fēnix Pro; 7S (42 mm), 7 (47 mm) and 7X (51 mm). T
 
 The epix Pro (Gen 2) is essentially a fēnix 7 Pro with an AMOLED display.
 
-There is a standard edition with Corning® Gorilla® Glass screen and stainless steel bezel, or sapphire edition with Sapphire crystal screen and titanium bezel.
-
-The non-pro versions of epix (Gen 2) do not support multi-band GNSS, so the Instinct 3 AMOLED may be a better choice.
+There is a standard edition with Corning® Gorilla® Glass screen and stainless steel bezel, or sapphire edition with Sapphire crystal screen and titanium bezel. The non-pro versions of epix (Gen 2) do not support multi-band GNSS, so the Instinct 3 AMOLED may be a better choice.
 
 There are three sizes of the epix Pro (Gen 2); 42 / 47 / 51 mm. These are the specifications for 47 mm.
 
@@ -336,17 +332,17 @@ If your budget stretches to the fēnix 8, it will be more suitable for scuba div
 
 The Enduro 2 and Enduro 3 are essentially a modified fēnix 7X - Sapphire, but aimed at ultra-runners due to the impressive battery life. The Enduro 3 also has the newer software / user interface of the fēnix 8.
 
-The Forerunner 275 and 975 will be released in the near future, perhaps in May 2025. The Forerunner 265 and 965 will likely be discounted once they have been superseded, so look out for some bargains!
+The Forerunner 275 and 975 are expected to be released in the near future, perhaps in May 2025. The Forerunner 265 and 965 are likely to be heavily discounted once they have been superseded, so look out for some bargains!
 
 
 
 ### Summary
 
-All of the watches listed on this page use an Airoha GNSS chipset, which makes their performance superior to the earlier models. This is why the guide does not discuss models such as the Forerunner 245 / 945, Instinct 2 (not to be confused with 2X), etc.
+The recommendations on this page use an Airoha GNSS chipset, which makes their performance superior to the earlier models. This is why the guide does not discuss models such as the Forerunner 245 / 945 and Instinct 2 (not to be confused with 2X) which used a Sony GNSS chipset.
 
-The Forerunner watches are lightweight and have a water rating of 5 ATM, whilst the Instinct + fēnix + epix are rugged watches with a water rating of 10 ATM. The rugged watches also include a built-in flashlight which everyone loves!
+The Forerunner watches are lightweight and have a water rating of 5 ATM, whilst the Instinct + fēnix + epix are rugged watches with a water rating of 10 ATM. The rugged watches all have a built-in flashlight which nobody knows they need, but everyone loves!
 
-Ultimately your budget and personal requirements will guide you to one or two possible Garmin models. There may then be multiple sizes / colors / materials, music storage, and solar options to consider.
+Ultimately your budget and personal requirements will guide you to one or two possible Garmin watches. There may then be multiple sizes / colors / materials, music storage, and solar options to consider!
 
 Whilst making your final decision, you may also benefit from my [Garmin advice](https://logiqx.github.io/gps-guides/guidance/garmin/) and list of [Garmin models](https://logiqx.github.io/gps-details/devices/garmin/watches/).
 
