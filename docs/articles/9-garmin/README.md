@@ -51,9 +51,9 @@ This table should help you to identify suitable Garmin watches within your budge
 
 ![Forerunner-165-product-family-768x282](img/Forerunner-165-product-family-768x282.jpg)
 
-The Forerunner 165 is the cheapest Garmin with an Airoha GNSS chipset and has an AMOLED display.
+The FR 165 is the cheapest Garmin with an Airoha GNSS chipset and has an AMOLED display. The FR 165 is the standard model and the FR 165M has music storage.
 
-It is the only watch in this lineup without multi-band GNSS, making it unsuitable for GPS-Speedsurfing.com and GPS Team Challenge.
+The FR 165 is the only watch in this lineup without multi-band GNSS, making it unsuitable for GPS-Speedsurfing.com and GPS Team Challenge.
 
 **Price**
 
@@ -80,9 +80,9 @@ It is the only watch in this lineup without multi-band GNSS, making it unsuitabl
 
 ![forerunner255-all-m](img/forerunner255-all-m.jpg)
 
-The Forerunner 255 is the cheapest Garmin with support for multi-band GNSS. It supersedes the Forerunner 245, which used the much less capable Sony GNSS chipset.
+The FR 255 is the cheapest Garmin with support for multi-band GNSS. It supersedes the FR 245, which used the much less capable Sony GNSS chipset.
 
-There are two sizes; 255 (46 mm) and 255S (41 mm), with or without music storage. These are the specifications for the 46 mm.
+There are two sizes; FR 255 (46 mm) and FR 255S (41 mm), with or without music storage. These are the specifications for the FR 255.
 
 **Price**
 
@@ -137,11 +137,11 @@ The Instinct 2X Solar is a rugged watch with multi-band GNSS. The Instinct 2X sh
 
 ![46824-M-FR955-family](img/46824-M-FR955-family.jpg)
 
-The Forerunner 955 supersedes the 945, which used the much less capable Sony GNSS chipset.
+The FR 955 supersedes the FR 945, which used the much less capable Sony GNSS chipset.
 
-The 955 has slightly better battery life than the 255, includes more sports / activities, and has music storage as standard. There is also a solar option which increases the battery time.
+The FR 955 has slightly better battery life than the FR 255, includes more sports / activities, and has music storage as standard. There is also a solar option which increases the battery time.
 
-The Forerunner 955 can be compared against the Forerunner 255 using this [link](https://www.garmin.com/en-GB/compare/?compareProduct=780139&compareProduct=777655).
+The FR 955 can be compared against the FR 255 using this [link](https://www.garmin.com/en-GB/compare/?compareProduct=780139&compareProduct=777655).
 
 **Price**
 
@@ -168,9 +168,9 @@ The Forerunner 955 can be compared against the Forerunner 255 using this [link](
 
 ![Forerunner-265-Series-for-newsroom-768x256](img/Forerunner-265-Series-for-newsroom-768x256.jpeg)
 
-The Forerunner 265 supersedes the  the Forerunner 255 and has an AMOLED display.
+The FR 265 supersedes the  the FR 255 and has an AMOLED display.
 
-There are two sizes; 46 mm and 42 mm. These are the specifications for the 46 mm.
+There are two sizes; 46 mm (specifications below) and 42 mm.
 
 **Price**
 
@@ -199,7 +199,7 @@ There are two sizes; 46 mm and 42 mm. These are the specifications for the 46 mm
 
 This is the cheapest rugged watch from Garmin with an AMOLED display. There is a MIP version, but the AMOLED display is a lot nicer.
 
-There are two sizes; 50 mm and 45 mm. These are the specifications for the 50 mm.
+There are two sizes; 50 mm (specifications below) and 45 mm.
 
 **Price**
 
@@ -330,6 +330,8 @@ The Forerunner 275 and 975 are expected to be released in the near future, perha
 The watches described on this page all use an Airoha GNSS chipset, which makes their performance superior to earlier models. This is why the guide does not discuss models such as the Forerunner 245 / 945, Instinct 2 (not to be confused with 2X) and fēnix 6 which all used a Sony GNSS chipset.
 
 The Forerunner watches are lightweight and have a water rating of 5 ATM, whilst the Instinct + fēnix + epix are rugged watches with a water rating of 10 ATM. The rugged watches also have a built-in flashlight which nobody expects to need, but everyone loves!
+
+The fēnix 7 Pro and epix Pro also have a newer HR sensor (Elevate Gen 5) than the other watches on this page.
 
 Ultimately your budget and personal preferences will guide you to one or two possible Garmin watches. There may then be multiple sizes / colors / materials, music storage, and solar options to consider. Hopefully this guide has helped to point you in the right direction?
 
