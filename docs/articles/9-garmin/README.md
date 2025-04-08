@@ -331,7 +331,7 @@ The watches described on this page all use an Airoha GNSS chipset, which makes t
 
 The Forerunner watches are lightweight and have a water rating of 5 ATM, whilst the Instinct + fēnix + epix are rugged watches with a water rating of 10 ATM. The rugged watches also have a built-in flashlight which nobody expects to need, but everyone loves!
 
-Ultimately your budget and personal requirements will guide you to one or two possible Garmin watches. There may then be multiple sizes / colors / materials, music storage, and solar options to consider. Hopefully this guide has helped to point you in the right direction?
+Ultimately your budget and personal preferences will guide you to one or two possible Garmin watches. There may then be multiple sizes / colors / materials, music storage, and solar options to consider. Hopefully this guide has helped to point you in the right direction?
 
 Whilst making your final decision, you may also benefit from my [Garmin advice](https://logiqx.github.io/gps-guides/guidance/garmin/) and list of [Garmin models](https://logiqx.github.io/gps-details/devices/garmin/watches/).
 
