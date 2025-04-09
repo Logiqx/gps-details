@@ -20,8 +20,14 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 
 #### Rugged
 
+All of these watches include native windsurfing / kiteboarding activities, but [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is strongly recommended.
+
 | Series                  | Model                        | Multi-Band |
 | ----------------------- | ---------------------------- | :--------: |
+| [Instinct](instinct.md) | Instinct 3 AMOLED            |     Y      |
+|                         | Instinct 3 Solar             |     Y      |
+|                         | Instinct E                   |     -      |
+|                         | Instinct 2X Solar            |     Y      |
 | [fēnix](fenix.md)       | fēnix 8 - Solar              |     Y      |
 |                         | fēnix 8 - AMOLED             |     Y      |
 |                         | fēnix E                      |     -      |
@@ -43,17 +49,17 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 |                         | tactix 7 - AMOLED            |     Y      |
 |                         | tactix 7 - Pro               |     -      |
 |                         | tactix 7                     |     -      |
-| [Instinct](instinct.md) | Instinct 3 AMOLED            |     Y      |
-|                         | Instinct 3 Solar             |     Y      |
-|                         | Instinct E                   |     -      |
-|                         | Instinct 2X Solar            |     Y      |
-|                         | Instinct Crossover \*        |     -      |
-
-Note \* - The Instinct Crossover is not supported by [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791).
+| [Descent](descent.md)   | Descent G2                   |     -      |
+|                         | Descent Mk3i                 |     Y      |
+|                         | Descent Mk3                  |     Y      |
+| [D2](d2.md)             | D2 Mach 1 Pro                |     Y      |
+|                         | D2 Mach 1                    |     Y      |
 
 
 
 #### Running / Triathlon
+
+None of these watches include native windsurfing / kiteboarding activities, so [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is recommended.
 
 | Series                      | Model                 | Multi-Band |
 | --------------------------- | --------------------- | :--------: |
@@ -69,6 +75,8 @@ Note \* - The Instinct Crossover is not supported by [APPro Windsurf](https://ap
 
 #### Fitness / Fashion
 
+None of these watches include native windsurfing / kiteboarding activities, so [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is recommended.
+
 | Series                      | Model        | Multi-Band |
 | --------------------------- | ------------ | :--------: |
 | [vívoactive](vivoactive.md) | vívoactive 6 |     -      |
@@ -80,7 +88,7 @@ Note \* - The Instinct Crossover is not supported by [APPro Windsurf](https://ap
 
 ### Recommended Apps
 
-The following app is highly recommended for wind sports, due to its features and ease of use:
+The following app is highly recommended, due to its features and ease of use:
 
 - [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791)
 
@@ -92,33 +100,43 @@ The following data field may be worth trying if you compete in the [GPS Team Cha
 
 ### Activity Profiles
 
-If you are using a standard Garmin activity profile, it is important that you use one that is suited to wind sports.
+If you are using a standard Garmin activity profile, it is VERY important that you use one that is suited to wind sports.
 
-The vast majority of activity profiles on Garmin watches perform filtering of the speed data that is highly undesirable.
+This is because the vast majority of Garmin activity profiles perform undesirable filtering of the speed data.
 
-Suitable Garmin activity profiles include:
+Several suitable activity profiles can be found on all of the rugged watches.
 
 - Windsurf
 - Kiteboard
+
+In the absence of suitable activity profiles, you should use the generic profile.
+
 - Other
 
-The following Garmin activity profiles are NOT suitable:
+The following is a list of activity profiles that are NOT suitable, due to their filtering / smoothing.
 
-- SUP (Stand Up Paddleboard)
+- Walk
+- Run
+- Hike
+- SUP
 - Surf
-- Sailing
-- Boating
+- Boat
+- Sail
 
 
 
 ### Important Settings
 
 - Use the best possible GNSS setting.
-  - Airoha - All Systems + Multi-Band > All Systems > Standard GPS
-  - Sony - GPS + Galileo > GPS + BeiDou > GPS + GLONASS > Standard GPS
-  - MediaTek - GPS + Galileo > GPS + GLONASS > Standard GPS
-- Use recording frequency of "every second".
-- Ensure phone is automatically updating its time from the network.
+  - **Airoha**
+    - *All Systems + Multi-Band > All Systems > Standard GPS*
+    - Avoid using SatIQ because it causes the speed accuracy to deteriorate.
+  - **Sony**
+    - *GPS + Galileo > GPS + BeiDou > GPS + GLONASS > Standard GPS*
+  - **MediaTek**
+    - *GPS + Galileo > GPS + GLONASS > Standard GPS*
+- Use the recording frequency of "every second".
+- Ensure the phone is automatically updating its time from the network.
 
 
 
@@ -126,14 +144,16 @@ The following Garmin activity profiles are NOT suitable:
 
 #### Popular Watches
 
-Technical specification, including GNSS details are provided for the following Garmin watches:
+Technical specifications, including GNSS details are provided for the following Garmin watches:
 
 - Rugged
+  - [Instinct](instinct.md)
   - [fēnix](fenix.md)
   - [epix](epix.md)
   - [quatix](quatix.md)
   - [tactix](tactix.md)
-  - [Instinct](instinct.md)
+  - [Descent](descent.md)
+  - [D2](d2.md)
 - Running / Triathlon
   - [Forerunner](forerunner.md)
   - [Enduro](enduro.md)
@@ -145,14 +165,12 @@ Technical specification, including GNSS details are provided for the following G
 
 #### Less Popular Watches
 
-These watches are rarely / never used on GP3S, but supported by [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) or [Windsurfing application](https://apps.garmin.com/apps/9d47be43-2724-44e4-8f5e-3005b0766087):
+These watches are rarely / never used on GP3S, but ARE supported by APPro Windsurf.
 
 - Approach - golf smartwatches
-- Descent - dive computers
-- D2 - aviator smartwatches
 - MARQ - luxury smartwatches
 
-These devices are rarely / never used on GP3S, and not supported by the recommended apps:
+These devices are rarely / never used on GP3S, and NOT supported by APPro Windsurf.
 
 - Edge - bike computers
 - eTrex - GPS navigators
