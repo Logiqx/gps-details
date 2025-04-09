@@ -61,15 +61,15 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 
 None of these watches include native windsurfing / kiteboarding activities, so [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is recommended.
 
-| Series                      | Model                 | Multi-Band |
-| --------------------------- | --------------------- | :--------: |
-| [Forerunner](forerunner.md) | Forerunner 165        |     -      |
-|                             | Forerunner 965        |     Y      |
-|                             | Forerunner 265 / 265S |     Y      |
-|                             | Forerunner 955        |     Y      |
-|                             | Forerunner 255 / 255S |     Y      |
-| [Enduro](enduro.md)         | Enduro 3              |     Y      |
-|                             | Enduro 2              |     Y      |
+| Series                      | Model          | Multi-Band |
+| --------------------------- | -------------- | :--------: |
+| [Forerunner](forerunner.md) | Forerunner 165 |     -      |
+|                             | Forerunner 965 |     Y      |
+|                             | Forerunner 265 |     Y      |
+|                             | Forerunner 955 |     Y      |
+|                             | Forerunner 255 |     Y      |
+| [Enduro](enduro.md)         | Enduro 3       |     Y      |
+|                             | Enduro 2       |     Y      |
 
 
 
@@ -81,7 +81,7 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 | --------------------------- | ------------ | :--------: |
 | [vívoactive](vivoactive.md) | vívoactive 6 |     -      |
 |                             | vívoactive 5 |     -      |
-| [Venu](venu.md)             | Venu 3 / 3S  |     -      |
+| [Venu](venu.md)             | Venu 3       |     -      |
 |                             | Venu Sq 2    |     -      |
 
 
