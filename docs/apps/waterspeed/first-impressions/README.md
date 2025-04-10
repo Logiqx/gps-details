@@ -142,4 +142,4 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 https://www.topografix.com
 
 I have made the necessary change to [gpx-builder](https://github.com/fabulator/gpx-builder) and submitted [PR #234](https://github.com/fabulator/gpx-builder/pull/234). This has now been merged into the official release.
 
-Perhaps you can apply the pull request to your software?
+Perhaps you can apply the changes in the pull request to your software?
