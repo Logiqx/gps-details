@@ -110,7 +110,7 @@ e.g. windsurfing, windfoiling, wingfoiling for myself
 
 #### 4.1 Watch Type / Model
 
-I do a lot of device testing and often wearing multiple watches. It would be really helpful is the watch model were to be shown in the session, perhaps beneath the wind strength / direction. It is possible to determine the latest descriptions for Garmin watches using the JSON data from their Connect IQ SDK, which for convenience I have uploaded to [GitHub](https://logiqx.github.io/gps-details/devices/garmin/products/).
+I do a lot of device testing and often wearing multiple watches. It would be really helpful is the watch model were to be shown in the session, perhaps beneath the wind strength / direction. It is possible to determine the latest descriptions for Garmin watches using the JSON data from their Connect IQ SDK, which for convenience I have uploaded to [GitHub](https://logiqx.github.io/gps-details/devices/garmin/products/). It is also to find a lookup in the FIT SDK.
 
 ![craft](img/craft.png)
 
@@ -140,4 +140,6 @@ The actual XSD is accessible via an HTTPS address:
 xsi:schemaLocation="http://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd
 ```
 
-I have made the necessary change to [gpx-builder](https://github.com/fabulator/gpx-builder) and submitted [PR #234](https://github.com/fabulator/gpx-builder/pull/234). Perhaps you can apply the pull request to your branch?
+I have made the necessary change to [gpx-builder](https://github.com/fabulator/gpx-builder) and submitted [PR #234](https://github.com/fabulator/gpx-builder/pull/234). This has now been merged into the official release.
+
+Perhaps you can apply the pull request to your software?
