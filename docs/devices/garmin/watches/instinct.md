@@ -16,6 +16,9 @@ The Instinct 3 + Instinct E were released after the [fēnix 8](fenix.md), so may
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| Instinct 3 AMOLED Tactical - 50 mm | 2025-04 | 5.0.0 |  | SYN4778 ? |  |  |
+| Instinct 3 Solar Tactical - 50 mm | 2025-04 | 5.0.0 |  | SYN4778 ? |  |  |
+| Instinct 3 Solar Tactical - 45 mm | 2025-04 | 5.0.0 |  | SYN4778 ? |  |  |
 | Instinct 3 AMOLED - 50 mm | 2025-01 | 5.0.0 | 4587 | SYN4778 ? | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2DA54DF8-8084-40ED-954F-EDA09C13B47F/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [hands on](https://www.dcrainmaker.com/2025/01/garmin-instinct-3-series-hands-on-everything-you-need-to-know.html) |
 | Instinct 3 AMOLED - 45 mm | 2025-01 | 5.0.0 | 4586 | SYN4778 ? | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2DA54DF8-8084-40ED-954F-EDA09C13B47F/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [hands on](https://www.dcrainmaker.com/2025/01/garmin-instinct-3-series-hands-on-everything-you-need-to-know.html) |
 | Instinct 3 Solar - 50 mm | 2025-01 | 5.0.0 | 4759 | SYN4778 ? | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2C274FD2-F0C3-445C-B0AC-700FECCE12E9/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [hands on](https://www.dcrainmaker.com/2025/01/garmin-instinct-3-series-hands-on-everything-you-need-to-know.html) |
