@@ -12,15 +12,32 @@ The various models are listed in reverse-chronological order. The release dates 
 
 
 
+### Synaptics
+
+| Model                       | Released   | API | Product | Chipset | APPro? | References |
+| --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| fēnix 8 - 51 mm - Solar | 2024-08 | 5.0.0 | 4533 | SYN4778 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1389491/pn/010-02906-21#specs) + F Tipi [teardown](http://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) |
+| fēnix 8 - 47 mm - Solar | 2024-08 | 5.0.0 | 4532 | SYN4778 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1389491/pn/010-02906-21#specs) |
+| fēnix 8 - 51 mm - AMOLED | 2024-08 | 5.0.0 | 4536 | SYN4778 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
+| fēnix 8 - 47 mm - AMOLED | 2024-08 | 5.0.0 | 4536 | SYN4778 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
+| fēnix 8 - 43 mm - AMOLED | 2024-08 | 5.0.0 | 4534 | SYN4778 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
+
+
+
+### TBC
+
+The fēnix E was released at the same time as the fēnix 8, but believed to be a re-packaged epix (Gen 2).
+
+| Model                       | Released   | API | Product | Chipset | APPro? | References |
+| --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| fēnix E | 2024-08 | 5.0.0 | 4666 | AG3335MN ? | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1652337/pn/010-03025-00#specs) |
+
+
+
 ### Airoha
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| fēnix 8 - 51 mm - Solar | 2024-08 | 5.0.0 | 4533 | AG3335M | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1389491/pn/010-02906-21#specs) |
-| fēnix 8 - 47 mm - Solar | 2024-08 | 5.0.0 | 4532 | AG3335M | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1389491/pn/010-02906-21#specs) |
-| fēnix 8 - 51 mm - AMOLED | 2024-08 | 5.0.0 | 4536 | AG3335M | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
-| fēnix 8 - 47 mm - AMOLED | 2024-08 | 5.0.0 | 4536 | AG3335M | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
-| fēnix 8 - 43 mm - AMOLED | 2024-08 | 5.0.0 | 4534 | AG3335M | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
 | fēnix E | 2024-08 | 5.0.0 | 4666 | AG3335MN | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1652337/pn/010-03025-00#specs) |
 | fēnix 7X - Pro Sapphire Solar | 2023-05 | 5.0.0 | 4376 | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
 | fēnix 7 - Pro Sapphire Solar | 2023-05 | 5.0.0 | 4375 | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |

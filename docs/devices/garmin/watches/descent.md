@@ -10,11 +10,22 @@ The various models are listed in reverse-chronological order. The release dates 
 
 
 
-### Airoha
+### TBC
+
+The Descent G2 was released after the [fēnix 8](fenix.md), so may use an Airoha or Synaptics GNSS chipset.
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
 | Descent G2 | 2025-02 | 5.0.0 | 4588 | AG3335MN ? | Y |  |
+
+? - single band so could be AG3335MN or AG3352.
+
+
+
+### Airoha
+
+| Model                       | Released   | API | Product | Chipset | APPro? | References |
+| --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
 | Descent Mk3i - 51mm | 2023-11 | 5.0.0 | 4223 | AG3335M | Y | |
 | Descent Mk3 / Mk3i - 43mm | 2023-11 | 5.0.0 | 4222 | AG3335M | Y | |
 

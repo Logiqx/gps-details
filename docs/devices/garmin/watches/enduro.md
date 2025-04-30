@@ -11,11 +11,20 @@ The various models are listed in reverse-chronological order. The release dates 
 
 
 
+### Synaptics
+
+The Enduro 3 was released at the same time as the [fēnix 8](fenix.md), so likely use the same Synaptics GNSS chipset.
+
+| Model                       | Released   | API | Product | Chipset | APPro? | References |
+| --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| Enduro 3 | 2024-08 | 5.0.0 | 4575 | SYN4778 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/851039#specs) |
+
+
+
 ### Airoha
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| Enduro 3 | 2024-08 | 5.0.0 | 4575 | AG3335M | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/851039#specs) |
 | Enduro 2 | 2022-01 | 5.0.0 | 4341 | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2CD92989-7336-4BF3-96CC-50DDBD63B109/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2022/08/garmin-enduro-review.html) |
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.

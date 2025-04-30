@@ -8,11 +8,22 @@ The various models are listed in reverse-chronological order. The release dates 
 
 
 
-### Airoha
+### TBC
+
+The vívoactive 6 was released after the [fēnix 8](fenix.md), so may use an Airoha or Synaptics GNSS chipset.
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
 | vívoactive 6 | 2025-04 | 5.0.0 | 4625 | AG3335MN ? | - | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-8C2C402F-55AC-431F-9CF2-1442B89CE149/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2025/04/garmin-vivoactive-6-details-hands-everything.html) |
+
+? - single band so could be AG3335MN or AG3352.
+
+
+
+### Airoha
+
+| Model                       | Released   | API | Product | Chipset | APPro? | References |
+| --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
 | vívoactive 5 | 2023-09 | 5.0.0 | 4426 | AG3335MN ? | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-5D183A14-BB43-4A9B-B441-5F824214CE40/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2023/09/garmin-vivoactive-5-in-depth-review-now-with-an-amoled-display.html) |
 
 ? - single band so could be AG3335MN or AG3352.
