@@ -8,13 +8,13 @@ This page lists the GNSS chipsets of the many Garmin watches that people may wis
 
 
 
-### Airoha GNSS Chipset
+### Airoha or Synaptics GNSS Chipset
 
-When choosing a Garmin watch it is highly recommended that you choose a model which incorporates an Airoha GNSS chipset. The speeds from the Airoha chipset are a lot more trustworthy than earlier watches, especially the ones using a Sony GNSS chipset.
+When choosing a Garmin watch it is highly recommended that you choose a model which incorporates an Airoha or Synaptics GNSS chipset. The speeds from the these chipsets are a lot more trustworthy than earlier watches, especially the ones using a Sony GNSS chipset.
 
-There are numerous Garmin watches that incorporate the Airoha AG3335M (multi-band GNSS) or AG3335MN (single-band GNSS). The following sections list all of the Airoha-based Garmin watches that you might wish to consider for wind sports.
+There are numerous Garmin watches that incorporate the Synaptics SYN4778 (multi-band GNSS), Airoha AG3335M (multi-band GNSS) or AG3335MN (single-band GNSS). The following sections list all of the Garmin watches that use an Airoha or Synaptics GNSS chipset that you might wish to consider for wind sports.
 
-Disclaimer: It should be noted that not all of these watches have been tested extensively. Whilst they all use Airoha chipsets there are other factors that impact GNSS accuracy, such as the antenna design and watch firmware. Testing different watches is an ongoing activity.
+Disclaimer: It should be noted that not all of these watches have been tested extensively. Whilst they all use Airoha or Synaptics chipsets there are other factors that impact GNSS accuracy, such as the antenna design and watch firmware. Testing different watches is an ongoing activity.
 
 
 
@@ -22,38 +22,40 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 
 All of these watches include native windsurfing / kiteboarding activities, but [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is strongly recommended.
 
-| Series                  | Model                        | Multi-Band |
-| ----------------------- | ---------------------------- | :--------: |
-| [Instinct](instinct.md) | Instinct 3 AMOLED            |     Y      |
-|                         | Instinct 3 Solar             |     Y      |
-|                         | Instinct E                   |     -      |
-|                         | Instinct 2X Solar            |     Y      |
-| [fēnix](fenix.md)       | fēnix 8 - Solar              |     Y      |
-|                         | fēnix 8 - AMOLED             |     Y      |
-|                         | fēnix E                      |     -      |
-|                         | fēnix 7 - Pro Sapphire Solar |     Y      |
-|                         | fēnix 7 - Pro Solar          |     Y      |
-|                         | fēnix 7 - Sapphire Solar     |     Y      |
-|                         | fēnix 7 - Solar              |     -      |
-|                         | fēnix 7                      |     -      |
-| [epix](epix.md)         | epix Pro (Gen 2) - Sapphire  |     Y      |
-|                         | epix Pro (Gen 2)             |     Y      |
-|                         | epix (Gen 2) - Sapphire      |     Y      |
-|                         | epix (Gen 2)                 |     -      |
-| [quatix](quatix.md)     | quatix 7 - Pro               |     Y      |
-|                         | quatix 7 - Sapphire          |     Y      |
-|                         | quatix 7X - Solar            |     -      |
-|                         | quatix 7                     |     -      |
-| [tactix](tactix.md)     | tactix 8 - Solar             |     Y      |
-|                         | tactix 8 - AMOLED            |     Y      |
-|                         | tactix 7 - AMOLED            |     Y      |
-|                         | tactix 7 - Pro               |     -      |
-|                         | tactix 7                     |     -      |
-| [Descent](descent.md)   | Descent G2                   |     -      |
-|                         | Descent Mk3i                 |     Y      |
-|                         | Descent Mk3                  |     Y      |
-| [D2](d2.md)             | D2 Mach 1 Pro                |     Y      |
-|                         | D2 Mach 1                    |     Y      |
+| Series                  | Model                        | Brand     | Multi-Band |
+| ----------------------- | ---------------------------- | --------- | :--------: |
+| [Instinct](instinct.md) | Instinct 3 AMOLED Tactical   | TBC       |     Y      |
+|                         | Instinct 3 Solar Tactical    | TBC       |     Y      |
+|                         | Instinct 3 AMOLED            | TBC       |     Y      |
+|                         | Instinct 3 Solar             | TBC       |     Y      |
+|                         | Instinct E                   | TBC       |     -      |
+|                         | Instinct 2X Solar            | Airoha    |     Y      |
+| [fēnix](fenix.md)       | fēnix 8 - Solar              | Synaptics |     Y      |
+|                         | fēnix 8 - AMOLED             | Synaptics |     Y      |
+|                         | fēnix E                      | TBC       |     -      |
+|                         | fēnix 7 - Pro Sapphire Solar | Airoha    |     Y      |
+|                         | fēnix 7 - Pro Solar          | Airoha    |     Y      |
+|                         | fēnix 7 - Sapphire Solar     | Airoha    |     Y      |
+|                         | fēnix 7 - Solar              | Airoha    |     -      |
+|                         | fēnix 7                      | Airoha    |     -      |
+| [epix](epix.md)         | epix Pro (Gen 2) - Sapphire  | Airoha    |     Y      |
+|                         | epix Pro (Gen 2)             | Airoha    |     Y      |
+|                         | epix (Gen 2) - Sapphire      | Airoha    |     Y      |
+|                         | epix (Gen 2)                 | Airoha    |     -      |
+| [quatix](quatix.md)     | quatix 7 - Pro               | Airoha    |     Y      |
+|                         | quatix 7 - Sapphire          | Airoha    |     Y      |
+|                         | quatix 7X - Solar            | Airoha    |     -      |
+|                         | quatix 7                     | Airoha    |     -      |
+| [tactix](tactix.md)     | tactix 8 - Solar             | Synaptics |     Y      |
+|                         | tactix 8 - AMOLED            | Synaptics |     Y      |
+|                         | tactix 7 - AMOLED            | Airoha    |     Y      |
+|                         | tactix 7 - Pro               | Airoha    |     -      |
+|                         | tactix 7                     | Airoha    |     -      |
+| [Descent](descent.md)   | Descent G2                   | TBC       |     -      |
+|                         | Descent Mk3i                 | Airoha    |     Y      |
+|                         | Descent Mk3                  | Airoha    |     Y      |
+| [D2](d2.md)             | D2 Mach 1 Pro                | Airoha    |     Y      |
+|                         | D2 Mach 1                    | Airoha    |     Y      |
 
 
 
@@ -61,15 +63,15 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 
 None of these watches include native windsurfing / kiteboarding activities, so [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is recommended.
 
-| Series                      | Model          | Multi-Band |
-| --------------------------- | -------------- | :--------: |
-| [Forerunner](forerunner.md) | Forerunner 165 |     -      |
-|                             | Forerunner 965 |     Y      |
-|                             | Forerunner 265 |     Y      |
-|                             | Forerunner 955 |     Y      |
-|                             | Forerunner 255 |     Y      |
-| [Enduro](enduro.md)         | Enduro 3       |     Y      |
-|                             | Enduro 2       |     Y      |
+| Series                      | Model          | Brand     | Multi-Band |
+| --------------------------- | -------------- | --------- | :--------: |
+| [Forerunner](forerunner.md) | Forerunner 165 | Airoha    |     -      |
+|                             | Forerunner 965 | Airoha    |     Y      |
+|                             | Forerunner 265 | Airoha    |     Y      |
+|                             | Forerunner 955 | Airoha    |     Y      |
+|                             | Forerunner 255 | Airoha    |     Y      |
+| [Enduro](enduro.md)         | Enduro 3       | Synaptics |     Y      |
+|                             | Enduro 2       | Airoha    |     Y      |
 
 
 
@@ -77,12 +79,12 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 
 None of these watches include native windsurfing / kiteboarding activities, so [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is recommended.
 
-| Series                      | Model        | Multi-Band |
-| --------------------------- | ------------ | :--------: |
-| [vívoactive](vivoactive.md) | vívoactive 6 |     -      |
-|                             | vívoactive 5 |     -      |
-| [Venu](venu.md)             | Venu 3       |     -      |
-|                             | Venu Sq 2    |     -      |
+| Series                      | Model        | Brand  | Multi-Band |
+| --------------------------- | ------------ | ------ | :--------: |
+| [vívoactive](vivoactive.md) | vívoactive 6 | TBC    |     -      |
+|                             | vívoactive 5 | Airoha |     -      |
+| [Venu](venu.md)             | Venu 3       | Airoha |     -      |
+|                             | Venu Sq 2    | Airoha |     -      |
 
 
 
@@ -128,6 +130,9 @@ The following is a list of activity profiles that are NOT suitable, due to their
 ### Important Settings
 
 - Use the best possible GNSS setting.
+  - **Synaptics**
+    - *All Systems + Multi-Band > All Systems > Standard GPS*
+    - Avoid using SatIQ because it causes the speed accuracy to deteriorate.
   - **Airoha**
     - *All Systems + Multi-Band > All Systems > Standard GPS*
     - Avoid using SatIQ because it causes the speed accuracy to deteriorate.
