@@ -232,7 +232,7 @@ It's not rugged like the Instinct 3 AMOLED, but it is sleeker and has a slightly
 
 **Price**
 
-- £499.99 RRP, but will be discounted when the Forerunner 975 is released
+- £499.99 RRP, but will be discounted when the Forerunner 970 is released
 
 **Size**
 
@@ -315,13 +315,13 @@ There are three sizes of the epix Pro (Gen 2); 42 / 47 / 51 mm. These are the sp
 
 ### Related Models
 
-The quatix 7 (Solar and Pro) and tactix 7 (AMOLED) are almost identical to the fēnix 7 Pro and epix Pro, but they have not seen such big discounts as the various fēnix 7 Pro and epix Pro models.
+The quatix 7 (Solar and Pro) and tactix 7 (AMOLED) are almost identical to the fēnix 7 Pro and epix Pro, and likely to see discounts once they are superceded by the quatix 8 and tactix 8.
 
 If your budget stretches to the fēnix 8, it will be more suitable for scuba diving. It also adds voice commands and new software / user interface, but carries a hefty price tag at over £850. Likewise for the tactix 8 and probably the forthcoming quatix 8.
 
-The Enduro 2 and Enduro 3 are essentially a modified fēnix 7X - Sapphire, but aimed at ultra-runners due to the impressive battery life. The Enduro 3 also has the newer software / user interface of the fēnix 8.
+The Enduro 2 is essentially a modified fēnix 7X — Sapphire, but aimed at ultra-runners due to the impressive battery life. The Enduro 3 is closely related to the fēnix 8 and also has the newer software / user interface.
 
-The Forerunner 275 and 975 are expected to be released in the near future, perhaps in May 2025. The Forerunner 265 and 965 are likely to be heavily discounted once they have been superseded, so look out for some bargains!
+The Forerunner 570 and 970 were released in mid-May 2025. The Forerunner 265 and 965 are likely to be heavily discounted once they have been superseded, so look out for some bargains!
 
 
 
