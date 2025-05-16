@@ -24,11 +24,11 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 
 | Series                  | Model                        | Brand     | Multi-Band |
 | ----------------------- | ---------------------------- | --------- | :--------: |
-| [Instinct](instinct.md) | Instinct 3 AMOLED Tactical   | TBC       |     Y      |
-|                         | Instinct 3 Solar Tactical    | TBC       |     Y      |
-|                         | Instinct 3 AMOLED            | TBC       |     Y      |
-|                         | Instinct 3 Solar             | TBC       |     Y      |
-|                         | Instinct E                   | TBC       |     -      |
+| [Instinct](instinct.md) | Instinct 3 AMOLED Tactical   | Airoha    |     Y      |
+|                         | Instinct 3 Solar Tactical    | Airoha    |     Y      |
+|                         | Instinct 3 AMOLED            | Airoha    |     Y      |
+|                         | Instinct 3 Solar             | Airoha    |     Y      |
+|                         | Instinct E                   | Airoha    |     -      |
 |                         | Instinct 2X Solar            | Airoha    |     Y      |
 | [fēnix](fenix.md)       | fēnix 8 - Solar              | Synaptics |     Y      |
 |                         | fēnix 8 - AMOLED             | Synaptics |     Y      |
@@ -65,7 +65,9 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 
 | Series                      | Model          | Brand     | Multi-Band |
 | --------------------------- | -------------- | --------- | :--------: |
-| [Forerunner](forerunner.md) | Forerunner 165 | Airoha    |     -      |
+| [Forerunner](forerunner.md) | Forerunner 970 | TBC       |     Y      |
+|                             | Forerunner 570 | TBC       |     Y      |
+|                             | Forerunner 165 | Airoha    |     -      |
 |                             | Forerunner 965 | Airoha    |     Y      |
 |                             | Forerunner 265 | Airoha    |     Y      |
 |                             | Forerunner 955 | Airoha    |     Y      |

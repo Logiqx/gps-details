@@ -8,6 +8,18 @@ The various models are listed in reverse-chronological order. The release dates 
 
 
 
+### TBC
+
+The Forerunner 970 and 570 were released after the [fēnix 8](fenix.md), so may use an Airoha or Synaptics GNSS chipset.
+
+| Model                       | Released   | API | Product | Chipset | APPro? | References |
+| --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | --------------------------- |
+| Forerunner 970    | 2024-05 | 5.0.0 | 4565 | ? | - | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-025D75CF-3445-49E1-8D81-1AA74AB4E00F/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| Forerunner 570 - 47 mm | 2024-05 | 5.0.0 | 4570 | ? | - | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-25E3235D-44D2-4384-A591-DD1D71BEBCB1/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| Forerunner 570 - 42 mm | 2024-05 | 5.0.0 | 4574 | ? | - | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-25E3235D-44D2-4384-A591-DD1D71BEBCB1/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+
+
+
 ### Airoha
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
