@@ -4,8 +4,7 @@
 
 This page lists the GNSS chipsets that are used in the Garmin Enduro watches.
 
-- The Enduro 2 is essentially a fēnix 7X - Sapphire Solar but with longer battery life and slightly different features.
-- The Enduro 3 is also akin to a fēnix 7X - Sapphire Solar but with longer battery life and slightly newer software.
+The Enduro is similar to the [fēnix](fenix.md), but with longer battery life and slightly different features.
 
 The various models are listed in reverse-chronological order. The release dates are generally from Garmin announcements.
 
@@ -15,6 +14,8 @@ The various models are listed in reverse-chronological order. The release dates 
 
 The Enduro 3 was released at the same time as the [fēnix 8](fenix.md), so likely use the same Synaptics GNSS chipset.
 
+The Enduro 3 is akin to the fēnix 8 51 mm Solar Sapphire but with longer battery life.
+
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | Enduro 3 | 2024-08 | 5.0.0 | 4575 | SYN4778 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/851039#specs) |
@@ -22,6 +23,8 @@ The Enduro 3 was released at the same time as the [fēnix 8](fenix.md), so likel
 
 
 ### Airoha
+
+The Enduro 2 is essentially a fēnix 7X Sapphire Solar but with longer battery life and slightly different features.
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |

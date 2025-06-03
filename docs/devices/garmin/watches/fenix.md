@@ -6,8 +6,6 @@ This page lists the GNSS chipsets that are used in the Garmin fēnix watches.
 
 The history of the fēnix (and epix) has been summarised in an [article](https://www.dcrainmaker.com/2023/12/garmin-fenix7-epix-release-history-explained.html) by DC Rainmaker.
 
-The fēnix E is essentially a re-packaged epix (Gen 2) - 47 mm, but with newer system software.
-
 The various models are listed in reverse-chronological order. The release dates are generally from [Wikipedia](https://en.wikipedia.org/wiki/Garmin_Fenix#Models).
 
 
@@ -26,7 +24,7 @@ The various models are listed in reverse-chronological order. The release dates 
 
 ### TBC
 
-The fēnix E was released at the same time as the fēnix 8, but believed to be a re-packaged epix (Gen 2).
+The fēnix E was released at the same time as the fēnix 8 and believed to be a re-packaged epix (Gen 2), but with newer system software.
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |

@@ -87,7 +87,7 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 
 
 
-#### Health / Fitness
+#### Health / Wellness
 
 None of these watches include native windsurfing / kiteboarding activities, so [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is recommended.
 
@@ -175,7 +175,7 @@ Technical specifications, including GNSS details are provided for the following 
   - [Descent](descent.md)
 - Running / Triathlon
   - [Forerunner](forerunner.md)
-- Health / Fitness
+- Health / Wellness
   - [vívoactive](vivoactive.md)
   - [Venu](venu.md)
 
