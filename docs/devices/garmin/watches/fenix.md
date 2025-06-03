@@ -38,7 +38,6 @@ The fēnix E was released at the same time as the fēnix 8, but believed to be a
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| fēnix E | 2024-08 | 5.0.0 | 4666 | AG3335MN | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1652337/pn/010-03025-00#specs) |
 | fēnix 7X - Pro Sapphire Solar | 2023-05 | 5.0.0 | 4376 | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
 | fēnix 7 - Pro Sapphire Solar | 2023-05 | 5.0.0 | 4375 | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
 | fēnix 7S - Pro Sapphire Solar | 2023-05 | 5.0.0 | 4374 | AG3335M | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |

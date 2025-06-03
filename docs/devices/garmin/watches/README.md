@@ -18,18 +18,12 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 
 
 
-#### Rugged
+#### Rugged - fēnix variants
 
 All of these watches include native windsurfing / kiteboarding activities, but [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is strongly recommended.
 
 | Series                  | Model                        | Brand     | Multi-Band |
 | ----------------------- | ---------------------------- | --------- | :--------: |
-| [Instinct](instinct.md) | Instinct 3 AMOLED Tactical   | Airoha    |     Y      |
-|                         | Instinct 3 Solar Tactical    | Airoha    |     Y      |
-|                         | Instinct 3 AMOLED            | Airoha    |     Y      |
-|                         | Instinct 3 Solar             | Airoha    |     Y      |
-|                         | Instinct E                   | Airoha    |     -      |
-|                         | Instinct 2X Solar            | Airoha    |     Y      |
 | [fēnix](fenix.md)       | fēnix 8 - Solar              | Synaptics |     Y      |
 |                         | fēnix 8 - AMOLED             | Synaptics |     Y      |
 |                         | fēnix E                      | TBC       |     -      |
@@ -51,11 +45,28 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 |                         | tactix 7 - AMOLED            | Airoha    |     Y      |
 |                         | tactix 7 - Pro               | Airoha    |     -      |
 |                         | tactix 7                     | Airoha    |     -      |
+| [Enduro](enduro.md)         | Enduro 3       | Synaptics |     Y      |
+|                             | Enduro 2       | Airoha    |     Y      |
+| [D2](d2.md)             | D2 Mach 1 Pro                | Airoha    |     Y      |
+|                         | D2 Mach 1                    | Airoha    |     Y      |
+
+
+
+#### Rugged - other ranges
+
+All of these watches include native windsurfing / kiteboarding activities, but [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is strongly recommended.
+
+| Series                      | Model          | Brand     | Multi-Band |
+| --------------------------- | -------------- | --------- | :--------: |
 | [Descent](descent.md)   | Descent G2                   | TBC       |     -      |
 |                         | Descent Mk3i                 | Airoha    |     Y      |
 |                         | Descent Mk3                  | Airoha    |     Y      |
-| [D2](d2.md)             | D2 Mach 1 Pro                | Airoha    |     Y      |
-|                         | D2 Mach 1                    | Airoha    |     Y      |
+| [Instinct](instinct.md) | Instinct 3 AMOLED Tactical   | Airoha    |     Y      |
+|                         | Instinct 3 Solar Tactical    | Airoha    |     Y      |
+|                         | Instinct 3 AMOLED            | Airoha    |     Y      |
+|                         | Instinct 3 Solar             | Airoha    |     Y      |
+|                         | Instinct E                   | Airoha    |     -      |
+|                         | Instinct 2X Solar            | Airoha    |     Y      |
 
 
 
@@ -72,12 +83,11 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 |                             | Forerunner 265 | Airoha    |     Y      |
 |                             | Forerunner 955 | Airoha    |     Y      |
 |                             | Forerunner 255 | Airoha    |     Y      |
-| [Enduro](enduro.md)         | Enduro 3       | Synaptics |     Y      |
-|                             | Enduro 2       | Airoha    |     Y      |
 
 
 
-#### Fitness / Fashion
+
+#### Health / Fitness
 
 None of these watches include native windsurfing / kiteboarding activities, so [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is recommended.
 
@@ -153,18 +163,19 @@ The following is a list of activity profiles that are NOT suitable, due to their
 
 Technical specifications, including GNSS details are provided for the following Garmin watches:
 
-- Rugged
-  - [Instinct](instinct.md)
+- Rugged - fēnix variants
   - [fēnix](fenix.md)
   - [epix](epix.md)
   - [quatix](quatix.md)
   - [tactix](tactix.md)
-  - [Descent](descent.md)
+  - [Enduro](enduro.md)
   - [D2](d2.md)
+- Rugged - other ranges
+  - [Instinct](instinct.md)
+  - [Descent](descent.md)
 - Running / Triathlon
   - [Forerunner](forerunner.md)
-  - [Enduro](enduro.md)
-- Fitness / Fashion
+- Health / Fitness
   - [vívoactive](vivoactive.md)
   - [Venu](venu.md)
 
