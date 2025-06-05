@@ -47,10 +47,10 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 | Forerunner 945 LTE          | 2021-06 | 4.2.0 | 3652, 3978 | CXD56xxxx | Y |  |
 | Forerunner 745 | 2020-09 | 3.3.0 | 3589, 3794 | CXD56xxxx | Y | |
 | Forerunner 45 Plus | 2020-08 | 1.4.0 | 3469 | CXD56xxxx | - | |
-| Forerunner 45 / 45S | 2019-04 | 1.4.0 | 3282, 3847, 3469 | CXD5603GF | - |  |
-| Forerunner 245 Music | 2019-04 | 3.3.0 | 3077, 3321, 3913 | CXD5603GF | Y | iFixit [teardown](https://www.ifixit.com/Teardown/Garmin+Forerunner+245+Music+Teardown/150396) |
-| Forerunner 245 | 2019-04 | 3.3.0 | 3076, 3145, 3914 | CXD5603GF | Y |  |
-| Forerunner 945       | 2019-04 | 3.3.0 | 3113, 3441 | CXD5603GF | Y |            |
+| Forerunner 45 / 45S | 2019-04 | 1.4.0 | 3282, 3847, 3469 | CXD56xxxx | - |  |
+| Forerunner 245 Music | 2019-04 | 3.3.0 | 3077, 3321, 3913 | CXD56xxxx | Y | iFixit [teardown](https://www.ifixit.com/Teardown/Garmin+Forerunner+245+Music+Teardown/150396) |
+| Forerunner 245 | 2019-04 | 3.3.0 | 3076, 3145, 3914 | CXD56xxxx | Y |  |
+| Forerunner 945       | 2019-04 | 3.3.0 | 3113, 3441 | CXD56xxxx | Y |            |
 
 Alternative product number(s) include APAC models.
 

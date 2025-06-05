@@ -32,8 +32,8 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| vívoactive 4 | 2019-09  | 3.3.0 | 3225, 3388 | CXD5603GF | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/vivoactive4_4S/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2020/02/garmin-vivoactive-4-gps-smartwatch-in-depth-review.html) |
-| vívoactive 4S | 2019-09 | 3.3.0 | 3224, 3387 | CXD5603GF | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/vivoactive4_4S/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2020/02/garmin-vivoactive-4-gps-smartwatch-in-depth-review.html) |
+| vívoactive 4 | 2019-09  | 3.3.0 | 3225, 3388 | CXD56xxxx | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/vivoactive4_4S/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2020/02/garmin-vivoactive-4-gps-smartwatch-in-depth-review.html) |
+| vívoactive 4S | 2019-09 | 3.3.0 | 3224, 3387 | CXD56xxxx | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/vivoactive4_4S/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2020/02/garmin-vivoactive-4-gps-smartwatch-in-depth-review.html) |
 
 Alternative product number(s) are APAC variants.
 
