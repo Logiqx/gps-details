@@ -14,7 +14,7 @@ The various models are listed in reverse-chronological order. The release dates 
 
 The Descent G2 was released after the [fēnix 8](fenix.md), so may use an Airoha or Synaptics GNSS chipset.
 
-The software version is the same as the Descent Mk3i so perhaps it is using Airoha, albeit the single-band AG3335MN.
+The software version is the same as the Descent Mk3i so perhaps it also uses an Airoha chipset, albeit the single-band AG3335MN.
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
