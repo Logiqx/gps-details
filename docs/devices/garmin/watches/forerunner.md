@@ -78,7 +78,7 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | Forerunner 920XT            | 2014-10 | 1.4.0 | 1765, 2130, 2131, 2132 | MT3333 | - |  |
 | Forerunner 15               | 2014-05 | - | 1903, 2061 | MT3333 ? | - |  |
 | Forerunner 620              | 2013-09 | - | 1623, 1928, 1929, 2072, 2173 | MT3333 | - |                                                              |
-| Forerunner 220              | 2013-09 | - | 1632, 1930, 1931, 2073, 2174 | MT3333 | - | EE World [teardown](https://www.eeworldonline.com/teardown-garmin-forerunner-220-sport-watch-heart-monitor/) |
+| Forerunner 220              | 2013-09 | - | 1632, 1930, 1931, 2073, 2174 | MT3333 | - | Microcontroller Tips [teardown](https://www.microcontrollertips.com/teardown-garmin-forerunner-220-sport-watch-heart-monitor/) +<br />EE World [teardown](https://www.eeworldonline.com/teardown-garmin-forerunner-220-sport-watch-heart-monitor/) |
 | Forerunner 10    | 2012-08 | - | 1482, 1688 | MT333x | - |  |
 
 Alternative product number(s) include APAC models.
