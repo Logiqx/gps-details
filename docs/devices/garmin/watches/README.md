@@ -66,7 +66,6 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 |                         | Instinct 3 AMOLED            | Airoha    |     Y      |
 |                         | Instinct 3 Solar             | Airoha    |     Y      |
 |                         | Instinct E                   | Airoha    |     -      |
-|                         | Instinct 2X Solar            | Airoha    |     Y      |
 
 
 
@@ -96,7 +95,6 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 | [vívoactive](vivoactive.md) | vívoactive 6 | TBC    |     -      |
 |                             | vívoactive 5 | Airoha |     -      |
 | [Venu](venu.md)             | Venu 3       | Airoha |     -      |
-|                             | Venu Sq 2    | Airoha |     -      |
 
 
 

@@ -19,7 +19,7 @@ The various models are listed in reverse-chronological order. The release dates 
 | Venu Sq 2 Music \* | 2022-09  | 5.0.0 | 4116 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals-apac/webhelp/venusq2/EN-SG/GUID-57C7FCDE-E149-4898-96F3-F5D53D177F00-4988.html) + FCC [teardown](https://fccid.io/IPH-A4390/Internal-Photos/Internal-Photos-5919160) + DCR [review](https://www.dcrainmaker.com/2022/09/garmin-venu-sq-2-in-depth-review.html) |
 | Venu Sq 2 \* | 2022-09 | 5.0.0 | 4115 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals-apac/webhelp/venusq2/EN-SG/GUID-57C7FCDE-E149-4898-96F3-F5D53D177F00-4988.html) + DCR [review](https://www.dcrainmaker.com/2022/09/garmin-venu-sq-2-in-depth-review.html) |
 
-\* Venu Sq 2 and Venu Sq 2 Music have a significant smoothing issue and are NOT recommended for speed sailing.
+\* Venu Sq 2 and Venu Sq 2 Music have a significant smoothing issue and are NOT recommended for wind sports.
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
