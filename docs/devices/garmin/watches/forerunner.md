@@ -24,8 +24,8 @@ The Forerunner 970 and 570 were released after the [fēnix 8](fenix.md), so may 
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | --------------------------- |
-| Forerunner 165 Music      | 2024-02 | 5.0.0 | 4433 | AG3335MN ? | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-607F08F6-33FC-40BF-9727-84E54043D82D/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + [the5krunner](https://the5krunner.com/2024/03/02/garmin-forerunner-165-review-specifications/) |
-| Forerunner 165 | 2024-02 | 5.0.0 | 4432 | AG3335MN ? | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-607F08F6-33FC-40BF-9727-84E54043D82D/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + [the5krunner](https://the5krunner.com/2024/03/02/garmin-forerunner-165-review-specifications/) |
+| Forerunner 165 Music      | 2024-02 | 5.0.0 | 4433 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-607F08F6-33FC-40BF-9727-84E54043D82D/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + [the5krunner](https://the5krunner.com/2024/03/02/garmin-forerunner-165-review-specifications/) |
+| Forerunner 165 | 2024-02 | 5.0.0 | 4432 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-607F08F6-33FC-40BF-9727-84E54043D82D/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + [the5krunner](https://the5krunner.com/2024/03/02/garmin-forerunner-165-review-specifications/) |
 | Forerunner 965              | 2023-03 | 5.0.0 | 4315 | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-0221611A-992D-495E-8DED-1DD448F7A066/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + [TechInsights](https://www.techinsights.com/blog/deep-dive-teardown-garmin-forerunner-965-a04578-smartwatch) |
 | Forerunner 265 | 2023-03 | 5.0.0 | 4257 | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-F41EAFB3-6CC9-42DE-9C6C-9E358DBB0671/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) |
 | Forerunner 265S       | 2023-03 | 5.0.0 | 4258 | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-F41EAFB3-6CC9-42DE-9C6C-9E358DBB0671/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) |
@@ -34,8 +34,6 @@ The Forerunner 970 and 570 were released after the [fēnix 8](fenix.md), so may 
 | Forerunner 255 | 2022-06 | 5.0.0 | 3992 | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-676967A0-1B23-4384-9BC9-76F3D643F1C8/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + DCR [review](https://www.dcrainmaker.com/2022/06/garmin-forerunner-255-review-multisport.html) |
 | Forerunner 255S Music | 2022-06 | 5.0.0 | 3991 | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-676967A0-1B23-4384-9BC9-76F3D643F1C8/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + DCR [review](https://www.dcrainmaker.com/2022/06/garmin-forerunner-255-review-multisport.html) |
 | Forerunner 255S | 2022-06 | 5.0.0 | 3993 | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-676967A0-1B23-4384-9BC9-76F3D643F1C8/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + DCR [review](https://www.dcrainmaker.com/2022/06/garmin-forerunner-255-review-multisport.html) |
-
-? - single band so could be AG3335MN or AG3352.
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
