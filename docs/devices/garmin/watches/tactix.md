@@ -36,11 +36,13 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 
 ### Sony
 
+The tactix Delta product codes are shared with the [fēnix](fenix.md) 6.
+
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
 | tactix Delta            | 2020-01  | 3.4.0 | 3291, 3516, 3783 | CXD56xxxx | Y |            |
 
-The tactix Delta product codes are shared with the [fēnix](fenix.md) 6 and alternative product number(s) are possible APAC variants.
+Alternative product number(s) are possible APAC variants.
 
 Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets are available on another page.
 
@@ -48,13 +50,15 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 
 ### Mediatek
 
+All product codes are shared with the [fēnix](fenix.md).
+
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
 | tactix Charlie | 2018-03  | 3.1.0 | 2604, 2798 | MT3333  | Y |                                                              |
 | tactix Bravo   | 2016-01  | 1.4.0 | 2050, ... | MT3333  | - | DCR [explainer](https://www.dcrainmaker.com/2016/01/garmins-tactix-bravo.html) |
 | tactix         | 2013-10  | -     | ? | MT333x  | - | DCR [review](https://www.dcrainmaker.com/2013/10/garmin-tactix-review.html) |
 
-All product codes are shared with the [fēnix](fenix.md) and alternative product number(s) are possible APAC variants.
+Alternative product number(s) are possible APAC variants.
 
 Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chipsets are available on another page.
 

@@ -28,8 +28,6 @@ The various models are listed in reverse-chronological order. The release dates 
 
 \* Instinct 2X Solar has a significant smoothing issue and is NOT recommended for wind sports.
 
-Alternative product number(s) are APAC variants.
-
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
 
