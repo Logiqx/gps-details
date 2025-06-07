@@ -1,4 +1,4 @@
-## Garmin - GNSS Chipsets
+## Garmin - Identifying GNSS Chipsets
 
 Author: Michael George
 

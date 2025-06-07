@@ -1,6 +1,6 @@
-## Garmin Product Codes
+## Garmin Product Numbers
 
-This is a complete list of Garmin product codes (watches and wearables) as of 5 April 2025.
+This is a complete list of Garmin product numbers (watches and wearables) as of 5 April 2025.
 
 The raw data was sourced from the Garmin Connect IQ SDK.
 
