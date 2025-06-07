@@ -12,17 +12,17 @@ The FIT files from Garmin watches / products often contain a product number for 
 
 The GNSS product number can be found in the device_info record with a device_type of 0 (GPS).
 
-This document has been summarises the GNSS product numbers and where they have been observed.
+This document summarises the GNSS product numbers and where they have been observed in FIT files.
 
 
 
 #### Mediatek
 
-Several product numbers have been used for the Mediatek MT3333.
+Several product numbers have been observed for the Mediatek MT3333.
 
-It isn't clear whether these are slightly different versions of the MT3333, or relate to firmware updates from Mediatek.
+It is unclear whether these are slightly different versions of the MT3333, or relate to firmware updates from Mediatek.
 
-Multiple teardowns confirm the MT3333 being used in a variety of Garmin watches from this era.
+Multiple teardowns confirm the MT3333 being used in a variety of Garmin watches from this particular era.
 
 | Product | Chipset | Observed                                                     |
 | ------- | ------- | ------------------------------------------------------------ |
@@ -35,11 +35,11 @@ Multiple teardowns confirm the MT3333 being used in a variety of Garmin watches 
 
 #### Sony
 
-Several product numbers are used for the Sony GNSS chipsets.
+Several product numbers are observed for the Sony GNSS chipsets.
 
-At least one of the numbers represents the CXD5603GF, but others may represent chipsets such as the CXD5605GF, or relate to firmware updates from Sony. 
+3107 probably represents the CXD5603GF, but others may represent chipsets such as the CXD5605GF, or relate to firmware updates from Sony. 
 
-It's worth noting that some watch models have been seen with differing GNSS product numbers. e.g. Forerunner 945 with 3107 or 4197.
+It's worth noting that some watch models have been seen with differing GNSS product numbers. e.g. Forerunner 945 with 3107 and 4197.
 
 | Product | Chipset   | Observed                                                     |
 | ------- | --------- | ------------------------------------------------------------ |
@@ -60,9 +60,9 @@ Links:
 
 There are two distinct product numbers for the Airoha GNSS chipsets; 3865 (AG3335M, multi-band) and 3866 (AG3335MN, single-band).
 
-There is one anomaly where the fenix 7 Sapphire lists the GNSS product number as 3866 (AG3335MN), despite being multi-band. This is likely because there is a single product number of 3906 for the fenix 7 series, so the system software may not distinguish between the various models.
+One anomaly has been spotted where the fenix 7 Sapphire lists the GNSS product number as 3866 (AG3335MN), despite being multi-band. This is likely because there is a single product number of 3906 for the fenix 7 series, so the system software may not distinguish between the various models.
 
-The Instinct 3 and Instinct E refer to the AG3335M and AG3335MN respectively. They also exhibit the same artefacts in gps_metadata as other Airoha-based Garmin watches. These observations are software-related, but strongly suggest the Instinct 3 and Instinct E use Airoha chipsets.
+The Instinct 3 and Instinct E refer to the AG3335M and AG3335MN respectively. They also exhibit the same artefacts in gps_metadata as other Airoha-based Garmin watches. These observations are software-related, but strongly suggest the Instinct 3 and Instinct E are using Airoha chipsets.
 
 | Product | Chipset  | Examples                                                     |
 | ------- | -------- | ------------------------------------------------------------ |
@@ -77,7 +77,7 @@ Early system software for the fēnix 8 recorded the GNSS product number as 0.
 
 ​	e.g. system software = 12.35, GPS software = 2.11, GNSS product = 0.
 
-Subsequent software also records the fēnix 8 product number as the GNSS product number.
+Subsequent software has recorded a GNSS product number which is identical to the fēnix 8 product number.
 
 ​	e.g. system software = 13.37, GPS software = 2.17, GNSS product = 4536.
 
@@ -88,7 +88,7 @@ Likewise the Forerunner 970 also records its product number (4565) as the GNSS p
 | 4536    | SYN4778    | fēnix 8        |
 | 4565    | SYN4778 \* | Forerunner 970 |
 
-\* Further testing is pending to look for Airoha-related artefacts in gps_metadata.
+\* Further testing is pending to look for any Airoha-related artefacts in the gps_metadata of the Forerunner 970.
 
 
 
@@ -98,4 +98,4 @@ GNSS product numbers have been quite useful when trying to distinguish between M
 
 Sadly this may be coming to an end with the fēnix 8 and Forerunner 970, which do not use generic GNSS product numbers.
 
-The Instinct 3 and Instinct E both appear to use Airoha chipsets, and this may also apply to the vívoactive 6 (TBC).
+The Instinct 3 and Instinct E both record product numbers suggesting Airoha chipsets, and perhaps also the vívoactive 6 (TBC).
