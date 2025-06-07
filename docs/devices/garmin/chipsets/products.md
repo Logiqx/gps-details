@@ -16,11 +16,11 @@ This document summarises the GNSS product numbers and where they have been obser
 
 
 
-#### Mediatek
+#### MediaTek
 
-Several product numbers have been observed for the Mediatek MT3333.
+Several product numbers have been observed for the MediaTek MT3333.
 
-It is unclear whether these are slightly different versions of the MT3333, or relate to firmware updates from Mediatek.
+It is unclear whether these are slightly different versions of the MT3333, or relate to firmware updates from MediaTek.
 
 Multiple teardowns confirm the MT3333 being used in a variety of Garmin watches from this particular era.
 
@@ -94,7 +94,7 @@ Likewise the Forerunner 970 also records its product number (4565) as the GNSS p
 
 ### Summary
 
-GNSS product numbers have been quite useful when trying to distinguish between Mediatek, Sony and Airoha chipsets.
+GNSS product numbers have been quite useful when trying to distinguish between MediaTek, Sony and Airoha chipsets.
 
 Sadly this may be coming to an end with the fēnix 8 and Forerunner 970, which do not use generic GNSS product numbers.
 
