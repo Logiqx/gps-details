@@ -66,7 +66,7 @@ The satellite settings described in the user manual can also provide a clue:
 - "All Systems + Multi-Band" will be the AG3335M (single-band is AG3335MN) or Synaptics SYN4778.
 - Likewise for SatIQ which is dependent on multi-band.
 
-The presence (or absence) of BeiDou and GZSS in the product specification does not tell us anything. All of the Airoha-based watches support BeiDou and QZSS, which can easily be confirmed by looking at the mode_change records in gps_event records within their FIT files. The omission of BeiDou and QZSS on Garmin product pages is simply an oversight.
+The presence (or absence) of BeiDou and QZSS in the product specification does not tell us anything. All of the Airoha-based watches support BeiDou and QZSS, which can easily be confirmed by looking at the mode_change records in gps_event records within their FIT files. The omission of BeiDou and QZSS on Garmin product pages is simply an oversight.
 
 The vívoactive 5 and vívoactive 6 both support BeiDou and QZSS, despite it only being mentioned for the vívoactive 6.
 
@@ -108,7 +108,7 @@ Beware though because the fenix 7 Sapphire incorrectly lists the GNSS product nu
 
 #### GPS Events
 
-The gps_event records were introduced in the Sony-era of Garmin watches and can be a useful diagnostic tool. The example below shows "all systems" being used by the Venu 3S. It cannot be the Sony chipset and worth noting that it supports BeiDou and QZSS, despite the Garmin product specification.
+The gps_event records were introduced in the Sony-era of Garmin watches and can be a useful diagnostic tool. The example below shows "all systems" being used by the Venu 3S. It cannot be the Sony chipset (which doesn't support all 5 systems concurrently) and worth noting that it supports BeiDou and QZSS, despite the product specification on Garmin's website.
 
 ![gps_event](img/gps_event.png)
 
@@ -118,7 +118,7 @@ Although the GNSS mode is chosen by the user, multi-band (L1 + L5) and SatIQ wil
 
 All of the possible GNSS configurations are listed in the [Toybox.Position](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html) documentation for Garmin developers.
 
-QZSS is not chosen by the user (or app developer) and is activated automatically by the Garmin watch, when applicable.
+QZSS is not selected by the user (or app developer) and is activated automatically by the Garmin watch, when applicable.
 
 
 
@@ -132,7 +132,7 @@ Another clue in the FIT file relates to the epo_status and cpe_status records. C
 
 #### Recorded Speeds
 
-Activity profiles such as windsurfing, kitesurfing and "other" are supposed to record the Doppler-derived speed from the GNSS chipset. The Sony chipset performs rather badly and one of its traits is exactly the same speed being repeated for several seconds. The chart shows a test drive for a [Motion GPS](https://www.motion-gps.com/motion) (blue, extremely precise logger with u-blox chipset recording at 5 Hz) and vívoactive 4 (red, Sony chipset). The highs and lows are not always accurate on the Sony and repeated speeds are obvious when looking at the actual data. It may not be so apparent for this test drive but it is very obvious in real windsurfing data.
+Activity profiles such as windsurfing, kitesurfing and "other" are supposed to record the Doppler-derived speed from the GNSS chipset. The Sony chipset performs rather badly and one of its traits is exactly the same speed being repeated for several seconds, resulting in flat spots. The chart below shows a test drive for a [Motion GPS](https://www.motion-gps.com/motion) (blue, extremely precise logger with u-blox chipset recording at 5 Hz) and vívoactive 4 (red, Sony chipset). The highs and lows are not always accurate on the Sony and repeated speeds (flat spots) are obvious when looking at the actual data. It may not be so apparent for this particular test drive but it is very obvious in real windsurfing data.
 
 ![sony](img/sony.png)
 
@@ -142,9 +142,9 @@ The topic of GPS metadata will be described in more detail on a separate page, b
 
 ![metadata](img/metadata.png)
 
-Tests designed to produce aliasing artefacts during a brisk walk (with exaggerated swinging of arms) are also a useful because the data differs greatly for the Sony, Airoha and Synaptics devices.
+Tests designed to produce [aliasing](../../../general/aliasing/README.md) artefacts during a brisk walk (with exaggerated swinging of arms) are also a useful because the resulting data differs greatly for the Sony, Airoha and Synaptics devices. This is just one such example for an Airoha-based Garmin watch.
 
 ![aliasing](img/aliasing.png)
 
-I still need to be document what Garmin are doing for each chipset and why I think it has been implemented in their GPS software. It's quite an involved topic, but the observations that can be made provide useful insights about the GNSS chipset.
+I still need to document what Garmin are doing for each chipset and why I think it has been implemented that way in their GPS software. It's a slightly involved topic, but the observations that can be made provide useful insights into the likely GNSS chipset.
 
