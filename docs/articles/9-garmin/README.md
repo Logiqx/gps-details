@@ -36,8 +36,8 @@ This table should help you to identify suitable Garmin watches within your budge
 |                   |  Deals   |   RRP   | Multi-band | Screen | Water resistence |
 | ----------------- | :------: | :-----: | :--------: | :----: | :--------------: |
 | Forerunner 165    | £200-ish | £249.99 |     -      | AMOLED |      5 ATM       |
-| Forerunner 255    | £200-ish | £229.99 |     Y      |  MIP   |      5 ATM       |
-| Instinct 2X Solar | £300-ish | £339.99 |     Y      |  MIP   |      10 ATM      |
+| Forerunner 255    | £200-ish | £259.99 |     Y      |  MIP   |      5 ATM       |
+| Instinct E        | £200-ish | £259.99 |     -      |  MIP   |      10 ATM      |
 | Forerunner 955    | £300-ish | £439.99 |     Y      |  MIP   |      5 ATM       |
 | Forerunner 265    |   n/a    | £379.99 |     Y      | AMOLED |      5 ATM       |
 | Instinct 3 AMOLED |   n/a    | £429.99 |     Y      | AMOLED |      10 ATM      |
@@ -106,30 +106,31 @@ There are two sizes; FR 255 (46 mm) and FR 255S (41 mm), with or without music s
 
 
 
-### Instinct 2X Solar
+### Instinct E
 
-![Instinct-2X-768x432](img/Instinct-2X-768x432.jpeg)
+![instinct-e-750x300](img/instinct-e-750x300.jpg)
 
-The Instinct 2X Solar is a rugged watch with multi-band GNSS. It should not be confused with the Instinct 2, which used the much less capable Sony GNSS chipset. The two main downsides of this watch are the screen resolution and somewhat limited app availability.
+The Instinct E is a rugged watch with single-band GNSS. The two main downsides of this watch are the screen resolution and somewhat limited app availability.
+
+There are two sizes; 40 mm and 45 mm. These are the specifications for the Instinct E 45 mm.
 
 **Price**
 
-- £339.99 RRP, but discounts are available
+- £259.99 RRP, but discounts are available
 
 **Size**
 
-- 50 x 50 x 14.5 mm
-- custom, two-window design; 27 mm (1.1″) display, 176 x 176 pixels
+- 45 x 45 x 14.2 mm
+- custom, two-window design; 23 mm (0.9″) display, 176 x 176 pixels
 
 **Battery**
 
-- Smartwatch mode: 40 days; unlimited with solar
-- All systems GNSS mode: 40 hours; 65 hours with solar
-- All systems GNSS mode + multi-band: 27 hours; 36 hours with solar
+- Smartwatch mode: 16 days
+- All systems GNSS mode: 16 hours
 
 **Links**
 
-- [Press release](https://www.garmin.com/en-US/newsroom/press-release/outdoor/be-bold-with-the-rugged-new-instinct-2x-solar-from-garmin/) and [product page](https://www.garmin.com/en-GB/p/884585)
+- [Product page](https://www.garmin.com/en-GB/p/1315817/)
 
 
 
