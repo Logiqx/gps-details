@@ -58,14 +58,14 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 
 | Series                      | Model          | Brand     | Multi-Band |
 | --------------------------- | -------------- | --------- | :--------: |
-| [Descent](descent.md)   | Descent G2                   | TBC       |     -      |
-|                         | Descent Mk3i                 | Airoha    |     Y      |
-|                         | Descent Mk3                  | Airoha    |     Y      |
 | [Instinct](instinct.md) | Instinct 3 AMOLED Tactical   | Airoha    |     Y      |
 |                         | Instinct 3 Solar Tactical    | Airoha    |     Y      |
 |                         | Instinct 3 AMOLED            | Airoha    |     Y      |
 |                         | Instinct 3 Solar             | Airoha    |     Y      |
 |                         | Instinct E                   | Airoha    |     -      |
+| [Descent](descent.md)   | Descent G2                   | TBC       |     -      |
+|                         | Descent Mk3i                 | Airoha    |     Y      |
+|                         | Descent Mk3                  | Airoha    |     Y      |
 
 
 
