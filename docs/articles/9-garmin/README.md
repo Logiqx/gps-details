@@ -110,9 +110,9 @@ There are two sizes; FR 255 (46 mm) and FR 255S (41 mm), with or without music s
 
 ![instinct-e-750x300](img/instinct-e-750x300.jpg)
 
-The Instinct E is a rugged watch with single-band GNSS. The two main downsides of this watch are the screen resolution and somewhat limited app availability.
+The Instinct E is a rugged watch with single-band GNSS. The screen is very clear to read, despite the limited screen resolution.
 
-There are two sizes; 40 mm and 45 mm. These are the specifications for the Instinct E 45 mm.
+There are two sizes of the Instinct E; 40 mm and 45 mm. These are the specifications for the Instinct E 45 mm.
 
 **Price**
 
