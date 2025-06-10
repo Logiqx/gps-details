@@ -92,10 +92,22 @@ Likewise the Forerunner 970 also records its product number (4565) as the GNSS p
 
 
 
+#### TBC
+
+The following product numbers have been identified in recent watches, but the GNSS chipset is yet to be confirmed.
+
+It could be one of the Synaptics chipsets (which is perhaps the most likely), or it could perhaps be the Airoha [AG3352](https://www.airoha.com/products/p/zy4r082hgNywp1bg).
+
+| Product | Chipset | Examples     |
+| ------- | ------- | ------------ |
+| 4548    | ?       | vívoactive 6 |
+
+
+
 ### Summary
 
 GNSS product numbers have been quite useful when trying to distinguish between MediaTek, Sony and Airoha chipsets.
 
 Sadly this may be coming to an end with the fēnix 8 and Forerunner 970, which do not use generic GNSS product numbers.
 
-The Instinct 3 and Instinct E both record product numbers suggesting Airoha chipsets, and perhaps also the vívoactive 6 (TBC).
+The Instinct 3 and Instinct E both record product numbers suggesting the Airoha chipsets, but the vívoactive 6 is yet TBC.
