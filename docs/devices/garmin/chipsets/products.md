@@ -14,6 +14,8 @@ The GNSS product number can be found in the device_info record with a device_typ
 
 This document summarises the GNSS product numbers and where they have been observed in FIT files.
 
+An extensive list of Garmin watches and their chipsets can be found on another page, using this [link](../watches/README.md).
+
 
 
 #### MediaTek
