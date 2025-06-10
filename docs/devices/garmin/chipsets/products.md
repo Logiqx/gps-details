@@ -43,6 +43,7 @@ Teardowns:
 - [Forerunner 230](https://embeddedcomputing.com/27555-tear-down-garmin-forerunner-230-gps-running-watch/) - Embedded Computing Design
 - [Forerunner 630](https://www.youtube.com/watch?v=WdbPKmjUrKc&t=114s) - Tech T on YouTube
 - [Forerunner 735XT](https://www.ifixit.com/Teardown/Garmin+Forerunner+735XT+Teardown/117852) - iFixit
+- [vívoactive 3](https://www.ifixit.com/Guide/Garmin+Vivoactive+3+Battery+Replacement/150696) - iFixit
 
 
 
@@ -66,6 +67,7 @@ Teardowns:
 - [fēnix 6X Pro](http://www.f-blog.info/garmin-fenix-6x-pro-disassembly-or-teardown-whatever-you-say/) - F Tipi Blog
 - [Forerunner 245 Music](https://www.ifixit.com/Teardown/Garmin+Forerunner+245+Music+Teardown/150396) - iFixit
 - [Forerunner 945](https://embeddedcomputing.com/application/consumer/smartphones-and-wearables/smartwatch-boasts-two-weeks-on-a-charge) - Embedded Computing
+- [vívoactive 4](https://www.ifixit.com/Guide/Garmin+V%C3%ADvoactive+4+Motherboard+Replacement/167460) - iFixit
 
 Information:
 
