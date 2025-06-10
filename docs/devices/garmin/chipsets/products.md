@@ -31,6 +31,17 @@ Multiple teardowns confirm the MT3333 being used in a variety of Garmin watches 
 | 2957    | MT3333  | fēnix 5<br />fēnix 5S Plus<br />Forerunner 920XT<br />vívoactive 3 |
 | 3750    | MT3333  | fēnix 5X<br />fēnix 5 Plus                                   |
 
+Teardowns:
+
+- [fēnix 3](http://www.f-blog.info/diving-inside-garmin-fenix-3-tear-down-etc/) - F Tipi Blog
+- [fēnix 3 HR](https://medium.com/personal-notes-on-the-garmin-f%C4%93nix-3-hr/f%C4%93nix-3-hr-a-non-destructive-teardown-bcfb45f1b746) - Red Turtle on Medium
+- [fēnix 5X](http://www.f-blog.info/garmin-fenix-5x-inner-parts-teardown-disassembly-assembly-etc-no-disassemble/) - F Tipi Blog
+- [fēnix 5 Plus](https://www.edn.com/teardown-a-smartwatch-with-an-athletic-tradition/) - EDN
+- [Forerunner 220](https://www.microcontrollertips.com/teardown-garmin-forerunner-220-sport-watch-heart-monitor/) - Microcontroller Tips
+- [Forerunner 230](https://embeddedcomputing.com/27555-tear-down-garmin-forerunner-230-gps-running-watch/) - Embedded Computing Design
+- [Forerunner 630](https://www.youtube.com/watch?v=WdbPKmjUrKc&t=114s) - Tech T on YouTube
+- [Forerunner 735XT](https://www.ifixit.com/Teardown/Garmin+Forerunner+735XT+Teardown/117852) - iFixit
+
 
 
 #### Sony
@@ -43,12 +54,17 @@ It's worth noting that some watch models have been seen with differing GNSS prod
 
 | Product | Chipset   | Observed                                                     |
 | ------- | --------- | ------------------------------------------------------------ |
-| 3107    | CXD56xxxx | Edge 530<br />Enduro<br />fēnix 6<br />fēnix 6 Pro<br />Forerunner 945 |
+| 3107    | CXD5603GF | Edge 530<br />Enduro<br />fēnix 6<br />fēnix 6 Pro<br />Forerunner 945 |
 | 3799    | CXD56xxxx | Instinct 2<br />Forerunner 745                               |
 | 4058    | CXD56xxxx | Forerunner 55                                                |
 | 4197    | CXD56xxxx | Forerunner 245<br />Forerunner 945<br />fēnix 6X<br />vívoactive 4 |
 
-Links:
+Teardowns:
+
+- [fēnix 6X Pro](http://www.f-blog.info/garmin-fenix-6x-pro-disassembly-or-teardown-whatever-you-say/) - F Tipi Blog
+- [Forerunner 245 Music](https://www.ifixit.com/Teardown/Garmin+Forerunner+245+Music+Teardown/150396) - iFixit
+
+Information:
 
 - [fēnix 6 GPS versions](https://forums.garmin.com/outdoor-recreation/outdoor-recreation/f/fenix-6-series/328245/gps-versions/1607877#1607877) - socorsu in Garmin forum, 24 Apr 2023
 - [GPS / GNSS Receiver](https://web.archive.org/web/20220702201822/https://www.sony-semicon.co.jp/e/products/lsi/gps/product.html) - Sony, 2 Jul 2022
@@ -68,6 +84,13 @@ The Instinct 3 and Instinct E refer to the AG3335M and AG3335MN respectively. Th
 | ------- | -------- | ------------------------------------------------------------ |
 | 3865    | AG3335M  | epix Pro (Gen 2)<br />fēnix 7 Pro<br />Forerunner 255<br />Forerunner 265<br />Forerunner 955<br />Forerunner 965<br />Instinct 2X<br />Instinct 3 |
 | 3866    | AG3335MN | epix (Gen 2)<br />fēnix 7<br />fēnix E<br />Forerunner 165<br />Instinct E<br />Venu Sq 2<br />Venu 3S<br />vívoactive 5 |
+
+Teardowns:
+
+- [fēnix 7X Solar](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/) - F Tipi Blog
+- [fēnix 7S Solar](https://www.youtube.com/watch?v=vb8yyu8En1o&t=485s) - The Electronics Inside on YoutTube
+- [Forerunner 965](https://www.techinsights.com/blog/deep-dive-teardown-garmin-forerunner-965-a04578-smartwatch?utm_source=direct&utm_medium=website) - Tech Insights
+- [Venu Sq2 Music](https://fccid.io/IPH-A4390/Internal-Photos/Internal-Photos-5919160) - FCC Teardown
 
 
 
@@ -89,6 +112,10 @@ Likewise the Forerunner 970 also records its product number (4565) as the GNSS p
 | 4565    | SYN4778 \* | Forerunner 970 |
 
 \* Further testing is pending to look for any Airoha-related artefacts in the gps_metadata of the Forerunner 970.
+
+Teardowns:
+
+- [fēnix 8 Solar 51 mm](http://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) - F Tipi Blog
 
 
 
