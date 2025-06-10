@@ -24,7 +24,7 @@ The various models are listed in reverse-chronological order. The release dates 
 | Instinct E - 45 mm | 2025-01 | 5.0.0 | 4584 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-D3C2D1F9-D2C0-404D-9372-7B2D57459BF8/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 | Instinct E - 40 mm | 2025-01 | 5.0.0 |  4583   | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-D3C2D1F9-D2C0-404D-9372-7B2D57459BF8/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 | Instinct 2X Solar \* | 2023-04 | 3.4.0 | 4394 | AG3335M | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-31D23DBB-57C2-4DF7-A0C9-8D1A00AB4BE7/EN-US/GUID-7778C63A-5928-4315-B25B-3DA9B3E467B6.html) + DCR [review](https://www.dcrainmaker.com/2023/04/garmin-instinct-2x-in-depth-review-bigger-and-flashlight-equipped.html) |
-| Instinct Crossover \[Solar] | 2022-11  | 3.4.0 | 4155 | AG3335MN | - | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-64328278-25D1-45C2-BF05-6EC0CFD000D0/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| Instinct Crossover \[Solar] | 2022-11  | 3.4.0 | 4155 | AG3335MN | - | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-64328278-25D1-45C2-BF05-6EC0CFD000D0/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + FCC [teardown](https://fccid.io/IPH-04348/Internal-Photos/Internal-Photos-6150278) |
 
 \* Instinct 2X Solar has a significant smoothing issue and is NOT recommended for wind sports.
 

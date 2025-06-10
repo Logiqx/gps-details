@@ -93,9 +93,12 @@ The Instinct 3 and Instinct E refer to the AG3335M and AG3335MN respectively. Th
 Teardowns:
 
 - [fēnix 7X Solar](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/) - F Tipi Blog
-- [fēnix 7S Solar](https://www.youtube.com/watch?v=vb8yyu8En1o&t=485s) - The Electronics Inside on YoutTube
+- [fēnix 7S Solar](https://www.youtube.com/watch?v=vb8yyu8En1o&t=485s) - The Electronics Inside on YouTube
+- [MARQ Gen 2 Carbon](https://fccid.io/IPH-A4263/Internal-Photos/Internal-Photos-6835362) - FCC
 - [Forerunner 965](https://www.techinsights.com/blog/deep-dive-teardown-garmin-forerunner-965-a04578-smartwatch?utm_source=direct&utm_medium=website) - Tech Insights
-- [Venu Sq2 Music](https://fccid.io/IPH-A4390/Internal-Photos/Internal-Photos-5919160) - FCC Teardown
+- [Instinct 2 Crossover](https://fccid.io/IPH-04348/Internal-Photos/Internal-Photos-6150278) - FCC
+- [Venu Sq2](https://fccid.io/IPH-A4390/Internal-Photos/Internal-Photos-5919154) - FCC
+- [Venu Sq2 Music](https://fccid.io/IPH-04390/Internal-Photos/Internal-Photos-5930782) - FCC
 
 
 
