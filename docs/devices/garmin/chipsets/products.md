@@ -63,6 +63,7 @@ Teardowns:
 
 - [fēnix 6X Pro](http://www.f-blog.info/garmin-fenix-6x-pro-disassembly-or-teardown-whatever-you-say/) - F Tipi Blog
 - [Forerunner 245 Music](https://www.ifixit.com/Teardown/Garmin+Forerunner+245+Music+Teardown/150396) - iFixit
+- [Forerunner 945](https://embeddedcomputing.com/application/consumer/smartphones-and-wearables/smartwatch-boasts-two-weeks-on-a-charge) - Embedded Computing
 
 Information:
 
