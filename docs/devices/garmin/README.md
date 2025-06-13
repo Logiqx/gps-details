@@ -14,8 +14,9 @@ General advice and guidance for Garmin watches.
 This project is work in progress and there are more things to be documented.
 
 - [Garmin watches](watches/README.md)
-- Watch [product numbers](products/README.md) + GNSS [product numbers](chipsets/products.md)
+- Watch [product numbers](products/README.md)
 - Identifying [GNSS Chipsets](chipsets/README.md)
+- GNSS [product numbers](chipsets/products.md)
 - [Developer tips](developer/README.md)
 
 

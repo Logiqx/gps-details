@@ -94,7 +94,8 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 | --------------------------- | ------------ | ------ | :--------: |
 | [vívoactive](vivoactive.md) | vívoactive 6 | TBC    |     -      |
 |                             | vívoactive 5 | Airoha |     -      |
-| [Venu](venu.md)             | Venu 3       | Airoha |     -      |
+| [Venu](venu.md)             | Venu X1      | TBC    |     -      |
+|                             | Venu 3       | Airoha |     -      |
 
 
 
@@ -177,6 +178,8 @@ Technical specifications, including GNSS details are provided for the following 
   - [vívoactive](vivoactive.md)
   - [Venu](venu.md)
 
+Notes about the GNSS product numbers inside FIT files are available on another page, accessible via this [link](../chipsets/products.md).
+
 
 
 #### Less Popular Watches
@@ -199,6 +202,8 @@ These devices are rarely / never used on GP3S, and NOT supported by APPro Windsu
 ### Sources
 
 Most of the information has been gleaned from watch reviews, disassembly / teardown photos, testing and / or deduction.
+
+Notes about the GNSS product numbers inside FIT files can be found on another page, available via this [link](../chipsets/products.md).
 
 Chipsets for the very oldest watches have been determined using a variety of sources, including [fellrnr.com](https://fellrnr.com/wiki/GPS_Accuracy-summary) and [test results](https://www.dropbox.com/sh/psdyxm93y2m12j3/AABNlbBRsF2E3edvzqnnMPC4a?dl=0&preview=Test+Results+-+All+Watches.xlsx) by Mark Gee.
 
