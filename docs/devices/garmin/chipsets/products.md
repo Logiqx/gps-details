@@ -88,7 +88,7 @@ The Instinct 3 and Instinct E refer to the AG3335M and AG3335MN respectively. Th
 | Product | Chipset  | Examples                                                     |
 | ------- | -------- | ------------------------------------------------------------ |
 | 3865    | AG3335M  | epix Pro (Gen 2)<br />fēnix 7 Pro<br />Forerunner 255<br />Forerunner 265<br />Forerunner 955<br />Forerunner 965<br />Instinct 2X<br />Instinct 3 |
-| 3866    | AG3335MN | epix (Gen 2)<br />fēnix 7<br />fēnix E<br />Forerunner 165<br />Instinct E<br />Venu Sq 2<br />Venu 3S<br />vívoactive 5 |
+| 3866    | AG3335MN | epix (Gen 2)<br />fēnix 7<br />fēnix E<br />Forerunner 165<br />Instinct E<br />Descent G2<br />Venu Sq 2<br />Venu 3S<br />vívoactive 5 |
 
 Teardowns:
 

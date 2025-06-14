@@ -63,7 +63,7 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 |                         | Instinct 3 AMOLED            | Airoha    |     Y      |
 |                         | Instinct 3 Solar             | Airoha    |     Y      |
 |                         | Instinct E                   | Airoha    |     -      |
-| [Descent](descent.md)   | Descent G2                   | TBC       |     -      |
+| [Descent](descent.md)   | Descent G2                   | Airoha |     -      |
 |                         | Descent Mk3i                 | Airoha    |     Y      |
 |                         | Descent Mk3                  | Airoha    |     Y      |
 
