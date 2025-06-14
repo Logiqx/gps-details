@@ -85,7 +85,7 @@ One anomaly has been spotted where the fenix 7 Sapphire lists the GNSS product n
 
 The Instinct 3 and Instinct E refer to the AG3335M and AG3335MN respectively. They also exhibit the same artefacts in gps_metadata as other Airoha-based Garmin watches. These observations are software-related, but strongly suggest the Instinct 3 and Instinct E are using Airoha chipsets.
 
-| Product | Chipset  | Examples                                                     |
+| Product | Chipset  | Observed                                                     |
 | ------- | -------- | ------------------------------------------------------------ |
 | 3865    | AG3335M  | epix Pro (Gen 2)<br />fēnix 7 Pro<br />Forerunner 255<br />Forerunner 265<br />Forerunner 955<br />Forerunner 965<br />Instinct 2X<br />Instinct 3 |
 | 3866    | AG3335MN | epix (Gen 2)<br />fēnix 7<br />fēnix E<br />Forerunner 165<br />Instinct E<br />Descent G2<br />Venu Sq 2<br />Venu 3S<br />vívoactive 5 |
@@ -114,7 +114,7 @@ Subsequent software has recorded a GNSS product number which is identical to the
 
 Likewise the Forerunner 970 also records its product number (4565) as the GNSS product number.
 
-| Product | Chipset    | Examples       |
+| Product | Chipset    | Observed       |
 | ------- | ---------- | -------------- |
 | 4536    | SYN4778    | fēnix 8        |
 | 4565    | SYN4778 \* | Forerunner 970 |
@@ -129,13 +129,14 @@ Teardowns:
 
 #### TBC
 
-The following product numbers have been identified in recent watches, but the GNSS chipset is yet to be confirmed.
+The following product numbers have been observed in recent watches, but the GNSS chipset is yet to be confirmed.
 
-It could be one of the Synaptics chipsets (which is perhaps the most likely), or it could perhaps be the Airoha [AG3352](https://www.airoha.com/products/p/zy4r082hgNywp1bg).
+A single-band (L1) GNSS chipset could be Synaptics (e.g. [SYN47762](https://www.synaptics.com/products/wireless)) or Airoha (e.g. [AG3352](https://www.airoha.com/products/p/zy4r082hgNywp1bg)) and thus TBC.
 
-| Product | Chipset | Examples     |
+| Product | Chipset | Observed     |
 | ------- | ------- | ------------ |
 | 4548    | ?       | vívoactive 6 |
+| ?       | ?       | Venu X2      |
 
 
 
