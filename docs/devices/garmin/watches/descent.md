@@ -12,6 +12,8 @@ The various models are listed in reverse-chronological order. The release dates 
 
 ### Airoha
 
+The Descent G2 was released one month after the [Instinct 3](instinct.md). It has many similarities with both the Instinct 3 AMOLED and Descent Mk3, except for the single-band Airoha AG3335MN.
+
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
 | Descent G2 | 2025-02 | 5.0.0 | 4588 | AG3335MN | Y |  |
@@ -23,6 +25,8 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 
 
 ### Sony
+
+The Descent G1 was released one month after the [Instinct 2](instinct.md). They share many features, including the semi-octagon display / custom two-window design.
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
