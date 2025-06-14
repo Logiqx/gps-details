@@ -24,7 +24,7 @@ The Enduro 3 is akin to the fēnix 8 51 mm Solar Sapphire but with longer batter
 
 ### Airoha
 
-The Enduro 2 is essentially a fēnix 7X Sapphire Solar but with longer battery life and slightly different features.
+The Enduro 2 is akin to the fēnix 7X Sapphire Solar but with longer battery life and slightly different features.
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |

@@ -4,7 +4,7 @@
 
 This page lists the GNSS chipsets that are used in the Garmin quatix watches.
 
-The quatix is similar to the [fēnix](fenix.md) / [epix](epix.md), but with some additional boating features and less recreational features.
+The quatix watches are essentially a [fēnix](fenix.md) or [epix](epix.md), but with some additional boating features and less recreational features.
 
 The various models are listed in reverse-chronological order. The release dates are generally from Garmin announcements.
 
