@@ -14,7 +14,7 @@ The vívoactive 6 was released after the [fēnix 8](fenix.md), so may use an Air
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| vívoactive 6 | 2025-04 | 5.0.0 | 4625 | AG3335MN ? | - | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-8C2C402F-55AC-431F-9CF2-1442B89CE149/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2025/04/garmin-vivoactive-6-details-hands-everything.html) |
+| vívoactive 6 | 2025-04 | 5.0.0 | 4625 | AG3335MN ? | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-8C2C402F-55AC-431F-9CF2-1442B89CE149/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2025/04/garmin-vivoactive-6-details-hands-everything.html) |
 
 
 

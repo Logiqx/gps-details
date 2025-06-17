@@ -16,7 +16,7 @@ The Venu X1 was released after the [fēnix 8](fenix.md), so may use an Airoha or
 
 | Model   | Released |  API  | Product |  Chipset   | APPro? | References                                                   |
 | ------- | :------: | :---: | :-----: | :--------: | :----: | ------------------------------------------------------------ |
-| Venu X1 | 2025-06  | 5.0.0 |  4603   | AG3335MN ? |   -    | DCR [review](https://www.dcrainmaker.com/2025/06/garmin-venu-x1-details-hands-everything.html) |
+| Venu X1 | 2025-06  | 5.0.0 |  4603   | AG3335MN ? |   Y    | DCR [review](https://www.dcrainmaker.com/2025/06/garmin-venu-x1-details-hands-everything.html) |
 
 
 
