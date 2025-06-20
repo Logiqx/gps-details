@@ -133,7 +133,9 @@ The F Tipi Blog identified the Synaptics GNSS chipset in the fēnix 8:
 
 The following product numbers have been observed in recent watches, but the GNSS chipset is yet to be confirmed.
 
-A single-band (L1) GNSS chipset could be Synaptics (e.g. [SYN47762](https://www.synaptics.com/products/wireless)) or Airoha (e.g. [AG3352](https://www.airoha.com/products/p/zy4r082hgNywp1bg)) and thus TBC.
+A single-band (L1) GNSS chipset could be Synaptics (e.g. [SYN47762](https://www.synaptics.com/products/wireless)) or Airoha (e.g. AG3335MN or [AG3352](https://www.airoha.com/products/p/zy4r082hgNywp1bg)).
+
+Articles on [Garmin Rumours](https://garminrumors.com/models/vivoactive-6/) and [Runners World](https://www.runnersworld.com/uk/gear/tech/a64352245/garmin-vivoactive-6/) say it uses the same GNSS chipset as the vívoactive 5, which is the AG3335MN.
 
 | Product | Chipset | Observed     |
 | ------- | ------- | ------------ |
