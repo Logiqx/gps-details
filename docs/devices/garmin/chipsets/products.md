@@ -22,18 +22,20 @@ An extensive list of Garmin watches and their chipsets can be found on another p
 
 Several product numbers have been observed for the MediaTek MT3333.
 
-It is unclear whether these are slightly different versions of the MT3333, or relate to firmware updates from MediaTek.
+It's worth noting that some watch models have been seen with differing GNSS product numbers. e.g. Forerunner 920XT with 1620 and 2957.
 
-Multiple teardowns confirm the MT3333 being used in a variety of Garmin watches from this particular era.
+It is unclear whether these are slightly different versions of the MT3333, or relate to firmware updates from MediaTek.
 
 | Product | Chipset | Observed                                                     |
 | ------- | ------- | ------------------------------------------------------------ |
-| 1620    | MT3333  | fēnix 3                                                      |
+| 1619    | MT3333  | Edge 520                                                     |
+| 1620    | MT3333  | fēnix 3<br />fēnix 3 HR<br />Forerunner 920XT                |
 | 1621    | MT3333  | Forerunner 935<br />Forerunner 645M                          |
-| 2957    | MT3333  | fēnix 5<br />fēnix 5S Plus<br />Forerunner 920XT<br />vívoactive 3 |
-| 3750    | MT3333  | fēnix 5X<br />fēnix 5 Plus                                   |
+| 2957    | MT3333  | Edge 520 Plus<br />Edge 820<br />Edge 1030<br />fēnix 5<br />fēnix 5 Plus<br />fēnix 5S Plus<br />Forerunner 920XT<br />vívoactive 3 |
+| 3411    | MT3333  | Forerunner 735XT                                             |
+| 3750    | MT3333  | fēnix 5X<br />fēnix 5 Plus<br />Instinct Esports             |
 
-Teardowns:
+Multiple teardowns confirm the MT3333 being used in a variety of Garmin watches from this particular era:
 
 - [fēnix 3](http://www.f-blog.info/diving-inside-garmin-fenix-3-tear-down-etc/) - F Tipi Blog
 - [fēnix 3 HR](https://medium.com/personal-notes-on-the-garmin-f%C4%93nix-3-hr/f%C4%93nix-3-hr-a-non-destructive-teardown-bcfb45f1b746) - Red Turtle on Medium
@@ -51,16 +53,16 @@ Teardowns:
 
 Several product numbers are observed for the Sony GNSS chipsets.
 
-3107 probably represents the CXD5603GF, but others may represent chipsets such as the CXD5605GF, or relate to firmware updates from Sony. 
-
 It's worth noting that some watch models have been seen with differing GNSS product numbers. e.g. Forerunner 945 with 3107 and 4197.
+
+3107 probably represents the CXD5603GF, but others may represent chipsets such as the CXD5605GF, or relate to firmware updates from Sony. 
 
 | Product | Chipset   | Observed                                                     |
 | ------- | --------- | ------------------------------------------------------------ |
-| 3107    | CXD5603GF | Edge 530<br />Enduro<br />fēnix 6<br />fēnix 6 Pro<br />Forerunner 945 |
-| 3799    | CXD56xxxx | Instinct 2<br />Forerunner 745                               |
+| 3107    | CXD5603GF | Edge 530<br />Enduro<br />fēnix 6<br />fēnix 6 Pro<br />Instinct Solar<br />Forerunner 945<br />Swim 2 |
+| 3799    | CXD56xxxx | Edge Explore 2<br />Instinct 2<br />Forerunner 745           |
 | 4058    | CXD56xxxx | Forerunner 55                                                |
-| 4197    | CXD56xxxx | Forerunner 245<br />Forerunner 945<br />fēnix 6X<br />vívoactive 4 |
+| 4197    | CXD56xxxx | Edge 530<br />Edge 830<br />Forerunner 245<br />Forerunner 945<br />fēnix 6X<br />vívoactive 4 |
 
 Teardowns:
 
@@ -90,15 +92,15 @@ The Instinct 3 and Instinct E refer to the AG3335M and AG3335MN respectively. Th
 | 3865    | AG3335M  | epix Pro (Gen 2)<br />fēnix 7 Pro<br />Forerunner 255<br />Forerunner 265<br />Forerunner 955<br />Forerunner 965<br />Instinct 2X<br />Instinct 3 |
 | 3866    | AG3335MN | epix (Gen 2)<br />fēnix 7<br />fēnix E<br />Forerunner 165<br />Instinct E<br />Descent G2<br />Venu Sq 2<br />Venu 3S<br />vívoactive 5 |
 
-Teardowns:
+Several teardowns (including the FCC) show the AG3335M and AG3335MN:
 
-- [fēnix 7X Solar](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/) - F Tipi Blog
-- [fēnix 7S Solar](https://www.youtube.com/watch?v=vb8yyu8En1o&t=485s) - The Electronics Inside on YouTube
-- [MARQ Gen 2 Carbon](https://fccid.io/IPH-A4263/Internal-Photos/Internal-Photos-6835362) - FCC
-- [Forerunner 965](https://www.techinsights.com/blog/deep-dive-teardown-garmin-forerunner-965-a04578-smartwatch?utm_source=direct&utm_medium=website) - Tech Insights
-- [Instinct 2 Crossover](https://fccid.io/IPH-04348/Internal-Photos/Internal-Photos-6150278) - FCC
-- [Venu Sq2](https://fccid.io/IPH-A4390/Internal-Photos/Internal-Photos-5919154) - FCC
-- [Venu Sq2 Music](https://fccid.io/IPH-04390/Internal-Photos/Internal-Photos-5930782) - FCC
+- [fēnix 7X Solar](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/) - AG3335MN - F Tipi Blog
+- [fēnix 7S Solar](https://www.youtube.com/watch?v=vb8yyu8En1o&t=485s) - AG3335MN - The Electronics Inside on YouTube
+- [MARQ Gen 2 Carbon](https://fccid.io/IPH-A4263/Internal-Photos/Internal-Photos-6835362) - AG3335M - FCC
+- [Forerunner 965](https://www.techinsights.com/blog/deep-dive-teardown-garmin-forerunner-965-a04578-smartwatch?utm_source=direct&utm_medium=website) - AG3335M - Tech Insights
+- [Instinct 2 Crossover](https://fccid.io/IPH-04348/Internal-Photos/Internal-Photos-6150278) - AG3335M - FCC
+- [Venu Sq2](https://fccid.io/IPH-A4390/Internal-Photos/Internal-Photos-5919154) - AG3335MN - FCC
+- [Venu Sq2 Music](https://fccid.io/IPH-04390/Internal-Photos/Internal-Photos-5930782) - AG3335MN - FCC
 
 
 
@@ -121,7 +123,7 @@ Likewise the Forerunner 970 also records its product number (4565) as the GNSS p
 
 \* Further testing is pending to look for any Airoha-related artefacts in the gps_metadata of the Forerunner 970.
 
-Teardowns:
+The F Tipi Blog identified the Synaptics GNSS chipset in the fēnix 8:
 
 - [fēnix 8 Solar 51 mm](http://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) - F Tipi Blog
 
