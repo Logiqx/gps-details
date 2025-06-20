@@ -6,6 +6,8 @@ The GNSS chipset is probably the most significant factor when it comes to the ac
 
 This page lists the GNSS chipsets of the many Garmin watches that people may wish to use for GPS-Speedsurfing (GP3S). The information is intended for people choosing a Garmin watch, or curious about the suitability of their current watch.
 
+You should also take a look at the article [Which Garmin for Watersports?](https://medium.com/@mikeg888/which-garmin-for-watersports-e1000c43a868) to help you choose between the various Garmin watches.
+
 
 
 ### Airoha or Synaptics GNSS Chipset
