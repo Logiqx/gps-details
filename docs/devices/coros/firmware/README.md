@@ -28,6 +28,7 @@ This table is a summary of the COROS firmware releases since the beginning of 20
 
 |               | APEX Pro | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 | VERTIX 2S |
 | :------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| [3.0910.0](3.0910.0/README.md) | - | - | ? | ? | ? | ? |
 | [3.0808.0](3.0808.0/README.md) | - | - | ? | 😊🤙 | 😊🤙 | ? |
 | [3.0807.0](3.0807.0/README.md) beta | - | - | ? | 😊🤙 | 😊🤙 | ? |
 | [3.0709.0](3.0709.0/README.md) | - | - | 😊🤙 | 😊🤙 | 😡👎 | 😡👎 |
