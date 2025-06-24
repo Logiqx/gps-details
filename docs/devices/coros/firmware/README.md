@@ -6,7 +6,7 @@ Several COROS firmware releases during 2024 have been problematic for the speeds
 
 Current status:
 
-- APEX Pro or VERTIX with firmware 3.0508.0 (released Aug 2024) should be downgraded to 3.0309.0
+- APEX Pro or VERTIX with firmware 3.0508.0 or 3.0510.0 should be downgraded to 3.0309.0
 - APEX 2 or APEX 2 Pro are advised to upgrade to firmware 3.0808.0
 - VERTIX 2 or VERTIX 2S are advised to upgrade to firmware 3.0808.0
 
@@ -35,7 +35,7 @@ This table is a summary of the COROS firmware releases since the beginning of 20
 | [3.0708.1113](3.0708.1113/README.md) beta | - | - | - | - | 😊🤙 | 😊🤙 |
 | [3.0708.0](3.0708.0/README.md) | - | - | 😊🤙 | 😊🤙 | 😡👎 | 😡👎 |
 | [3.0706.0](3.0706.0/README.md) beta | - | - | 😊🤙 | 😊🤙 | 😡👎 | 😡👎 |
-| [3.0510.0](3.0510.0/README.md) | 😡👎 ? | 😡👎 ? | 😐🤞 | 😐🤞 | 😐🤞 | 😐🤞 |
+| [3.0510.0](3.0510.0/README.md) | 😡👎 | 😡👎 | 😐🤞 | 😐🤞 | 😐🤞 | 😐🤞 |
 | [3.0509.0](3.0509.0/README.md) | 😊🤙 | 😊🤙 | - | - | - | - |
 | [3.0508.0219](3.0508.0219/README.md) beta | 😊🤙 | 😊🤙 | - | - | - | - |
 | [3.0508.0](3.0508.0/README.md) | 😡👎 | 😡👎 | 😐🤞 | 😐🤞 | 😐🤞 | 😐🤞 |
