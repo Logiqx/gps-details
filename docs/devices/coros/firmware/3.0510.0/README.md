@@ -57,6 +57,12 @@ The image below compares an VERTIX (blue) and VERTIX 2 (red) with working firmwa
 
 ![pd-vs-dd](img/pd-vs-dd.png)
 
+Additionally, when comparing the recorded speeds and position-derived speeds they are near-identical for much of the track.
+
+![pd-speeds](img/pd-speeds.png)
+
+n.b. During periods of acceleration the position-derived speeds contain little spikes, but that is an existing "feature" affecting all COROS watches.
+
 
 
 ### Summary
