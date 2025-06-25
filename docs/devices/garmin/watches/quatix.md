@@ -10,6 +10,17 @@ The various models are listed in reverse-chronological order. The release dates 
 
 
 
+### Synaptics
+
+The quatix 8 was released after the [fēnix 8](fenix.md) and built on the same hardware platform.
+
+| Model                    | Released |  API  | Product | Chipset | APPro? | References |
+| ------------------------ | :------: | :---: | :-----: | :-----: | :----: | ---------- |
+| quatix 8 - 51 mm, AMOLED | 2025-06  | 5.0.0 |    ?    | SYN4778 |   -    |            |
+| quatix 8 - 47 mm, AMOLED | 2025-06  | 5.0.0 |    ?    | SYN4778 |   -    |            |
+
+
+
 ### Airoha
 
 The quatix 7 product codes are identical to the [fēnix](fenix.md) 7, [epix](epix.md) (Gen 2) and epix Pro (Gen 2).

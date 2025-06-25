@@ -12,7 +12,7 @@ The various models are listed in reverse-chronological order. The release dates 
 
 ### Synaptics
 
-The Enduro 3 was released at the same time as the [fēnix 8](fenix.md), so likely use the same Synaptics GNSS chipset.
+The Enduro 3 was released at the same time as the [fēnix 8](fenix.md) and built on the same hardware platform.
 
 The Enduro 3 is akin to the fēnix 8 51 mm Solar Sapphire but with longer battery life.
 

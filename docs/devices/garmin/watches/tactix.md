@@ -12,7 +12,7 @@ The various models are listed in reverse-chronological order. The release dates 
 
 ### Synaptics
 
-The tactix 8 was released after the [fēnix 8](fenix.md), so likely use the same Synaptics GNSS chipset.
+The tactix 8 was released after the [fēnix 8](fenix.md) and built on the same hardware platform.
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |

@@ -38,7 +38,8 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 |                         | epix Pro (Gen 2)             | Airoha    |     Y      |
 |                         | epix (Gen 2) - Sapphire      | Airoha    |     Y      |
 |                         | epix (Gen 2)                 | Airoha    |     -      |
-| [quatix](quatix.md)     | quatix 7 - Pro               | Airoha    |     Y      |
+| [quatix](quatix.md)     | quatix 8                     | Synaptics |     Y      |
+|  | quatix 7 - Pro | Airoha | Y |
 |                         | quatix 7 - Sapphire          | Airoha    |     Y      |
 |                         | quatix 7X - Solar            | Airoha    |     -      |
 |                         | quatix 7                     | Airoha    |     -      |
