@@ -14,10 +14,10 @@ The various models are listed in reverse-chronological order. The release dates 
 
 The quatix 8 was released after the [fēnix 8](fenix.md) and built on the same hardware platform.
 
-| Model                    | Released |  API  | Product | Chipset | APPro? | References |
-| ------------------------ | :------: | :---: | :-----: | :-----: | :----: | ---------- |
-| quatix 8 - 51 mm, AMOLED | 2025-06  | 5.0.0 |    ?    | SYN4778 |   -    |            |
-| quatix 8 - 47 mm, AMOLED | 2025-06  | 5.0.0 |    ?    | SYN4778 |   -    |            |
+| Model                    | Released |  API  |  Product   | Chipset | APPro? | References |
+| ------------------------ | :------: | :---: | :--------: | :-----: | :----: | ---------- |
+| quatix 8 - 51 mm, AMOLED | 2025-06  | 5.0.0 | 4536, 4775 | SYN4778 |   Y    |            |
+| quatix 8 - 47 mm, AMOLED | 2025-06  | 5.0.0 | 4536, 4775 | SYN4778 |   Y    |            |
 
 
 

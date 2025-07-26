@@ -16,8 +16,8 @@ The various models are listed in reverse-chronological order. The release dates 
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | fēnix 8 - 51 mm - Solar | 2024-08 | 5.0.0 | 4533 | SYN4778 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1389491/pn/010-02906-21#specs) + F Tipi [teardown](http://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) |
 | fēnix 8 - 47 mm - Solar | 2024-08 | 5.0.0 | 4532 | SYN4778 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1389491/pn/010-02906-21#specs) |
-| fēnix 8 - 51 mm - AMOLED | 2024-08 | 5.0.0 | 4536 | SYN4778 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
-| fēnix 8 - 47 mm - AMOLED | 2024-08 | 5.0.0 | 4536 | SYN4778 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
+| fēnix 8 - 51 mm - AMOLED | 2024-08 | 5.0.0 | 4536, 4775 | SYN4778 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
+| fēnix 8 - 47 mm - AMOLED | 2024-08 | 5.0.0 | 4536, 4775 | SYN4778 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
 | fēnix 8 - 43 mm - AMOLED | 2024-08 | 5.0.0 | 4534 | SYN4778 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
 
 
