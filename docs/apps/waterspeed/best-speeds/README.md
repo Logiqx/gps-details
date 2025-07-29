@@ -48,10 +48,11 @@ These sessions were specifically chosen for their different characteristics and 
 ### Findings
 
 - Doppler-derived speed is used by Waterspeed for speed graph and various statistics; e.g. summary, Foiling/Planing, Tacks & Jibes
+- The session summary doesn't always reflect the actual distance + speeds in the file. Perhaps it using the FIT summary?
 - Position-derived speeds appear to be used for the majority of the top speed stats. This is an undesirable approach
-- Recorded speeds appear to influence the 5 sec + 10 sec + 20 sec results but the calculation is unclear
+- Recorded speeds appear to influence the 5 sec + 10 sec + 20 sec results but the exact nature of the calculation is unclear
 - GPX imports don't make use of the speed data when present; e.g. GPX 1.0, GPX 1.1 (Waterspeed) and GPX 1.1 (COROS)
-- Alpha results are incorrect for some of the sessions
+- Alpha results are incorrect for some of the sessions and ideally should use the Doppler-derived speeds
 
 
 
