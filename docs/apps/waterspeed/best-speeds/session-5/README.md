@@ -20,15 +20,15 @@ The scales differ quite a lot.
 - center = GPX, position-derived speeds result in the big spike and thus the scale up to 70 kts
 - right = modified FIT, 4x speeds result in a scale up to 200 kts
 
-This is all as expected based on the earlier tests. The spike in position-derived speeds is clearly visible in the center image.
+This is all as expected based on the earlier tests. The 63.5 kts spike in position-derived speeds is clearly visible in the center image.
 
 ![comparison-1](img/comparison-1.png)
 
 
 
-The headline figures differ - e.g. Max Speed of 45.3 kts in the original FIT vs 63.4 kts in the GPX.
+The headline figures differ - e.g. Max Speed of 45.3 kts in the original FIT vs 63.4 kts in the GPX. The Max Speed of 181.2 kts in the modified FIT is expected.
 
-The Foiling/Planing + Tacks & Gybes stats differ for the two FIT files because of the speed modifications. This appears to be correct.
+The Foiling/Planing + Tacks & Gybes stats differ for the two FIT files because of the speed modifications. This also appears to be correct.
 
 ![comparison-2](img/comparison-2.png)
 
@@ -42,7 +42,7 @@ All of the files show identical results for everything except for 5 sec + 10 sec
 
 
 
-5 sec + 10 sec are clearly position-derived for the GPX and modified FIT but the calculation for the original FIT is unclear. The recorded speeds influence the 5s and 10s but the specifics are unclear.
+5 sec + 10 sec are clearly position-derived for the GPX and modified FIT but the calculation of 45.3 kts for the original FIT is unclear. The recorded speeds appear to influence the 5s and 10s but the specifics are unclear.
 
 As per the earlier tests, distance-based best speeds appear to be using position-derived speeds. The most accurate way to calculate them would be using accumulated distances from the record speed, not position-derived speeds.
 
@@ -62,7 +62,7 @@ Full details about the various ways that speed can appear in GPX files is availa
 
 ### Summary
 
-This session showed that Doppler-derived speeds are being used in some places, but potentially ignored for most of the Best Speeds, except perhaps influencing 5 sec and 10 sec.
+This session showed that Doppler-derived speeds are being used in some places, but seem to be ignored for most of the Best Speeds, except perhaps influencing 5 sec and 10 sec.
 
 Unlike the [previous test](../session-4/README.md) the modified FIT also showed higher summary stats. Perhaps Waterspeed uses the session summaries from COROS files but not Garmin files?
 

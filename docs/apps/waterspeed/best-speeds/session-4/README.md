@@ -18,7 +18,7 @@ The scales differ quite a lot.
 
 - left = original FIT
 - center = GPX, position-derived speeds result in the big spike and thus the scale up to 50 kts
-- right = modified FIT, 2x speeds result in a larger scale
+- right = modified FIT, 2x speeds result in a larger scale going up to 50 kts
 
 This is all as expected based on the earlier tests.
 
@@ -26,11 +26,11 @@ This is all as expected based on the earlier tests.
 
 
 
-The headline figures differ - e.g. Max Speed of 37.9 kts in both FIT files and 49.5 kts in the GPX.
+The headline figures differ significantly - e.g. Max Speed of 37.9 kts in both FIT files and 49.5 kts in the GPX.
 
-The 37.9 kts is a bad record in the FIT which is missing latitude and longitude, and it shouldn't be reported by Waterspeed.
+n.b. The 37.9 kts is a bad record in the FIT which is missing latitude and longitude, and thus shouldn't be reported by Waterspeed.
 
-It's a big odd that the Max Speed is reported as 37.9 kts on the right though... that file contains a 2x speed of 46.6 kts.
+It's a bit odd that the Max Speed is reported as 37.9 kts for the modified FIT though... that file contains a best speed of 46.6 kts.
 
 The Foiling/Planing stats for the two FIT files obviously differ because of the speed modifications.
 
@@ -50,15 +50,17 @@ The GPX and the modified FIT file produce identical results for everything excep
 
 
 
-It is unclear exactly how 5 sec + 10 sec + 20 sec are calculated but the distance-based results appear to be position-derived speeds. The most accurate way to calculate them is using accumulated distances from the record speed, not position-derived speeds.
+It is unclear exactly how 5 sec + 10 sec + 20 sec are calculated but the distance-based results appear to be position-derived speeds. The most accurate way to calculate any distance-based results is using accumulated distances from the recorded speed, not position-derived speeds.
 
-The alpha speeds are identical for the GPX and modified FIT but appear to be calculated from the positional data. It's unclear where the 22.7 kts alphas originate from in the original FIT.
+The alpha speeds are identical for the GPX and modified FIT but appear to be calculated from the positional data. It's unclear where the 22.7 kts alpha 500 m and alpha 1 KM originate from in the original FIT.
 
 
 
 ### GPX Import
 
 It is worth mentioning that Waterspeed should import speed data from GPX files, when present.
+
+All of the stats should be identical regardless of whether a FIT or GPX is imported into Waterspeed, so long as speed is present in the GPX.
 
 Full details about the various ways that speed can appear in GPX files is available via this [link](https://logiqx.github.io/gps-wizard/gpx/speed.html).
 
@@ -68,9 +70,9 @@ Full details about the various ways that speed can appear in GPX files is availa
 
 This session showed that Doppler-derived speeds are being used in some places, but potentially ignored for most of the Best Speeds, except perhaps influencing 5 sec and 10 sec.
 
-There also appears to be a bug that affects processing of the original FIT file, propagating 23.3 kts through 5 sec + 10 sec + 20 sec + 500 m.
+There also appears to be a bug that affects processing of the original FIT file, propagating 23.3 kts through 5 sec + 10 sec + 20 sec + 500 m. It would be very rare (almost impossible) for all of these to be identical on a windsurfer.
 
-One final controlled test explores this further.
+One final controlled test explores the speed statistics further.
 
 
 
