@@ -2,7 +2,7 @@
 
 Author: Michael George
 
-Created: 30 Ju l2025
+Created: 30 Jul 2025
 
 
 
@@ -88,17 +88,17 @@ In the Polar app there is a "GPS with low accuracy used" message. The watch migh
 
 ![accuracy](img/accuracy.jpg)
 
-The watch was set as GPS+GLONASS but GPS+ Galileo is likely to be a better choice nowadays. This won;t be a magic fix for the various issues described above though.
+The watch was set as GPS+GLONASS but GPS+Galileo is likely to be a better choice nowadays. However, this won't be a silver-bullet that fixes the other issues which relate to software-design decisions.
 
 
 
 ### Discussion
 
-The lack of a FIT or GPX file containing position and speed data makes analysis tricky.
+The lack of a FIT or GPX file containing position and speed data makes analysis tricky for the regular user.
 
-Aside from that the absence of the raw Doppler-derived speed data is problematic. There are some fairly unique traits that can be seen in the speed data from the Sony GNSS chipset and they are not present in the CSV. It seems very likely that Polar are simply filtering / smoothing the positional data to determine speed. Under normal circumstances smoothing will under-estimate the max speeds (undesirable for the rider) and over-estimate the min speeds (affecting gybe analysis). Use of positional data will mean that large spikes in max speed are very common, despite any filtering / smoothing.
+Aside from that the absence of the raw Doppler-derived speed data is problematic. There are some fairly unique traits that can be seen in the speed data from the Sony GNSS chipset and they are not present in the CSV. It seems very likely that Polar are simply filtering / smoothing the positional data to determine speed. Under normal circumstances smoothing will under-estimate the max speeds (undesirable for the rider) and over-estimate the min speeds (affecting gybe analysis). Use of positional data will mean that large spikes in max speed are common (especially with the Sony GNSS chipset), despite the filtering / smoothing that has been implemented by Polar.
 
-More recent Polar watches may have replaced the Sony GNSS chipset with something from another manufacturer such as Airoha. This will likely improve matters but it is quite likely that the same general approach will be used... ignoring the Doppler-derived speed and using the positional data. This is not a desirable approach for people wanting to know their speeds when windsurfing, kitesurfing, wingfoiling, etc.
+More recent Polar watches may have probably replaced the Sony GNSS chipset with something from another manufacturer (e.g. Airoha). This will likely improve the data but it is still quite likely that the same general approach will be used by Polar... ignoring the Doppler-derived speed and using the positional data. This is not a desirable approach for people wanting to know suitably accurate speeds when windsurfing, kitesurfing, wingfoiling, etc. Unless Polar change the way that they process speed data and also record it in their GPX export then their watches will be somewhat unsuitable for watersports users who care about their speed data.
 
 
 
