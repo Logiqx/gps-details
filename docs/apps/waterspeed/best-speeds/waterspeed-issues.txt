@@ -1,0 +1,96 @@
+Waterspeed
+
+0. Richard 2025-07-15 FR 255
+
+C:\Users\mwgeo\OneDrive\Projects\GPS\Logs\Organised\Garmin\forerunner\FR 255\Richard Gould, FR 255\2025-07-15, FR 255 - 42 kts 2s
+
+FIT (Richard) - max correct, 2s WRONG (definitely positional), 5s roughly correct (31.4 instead of 31.09), 10s onwards unknown
+GPX (with speed) https://waterspeedapp.web.app/activity/-OWCJarbEcqB00BgVhDe - max correct, 2s WRONG (definitely positional)
+
+
+
+1. Windsurfing 2025-07-15 - fenix 7
+
+C:\Users\mwgeo\OneDrive\Documents\GPS Files\Windsurfing\2025\Portland Harbour\2027-07-15
+
+This session kills my PC using Chrome! Lots of CPU then out of memory
+
+Connect https://waterspeedapp.web.app/activity/-OVDvD02EuEpZDz-Xc4v - no idea how they got 32.8 kts for 20s (PD and DD = 33.9 kts)
+GPX https://waterspeedapp.web.app/activity/-OWBgF8kkajG4iH5gYyD
+
+
+
+2. Windsurfing
+
+C:\Users\mwgeo\OneDrive\Documents\GPS Files\Windsurfing\2025\Portland Harbour\2025-02-26
+
+FIT https://waterspeedapp.web.app/activity/-OWEos8mLymcybjWegyC - 2s WRONG (definitely positional, higher than max)
+GPX https://waterspeedapp.web.app/activity/-OWEoqIFUZhJZJwr9E9G
+
+
+
+3. Skating
+
+C:\Users\mwgeo\OneDrive\Projects\GPS\Logs\Organised\Garmin\epix\epix (Gen 2)\Harry Oosterveen, epix (Gen 2)\2025-01-24, epix (Gen 2), ice skating\20250124-windsurf-all-211
+
+FIT https://waterspeedapp.web.app/activity/-OWEwziwwSqRgElt8goX - 5s (11.0 kts) inbetween Doppler (9.6 kts) and Pos (14.6 kts).
+                                                                    10s (11.0 kts) inbetween Doppler (9.4 kts) and Pos (12.7 kts)
+GPX https://waterspeedapp.web.app/activity/-OWExcDhg_suFynaad8b
+
+
+C:\Users\mwgeo\OneDrive\Projects\GPS\Logs\Organised\Garmin\epix\epix (Gen 2)\Harry Oosterveen, epix (Gen 2)\2025-01-24, epix (Gen 2), ice skating\20250124-windsurf-all-211-speedpro
+
+FIT https://waterspeedapp.web.app/activity/-OWEtvZnfHwMWD9baruJ
+GPX https://waterspeedapp.web.app/activity/-OWEttzF0vbFn4b7Y6hz - 5/10/20s differs from FIT
+
+
+Skating
+C:\Users\mwgeo\OneDrive\Projects\GPS\Logs\Organised\Garmin\epix\epix (Gen 2)\Harry Oosterveen, epix (Gen 2)\2025-01-31, epix (Gen 2), ice skating
+
+GPX https://waterspeedapp.web.app/activity/-OWC71qSJvCrYYvyFqyv 
+FIT https://waterspeedapp.web.app/activity/-OWC6fBFcs4DAGmG7xO7 - 2s WRONG (definitely positional, higher than max), 5s and 10s use Doppler but are identical (and 20s and 500m... all equal 2s Doppler), 20s/500m/1km/NM/mile/5K/5M = non-Doppler
+
+FAKE SPEED file cannot be imported
+
+
+
+4. Winging 2024-08-24
+
+C:\Users\mwgeo\OneDrive\Documents\GPS Files\Wingfoiling\2024\Portland Harbour\2024-08-24
+
+FIT https://waterspeedapp.web.app/activity/-OWB9SM899syGniZPmuB - max correct (albeit a spike), 2s WRONG (definitely positional, higher than max), 5/10/20/500m identical (23.3 kts), 1K/NM/1M suggest non-Doppler, alphas completely wrong (they should be 16 kts, not 22 kts)
+GPX https://waterspeedapp.web.app/activity/-OWC_yQEV5fm0ho77FSN - 1K/NM/1M suggest non-Doppler
+
+FIT 2X Speed https://waterspeedapp.web.app/activity/-OWFOIb1-3kjP5Tiv8iU
+
+
+
+5. Driving 2025-07-27
+
+C:\Users\mwgeo\OneDrive\Documents\GPS Files\Testing\2025\2025-07-27, Waterspeed Doppler Test
+
+Connect https://waterspeedapp.web.app/activity/-OWC1QZRIHDT71TWF-zH
+
+GPX https://waterspeedapp.web.app/activity/-OWC3g6r6j7JPUdiPfY8
+FIT https://waterspeedapp.web.app/activity/-OWC3p_F6JlduSHdh_om - non-Doppler except max/5s/10s
+
+COROS https://trainingeu.coros.com/activity-detail?labelId=470738921746104322&sportType=706
+
+GPX https://waterspeedapp.web.app/activity/-OWCDwQWB_uqZFFyvyDb
+FIT https://waterspeedapp.web.app/activity/-OWCE2DgJeZZNR0sAxTa - max correct, 2s WRONG (definitely positional, higher than max), 5s kinda correct (but too high), 10s too high (close to 5s)
+FIT 4X speed - https://waterspeedapp.web.app/activity/-OWF7EbuqCwkH9ZwdtiQ
+
+
+
+
+
+
+
+NOTES
+
+- Doppler speed used for speed graph
+- Position-derived speeds for top speeds except max + 5s + 10s (although calculation of 5s and 10s is unclear and often identical)
+- Confirm not using gps_metadata
+- Doesn't use GPX speeds in import, e.g. GPX 1.0 and GPX 1.1 (COROS)
+- Gybe and tack detection is iffy
+- Alphas are incorrect
