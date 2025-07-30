@@ -8,5 +8,6 @@ There are individual pages for each brand of watch / device.
 - [Locosys](locosys/README.md)
 - [Metasail](metasail/README.md)
 - [Motion](motion/README.md)
+- [Polar](polar/README.md)
 - [Sailmon](sailmon/README.md)
 - [Suunto](suunto/README.md)
