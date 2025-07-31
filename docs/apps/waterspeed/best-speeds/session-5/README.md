@@ -28,7 +28,7 @@ This is all as expected based on the earlier tests. The 63.5 kts spike in positi
 
 The headline figures differ - e.g. Max Speed of 45.3 kts in the original FIT vs 63.4 kts in the GPX. The Max Speed of 181.2 kts in the modified FIT is expected.
 
-The Foiling/Planing + Tacks & Gybes stats differ for the two FIT files because of the speed modifications. This also appears to be correct.
+The Foiling/Planing + Tacks & Gybes stats differ for the two FIT files because of the speed modifications. It should be noted that the results on the right show planing for 102.8% of the time. The total duration and distance appear to come from the FIT summary and not based on the FIT records.
 
 ![comparison-2](img/comparison-2.png)
 
@@ -64,7 +64,7 @@ Full details about the various ways that speed can appear in GPX files is availa
 
 This session showed that Doppler-derived speeds are being used in some places, but seem to be ignored for most of the Best Speeds, except perhaps influencing 5 sec and 10 sec.
 
-Unlike the [previous test](../session-4/README.md) the modified FIT also showed higher summary stats. Perhaps Waterspeed uses the session summaries from COROS files but not Garmin files?
+Unlike the [previous test](../session-4/README.md) the modified FIT also showed higher summary stats. It should be noted that a planing time of 102.8% was reported during this test. Perhaps the total duration and distance come from the FIT summary and not based on the FIT records? This behavior may be different for COROS and Garmin FIT files.
 
 
 
