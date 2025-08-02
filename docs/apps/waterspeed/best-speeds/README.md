@@ -6,6 +6,14 @@ Created: 29 July 2025
 
 
 
+### Preface
+
+This investigation set about to determine how Waterspeed calculates speeds; e.g. speeds derived from distances between points or whether it uses the speeds determined by the GNSS chipset in the watch / phone. Test files were chosen to make the diagnosis as easy as possible.
+
+Since writing up these findings, I have also looked at the Javascript code, so now understand the precise nature of the speed calculations within Waterspeed. The current Javascript code is NOT using the Doppler-derived speeds which will certainly lead to a lot of erroneous results.
+
+
+
 ### Overview
 
 People have been reporting unusually high results for 2 seconds in the Waterspeed app, such as this Forerunner 255 session from Richard G. This particular session shows a max 2 seconds of 42.5 kts when it should be reported as 31.4 kts, based on what was recorded in the FIT.
