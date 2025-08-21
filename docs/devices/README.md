@@ -2,6 +2,7 @@
 
 There are individual pages for each brand of watch / device.
 
+- [AmazFit](amazfit/README.md)
 - [Apple](apple/README.md)
 - [COROS](coros/README.md)
 - [Garmin](garmin/README.md)

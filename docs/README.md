@@ -13,6 +13,7 @@ This repository contains information and observations relating to specific GPS /
 
 ### Watches / Devices
 
+- [AmazFit](devices/amazfit/README.md)
 - [Apple](devices/apple/README.md)
 - [COROS](devices/coros/README.md)
 - [Garmin](devices/garmin/README.md)
