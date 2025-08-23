@@ -16,7 +16,7 @@ The Venu X1 was released after the [fēnix 8](fenix.md), so may use an Airoha or
 
 | Model   | Released |  API  | Product |  Chipset   | APPro? | References                                                   |
 | ------- | :------: | :---: | :-----: | :--------: | :----: | ------------------------------------------------------------ |
-| Venu X1 | 2025-06  | 5.0.0 |  4603   | AG3335MN ? |   Y    | DCR [review](https://www.dcrainmaker.com/2025/06/garmin-venu-x1-details-hands-everything.html) |
+| Venu X1 | 2025-06  | 5.1.0 |  4603   | AG3335MN ? |   Y    | DCR [review](https://www.dcrainmaker.com/2025/06/garmin-venu-x1-details-hands-everything.html) |
 
 
 
@@ -24,8 +24,8 @@ The Venu X1 was released after the [fēnix 8](fenix.md), so may use an Airoha or
 
 | Model                       | Released   | API | Product | Chipset | APPro? | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| Venu 3          | 2023-08 | 5.0.0 |  4260   | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals-apac/webhelp/venu33s/EN-SG/GUID-220C5858-1518-4580-AEA8-EC0E2A523BFE-7277.html) + DCR [review](https://www.dcrainmaker.com/2023/08/garmin-venu-3-in-depth-review-more-sleep-analytics-power-meters-and-more.html) |
-| Venu 3S | 2023-08 | 5.0.0 | 4261 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals-apac/webhelp/venu33s/EN-SG/GUID-220C5858-1518-4580-AEA8-EC0E2A523BFE-7277.html) + DCR [review](https://www.dcrainmaker.com/2023/08/garmin-venu-3-in-depth-review-more-sleep-analytics-power-meters-and-more.html) |
+| Venu 3          | 2023-08 | 5.1.0 |  4260   | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals-apac/webhelp/venu33s/EN-SG/GUID-220C5858-1518-4580-AEA8-EC0E2A523BFE-7277.html) + DCR [review](https://www.dcrainmaker.com/2023/08/garmin-venu-3-in-depth-review-more-sleep-analytics-power-meters-and-more.html) |
+| Venu 3S | 2023-08 | 5.1.0 | 4261 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals-apac/webhelp/venu33s/EN-SG/GUID-220C5858-1518-4580-AEA8-EC0E2A523BFE-7277.html) + DCR [review](https://www.dcrainmaker.com/2023/08/garmin-venu-3-in-depth-review-more-sleep-analytics-power-meters-and-more.html) |
 | Venu Sq 2 Music \* | 2022-09  | 5.0.0 | 4116 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals-apac/webhelp/venusq2/EN-SG/GUID-57C7FCDE-E149-4898-96F3-F5D53D177F00-4988.html) + FCC [teardown](https://fccid.io/IPH-04390/Internal-Photos/Internal-Photos-5930782) + DCR [review](https://www.dcrainmaker.com/2022/09/garmin-venu-sq-2-in-depth-review.html) |
 | Venu Sq 2 \* | 2022-09 | 5.0.0 | 4115 | AG3335MN | Y | Garmin [manual](https://www8.garmin.com/manuals-apac/webhelp/venusq2/EN-SG/GUID-57C7FCDE-E149-4898-96F3-F5D53D177F00-4988.html) + FCC [teardown](https://fccid.io/IPH-A4390/Internal-Photos/Internal-Photos-5919154) + DCR [review](https://www.dcrainmaker.com/2022/09/garmin-venu-sq-2-in-depth-review.html) |
 
