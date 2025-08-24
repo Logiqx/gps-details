@@ -88,9 +88,17 @@ function startLocationEvents() {
 
 ### Test Cases
 
-#### API Level 3.1.0
+Supported API levels can be found on the developer page that lists [compatible devices](https://developer.garmin.com/connect-iq/compatible-devices/).
 
-There is no mechanism to choose the GNSS configuration with Connect IQ 3.1.0.
+These test cases show the expected order of GNSS configurations for consideration by the above code.
+
+
+
+#### API Level 3.1
+
+There is no mechanism to choose the GNSS configuration with API level 3.1.
+
+Note: Galileo and GLONASS are supported by these watches, but Connect IQ apps such as APPro Windsurf will be limited to standard GPS.
 
 | Watch          | GNSS Chipset    | Config |
 | -------------- | --------------- | :----: |
@@ -100,9 +108,11 @@ There is no mechanism to choose the GNSS configuration with Connect IQ 3.1.0.
 
 
 
-#### API Level 3.2.0
+#### API Level 3.2
 
-Use the constellations parameter for Connect IQ 3.2.0.
+Use the constellations parameter for API level 3.2.
+
+Note: API level 3.2 is rare according to the developer page that lists [compatible devices](https://developer.garmin.com/connect-iq/compatible-devices/).
 
 | Watch                | GNSS Chipset    |   Config 1    |   Config 2    |
 | -------------------- | --------------- | :-----------: | :-----------: |
@@ -111,9 +121,11 @@ Use the constellations parameter for Connect IQ 3.2.0.
 
 
 
-#### API Level 3.3.0
+#### API Level 3.3
 
-Use the constellations parameter for Connect IQ 3.3.0.
+Use the constellations parameter for Connect IQ 3.3.0 to 3.3.5, or the configuration parameter for API level 3.3.6.
+
+Note: The [configuration](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#Configuration-module) parameter is the only new feature of API level 3.3.6, according to [Google](https://www.google.com/search?q=%22API+Level+3.3.6%22+site%3Adeveloper.garmin.com).
 
 | Watch          | GNSS Chipset    |   Config 1    |   Config 2    |
 | -------------- | --------------- | :-----------: | :-----------: |
@@ -123,9 +135,9 @@ Use the constellations parameter for Connect IQ 3.3.0.
 
 
 
-#### API Level 3.4.0
+#### API Level 3.4
 
-Use the configuration parameter for Connect IQ 3.4.0.
+Use the [configuration](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#Configuration-module) parameter for API level 3.4.
 
 | Watch         | GNSS Chipset   |   Config 1    |   Config 2   |   Config 3    |
 | ------------- | -------------- | :-----------: | :----------: | :-----------: |
@@ -138,9 +150,17 @@ Note: The GPS + Galileo configuration may be skipped in the simulator, resulting
 
 
 
-#### API Level 5.0.0
+#### API Level 5.0
 
-Use the configuration parameter for Connect IQ 5.0.0.
+Use the GNSS [configuration](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#Configuration-module) parameter for API level 5.0.
+
+Note: The majority of watches that supported API level 5.0 now support API level 5.1, except some Venu models + derivatives (e.g. D2 Air X10).
+
+
+
+#### API Level 5.1
+
+Use the [configuration](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#Configuration-module) parameter for API level 5.0.
 
 | Watch          | GNSS Chipset    |  Config 1   |  Config 2   |
 | -------------- | --------------- | :---------: | :---------: |
@@ -149,3 +169,4 @@ Use the configuration parameter for Connect IQ 5.0.0.
 | vívoactive 5   | Airoha AG3335MN | All Systems |      -      |
 
 Note: The fēnix 7 Pro may skip multi-band / all systems in the simulator, resulting in GPS + Galileo being chosen.
+
