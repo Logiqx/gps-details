@@ -26,8 +26,10 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 
 | Series                  | Model                        | Brand     | Multi-Band |
 | ----------------------- | ---------------------------- | --------- | :--------: |
-| [fēnix](fenix.md)       | fēnix 8 - Solar              | Synaptics |     Y      |
+| [fēnix](fenix.md)       | fēnix 8 Pro - MicroLED       | Synaptics |     Y      |
+|  | fēnix 8 Pro - AMOLED         | Synaptics |     Y      |
 |                         | fēnix 8 - AMOLED             | Synaptics |     Y      |
+|  | fēnix 8 - Solar Sapphire | Synaptics | Y |
 |                         | fēnix E                      | Airoha |     -      |
 |                         | fēnix 7 - Pro Sapphire Solar | Airoha    |     Y      |
 |                         | fēnix 7 - Pro Solar          | Airoha    |     Y      |
