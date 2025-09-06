@@ -32,49 +32,45 @@ function startLocationEvents() {
         :acquisitionType => Position.LOCATION_CONTINUOUS
     };
 
-    // Use configuration parameter for Connect IQ 3.3.6 and later (e.g. fēnix 6)
+    // Use configuration parameter for Connect IQ 3.3.6 and later (e.g. fēnix 6 + vívoactive 4)
     if (Position has :hasConfigurationSupport) {
-        // GPS L1 + L5, GLONASS, Galileo E1 + E5a, and BeiDou B1I + B2a (e.g. Forerunner 255)
+        // GPS L1 + L5, GLONASS, Galileo E1 + E5a, and BeiDou B1I + B2a (e.g. fēnix 7 Pro + Forerunner 255)
         if (Position has :CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1_L5) &&
               (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1_L5)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1_L5;
-        // GPS L1, GLONASS, Galileo E1, and BeiDou B1I (e.g. vívoactive 5)
+        // GPS L1, GLONASS, Galileo E1, and BeiDou B1I (e.g. fēnix 7 + vívoactive 5)
         } else if (Position has :CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1) &&
               (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GLONASS_GALILEO_BEIDOU_L1;
-        // GPS L1 and Galileo E1 - May be skipped in the simulator (e.g. fēnix 6)
+        // GPS L1 and Galileo E1 (e.g. fēnix 6 + vívoactive 4) - May be skipped in the simulator
         } else if (Position has :CONFIGURATION_GPS_GALILEO) &&
               (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GALILEO)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GALILEO;
-        // GPS L1 and BeiDou B1I
+        // GPS L1 and BeiDou B1I - Potentially redundant
         } else if (Position has :CONFIGURATION_GPS_BEIDOU) &&
               (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_BEIDOU)) {
             options[:configuration] = Position.CONFIGURATION_GPS_BEIDOU;
-        // GPS L1 and GLONASS
+        // GPS L1 and GLONASS - Potentially redundant
         } else if (Position has :CONFIGURATION_GPS_GLONASS) &&
               (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GLONASS)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GLONASS;
-        // GPS L1 - Theoretically redundant
-        } else if (Position has :CONFIGURATION_GPS) &&
-              (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS)) {
-            options[:configuration] = Position.CONFIGURATION_GPS;
         }
         started = startUpdates(options)
     }
-    // Use constellations parameter for Connect IQ 3.2.0 to 3.3.5 (e.g. vívoactive 4)
+    // Use constellations parameter for Connect IQ 3.2.0 to 3.3.5 (e.g. fēnix 5 Plus + vívoactive 3 Music)
     else {
         // GPS L1 and Galileo E1
         if (Position has :CONSTELLATION_GALILEO {
             options[:constellations] = [ Position.CONSTELLATION_GPS, Position.CONSTELLATION_GALILEO ];
         }
-        // GPS L1 and GLONASS
+        // GPS L1 and GLONASS - Potentially redundant
         else if (Position has :CONSTELLATION_GLONASS) {
             options[:constellations] = [ Position.CONSTELLATION_GPS, Position.CONSTELLATION_GLONASS ];
         }
         started = startUpdates(options)
     }
     
-    // Use standard GPS with versions prior to Connect IQ 3.2.0
+    // Use standard GPS with versions prior to Connect IQ 3.2.0 (e.g. fēnix 5 + vívoactive 3)
     if (!started) {
         options = Position.LOCATION_CONTINUOUS;
         started = startUpdates(options)
