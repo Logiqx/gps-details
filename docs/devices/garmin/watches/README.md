@@ -199,11 +199,19 @@ These watches are rarely / never used on GP3S, but ARE supported by APPro Windsu
 
 These devices are rarely / never used on GP3S, and NOT supported by APPro Windsurf.
 
+- Bounce - kids smartwatches
 - Edge - bike computers
 - eTrex - GPS navigators
 - Foretrex - GPS navigators
 - Gekko - GPS navigators
+- Lily - fashion smarwatches
 - Swim - swimming watches
+
+These devices do not have built-in GPS, only "connected GPS".
+
+- vívofit jr. - kids fitness trackers
+- vívomove - hybrid smarwatches
+- vívosmart - fitness trackers
 
 
 
