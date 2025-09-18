@@ -31,8 +31,8 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 |                         | fēnix 8 - AMOLED             | Synaptics |     Y      |
 |  | fēnix 8 - Solar Sapphire | Synaptics | Y |
 |                         | fēnix E                      | Airoha |     -      |
-|                         | fēnix 7 - Pro Sapphire Solar | Airoha    |     Y      |
-|                         | fēnix 7 - Pro Solar          | Airoha    |     Y      |
+|                         | fēnix 7 Pro - Sapphire Solar | Airoha    |     Y      |
+|                         | fēnix 7 Pro - Solar      | Airoha    |     Y      |
 |                         | fēnix 7 - Sapphire Solar     | Airoha    |     Y      |
 |                         | fēnix 7 - Solar              | Airoha    |     -      |
 |                         | fēnix 7                      | Airoha    |     -      |
@@ -63,10 +63,12 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 
 | Series                      | Model          | Brand     | Multi-Band |
 | --------------------------- | -------------- | --------- | :--------: |
-| [Instinct](instinct.md) | Instinct 3 AMOLED Tactical   | Airoha    |     Y      |
-|                         | Instinct 3 Solar Tactical    | Airoha    |     Y      |
-|                         | Instinct 3 AMOLED            | Airoha    |     Y      |
-|                         | Instinct 3 Solar             | Airoha    |     Y      |
+| [Instinct](instinct.md) | Instinct Crossover AMOLED - Tactical | TBC | Y |
+|  | Instinct Crossover AMOLED | TBC | Y |
+|  | Instinct 3 - AMOLED, Tactical | Airoha    |     Y      |
+|                         | Instinct 3 - Solar, Tactical | Airoha    |     Y      |
+|                         | Instinct 3 - AMOLED          | Airoha    |     Y      |
+|                         | Instinct 3 - Solar           | Airoha    |     Y      |
 |                         | Instinct E                   | Airoha    |     -      |
 | [Descent](descent.md)   | Descent G2                   | Airoha |     -      |
 |                         | Descent Mk3i                 | Airoha    |     Y      |
