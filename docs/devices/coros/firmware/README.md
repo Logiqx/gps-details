@@ -1,18 +1,27 @@
 ## COROS Firmware
 
+Date created: 22 Sep 2024
+
+Date updated: 22 Sep 2025
+
+
+
 ### Background
 
-Several COROS firmware releases during 2024 have been problematic for the speedsurfing community. This page captures the various issues, listing the 2024 firmware releases in reverse-chronological order.
+Several of the COROS firmware releases during 2024 are problematic for the speedsurfing community. This page captures the various issues, listing the COROS firmware releases since the start of 2024 in reverse-chronological order.
 
-Current status:
+The task of testing new firmware releases has become extremely onerous, so I have not done any testing in 2025 since the 3.0808.0 release. Hopefully the firmware releases following 3.0808.0 are ok, but I do not know for sure.
+
+General advice for watches with broken firmware:
 
 - APEX Pro or VERTIX with firmware 3.0508.0 or 3.0510.0 should be downgraded to 3.0309.0
-- APEX 2 or APEX 2 Pro are advised to upgrade to firmware 3.0808.0
-- VERTIX 2 or VERTIX 2S are advised to upgrade to firmware 3.0808.0
+- APEX 2 or APEX 2 Pro are only really advised to upgrade if they have a broken firmware
+- VERTIX 2 or VERTIX 2S are only really advised to upgrade if they have a broken firmware
 
-Fixing your watch:
+Downgrading your firmware:
 
 - If you wish to downgrade to 3.0309.0 on your APEX Pro or VERTIX then written [instructions](3.0309.0/install.md) are available!
+- If you wish to downgrade to 3.0708.1113 beta on your VERTIX 2 and VERTIX 2s then written [instructions](3.0708.1113/install.md) are available!
 
 Prior to reviewing the finer details on this page it is advisable to read the article about [sampling rates and aliasing](../../../general/aliasing/README.md). It would also be beneficial to read the [article](../windsurfing/README.md) comparing the windsurfing and speedsurfing activities on COROS watches.
 
@@ -32,7 +41,7 @@ This table is a summary of the COROS firmware releases since the beginning of 20
 | [3.1011.0](3.1011.0/README.md) | - | - | ? | ? | ? | ? |
 | [3.1008.0](3.1008.0/README.md) | - | - | ? | ? | ? | ? |
 | [3.0910.0](3.0910.0/README.md) | - | - | ? | ? | ? | ? |
-| [3.0808.0](3.0808.0/README.md) | - | - | ? | 😊🤙 | 😊🤙 | ? |
+| [3.0808.0](3.0808.0/README.md) | ? | ? | ? | 😊🤙 | 😊🤙 | ? |
 | [3.0807.0](3.0807.0/README.md) beta | - | - | ? | 😊🤙 | 😊🤙 | ? |
 | [3.0709.0](3.0709.0/README.md) | - | - | 😊🤙 | 😊🤙 | 😡👎 | 😡👎 |
 | [3.0708.1113](3.0708.1113/README.md) beta | - | - | - | - | 😊🤙 | 😊🤙 |

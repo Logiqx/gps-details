@@ -1,6 +1,11 @@
-## 3.0808.0 - 15 Jan 2025
+## 3.0808.0 - 15 Jan 2025 or 19 Aug 2025
 
 ### Overview
+
+Confusingly, the version number for 3.0808.0 was re-used for different watches roughly 7 months apart.
+
+- 15 Jan 2025 = APEX 2 / APEX  2 Pro / VERTIX 2 / VERTIX 2S
+- 19 Aug 2025 = APEX Pro and VERTIX
 
 3.0808.0 has been tested on the VERTIX 2 and APEX 2 Pro.
 
@@ -8,6 +13,8 @@
 - The APEX 2 Pro continues to work properly, just like it did with firmware 3.07xx.0.
 
 The VERTIX 2S and APEX 2 have not been tested, but are assumed to perform just like the VERTIX 2 and APEX 2 Pro.
+
+The APEX Pro and VERTIX also received 
 
 
 
