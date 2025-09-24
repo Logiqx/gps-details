@@ -5,7 +5,7 @@
 Confusingly, the version number for 3.0808.0 was re-used for different watches roughly 7 months apart.
 
 - 15 Jan 2025 = APEX 2 / APEX  2 Pro / VERTIX 2 / VERTIX 2S
-- 19 Aug 2025 = APEX Pro and VERTIX
+- 19 Aug 2025 = APEX Pro and VERTIX, broken (again)
 
 3.0808.0 has been tested on the VERTIX 2 and APEX 2 Pro.
 
@@ -14,7 +14,7 @@ Confusingly, the version number for 3.0808.0 was re-used for different watches r
 
 The VERTIX 2S and APEX 2 have not been tested, but are assumed to perform just like the VERTIX 2 and APEX 2 Pro.
 
-The APEX Pro and VERTIX also received 
+In the absence of a public fix, owners of an APEX Pro or VERTIX with firmware 3.0808.0 are encouraged to [downgrade](../3.0309.0/install.md) to 3.0309.0.
 
 
 
@@ -26,7 +26,23 @@ The APEX Pro and VERTIX also received
 
 
 
-### Quick Test
+### Quick Test - VERTIX
+
+This file was recorded on a VERTIX with FW 3.0808.0.
+
+![vertix](img/vertix.png)
+
+I conclude that it is broken (again) for the following reasons.
+
+- Dips occur at the same time in both the recorded speed (solid blue) and position-derived speed
+- There are no repeated speeds as one would expect from the Sony chipset
+- There is no restricted precision to approximately 0.1 kts as one would expect from Sony-based COROS watches
+
+In the absence of a public fix, owners of an APEX Pro or VERTIX with firmware 3.0808.0 are encouraged to [downgrade](../3.0309.0/install.md) to 3.0309.0.
+
+
+
+### Quick Test - VERTIX 2 and APEX 2 Pro
 
 3 laps of a short test circuit were driven in a relatively open-sky environment. The total distance was almost exactly 5 km.
 

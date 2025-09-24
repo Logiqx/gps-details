@@ -14,7 +14,7 @@ The task of testing new firmware releases has become extremely onerous, so I hav
 
 General advice for watches with broken firmware:
 
-- APEX Pro or VERTIX with firmware 3.0508.0 or 3.0510.0 should be downgraded to 3.0309.0
+- APEX Pro or VERTIX with firmware 3.0508.0, 3.0510.0 or 3.0808.0 should be downgraded to 3.0309.0
 - APEX 2 or APEX 2 Pro are only really advised to upgrade if they have a broken firmware
 - VERTIX 2 or VERTIX 2S are only really advised to upgrade if they have a broken firmware
 
@@ -41,7 +41,7 @@ This table is a summary of the COROS firmware releases since the beginning of 20
 | [3.1011.0](3.1011.0/README.md) | - | - | ? | ? | ? | ? |
 | [3.1008.0](3.1008.0/README.md) | - | - | ? | ? | ? | ? |
 | [3.0910.0](3.0910.0/README.md) | - | - | ? | ? | ? | ? |
-| [3.0808.0](3.0808.0/README.md) | ? | ? | ? | 😊🤙 | 😊🤙 | ? |
+| [3.0808.0](3.0808.0/README.md) | ? | 😡👎 | ? | 😊🤙 | 😊🤙 | ? |
 | [3.0807.0](3.0807.0/README.md) beta | - | - | ? | 😊🤙 | 😊🤙 | ? |
 | [3.0709.0](3.0709.0/README.md) | - | - | 😊🤙 | 😊🤙 | 😡👎 | 😡👎 |
 | [3.0708.1113](3.0708.1113/README.md) beta | - | - | - | - | 😊🤙 | 😊🤙 |
