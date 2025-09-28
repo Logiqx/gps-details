@@ -16,8 +16,8 @@ The tactix 8 was released after the [fēnix 8](fenix.md) and built on the same h
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| tactix 8 - AMOLED - 51 mm | 2025-02 | 4536, 4775 | SYN4778 | 5.1 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-EA668398-46E4-42E4-8163-12F6CB299F0E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-| tactix 8 - AMOLED - 47 mm | 2025-02 | 4536, 4775 | SYN4778 | 5.1 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-EA668398-46E4-42E4-8163-12F6CB299F0E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| tactix 8 - AMOLED - 51 mm | 2025-02 | 4775 | SYN4778 | 5.1 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-EA668398-46E4-42E4-8163-12F6CB299F0E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| tactix 8 - AMOLED - 47 mm | 2025-02 | 4775 | SYN4778 | 5.1 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-EA668398-46E4-42E4-8163-12F6CB299F0E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 | tactix 8 - Solar | 2025-02 | 4776 | SYN4778 | 5.1 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-EA668398-46E4-42E4-8163-12F6CB299F0E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 
 
