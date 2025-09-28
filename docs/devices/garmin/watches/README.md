@@ -99,7 +99,7 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 
 | Series                      | Model        | Brand  | Multi-Band |
 | --------------------------- | ------------ | ------ | :--------: |
-| [vívoactive](vivoactive.md) | vívoactive 6 | TBC    |     -      |
+| [vívoactive](vivoactive.md) | vívoactive 6 | Airoha |     -      |
 |                             | vívoactive 5 | Airoha |     -      |
 | [Venu](venu.md)             | Venu 4       | TBC    |     Y      |
 |                             | Venu X1      | TBC    |            |
