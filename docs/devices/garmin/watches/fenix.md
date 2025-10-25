@@ -14,9 +14,9 @@ The various models are listed in reverse-chronological order. The release dates 
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| fēnix 8 Pro - 51 mm, MicroLED | 2025-09 | 4631 | SYN4778 | 5.1 | - | Garmin [specifications](https://www.garmin.com/en-GB/p/1723221/#specs) |
-| fēnix 8 Pro - 51 mm, AMOLED | 2025-09 | 4631 | SYN4778 | 5.1 | - | Garmin [specifications](https://www.garmin.com/en-GB/p/1703902/pn/010-03199-40/#specs) |
-| fēnix 8 Pro - 47 mm, AMOLED | 2025-09 | 4631 | SYN4778 | 5.1 | - | Garmin [specifications](https://www.garmin.com/en-GB/p/1701921/pn/010-03198-40/#specs) |
+| fēnix 8 Pro - 51 mm, MicroLED | 2025-09 | 4631 | SYN4778 | 5.1 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1723221/#specs) |
+| fēnix 8 Pro - 51 mm, AMOLED | 2025-09 | 4631 | SYN4778 | 5.1 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1703902/pn/010-03199-40/#specs) |
+| fēnix 8 Pro - 47 mm, AMOLED | 2025-09 | 4631 | SYN4778 | 5.1 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1701921/pn/010-03198-40/#specs) |
 | fēnix 8 - 51 mm, AMOLED | 2024-08 | 4536 | SYN4778 | 5.1 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
 | fēnix 8 - 47 mm, AMOLED | 2024-08 | 4536 | SYN4778 | 5.1 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
 | fēnix 8 - 43 mm, AMOLED | 2024-08 | 4534 | SYN4778 | 5.1 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) |
