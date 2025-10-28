@@ -52,8 +52,12 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 |                         | tactix 7                     | Airoha    |     -      |
 | [Enduro](enduro.md)         | Enduro 3       | Synaptics |     Y      |
 |                             | Enduro 2       | Airoha    |     Y      |
-| [D2](d2.md)             | D2 Mach 1 Pro                | Airoha    |     Y      |
+| [D2](d2.md)             | D2 Air X15                   | Synaptics \* |     Y      |
+|  | D2 Mach 2 | Synaptics | Y |
+|  | D2 Mach 1 Pro | Airoha | Y |
 |                         | D2 Mach 1                    | Airoha    |     Y      |
+
+\* = suspected
 
 
 
@@ -80,15 +84,17 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 
 None of these watches include native windsurfing / kiteboarding activities, so [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is recommended.
 
-| Series                      | Model          | Brand     | Multi-Band |
-| --------------------------- | -------------- | --------- | :--------: |
-| [Forerunner](forerunner.md) | Forerunner 970 | TBC       |     Y      |
-|                             | Forerunner 570 | TBC       |     Y      |
-|                             | Forerunner 165 | Airoha    |     -      |
-|                             | Forerunner 965 | Airoha    |     Y      |
-|                             | Forerunner 265 | Airoha    |     Y      |
-|                             | Forerunner 955 | Airoha    |     Y      |
-|                             | Forerunner 255 | Airoha    |     Y      |
+| Series                      | Model          | Brand        | Multi-Band |
+| --------------------------- | -------------- | ------------ | :--------: |
+| [Forerunner](forerunner.md) | Forerunner 970 | Synaptics \* |     Y      |
+|                             | Forerunner 570 | Synaptics \* |     Y      |
+|                             | Forerunner 165 | Airoha       |     -      |
+|                             | Forerunner 965 | Airoha       |     Y      |
+|                             | Forerunner 265 | Airoha       |     Y      |
+|                             | Forerunner 955 | Airoha       |     Y      |
+|                             | Forerunner 255 | Airoha       |     Y      |
+
+\* = suspected
 
 
 
@@ -97,13 +103,15 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 
 None of these watches include native windsurfing / kiteboarding activities, so [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is recommended.
 
-| Series                      | Model        | Brand  | Multi-Band |
-| --------------------------- | ------------ | ------ | :--------: |
-| [vívoactive](vivoactive.md) | vívoactive 6 | Airoha |     -      |
-|                             | vívoactive 5 | Airoha |     -      |
-| [Venu](venu.md)             | Venu 4       | TBC    |     Y      |
-|                             | Venu X1      | TBC    |            |
-|                             | Venu 3       | Airoha |     -      |
+| Series                      | Model        | Brand        | Multi-Band |
+| --------------------------- | ------------ | ------------ | :--------: |
+| [vívoactive](vivoactive.md) | vívoactive 6 | TBC          |     -      |
+|                             | vívoactive 5 | Airoha       |     -      |
+| [Venu](venu.md)             | Venu 4       | Synaptics \* |     Y      |
+|                             | Venu X1      | TBC          |            |
+|                             | Venu 3       | Airoha       |     -      |
+
+\* = suspected
 
 
 

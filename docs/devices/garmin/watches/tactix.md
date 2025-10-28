@@ -16,9 +16,9 @@ The tactix 8 was released after the [fēnix 8](fenix.md) and built on the same h
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| tactix 8 - AMOLED - 51 mm | 2025-02 | 4775 | SYN4778 | 5.1 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-EA668398-46E4-42E4-8163-12F6CB299F0E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-| tactix 8 - AMOLED - 47 mm | 2025-02 | 4775 | SYN4778 | 5.1 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-EA668398-46E4-42E4-8163-12F6CB299F0E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-| tactix 8 - Solar | 2025-02 | 4776 | SYN4778 | 5.1 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-EA668398-46E4-42E4-8163-12F6CB299F0E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| tactix 8 - AMOLED - 51 mm | 2025-02 | 4775 | SYN4778 | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-EA668398-46E4-42E4-8163-12F6CB299F0E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| tactix 8 - AMOLED - 47 mm | 2025-02 | 4775 | SYN4778 | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-EA668398-46E4-42E4-8163-12F6CB299F0E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| tactix 8 - Solar | 2025-02 | 4776 | SYN4778 | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-EA668398-46E4-42E4-8163-12F6CB299F0E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 
 
 
@@ -28,9 +28,9 @@ The tactix 7 has its own product codes, unlike previous models.
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| tactix 7 - AMOLED | 2023-09 | 4542 | AG3335M | 5.1 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + [unveiling](https://www.garmin.com/en-US/newsroom/press-release/outdoor/garmin-unveils-tactix-7-amoled-edition-mission-ready-in-the-brightest-day-or-darkest-night/) |
-| tactix 7 - Pro | 2022-04 | 4135 | AG3335MN | 5.1 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-| tactix 7                  | 2022-04 | 4135 | AG3335MN | 5.1 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| tactix 7 - AMOLED | 2023-09 | 4542 | AG3335M | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + [unveiling](https://www.garmin.com/en-US/newsroom/press-release/outdoor/garmin-unveils-tactix-7-amoled-edition-mission-ready-in-the-brightest-day-or-darkest-night/) |
+| tactix 7 - Pro | 2022-04 | 4135 | AG3335MN | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| tactix 7                  | 2022-04 | 4135 | AG3335MN | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
