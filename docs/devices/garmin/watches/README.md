@@ -52,8 +52,7 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 |                         | tactix 7                     | Airoha    |     -      |
 | [Enduro](enduro.md)         | Enduro 3       | Synaptics |     Y      |
 |                             | Enduro 2       | Airoha    |     Y      |
-| [D2](d2.md)             | D2 Air X15                   | Synaptics |     Y      |
-|  | D2 Mach 2 | Synaptics | Y |
+| [D2](d2.md)             | D2 Mach 2                    | Synaptics |     Y      |
 |  | D2 Mach 1 Pro | Airoha | Y |
 |                         | D2 Mach 1                    | Airoha    |     Y      |
 
@@ -106,8 +105,9 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 | [vívoactive](vivoactive.md) | vívoactive 6 | TBC       |     -      |
 |                             | vívoactive 5 | Airoha    |     -      |
 | [Venu](venu.md)             | Venu 4       | Synaptics |     Y      |
-|                             | Venu X1      | TBC       |            |
+|                             | Venu X1      | TBC       |     -      |
 |                             | Venu 3       | Airoha    |     -      |
+| [D2](d2.md)                 | D2 Air X15   | Synaptics |     Y      |
 
 
 
