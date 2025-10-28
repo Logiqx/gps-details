@@ -12,7 +12,7 @@ The various models are listed in reverse-chronological order. The release dates 
 
 ### Synaptics
 
-The Venu 4 appears to use  Synaptics GNSS chipset, just like the [fēnix 8](fenix.md) and [Forerunner](forerunner.md) 970 + 570.
+The Venu 4 appears to use a Synaptics GNSS chipset, just like the [fēnix 8](fenix.md) and [Forerunner](forerunner.md) 970 + 570.
 
 | Model          | Released | Product | Chipset | CIQ  | APPro | References                                                   |
 | -------------- | :------: | :-----: | :-----: | :--: | :---: | ------------------------------------------------------------ |
