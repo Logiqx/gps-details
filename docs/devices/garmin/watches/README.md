@@ -67,8 +67,8 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 
 | Series                      | Model          | Brand     | Multi-Band |
 | --------------------------- | -------------- | --------- | :--------: |
-| [Instinct](instinct.md) | Instinct Crossover AMOLED - Tactical | TBC | Y |
-|  | Instinct Crossover AMOLED | TBC | Y |
+| [Instinct](instinct.md) | Instinct Crossover AMOLED - Tactical | Airoha \* | Y |
+|  | Instinct Crossover AMOLED | Airoha \* | Y |
 |  | Instinct 3 - AMOLED, Tactical | Airoha    |     Y      |
 |                         | Instinct 3 - Solar, Tactical | Airoha    |     Y      |
 |                         | Instinct 3 - AMOLED          | Airoha    |     Y      |
@@ -77,6 +77,8 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 | [Descent](descent.md)   | Descent G2                   | Airoha |     -      |
 |                         | Descent Mk3i                 | Airoha    |     Y      |
 |                         | Descent Mk3                  | Airoha    |     Y      |
+
+\* = suspected
 
 
 
