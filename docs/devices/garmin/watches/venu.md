@@ -12,14 +12,12 @@ The various models are listed in reverse-chronological order. The release dates 
 
 ### Synaptics
 
-The Venu 4 is suspected to use a Synaptics GNSS chipset, just like the [fēnix 8](fenix.md).
+The Venu 4 appears to use  Synaptics GNSS chipset, just like the [fēnix 8](fenix.md) and [Forerunner](forerunner.md) 970 + 570.
 
-| Model          | Released | Product |  Chipset   | CIQ  | APPro | References                                                   |
-| -------------- | :------: | :-----: | :--------: | :--: | :---: | ------------------------------------------------------------ |
-| Venu 4 - 45 mm | 2025-09  |  4643   | SYN4778 \* | 5.2  |   Y   | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2CF5620C-E585-4E0A-9CC3-9565533EEE4D/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-| Venu 4 - 41 mm | 2025-09  |  4644   | SYN4778 \* | 5.2  |   Y   | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2CF5620C-E585-4E0A-9CC3-9565533EEE4D/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-
-\* = suspected
+| Model          | Released | Product | Chipset | CIQ  | APPro | References                                                   |
+| -------------- | :------: | :-----: | :-----: | :--: | :---: | ------------------------------------------------------------ |
+| Venu 4 - 45 mm | 2025-09  |  4643   | SYN4778 | 5.2  |   Y   | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2CF5620C-E585-4E0A-9CC3-9565533EEE4D/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| Venu 4 - 41 mm | 2025-09  |  4644   | SYN4778 | 5.2  |   Y   | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2CF5620C-E585-4E0A-9CC3-9565533EEE4D/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 
 
 

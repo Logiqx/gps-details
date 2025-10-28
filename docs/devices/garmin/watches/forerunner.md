@@ -8,17 +8,15 @@ The various models are listed in reverse-chronological order. The release dates 
 
 
 
-### TBC
+### Synaptics
 
-The Forerunner 970 and 570 are suspected to use a Synaptics GNSS chipset, just like the [fēnix 8](fenix.md).
+The Forerunner 970 and 570 appear to use a Synaptics GNSS chipset, just like the [fēnix 8](fenix.md).
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | --------------------------- |
-| Forerunner 970    | 2024-05 | 4565 | SYN4778 \* | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-025D75CF-3445-49E1-8D81-1AA74AB4E00F/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-| Forerunner 570 - 47 mm | 2024-05 | 4570 | SYN4778 \* | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-25E3235D-44D2-4384-A591-DD1D71BEBCB1/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-| Forerunner 570 - 42 mm | 2024-05 | 4574 | SYN4778 \* | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-25E3235D-44D2-4384-A591-DD1D71BEBCB1/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-
-\* = suspected
+| Forerunner 970    | 2024-05 | 4565 | SYN4778 | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-025D75CF-3445-49E1-8D81-1AA74AB4E00F/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| Forerunner 570 - 47 mm | 2024-05 | 4570 | SYN4778 | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-25E3235D-44D2-4384-A591-DD1D71BEBCB1/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| Forerunner 570 - 42 mm | 2024-05 | 4574 | SYN4778 | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-25E3235D-44D2-4384-A591-DD1D71BEBCB1/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 
 
 
