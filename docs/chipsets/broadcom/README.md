@@ -29,14 +29,14 @@ This document will list Broadcom's various families of GNSS chipset in reverse-c
 
 | Announced   | Family  | Chipset |                            | Notes                           |
 | ----------- | ------- | ------- | ------------------------------- | ----------- |
-| Sep 2021 | BCM4778 | [BCM4778](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm4778) \* | L1 + L5 | Third generation dual-frequency GNSS receiver |
-| Jan 2020  | BCM4776X | BCM47768 \* | L1 + L5 | Second generation dual-frequency GNSS receiver |
+| Sep 2021 | BCM4778 | [BCM4778](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm4778) \* | L1 + L5 | Third generation dual-frequency GNSS receiver for mobile + wearable devices |
+| Jan 2020  | BCM4776X | BCM47768 \* | L1 + L5 | Second generation dual-frequency GNSS receiver for wearable devices |
 |             |         | [BCM47765](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47765) | L1 + L5 | Second generation dual-frequency GNSS receiver |
-| | | BCM47764 | L1 | Single-frequency GNSS receiver of Apple Watch Series 7 |
+| | | BCM47764 | L1 | Single-frequency GNSS receiver in the Apple Watch Series 7 |
 | | | BCM47762 \* | L1 | Single-frequency GNSS receiver |
-| Sep 2017 | [BCM4775X](https://docs.broadcom.com/docs/12379501) | BCM47758 | L1 + L5 | Single-frequency GNSS receiver, tailored for wearable devices |
+| Sep 2017 | [BCM4775X](https://docs.broadcom.com/docs/12379501) | BCM47758 | L1 + L5 | First generation dual-frequency GNSS receiver for wearable devices |
 |  |  | [BCM47755](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47755) | L1 + L5 | First generation dual-frequency GNSS receiver |
-|  |  | BCM47754 | L1 | Single-frequency GNSS receiver of Apple Watch Series 6 |
+|  |  | BCM47754 | L1 | Single-frequency GNSS receiver in the Apple Watch Series 6 |
 |  |  | BCM47752 | L1 | Single-frequency chipset GNSS receiver |
 
 \* Some Broadcom chipsets are also available from [Synaptics](https://www.synaptics.com/products/wireless#products) - e.g. SYN4778, SYN47768, and SYN47762.
@@ -47,7 +47,8 @@ This document will list Broadcom's various families of GNSS chipset in reverse-c
 
 | Announced   | Family  | Chipset |                            | Notes                           |
 | ----------- | ------- | ------- | ------------------------------- | ----------- |
-| 2 Dec 2014 | BCM4774 | BCM4774 | L1 | GPS, GLONASS, BeiDou, Galileo, QZSS, SBAS |
+| 2 Dec 2014 | BCM4774 | BCM47748 | L1 | GPS, GLONASS, BeiDou, Galileo, QZSS, SBAS, tailored to wearable devices |
+|  |  | BCM4774 | L1 | GPS, GLONASS, BeiDou, Galileo, QZSS, SBAS |
 | Sep 2014 | BCM4773 | BCM47734 | L1 | GPS, GLONASS, BeiDou, QZSS, SBAS |
 |  |  | BCM4773 | L1 | GPS, GLONASS, BeiDou, QZSS, SBAS |
 | Feb 2014 | BCM4771 | BCM4771 | L1 | GPS, GLONASS, BeiDou, QZSS, SBAS |
