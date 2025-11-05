@@ -11,9 +11,7 @@ Date: 5 Nov 2025
 The Broadcom [website](https://www.broadcom.com/products/wireless/gnss-gps-socs) currently lists three generations of dual-frequency GNSS chipsets:
 
 - [BCM4778](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm4778) is Broadcom's third generation dual-frequency L1 + L5 GNSS receiver, announced in Sep 2021
-
 - [BCM47765](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47765) is part of the BCM4776 family supporting L1 + L5, announced in Jan 2020
-
 - [BCM47755](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47755) is part of the BCM4775 family supporting L1 + L5, announced in Sep 2017
 
 The [BCM47531](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47531) is also listed which is an L1 multi-constellation chipset, announced in Dec 2013.
@@ -33,11 +31,11 @@ This document will list Broadcom's various families of GNSS chipset in reverse-c
 | Announced   | Family  | Chipset | Bands | Notes                           |
 | ----------- | ------- | ------- | ------------------------------- | ----------- |
 | Sep 2021 | BCM4778 | [BCM4778](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm4778) \* | L1 + L5 | Third generation dual-frequency GNSS receiver for mobile + wearables |
-| Jan 2020  | BCM4776X | BCM47768 \* | L1 + L5 | Second generation dual-frequency GNSS receiver for wearable devices |
+| Jan 2020  | BCM4776 | BCM47768 \* | L1 + L5 | Second generation dual-frequency GNSS receiver for wearable devices |
 |             |         | [BCM47765](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47765) | L1 + L5 | Second generation dual-frequency GNSS receiver |
 | | | BCM47764 | L1 | Single-frequency GNSS receiver in the Apple Watch Series 7 |
 | | | BCM47762 \* | L1 | Single-frequency GNSS receiver |
-| Sep 2017 | [BCM4775X](https://docs.broadcom.com/docs/12379501) | BCM47758 | L1 + L5 | First generation dual-frequency GNSS receiver for wearable devices |
+| Sep 2017 | [BCM4775](https://docs.broadcom.com/docs/12379501) | BCM47758 | L1 + L5 | First generation dual-frequency GNSS receiver for wearable devices |
 |  |  | [BCM47755](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47755) | L1 + L5 | First generation dual-frequency GNSS receiver |
 |  |  | BCM47754 | L1 | Single-frequency GNSS receiver in the Apple Watch Series 6 |
 |  |  | BCM47752 | L1 | Single-frequency chipset GNSS receiver |
@@ -50,12 +48,12 @@ This document will list Broadcom's various families of GNSS chipset in reverse-c
 
 | Announced   | Family  | Chipset | Notes                           |
 | ----------- | ------- | ------- | ----------- |
-| 2 Dec 2014 | BCM4774 | BCM47748 | GPS, GLONASS, BeiDou, Galileo, QZSS, tailored to wearable devices |
+| Sep 2015 | BCM4774 | BCM47748 | GPS, GLONASS, BeiDou, Galileo, QZSS, tailored to wearable devices |
 |  |  | BCM4774 | GPS, GLONASS, BeiDou, Galileo, QZSS |
 | Sep 2014 | BCM4773 | BCM47734 | GPS, GLONASS, BeiDou, QZSS |
 |  |  | BCM4773 | GPS, GLONASS, BeiDou, QZSS |
 | Feb 2014 | BCM4771 | BCM4771 | GPS, GLONASS, BeiDou, QZSS |
-| Dec 2013 | BCM47531 | [BCM47531](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47531) | Fourth-generation multi-constellation GNSS receiver<br />GPS, GLONASS, BeiDou, QZSS |
+| Dec 2013 | BCM4753 | [BCM47531](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47531) | Fourth-generation multi-constellation GNSS receiver<br />GPS, GLONASS, BeiDou, QZSS |
 | Mar 2012 | BCM4752 | BCM4752 | Third-generation multi-constellation GNSS receiver<br />GPS, GLONASS, QZSS |
 | Oct 2010 | BCM4751 | BCM47511 | GPS, GLONASS, QZSS |
 |  |  | BCM4751 | GPS, QZSS |
@@ -104,9 +102,9 @@ The [BCM47765](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47765
 
 The BCM47765 appears in several Google Pixel products, including:
 
-- [Google Pixel 8 and 8 Pro](https://www.reddit.com/r/GooglePixel/comments/1b57att/can_anyone_who_has_pixel_8_or_pixel_8_pro_do_a/) released Oct 2023
-- [Google Pixel Watch](https://www.phonearena.com/news/report-reveals-bill-of-materials-cost-pixel-watch_id145978) released in Oct 2022
-- [Google Pixel 6](https://www.techinsights.com/blog/teardown/google-pixel-6-pro-teardown) released Oct 2021
+- [Google Pixel 8 and 8 Pro](https://www.reddit.com/r/GooglePixel/comments/1b57att/can_anyone_who_has_pixel_8_or_pixel_8_pro_do_a/) - Oct 2023
+- [Google Pixel Watch](https://www.phonearena.com/news/report-reveals-bill-of-materials-cost-pixel-watch_id145978) - Oct 2022
+- [Google Pixel 6](https://www.techinsights.com/blog/teardown/google-pixel-6-pro-teardown) - Oct 2021
 
 Synaptics may produce and sell the BCM47765, but calling it the [SYN47765](https://www.edomtech.com/en/product-detail/synaptics-gps-gnss-solutions/).
 
@@ -126,9 +124,9 @@ The BCM47762 is a single-frequency GNSS chipset supporting GPS, GLONASS, BeiDou,
 
 Several watches use the BCM47762, including:
 
-- [Kuzo Pro Sports Watch](https://www.sportpursuit.com/catalog/product/view/id/4629700/)
-- [Amazfit Active/Pink/Sport Band/Petal Pink](https://gear-up.me/amazfit-active-pink-sport-band-petal-pink.html) released in Feb 2024
-- [AGM watch legion](https://www.ebay.com/itm/316250572709) released in Feb 2025
+- [Veho Kuzo Pro Sports Watch](https://www.sportpursuit.com/catalog/product/view/id/4629700/)
+- [Amazfit Active/Pink/Sport Band/Petal Pink](https://gear-up.me/amazfit-active-pink-sport-band-petal-pink.html) - Feb 2024
+- [AGM watch legion](https://www.ebay.com/itm/316250572709) - Feb 2025
 
 Synaptics currently produce and sell the BCM47762, but it is called the [SYN47762](https://www.synaptics.com/products/wireless#products).
 
@@ -142,7 +140,7 @@ There are 4 different chipsets in the BCM4775X family - BCM47758 + BCM47755 (dua
 
 The BCM47752 and BCM47755 are both mentioned in the article [Dual-frequency GNSS on Android devices](https://barbeau.medium.com/dual-frequency-gnss-on-android-devices-152b8826e1c) by Sean Barbeau in Apr 2018.
 
-The [GPSTest Database](https://barbeau.medium.com/implementing-the-gpstest-database-a-serverless-architecture-c61a2084965) shows the BCM4775 in various Android phones:
+The [GPSTest Database](https://barbeau.medium.com/implementing-the-gpstest-database-a-serverless-architecture-c61a2084965) shows the BCM4775 in various Android phones and tablets:
 
 - Samsung Galaxy XCover FieldPro
 - Samsung Galaxy S9, Galaxy S9+
@@ -172,14 +170,14 @@ The [BCM47755](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47755
 
 The BCM47755 is used in the Quectel LC29D(C) module, detailed in the [specification](https://www.mouser.com/datasheet/2/1052/Quectel_LC29D_GNSS_Specification_V1_2-3009875.pdf) document has a 1 Hz update rate. It can also be found in the Quectel LC79D, detailed in a [product overview](https://sisoog.com/wp-content/uploads/2021/03/Quectel_GNSS_Module_Product_Overview_V3.2-1.pdf) and [product brochure](https://market.quectel.com/wp-content/uploads/custom/pdf/Quectel_Product_Brochure_CN_V6.7.pdf).
 
-The BCM47755 appears in several Android phones and watches, including:
+The BCM47755 appears in several Android phones, tablets, and watches:
 
-- [Google Pixel 4](https://pubmed.ncbi.nlm.nih.gov/34960412/)
-- [Samsung Galaxy S20 (Exynos)](https://pubmed.ncbi.nlm.nih.gov/34960412/)
-- Samsung Galaxy S21 (Exynos)
-- [Samsung Galaxy Note 10](https://barbeau.medium.com/dual-frequency-gnss-on-android-devices-152b8826e1c)
-- [Samsung Galaxy Watch3](https://www.ifixit.com/Teardown/Samsung+Galaxy+Watch3+Teardown/135891)
-- [Xiaomi Mi 8](https://barbeau.medium.com/dual-frequency-gnss-on-android-devices-152b8826e1c)
+- [Google Pixel 4](https://pubmed.ncbi.nlm.nih.gov/34960412/) - Oct 2019
+- [Samsung Galaxy Note 10](https://barbeau.medium.com/dual-frequency-gnss-on-android-devices-152b8826e1c) - Aug 2019
+- [Samsung Galaxy S20 (Exynos)](https://pubmed.ncbi.nlm.nih.gov/34960412/) - Mar 2020
+- Samsung Galaxy S21 (Exynos) - Jan 2021
+- [Samsung Galaxy Watch 3](https://www.ifixit.com/Teardown/Samsung+Galaxy+Watch3+Teardown/135891) - Aug 2020
+- [Xiaomi Mi 8](https://barbeau.medium.com/dual-frequency-gnss-on-android-devices-152b8826e1c) - Jun 2018
 
 Synaptics may produce and sell the BCM47755, but it calling it the [SYN47755](https://www.edomtech.com/en/product-detail/synaptics-gps-gnss-solutions/).
 
@@ -197,8 +195,62 @@ The BCM47752 is a single-frequency GNSS chipset supporting GPS, GLONASS, BeiDou,
 
 Several Samsung phones use the BCM47752, including:
 
-- [Samsung Galaxy S9 (Exynos)](https://www.techinsights.com/blog/samsung-galaxy-s9-teardown)
-- [Samsung Galaxy S10 (Exynos)](https://www.techinsights.com/blog/samsung-galaxy-s10-teardown)
-- [Samsung Galaxy Note 9](https://barbeau.medium.com/dual-frequency-gnss-on-android-devices-152b8826e1c)
+- [Samsung Galaxy S9 (Exynos)](https://www.techinsights.com/blog/samsung-galaxy-s9-teardown) - Mar 2018
+- [Samsung Galaxy Note 9](https://barbeau.medium.com/dual-frequency-gnss-on-android-devices-152b8826e1c) - Aug 2018
+- [Samsung Galaxy S10 (Exynos)](https://www.techinsights.com/blog/samsung-galaxy-s10-teardown) - Feb 2019
 
 Synaptics may produce and sell the BCM47752, but it calling it the [SYN47752](https://www.edomtech.com/en/product-detail/synaptics-gps-gnss-solutions/).
+
+
+
+### BCM4774 - Sep 2015
+
+The BCM4773 is a single-frequency GNSS chipset supporting GPS, GLONASS, BeiDou, Galileo, and QZSS.
+
+The [GPSTest Database](https://barbeau.medium.com/implementing-the-gpstest-database-a-serverless-architecture-c61a2084965) shows the BCM4774 in various Samsung phones and tablets:
+
+- Samsung Galaxy S7 (Exynos)
+- Samsung Galaxy S8 (Exynos)
+- Samsung Galaxy S8+ (Exynos)
+- Samsung Galaxy Note8 (Exynos)
+
+#### BCM47748
+
+The BCM47748 was announced on 17 Sep 2015 in [GPSWorld](https://www.gpsworld.com/broadcom-offers-new-gnss-chip-for-internet-of-things/).
+
+It was a new GNSS chip for Internet of Things (IoT) and wearable devices that simplified integration of GNSS into low-cost products.
+
+#### BCM4774
+
+The BCM4774 was announced on 2 Sep 2014 in [PR Newswire](https://www.prnewswire.com/news-releases/broadcom-announces-industrys-first-gnss-location-hub-for-smartphones-to-support-galileo-satellite-system-300002834.html) and on 7 Jan 2015 in [GPSWorld](https://www.gpsworld.com/all-constellation-receiver-gnss-location-hub-for-smartphones-with-galileo-support/), adding support for Galileo.
+
+The BCM4774 appears in several Samsung phones and watches, including:
+
+- [Samsung Gear Fit 2 Pro](https://www.techinsights.com/blog/samsung-gear-fit-2-pro-fitness-band-teardown) - Jun 2016
+- [Samsung Galaxy S7](https://www.researchgate.net/publication/309645977_Precise_GNSS_for_Everyone_Precise_Positioning_Using_Raw_GPS_Measurements_from_Android_Smartphones) (Exynos) - Jun 2016
+
+
+
+### BCM4773 - Sep 2014
+
+The BCM4773 is a single-frequency GNSS chipset supporting GPS, GLONASS, BeiDou, and QZSS.
+
+#### BCM47734
+
+The BCM47734 appeared in the iPhone 7, clearly shown in a teardown by [Tech Insights](https://www.techinsights.com/blog/apple-iphone-7-teardown).
+
+
+
+#### BCM4773
+
+The BCM4773 was announced on 10 Sep 2014 in [PR Newswire](https://www.prnewswire.com/news-releases/broadcom-announces-industrys-first-global-navigation-and-sensor-hub-combo-chip-274588761.html) and in [GPSWorld](https://www.gpsworld.com/new-broadcom-chip-always-on-location-and-sensing-for-mobile-applications/).
+
+It was used in the Samsung Galaxy S6 (Exynos), visible in teardowns on [iFixit](https://ko.ifixit.com/Teardown/Samsung+Galaxy+S6+Teardown/39174) and [TechInsights](https://www.techinsights.com/blog/samsung-galaxy-s6-teardown).
+
+
+
+### BCM4771 - Feb 2014
+
+The Broadcom BCM4771 GNSS SoC is designed for low-power, mass-market wearable devices.
+
+It was announced on 20 Feb 2014 in [GPSWorld](https://www.gpsworld.com/broadcom-location-chip-for-wearables-uses-less-power/) and on 24 Feb 2014 in [Electronic Specifier](https://www.electronicspecifier.com/industries/wireless/the-industry-s-first-gnss-soc-for-wearable-devices/).
