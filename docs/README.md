@@ -28,4 +28,5 @@ This repository contains information and observations relating to specific GPS /
 
 ### Chipsets
 
+- [Broadcom](chipsets/broadcom/README.md)
 - [MediaTek](chipsets/mediatek/README.md)
