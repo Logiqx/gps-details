@@ -16,9 +16,9 @@ The Broadcom [website](https://www.broadcom.com/products/wireless/gnss-gps-socs)
 
 The [BCM47531](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47531) is also listed which is an L1 multi-constellation chipset, announced in Dec 2013.
 
-In addition to the four chipsets already mentioned, various other GNSS chipsets / families have been released over the years.
+In addition to the four chipsets already mentioned, various other GNSS chipsets / families have been released over the years. Broadcom GNSS chipsets have been used by Apple, Samsung, Google, and Xiaomi as well as numerous budget watch brands.
 
-Since mid-2020, Synaptics have been producing chipsets such as the SYN4778, after [acquiring certain assets](https://www.globenewswire.com/news-release/2020/07/07/2058930/0/en/Synaptics-to-Acquire-Rights-to-Broadcom-s-Wireless-IoT-Connectivity-Business.html) from Broadcom.
+Since mid-2020, Synaptics have also been producing chipsets such as the SYN4778, after [acquiring certain assets](https://www.globenewswire.com/news-release/2020/07/07/2058930/0/en/Synaptics-to-Acquire-Rights-to-Broadcom-s-Wireless-IoT-Connectivity-Business.html) from Broadcom. The SYN4778 (aka BCM4778) has since been identified in recent Garmin watches, starting with the fēnix 8.
 
 This document will list Broadcom's various families of GNSS chipset in reverse-chronological order.
 
