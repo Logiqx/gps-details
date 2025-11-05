@@ -29,7 +29,7 @@ This document will list Broadcom's various families of GNSS chipset in reverse-c
 
 | Announced   | Family  | Chipset |                            | Notes                           |
 | ----------- | ------- | ------- | ------------------------------- | ----------- |
-| Sep 2021 | BCM4778 | [BCM4778](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm4778) \* | L1 + L5 | Third generation dual-frequency GNSS receiver for mobile + wearable devices |
+| Sep 2021 | BCM4778 | [BCM4778](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm4778) \* | L1 + L5 | Third generation dual-frequency GNSS receiver for mobile + wearables |
 | Jan 2020  | BCM4776X | BCM47768 \* | L1 + L5 | Second generation dual-frequency GNSS receiver for wearable devices |
 |             |         | [BCM47765](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47765) | L1 + L5 | Second generation dual-frequency GNSS receiver |
 | | | BCM47764 | L1 | Single-frequency GNSS receiver in the Apple Watch Series 7 |
@@ -47,15 +47,15 @@ This document will list Broadcom's various families of GNSS chipset in reverse-c
 
 | Announced   | Family  | Chipset |                            | Notes                           |
 | ----------- | ------- | ------- | ------------------------------- | ----------- |
-| 2 Dec 2014 | BCM4774 | BCM47748 | L1 | GPS, GLONASS, BeiDou, Galileo, QZSS, SBAS, tailored to wearable devices |
-|  |  | BCM4774 | L1 | GPS, GLONASS, BeiDou, Galileo, QZSS, SBAS |
-| Sep 2014 | BCM4773 | BCM47734 | L1 | GPS, GLONASS, BeiDou, QZSS, SBAS |
-|  |  | BCM4773 | L1 | GPS, GLONASS, BeiDou, QZSS, SBAS |
-| Feb 2014 | BCM4771 | BCM4771 | L1 | GPS, GLONASS, BeiDou, QZSS, SBAS |
-| Dec 2013 | BCM47531 | [BCM47531](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47531) | L1 | Fourth-generation multi-constellation GNSS receiver<br />GPS, GLONASS, BeiDou, QZSS, SBAS |
-| Mar 2012 | BCM4752 | BCM4752 | L1 | Third-generation multi-constellation GNSS receiver<br />GPS, GLONASS, QZSS, SBAS |
-| Oct 2010 | BCM4751 | BCM47511 | L1 | GPS, GLONASS, QZSS, SBAS |
-|  |  | BCM4751 | L1 | GPS, QZSS, SBAS |
+| 2 Dec 2014 | BCM4774 | BCM47748 | L1 | GPS, GLONASS, BeiDou, Galileo, QZSS, tailored to wearable devices |
+|  |  | BCM4774 | L1 | GPS, GLONASS, BeiDou, Galileo, QZSS |
+| Sep 2014 | BCM4773 | BCM47734 | L1 | GPS, GLONASS, BeiDou, QZSS |
+|  |  | BCM4773 | L1 | GPS, GLONASS, BeiDou, QZSS |
+| Feb 2014 | BCM4771 | BCM4771 | L1 | GPS, GLONASS, BeiDou, QZSS |
+| Dec 2013 | BCM47531 | [BCM47531](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47531) | L1 | Fourth-generation multi-constellation GNSS receiver<br />GPS, GLONASS, BeiDou, QZSS |
+| Mar 2012 | BCM4752 | BCM4752 | L1 | Third-generation multi-constellation GNSS receiver<br />GPS, GLONASS, QZSS |
+| Oct 2010 | BCM4751 | BCM47511 | L1 | GPS, GLONASS, QZSS |
+|  |  | BCM4751 | L1 | GPS, QZSS |
 | Jan 2008 | BCM4750 | BCM4750 | L1 | GPS |
 
 
