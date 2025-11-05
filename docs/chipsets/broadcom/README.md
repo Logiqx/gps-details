@@ -55,13 +55,16 @@ Each GNSS chipset family has a separate page, accessible via clickable links.
 | Sep 2014 | [BCM4773](bcm-4773.md) | BCM47734 | GPS, GLONASS, BeiDou, QZSS |
 |  |  | BCM4773 | GPS, GLONASS, BeiDou, QZSS |
 | Feb 2014 | [BCM4771](bcm-4771.md) | BCM4771 | GPS, GLONASS, BeiDou, QZSS |
-| Dec 2013 | BCM4753 | [BCM47531](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47531) | Fourth-generation multi-constellation GNSS receiver<br />GPS, GLONASS, BeiDou, QZSS |
-| Mar 2012 | BCM4752 | BCM4752 | Third-generation multi-constellation GNSS receiver<br />GPS, GLONASS, QZSS |
-| Oct 2010 | BCM4751 | BCM47511 | GPS, GLONASS, QZSS |
+| Dec 2013 | [BCM4753](bcm-4753.md) | [BCM47531](https://www.broadcom.com/products/wireless/gnss-gps-socs/bcm47531) | Fourth-generation multi-constellation GNSS receiver<br />GPS, GLONASS, BeiDou, QZSS |
+| Mar 2012 | [BCM4752](bcm-4752.md) | BCM4752 | Third-generation multi-constellation GNSS receiver<br />GPS, GLONASS, QZSS |
+| Oct 2010 | [BCM4751](bcm-4751.md) | BCM47511 | GPS, GLONASS, QZSS |
 |  |  | BCM4751 | GPS, QZSS |
-| Jan 2008 | BCM4750 | BCM4750 | GPS |
+| Jan 2008 | [BCM4750](bcm-4750.md) | BCM4750 | GPS |
 
 
 
+#### PND-on-a-chip
 
+The [BCM4760](https://www.alldatasheet.com/datasheet-pdf/download/1756395/BOARDCOM/BCM4760.html) was announced on 6 Jan 2010 at [EDN](https://www.edn.com/broadcom-demonstrates-androidtm-and-windows-cer-running-on-advanced-navigation-processor/) and [Linux Devices](https://linuxdevices.org/pnd-on-a-chip-gets-android-support/), but should not be confused with the other GNSS receivers.
 
+It was an entire Personal Navigation System-on-Chip solution, running an embedded Linux / Android / WinCE operating system.
