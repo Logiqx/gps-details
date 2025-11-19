@@ -24,58 +24,67 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 
 All of these watches include native windsurfing / kiteboarding activities, but [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is strongly recommended.
 
-| Series                  | Model                        | Brand     | Multi-Band |
-| ----------------------- | ---------------------------- | --------- | :--------: |
-| [fēnix](fenix.md)       | fēnix 8 Pro - MicroLED       | Synaptics |     Y      |
-|  | fēnix 8 Pro - AMOLED         | Synaptics |     Y      |
-|                         | fēnix 8 - AMOLED             | Synaptics |     Y      |
-|  | fēnix 8 - Solar Sapphire | Synaptics | Y |
-|                         | fēnix E                      | Airoha |     -      |
-|                         | fēnix 7 Pro - Sapphire Solar | Airoha    |     Y      |
-|                         | fēnix 7 Pro - Solar      | Airoha    |     Y      |
-|                         | fēnix 7 - Sapphire Solar     | Airoha    |     Y      |
-|                         | fēnix 7 - Solar              | Airoha    |     -      |
-|                         | fēnix 7                      | Airoha    |     -      |
-| [epix](epix.md)         | epix Pro (Gen 2) - Sapphire  | Airoha    |     Y      |
-|                         | epix Pro (Gen 2)             | Airoha    |     Y      |
-|                         | epix (Gen 2) - Sapphire      | Airoha    |     Y      |
-|                         | epix (Gen 2)                 | Airoha    |     -      |
-| [quatix](quatix.md)     | quatix 8                     | Synaptics |     Y      |
-|  | quatix 7 - Pro | Airoha | Y |
-|                         | quatix 7 - Sapphire          | Airoha    |     Y      |
-|                         | quatix 7X - Solar            | Airoha    |     -      |
-|                         | quatix 7                     | Airoha    |     -      |
-| [tactix](tactix.md)     | tactix 8 - Solar             | Synaptics |     Y      |
-|                         | tactix 8 - AMOLED            | Synaptics |     Y      |
-|                         | tactix 7 - AMOLED            | Airoha    |     Y      |
-|                         | tactix 7 - Pro               | Airoha    |     -      |
-|                         | tactix 7                     | Airoha    |     -      |
-| [Enduro](enduro.md)         | Enduro 3       | Synaptics |     Y      |
-|                             | Enduro 2       | Airoha    |     Y      |
-| [D2](d2.md)             | D2 Mach 2                    | Synaptics |     Y      |
-|  | D2 Mach 1 Pro | Airoha | Y |
-|                         | D2 Mach 1                    | Airoha    |     Y      |
+| Series                  | Model                        | Brand     | Multi-Band | Recommended |
+| ----------------------- | ---------------------------- | --------- | :--------: | :--------: |
+| [fēnix](fenix.md)       | fēnix 8 Pro - MicroLED       | Synaptics |     Y      | - |
+|  | fēnix 8 Pro - AMOLED         | Synaptics |     Y      | - |
+|                         | fēnix 8 - AMOLED             | Synaptics |     Y      | - |
+|  | fēnix 8 - Solar Sapphire | Synaptics | Y | - |
+|                         | fēnix E                      | Airoha |     -      | - |
+|                         | fēnix 7 Pro - Sapphire Solar | Airoha    |     Y      | Y |
+|                         | fēnix 7 Pro - Solar      | Airoha    |     Y      | Y |
+|                         | fēnix 7 - Sapphire Solar     | Airoha    |     Y      | Y |
+|                         | fēnix 7 - Solar              | Airoha    |     -      | - |
+|                         | fēnix 7                      | Airoha    |     -      | - |
+| [epix](epix.md)         | epix Pro (Gen 2) - Sapphire  | Airoha    |     Y      | Y |
+|                         | epix Pro (Gen 2)             | Airoha    |     Y      | Y |
+|                         | epix (Gen 2) - Sapphire      | Airoha    |     Y      | Y |
+|                         | epix (Gen 2)                 | Airoha    |     -      | - |
+| [quatix](quatix.md)     | quatix 8                     | Synaptics |     Y      | - |
+|  | quatix 7 - Pro | Airoha | Y | Y |
+|                         | quatix 7 - Sapphire          | Airoha    |     Y      | Y |
+|                         | quatix 7X - Solar            | Airoha    |     -      | - |
+|                         | quatix 7                     | Airoha    |     -      | - |
+| [tactix](tactix.md)     | tactix 8 - Solar             | Synaptics |     Y      | - |
+|                         | tactix 8 - AMOLED            | Synaptics |     Y      | - |
+|                         | tactix 7 - AMOLED            | Airoha    |     Y      | Y |
+|                         | tactix 7 - Pro               | Airoha    |     -      | - |
+|                         | tactix 7                     | Airoha    |     -      | - |
+| [Enduro](enduro.md)         | Enduro 3       | Synaptics |     Y      | - |
+|                             | Enduro 2       | Airoha    |     Y      | - |
+| [D2](d2.md)             | D2 Mach 2                    | Synaptics |     Y      | - |
+|  | D2 Mach 1 Pro | Airoha | Y | Y |
+|                         | D2 Mach 1                    | Airoha    |     Y      | Y |
+
+The fēnix 8 (and its variants) have yet to be fully tested and verified, but please get in touch if you can help.
 
 
+#### 
 
 #### Rugged - other ranges
 
 All of these watches include native windsurfing / kiteboarding activities, but [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is strongly recommended.
 
-| Series                      | Model          | Brand     | Multi-Band |
-| --------------------------- | -------------- | --------- | :--------: |
-| [Instinct](instinct.md) | Instinct Crossover AMOLED - Tactical | Airoha \* | Y |
-|  | Instinct Crossover AMOLED | Airoha \* | Y |
-|  | Instinct 3 - AMOLED, Tactical | Airoha    |     Y      |
-|                         | Instinct 3 - Solar, Tactical | Airoha    |     Y      |
-|                         | Instinct 3 - AMOLED          | Airoha    |     Y      |
-|                         | Instinct 3 - Solar           | Airoha    |     Y      |
-|                         | Instinct E                   | Airoha    |     -      |
-| [Descent](descent.md)   | Descent G2                   | Airoha |     -      |
-|                         | Descent Mk3i                 | Airoha    |     Y      |
-|                         | Descent Mk3                  | Airoha    |     Y      |
+| Series                      | Model          | Brand     | Multi-Band | Recommended |
+| --------------------------- | -------------- | --------- | :--------: | :--------: |
+| [Instinct](instinct.md) | Instinct Crossover AMOLED - Tactical | Airoha <sup>[1]</sup> | Y | - |
+|  | Instinct Crossover AMOLED | Airoha <sup>[1]</sup> | Y | - |
+|  | Instinct 3 - AMOLED, Tactical | Airoha    |     Y      | Y |
+|                         | Instinct 3 - Solar, Tactical | Airoha    |     Y      | Y |
+|                         | Instinct 3 - AMOLED          | Airoha    |     Y      | Y |
+|                         | Instinct 3 - Solar           | Airoha    |     Y      | Y |
+|                         | Instinct E                   | Airoha    |     -      | Y <sup>[2]</sup> |
+| | Instinct 2X | Airoha | Y | N <sup>[3]</sup> |
+| | Instinct Crossover | Airoha | - | N <sup>[3]</sup> |
+| [Descent](descent.md)   | Descent G2                   | Airoha |     -      | - |
+|                         | Descent Mk3i                 | Airoha    |     Y      | - |
+|                         | Descent Mk3                  | Airoha    |     Y      | - |
 
-\* = suspected
+Notes:
+
+1. Instinct Crossover AMOLED is assumed to use the same GNSS chipset as the Instinct 3.
+2. Instinct E is potentially a good low-cost option for people who do not participate on GPS-Speedsurfing.
+3. Instinct 2X and Instinct Crossover both have a firmware issue affecting the speeds being recorded.
 
 
 
@@ -83,16 +92,21 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 
 None of these watches include native windsurfing / kiteboarding activities, so [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is recommended.
 
-| Series                      | Model          | Brand     | Multi-Band |
-| --------------------------- | -------------- | --------- | :--------: |
-| [Forerunner](forerunner.md) | Forerunner 970 | Synaptics |     Y      |
-|                             | Forerunner 570 | Synaptics |     Y      |
-|                             | Forerunner 165 | Airoha    |     -      |
-|                             | Forerunner 965 | Airoha    |     Y      |
-|                             | Forerunner 265 | Airoha    |     Y      |
-|                             | Forerunner 955 | Airoha    |     Y      |
-|                             | Forerunner 255 | Airoha    |     Y      |
+| Series                      | Model          | Brand     | Multi-Band | Recommended |
+| --------------------------- | -------------- | --------- | :--------: | :--------: |
+| [Forerunner](forerunner.md) | Forerunner 970 | Synaptics |     Y      | - |
+|                             | Forerunner 570 | Synaptics |     Y      | - |
+|                             | Forerunner 165 | Airoha    |     -      | Y <sup>[1]</sup> |
+|                             | Forerunner 965 | Airoha    |     Y      | Y |
+|                             | Forerunner 265 | Airoha    |     Y      | Y |
+|                             | Forerunner 955 | Airoha    |     Y      | Y |
+|                             | Forerunner 255 | Airoha    |     Y      | Y |
 
+The Forerunner 570 + 970 have yet to be fully tested and verified, but please get in touch if you can help.
+
+Notes:
+
+1. The Forerunner 165 is potentially a good low-cost option for people who do not participate on GPS-Speedsurfing.
 
 
 
@@ -100,14 +114,22 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 
 None of these watches include native windsurfing / kiteboarding activities, so [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is recommended.
 
-| Series                      | Model        | Brand     | Multi-Band |
-| --------------------------- | ------------ | --------- | :--------: |
-| [vívoactive](vivoactive.md) | vívoactive 6 | TBC       |     -      |
-|                             | vívoactive 5 | Airoha    |     -      |
-| [Venu](venu.md)             | Venu 4       | Synaptics |     Y      |
-|                             | Venu X1      | TBC       |     -      |
-|                             | Venu 3       | Airoha    |     -      |
-| [D2](d2.md)                 | D2 Air X15   | Synaptics |     Y      |
+| Series                      | Model        | Brand     | Multi-Band |   Recommended    |
+| --------------------------- | ------------ | --------- | :--------: | :--------------: |
+| [vívoactive](vivoactive.md) | vívoactive 6 | TBC       |     -      |        -         |
+|                             | vívoactive 5 | Airoha    |     -      | N <sup>[1]</sup> |
+| [Venu](venu.md)             | Venu 4       | Synaptics |     Y      |        -         |
+|                             | Venu X1      | Synaptics |     -      |        -         |
+|                             | Venu 3       | Airoha    |     -      | N <sup>[1]</sup> |
+|                             | Venu Sq 2    | Airoha    |     -      | N <sup>[2]</sup> |
+| [D2](d2.md)                 | D2 Air X15   | Synaptics |     Y      |        -         |
+
+The reliance on a touchscreen makes the vívoactive and Venu difficult to operate when the watch (or hands) are wet.
+
+Notes:
+
+1. vívoactive 5 and Venu 3 do not perform nearly so well as other Garmin watches with an Airoha chipset.
+2. Venu Sq 2 has a firmware issue affecting the speeds being recorded.
 
 
 
