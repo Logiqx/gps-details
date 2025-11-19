@@ -59,7 +59,7 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 The fēnix 8 (and its variants) have yet to be fully tested and verified, but please get in touch if you can help.
 
 
-#### 
+
 
 #### Rugged - other ranges
 
