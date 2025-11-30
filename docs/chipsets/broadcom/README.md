@@ -2,7 +2,9 @@
 
 Author: Michael George
 
-Date: 5 Nov 2025
+Date created: 5 Nov 2025
+
+Last updated: 18 Nov 2025
 
 
 
@@ -35,11 +37,11 @@ Each GNSS chipset family has a separate page, accessible via clickable links.
 | Sep 2021 | [BCM4778](bcm-4778.md) | BCM4778 | L1 + L5 | Third generation dual-frequency GNSS receiver for mobile + wearables |
 | Jan 2020  | [BCM4776](bcm-4776.md) | BCM47768 | L1 + L5 | Second generation dual-frequency GNSS receiver for wearable devices |
 |             |         | BCM47765 | L1 + L5 | Second generation dual-frequency GNSS receiver |
-| | | BCM47764 | L1 | Single-frequency GNSS receiver in the Apple Watch Series 7 |
+| | | BCM47764 | L1 | GNSS receiver in the Apple Watch Series 7 |
 | | | BCM47762 | L1 | Single-frequency GNSS receiver |
 | Sep 2017 | [BCM4775](bcm-4775.md) | BCM47758 | L1 + L5 | First generation dual-frequency GNSS receiver for wearable devices |
 |  |  | BCM47755 | L1 + L5 | First generation dual-frequency GNSS receiver |
-|  |  | BCM47754 | L1 | Single-frequency GNSS receiver in the Apple Watch Series 6 |
+|  |  | BCM47754 | L1 | GNSS receiver in the Apple Watch Series 6 |
 |  |  | BCM47752 | L1 | Single-frequency chipset GNSS receiver |
 
 Note: Some equivalent chipsets are also available from [Synaptics](https://www.synaptics.com/products/wireless#products) - e.g. SYN4778, SYN47768, and SYN47762.
@@ -52,7 +54,7 @@ Note: Some equivalent chipsets are also available from [Synaptics](https://www.s
 | ----------- | ------- | ------- | ----------- |
 | Sep 2015 | [BCM4774](bcm-4774.md) | BCM47748 | GNSS chip for Internet of Things and wearable devices<br />GPS, GLONASS, BeiDou, Galileo, QZSS |
 | Sep 2014 |  | BCM4774 | Second-generation GNSS location hub<br />PS, GLONASS, BeiDou, Galileo, QZSS |
-| ? | [BCM4773](bcm-4773.md) | BCM47734 | First-generation GNSS location hub<br />GPS, GLONASS, BeiDou, QZSS |
+| ? | [BCM4773](bcm-4773.md) | BCM47734 | First-generation GNSS receiver in the Apple Watch Series 2<br />GPS, GLONASS, BeiDou, QZSS |
 | Sep 2014 |  | BCM4773 | First-generation GNSS location hub<br />GPS, GLONASS, BeiDou, QZSS |
 | Feb 2014 | [BCM4771](bcm-4771.md) | BCM4771 | First-generation GNSS receiver for fitness wearables<br />GPS, GLONASS, BeiDou, QZSS |
 | Dec 2013 | [BCM4753](bcm-4753.md) | BCM47531 | Fourth-generation multi-constellation GNSS receiver<br />GPS, GLONASS, BeiDou, QZSS |
