@@ -41,7 +41,7 @@ Each GNSS chipset family has a separate page, accessible via clickable links.
 | | | BCM47762 | L1 | Single-frequency GNSS receiver |
 | Sep 2017 | [BCM4775](bcm-4775.md) | BCM47758 | L1 + L5 | First generation dual-frequency GNSS receiver for wearable devices |
 |  |  | BCM47755 | L1 + L5 | First generation dual-frequency GNSS receiver |
-|  |  | BCM47754 | L1 | GNSS receiver in the Apple Watch Series 6 |
+|  |  | BCM47754 | L1 | GNSS receiver in the Apple Watch Series 5, Series 6, and SE |
 |  |  | BCM47752 | L1 | Single-frequency chipset GNSS receiver |
 
 Note: Some equivalent chipsets are also available from [Synaptics](https://www.synaptics.com/products/wireless#products) - e.g. SYN4778, SYN47768, and SYN47762.
