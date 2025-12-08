@@ -63,10 +63,10 @@ The SiP in the Apple Watch Series 5 is slightly different to the Apple Watch SE,
 
 ### Links
 
-- [Teardown](https://mp.ofweek.com/mobile/a145683228896) - eWiseTech, 11 Nov 2019
+- [Teardown](https://mp.ofweek.com/mobile/a145683228896) - eWisetech, 11 Nov 2019
   - Decapsulated SiP from inside the 40mm GPS + cellular version
 - [Bill of materials](https://www.sohu.com/a/351924885_166680) - Jiwei.com, 6 Nov 2019
-  - Same photos as the eWiseTech teardown, but higher resolution
+  - Same photos as the eWisetech teardown, but higher resolution
 - [Teardown](https://www.ifixit.com/Teardown/Apple+Watch+Series+5+Teardown/126205) - iFixit, 9 Oct 2019
   - Clear photos but no decapsulation and ICs on the outside of the SiP are unidentified
 - [Apple Watch Series 5 40mm Teardown](https://youtu.be/1y3j0cDNOvw?t=789) - svetnovinek.cz, 18 Mar 2024
@@ -77,6 +77,6 @@ The SiP in the Apple Watch Series 5 is slightly different to the Apple Watch SE,
   - DIY instructions how to convert Apple Watch SE to Apple Watch 5 replacing motherboard
 - [Apple Watch Series 6 evolution](https://www.reverse-costing.com/teardown-notes/apple-watch-series-6-evolution/) - Reverse Costing (Yole Group), 20 Oct 2020
   - "The similarities between the series are much more numerous... Broadcom... GPS chips"
-- [Changes in the Apple Watch](https://www.sohu.com/a/437646820_120062023) - eWiseTech, 11 Dec 2020
+- [Changes in the Apple Watch](https://www.sohu.com/a/437646820_120062023) - eWisetech, 11 Dec 2020
   - Summary of changes from Series 1 to Series 5
 

@@ -24,12 +24,12 @@ The baseband processor in the cellular version of the S3 is the Qualcomm MDM9635
 
 #### Apple Watch Series 3 (non-cellular)
 
-The [eWisetech](https://www.sohu.com/a/437646820_120062023) image of the non-cellular SiP allows two Broadcom chips to be identified, after adjusting the brightness and contrast:
+The [eWisetech](https://www.sohu.com/a/437646820_120062023) image of the non-cellular SiP allows two Broadcom chips to be easily identified, after adjusting the brightness and contrast:
 
 - BCM59356 - Wireless Charging Power Management Integrated Circuit (PMIC)
 - BCM15920 - Custom Sensing Application-Specific Integrated Circuit (ASIC)
 
-The large silver component to the left of the Apple S1 (highlighted in blue) may be the GNSS chip. It is a similar size and shape to the Broadcom GNSS chips seen in the [Apple Watch Series 4](series-4.md), [Apple Watch Series 5](series-5.md), and [Apple Watch SE](se-1.md).
+The large silver component (red) to the left of the Apple S1 (blue) could be the GNSS chip. It is a similar size and shape to the Broadcom GNSS chips seen in the [Apple Watch Series 4](series-4.md), [Apple Watch Series 5](series-5.md), and [Apple Watch SE](se-1.md).
 
 ![series-3-gps-back-alt](img/series-3-gps-back-alt.jpg)
 
@@ -59,7 +59,7 @@ Another possibility is that the [Apple W2 chip](https://www.techinsights.com/pro
 
 ### Links
 
-- [Teardown](https://www.sohu.com/a/437646820_120062023) - eWiseTech, 11 Dec 2020
+- [Teardown](https://www.sohu.com/a/437646820_120062023) - eWisetech, 11 Dec 2020
   - Clear photograph of the non-cellular S3, but no sign of the GNSS chip
 - [Teardown](https://www.techinsights.com/blog/apple-watch-series-3-teardown) - Tech Insights, 13 Sep 2017
   - Clear photographs of the cellular S3, but no sign of the GNSS chip
@@ -67,5 +67,5 @@ Another possibility is that the [Apple W2 chip](https://www.techinsights.com/pro
   - Clear photograph of the outside of the cellular S3, but not the inside
 - [Video](https://www.youtube.com/watch?v=Qi2jzmpDPD4&t=322s) - iFixit, 26 Sep 2017
   - Shows the SiP differences and the 6 exposed chips on cellular version
-- [Changes in the Apple Watch](https://www.sohu.com/a/437646820_120062023) - eWiseTech, 11 Dec 2020
+- [Changes in the Apple Watch](https://www.sohu.com/a/437646820_120062023) - eWisetech, 11 Dec 2020
   - Summary of changes from Series 1 to Series 5

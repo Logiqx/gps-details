@@ -7,7 +7,7 @@ The Apple Watch Series 6 supports GPS, GLONASS, Galileo, and QZSS.
 There are two different versions of the S6 SiP, corresponding to the cellular and non-cellular Apple Watch Series 6.
 
 - The decapsulated S6 SiP (non-cellular) from [Yole Group](https://www.reverse-costing.com/teardown-notes/apple-watch-series-6-evolution/) clearly shows the Broadcom [BCM47754](../../../chipsets/broadcom/bcm-4775.md) inside the S6 SiP
-- The S6 SiP (cellular) is shown in the [eWiseTech](https://www.sohu.com/a/439808467_120062023) teardown and reports a Broadcom GPS chip on the the outside of the S6 SiP
+- The S6 SiP (cellular) is shown in the [eWisetech](https://www.sohu.com/a/439808467_120062023) teardown and reports a Broadcom GPS chip on the the outside of the S6 SiP
 
 The Apple Watch Series 6 included an Ultra-Wideband (UWB) chip which is not present on Apple Watch Series 5 or Apple Watch SE. The UWB chip is on the outside / front of the SiP in both models of the Apple Watch Series 6, cellular and non-cellular.
 
@@ -35,7 +35,7 @@ The product code BCM47754KUBG is easy to read, especially if the photo is rotate
 
 #### Apple Watch Series 6 (cellular)
 
-The teardown by [eWiseTech](https://www.sohu.com/a/439808467_120062023) shows the inside of the S6 (cellular) which clearly shows the addition of some cellular components.
+The teardown by [eWisetech](https://www.sohu.com/a/439808467_120062023) shows the inside of the S6 (cellular) which clearly shows the addition of some cellular components.
 
 - Intel - baseband processor (4)
 - Qorvo - RF chip (5)
@@ -47,7 +47,7 @@ The other components are the same as the non-cellular S6, but the circuit board 
 
 The image above describes the Apple W3 wireless chip (1) as supporting GPS, but this appears to be a recurrent error. The same description is also present in eWisetech teardowns for the [Series 4](series-4.md), [SE (Gen 1)](se-1.md), and [Ultra](ultra-1.md). There is no evidence that the Apple W3 Wireless chip supports GPS.
 
-The teardown by [eWiseTech](https://www.sohu.com/a/439808467_120062023) labels the various components on the the outside of the cellular SiP.
+The teardown by [eWisetech](https://www.sohu.com/a/439808467_120062023) labels the various components on the the outside of the cellular SiP.
 
 - The Bosch accelerometer / gyroscope (3) and Apple U1 ultra-wideband chip (2) are identical to the non-cellular SiP
 - The Skyworks RF power amplifier (4) and Broadcom GNSS chip (1) are unique to the cellular SiP
@@ -70,7 +70,7 @@ The square GNSS module looks to be the correct size to contain the Broadcom BCM4
 
 Thanks to the decapsulation of the Apple S6 (non-cellular) by Yole Group, we know that the non-cellular S6 definitely contains the Broadcom [BCM47754](../../../chipsets/broadcom/bcm-4775.md). The BCM47754 was definitely in the [Apple Watch SE](se-1.md) and likely the [Apple Watch Series 5](series-5.md).
 
-The cellular version sees the GNSS chips (Broadcom BCM47754 and Skyworks GPS LNA/filter) displaced from the back of the S6 circuit board to the front. They appear to be contained within a square housing which is described as a Broadcom GPS chip by eWiseTech.
+The cellular version sees the GNSS chips (Broadcom BCM47754 and Skyworks GPS LNA/filter) displaced from the back of the S6 circuit board to the front. They appear to be contained within a square housing which is described as a Broadcom GPS chip by eWisetech.
 
 The eWisetech teardown refers to the BCM47754 as dual-frequency, but it may have been an assumption. The BCM47752 is a single-band GNSS receiver, whereas the BCM47755 is dual-band GNSS receiver. The BCM47754... who knows!
 

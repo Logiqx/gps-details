@@ -43,6 +43,6 @@ Additionally, an article by [eWisetech](https://www.sohu.com/a/437646820_1200620
 - [iPhone 7 Teardown](https://www.techinsights.com/blog/apple-iphone-7-teardown) - TechInsights, 15 Sep 2016
   - Clear photo of the BCM47734 inside the iPhone 7
 
-- [Changes in the Apple Watch](https://www.sohu.com/a/437646820_120062023) - eWiseTech, 11 Dec 2020
+- [Changes in the Apple Watch](https://www.sohu.com/a/437646820_120062023) - eWisetech, 11 Dec 2020
   - The BCM47734 is mentioned in the description of the second generation
 

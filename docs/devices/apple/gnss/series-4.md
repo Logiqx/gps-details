@@ -104,5 +104,5 @@ Which one is not clear at this time... perhaps it is the BCM47754?
   - Brutal comparison of the Apple Watch Series 3 and Series 4
 - [Apple Watch Series 6 evolution](https://www.reverse-costing.com/teardown-notes/apple-watch-series-6-evolution/) - Reverse Costing (Yole Group), 20 Oct 2020
   - "The similarities between the series are much more numerous... Broadcom... GPS chips"
-- [Changes in the Apple Watch](https://www.sohu.com/a/437646820_120062023) - eWiseTech, 11 Dec 2020
+- [Changes in the Apple Watch](https://www.sohu.com/a/437646820_120062023) - eWisetech, 11 Dec 2020
   - Summary of changes from Series 1 to Series 5

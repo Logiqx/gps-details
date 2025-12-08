@@ -6,7 +6,7 @@ The Apple Watch Series 7 supports GPS, GLONASS, Galileo, BeiDou, and QZSS.
 
 There are two different versions of the S7 SiP, corresponding to the cellular and non-cellular Apple Watch Series 7. The Ultra-Wideband (UWB) chip is on the outside of the SiP in both models of the Apple Watch Series 7, cellular and non-cellular.
 
-The GPS receiver is only on the outside of the cellular SiP for the Apple Watch Series 7. The teardown by [eWiseTech](https://www.sohu.com/a/507056859_120062023) identifies the [BCM47764](../../../chipsets/broadcom/bcm-4776.md) as the GPS receiver, and multiple parts websites describe it as a spare part for the Apple Watch Series 7.
+The GPS receiver is only on the outside of the cellular SiP for the Apple Watch Series 7. The teardown by [eWisetech](https://www.sohu.com/a/507056859_120062023) identifies the [BCM47764](../../../chipsets/broadcom/bcm-4776.md) as the GPS receiver, and multiple parts websites describe it as a spare part for the Apple Watch Series 7.
 
 
 
@@ -28,7 +28,7 @@ The SiP from the non-cellular Apple Watch Series 7 looks very similar to the non
 
 #### Apple Watch Series 7 (cellular)
 
-The teardown by [eWiseTech](https://www.sohu.com/a/507056859_120062023) shows the inside of the S7 (cellular) which clearly shows the addition of some cellular components.
+The teardown by [eWisetech](https://www.sohu.com/a/507056859_120062023) shows the inside of the S7 (cellular) which clearly shows the addition of some cellular components.
 
 - Intel - baseband processor (3)
 - Avago - RF power amplifier (4)
