@@ -13,5 +13,6 @@ This project is work in progress and there are more things to be documented.
 
 This project is work in progress and new articles are added periodically.
 
+- [Accuracy Estimates](accuracy/README.md) - horizontal accuracy estimates, 11 Dec 2025
 - [Apple Watch Ultra](ultra/README.md) - quick look, 6 Nov 2024
 - [Apple watches](watches/README.md) - doppler-derived speeds, 13 Jan 2024
