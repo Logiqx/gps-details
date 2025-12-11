@@ -44,7 +44,7 @@ The Apple Watch Series 7 (and newer) sees continuous values for the horizontal a
 
 ### Summary
 
-There are strong similarities between the Apple Watch Series 4 + Series 5 + Series 6. The Apple Watch Series 6 contains the Broadcom BCM47754 and it is quite likely that the same GNSS chipset is also in the Series 4 and Series 5. The Apple Watch Series 4 + Series 5 see horizontal accuracy estimates that are multiples of 2.0 meters, even with watchOS 10.x. The Series 7 also sees multiples of 2.0 meters, even with watchOS 26.1.
+There are strong similarities between the Apple Watch Series 4 + Series 5 + Series 6. The Apple Watch Series 6 contains the Broadcom BCM47754 and it is quite likely that the same GNSS chipset is also in the Series 4 and Series 5. The Apple Watch Series 4 + Series 5 see horizontal accuracy estimates that are multiples of 2.0 meters, even with watchOS 10.x. The Series 6 also sees multiples of 2.0 meters, even with watchOS 26.1.
 
 There are strong similarities between the Apple Watch Series 7 (BCM47754) + Series 8 + Series 9. Prior to watchOS 11.x the Apple Watch Series 7 + Series 8 + Series 9 saw horizontal accuracy estimates pinned to 4.7x for the majority of the time. Since watchOS 11.x the Apple Watch Series 7 + Series 8 + Series 9 have all seen continuous values for horizontal accuracy estimates. The reason for the change is unclear at this time.
 
@@ -146,5 +146,4 @@ The table below shows the watches where an abundance of repeated speeds are pres
 | Series 9  |       |        |   N    |  N   |
 | Series 10 |       |        |        |      |
 | Series 11 |       |        |        |      |
-
 
