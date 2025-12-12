@@ -82,8 +82,8 @@ watchOS 9.x was the first release for the Apple Watch Series 8 + Ultra + SE.
 | Series 4 |  | Y | N | N |
 | Series 5 |  |  |  |  |
 | Series 6 | BCM47754 |  |  |  |
-| Series 7 | BCM47764 |  |  |  |
-| Series 8 |  |  |  |  |
+| Series 7 | BCM47764 |  | TBC |  |
+| Series 8 |  |  | TBC |  |
 
 TBC - Does the Series 7 have most of the session pinned to 4.7x, differentiating it from Series 4 to Series 6 which use multiples of 2.0 meters?
 
@@ -98,8 +98,8 @@ watchOS 10.x was the first release for the Apple Watch Series 9 + Ultra 2 and th
 | Series 4 |          |        Y         |       N        |         N         |
 | Series 5 |          |        Y         |       N        |        (Y)        |
 | Series 6 | BCM47754 |                  |                |                   |
-| Series 7 | BCM47764 |                  |                |                   |
-| Series 8 |          |                  |                |                   |
+| Series 7 | BCM47764 |                  |      TBC       |                   |
+| Series 8 |          |                  |      TBC       |                   |
 | Series 9 |          |        ?         |       Y        |        (Y)        |
 
 The Apple Watch Series 9 seems to have most of the session pinned to 4.7x.
@@ -147,12 +147,12 @@ The table below shows the watches where an abundance of repeated speeds are pres
 
 | Watch     |   GNSS   | 9.6.x | 10.6.x | 11.6.x | 26.1 |
 | --------- | :------: | :---: | :----: | :----: | :--: |
-| Series 4  |          |   Y   |   Y    |        |      |
-| Series 5  |          |       |   Y    |        |      |
+| Series 4  |          |   Y   |   Y    |   -    |  -   |
+| Series 5  |          |       |   Y    |   -    |  -   |
 | Series 6  | BCM47754 |       |        |   Y    |  Y   |
 | Series 7  | BCM47764 |       |        |   N    |  N   |
 | Series 8  |          |       |        |   N    |  N   |
 | Series 9  |          |       |        |   N    |  N   |
-| Series 10 |          |       |        |   N    |  N   |
-| Series 11 |          |       |        |        |      |
+| Series 10 |          |   -   |   -    |   N    |  N   |
+| Series 11 |          |   -   |   -    |   -    |  N   |
 
