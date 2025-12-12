@@ -137,7 +137,7 @@ watchOS 26.x was the first release for the Apple Watch Series 11 + Ultra 3 + SE 
 | Series 10 |      |        ?         |      (Y)       |         Y         |
 | Series 11 |      | ? | (Y) | Y |
 
-Note: Apple Watch Series 9 to Series 11 typically seem to have a period pinned to 4.749 early in recordings, but then use continuous values.
+Apple Watch Series 9 to Series 11 typically seem to have a period pinned to 4.749 early in recordings, but then use continuous values.
 
 
 
