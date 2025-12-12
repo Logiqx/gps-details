@@ -77,13 +77,15 @@ The tables in this section record the observations made on data for the Apple Wa
 
 watchOS 9.x was the first release for the Apple Watch Series 8 + Ultra + SE.
 
-| Watch    | Multiples of 2.0 | Pinned to 4.7x | Continuous Values |
-| -------- | :---: | :---: | :---: |
-| Series 4 | Y | N | N |
-| Series 5 |  |  |  |
-| Series 6 |  |  |  |
-| Series 7 |  |  |  |
-| Series 8 |  |  |  |
+| Watch    | GNSS | Multiples of 2.0 | Pinned to 4.7x | Continuous Values |
+| -------- | :---: | :---: | :---: | :---: |
+| Series 4 |  | Y | N | N |
+| Series 5 |  |  |  |  |
+| Series 6 | BCM47754 |  |  |  |
+| Series 7 | BCM47764 |  |  |  |
+| Series 8 |  |  |  |  |
+
+TBC - Does the Series 7 have most of the session pinned to 4.7x, differentiating it from Series 4 to Series 6 which use multiples of 2.0 meters?
 
 
 
@@ -91,14 +93,18 @@ watchOS 9.x was the first release for the Apple Watch Series 8 + Ultra + SE.
 
 watchOS 10.x was the first release for the Apple Watch Series 9 + Ultra 2 and the last release for the Series 5.
 
-| Watch    | Multiples of 2.0 | Pinned to 4.7x | Continuous Values |
-| -------- | :--------------: | :------------: | :---------------: |
-| Series 4 |        Y         |       N        |         N         |
-| Series 5 |        Y         |       N        |        (Y)        |
-| Series 6 |                  |                |                   |
-| Series 7 |                  |                |                   |
-| Series 8 |                  |                |                   |
-| Series 9 |        ?         |       Y        |        (Y)        |
+| Watch    |   GNSS   | Multiples of 2.0 | Pinned to 4.7x | Continuous Values |
+| -------- | :------: | :--------------: | :------------: | :---------------: |
+| Series 4 |          |        Y         |       N        |         N         |
+| Series 5 |          |        Y         |       N        |        (Y)        |
+| Series 6 | BCM47754 |                  |                |                   |
+| Series 7 | BCM47764 |                  |                |                   |
+| Series 8 |          |                  |                |                   |
+| Series 9 |          |        ?         |       Y        |        (Y)        |
+
+The Apple Watch Series 9 seems to have most of the session pinned to 4.7x.
+
+TBC - Does the Series 7 have most of the session pinned to 4.7x as well?
 
 
 
@@ -106,14 +112,15 @@ watchOS 10.x was the first release for the Apple Watch Series 9 + Ultra 2 and th
 
 watchOS 11.x was the first release for the Apple Watch Series 10. It introduced continuous values for the Apple Watch Series 7 onwards.
 
-| Watch     | Multiples of 2.0 | Pinned to 4.7x | Continuous Values |
-| --------- | :--------------: | :------------: | :---------------: |
-| Series 6  |        Y         |       N        |        (Y)        |
-| Series 7  |       (Y)        |      (Y)       |         Y         |
-| Series 8  |        ?         |      (Y)       |         Y         |
-| Series 9  |        ?         |       ?        |         Y         |
-| Series 10 |                  |                |                   |
-| Series 11 |                  |                |                   |
+| Watch     |   GNSS   | Multiples of 2.0 | Pinned to 4.7x | Continuous Values |
+| --------- | :------: | :--------------: | :------------: | :---------------: |
+| Series 6  | BCM47754 |        Y         |       N        |        (Y)        |
+| Series 7  | BCM47764 |       (Y)        |      (Y)       |         Y         |
+| Series 8  |          |        ?         |      (Y)       |         Y         |
+| Series 9  |          |        ?         |       ?        |         Y         |
+| Series 10 |          |        ?         |      (Y)       |         Y         |
+
+Apple Watch Series 7 to Series 10 typically seem to have a period pinned to 4.749 early in recordings, but then use continuous values.
 
 
 
@@ -121,14 +128,16 @@ watchOS 11.x was the first release for the Apple Watch Series 10. It introduced 
 
 watchOS 26.x was the first release for the Apple Watch Series 11 + Ultra 3 + SE 3.
 
-| Watch     | Multiples of 2.0 | Pinned to 4.7x | Continuous Values |
-| --------- | :--------------: | :------------: | :---------------: |
-| Series 6  |        Y         |       N        |         ?         |
-| Series 7  |       (Y)        |       ?        |         Y         |
-| Series 8  |        ?         |       ?        |         Y         |
-| Series 9  |        ?         |      (Y)       |         Y         |
-| Series 10 |                  |                |                   |
-| Series 11 |                  |                |                   |
+| Watch     | GNSS | Multiples of 2.0 | Pinned to 4.7x | Continuous Values |
+| --------- | :--: | :--------------: | :------------: | :---------------: |
+| Series 6  |      BCM47754|        Y         |       N        |         ?         |
+| Series 7  | BCM47764 |       (Y)        |       ?        |         Y         |
+| Series 8  |      |        ?         |       ?        |         Y         |
+| Series 9  |      |        ?         |      (Y)       |         Y         |
+| Series 10 |      |        ?         |      (Y)       |         Y         |
+| Series 11 |      | ? | (Y) | Y |
+
+Note: Apple Watch Series 9 to Series 11 typically seem to have a period pinned to 4.749 early in recordings, but then use continuous values.
 
 
 
@@ -136,14 +145,14 @@ watchOS 26.x was the first release for the Apple Watch Series 11 + Ultra 3 + SE 
 
 The table below shows the watches where an abundance of repeated speeds are present in every session. Some watches always have an abundance of repeated speeds, essentially the Apple Watch Series 6 (BCM47754) and earlier. The Apple Watch Series 7 (BCM47764) and later do not exhibit this behaviour for every session, although the issue may affect some sessions.
 
-| Watch     | 9.6.x | 10.6.x | 11.6.x | 26.1 |
-| --------- | :---: | :----: | :----: | :--: |
-| Series 4  |   Y   |   Y    |        |      |
-| Series 5  |       |   Y    |        |      |
-| Series 6  |       |        |   Y    |  Y   |
-| Series 7  |       |        |   N    |  N   |
-| Series 8  |       |        |   N    |  N   |
-| Series 9  |       |        |   N    |  N   |
-| Series 10 |       |        |        |      |
-| Series 11 |       |        |        |      |
+| Watch     |   GNSS   | 9.6.x | 10.6.x | 11.6.x | 26.1 |
+| --------- | :------: | :---: | :----: | :----: | :--: |
+| Series 4  |          |   Y   |   Y    |        |      |
+| Series 5  |          |       |   Y    |        |      |
+| Series 6  | BCM47754 |       |        |   Y    |  Y   |
+| Series 7  | BCM47764 |       |        |   N    |  N   |
+| Series 8  |          |       |        |   N    |  N   |
+| Series 9  |          |       |        |   N    |  N   |
+| Series 10 |          |       |        |   N    |  N   |
+| Series 11 |          |       |        |        |      |
 
