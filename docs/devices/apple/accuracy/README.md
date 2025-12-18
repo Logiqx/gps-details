@@ -26,9 +26,7 @@ The Apple Watch Series 4 to Series 6 consistently see horizontal accuracy estima
 
 #### Pinned to 4.7x
 
-Apple watches since the Series 7 have seen horizontal accuracy estimates pinned to 4.7x with watchOS 10.x. The image below shows the Series 9 but Series 8 also exhibited the same behaviour in Jul 2023 (likely watchOS 10.x). This behaviour largely disappeared in watchOS 11.x.
-
-**TBC** - The expectation is that Series 7 data from watchOS 10.x will also be pinned to 4.7x for the majority of the time. The behaviour of watchOS 8.x + watchOS 9.x + watchOS 10.x for the Apple Watch Series 7 is yet to be determined.
+Apple watches since the Series 7 have seen horizontal accuracy estimates pinned to 4.7x with watchOS 8.x to 10.x. The image below shows the Series 9 but Series 8 also exhibited the same behaviour in Jul 2023 (likely watchOS 10.x). This behaviour largely disappeared in watchOS 11.x.
 
 ![Watch7,2](img/Watch7,2.png)
 
@@ -73,19 +71,36 @@ The tables in this section record the observations made on data for the Apple Wa
 
 
 
+#### 7.x.x
+
+watchOS 7.x was the first release for the Apple Watch Series 6 + SE.
+
+
+
+#### 8.8.x
+
+watchOS 8.x was the first release for the Apple Watch Series 7.
+
+| Watch    |   GNSS   | Multiples of 2.0 | Pinned to 4.7x | Continuous Values |
+| -------- | :------: | :--------------: | :------------: | :---------------: |
+| Series 4 |          |                  |                |                   |
+| Series 5 |          |                  |                |                   |
+| Series 6 | BCM47754 |                  |                |                   |
+| Series 7 | BCM47764 |                  |       Y        |        (Y)        |
+
+
+
 #### 9.6.x
 
-watchOS 9.x was the first release for the Apple Watch Series 8 + Ultra + SE.
+watchOS 9.x was the first release for the Apple Watch Series 8 + Ultra + SE 2.
 
 | Watch    | GNSS | Multiples of 2.0 | Pinned to 4.7x | Continuous Values |
 | -------- | :---: | :---: | :---: | :---: |
 | Series 4 |  | Y | N | N |
 | Series 5 |  |  |  |  |
 | Series 6 | BCM47754 |  |  |  |
-| Series 7 | BCM47764 |  | TBC |  |
-| Series 8 |  |  | TBC |  |
-
-TBC - Does the Series 7 have most of the session pinned to 4.7x, differentiating it from Series 4 to Series 6 which use multiples of 2.0 meters?
+| Series 7 | BCM47764 |  |       Y        | (Y) |
+| Series 8 |  |  |  |  |
 
 
 
@@ -98,13 +113,11 @@ watchOS 10.x was the first release for the Apple Watch Series 9 + Ultra 2 and th
 | Series 4 |          |        Y         |       N        |         N         |
 | Series 5 |          |        Y         |       N        |        (Y)        |
 | Series 6 | BCM47754 |                  |                |                   |
-| Series 7 | BCM47764 |                  |      TBC       |                   |
-| Series 8 |          |                  |      TBC       |                   |
+| Series 7 | BCM47764 |                  |       Y        |        (Y)        |
+| Series 8 |          |                  |                |                   |
 | Series 9 |          |        ?         |       Y        |        (Y)        |
 
 The Apple Watch Series 9 seems to have most of the session pinned to 4.7x.
-
-TBC - Does the Series 7 have most of the session pinned to 4.7x as well?
 
 
 
@@ -150,7 +163,7 @@ The table below shows the watches where an abundance of repeated speeds are pres
 | Series 4  |          |   Y   |   Y    |   -    |  -   |
 | Series 5  |          |       |   Y    |   -    |  -   |
 | Series 6  | BCM47754 |       |        |   Y    |  Y   |
-| Series 7  | BCM47764 |       |        |   N    |  N   |
+| Series 7  | BCM47764 |   -   |   -    |   N    |  N   |
 | Series 8  |          |       |        |   N    |  N   |
 | Series 9  |          |       |        |   N    |  N   |
 | Series 10 |          |   -   |   -    |   N    |  N   |
