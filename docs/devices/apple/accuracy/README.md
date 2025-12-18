@@ -52,12 +52,6 @@ The Apple Watch Series 4 + Series 5 + Series 6 also have an abundance of repeate
 
 
 
-### Next Steps
-
-It would be worth doing analysis of the Apple Watch Series 7 with watchOS 8.x + watchOS 9.x + watchOS 10.x. This will determine whether it ever had horizontal accuracy estimates that were multiples of 2.0 meters, and the introduction of horizontal accuracy estimates pinned to 4.7x.
-
-
-
 ## Reference Data
 
 ### Horizontal Accuracy
