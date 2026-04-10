@@ -21,7 +21,7 @@ The fenix 7 has been included as a comparator, but is quite different to the oth
 
 
 
-The live screen is the same on the four rightmost watches. The front of the fenix 7 is quite different to the other watches.
+The live screen is the same on the four rightmost watches. The font of the fenix 7 is quite different to the other watches.
 
 ![img](img/20260410_142006.jpg)
 
@@ -43,7 +43,7 @@ Top results are the same on the four rightmost watches. The fenix 7 on the left 
 
 #### vivoactive and Forerunner
 
-The vivoactive 3 is quite similar, so it has been included with the other 3 watches.
+The vivoactive 3 is quite similar to the other 3 watches in terms of fonts and layout, so it has been included in this group.
 
 | Model          | Resolution | Font                      |
 | -------------- | ---------- | ------------------------- |
@@ -54,7 +54,7 @@ The vivoactive 3 is quite similar, so it has been included with the other 3 watc
 
 
 
-The rightmost 3 watches appear to be using the exact same font, but the vivoactive 3 is quite similar.
+The rightmost 3 watches appear to be using the exact same font, but the vivoactive 3 also looks quite similar.
 
 ![img](img/20260410_142150.jpg)
 
@@ -74,7 +74,7 @@ The rightmost 3 watches appear to be using the exact same font and layout.
 
 #### 260 x 260
 
-There are 3 watches in this group, but the fenix 7 is the odd one out in terms of font and layout.
+There are 3 watches with 260x260 resolution, but the fenix 7 is the odd one out in terms of font and layout.
 
 | Model          | Resolution | Font                    |
 | -------------- | ---------- | ----------------------- |
@@ -82,12 +82,12 @@ There are 3 watches in this group, but the fenix 7 is the odd one out in terms o
 | vivoactive 4   | 260x260    | vivoactive / Forerunner |
 | fenix 7 Pro    | 260x260    | fenix 7 / epix (Gen 2)  |
 
-The Forerunner 255 and vivoactive 4 appear to be using the same font and layout, but the fenix 7 Pro is different.
+The Forerunner 255 and vivoactive 4 appear to be using the same font and layout, but the fenix 7 Pro is clearly different.
 
 ![img](img/20260410_142511.jpg)
 
 
 
-The Forerunner 255 and vivoactive 4 appear to be using the same font and layout, but the fenix 7 Pro is different.
+The Forerunner 255 and vivoactive 4 appear to be using the same font and layout, but the fenix 7 Pro is clearly different.
 
 ![img](img/20260410_142529.jpg)
