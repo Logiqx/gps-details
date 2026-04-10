@@ -45,28 +45,28 @@ Top results are the same on the four rightmost watches. The fenix 7 on the left 
 
 The vivoactive 3 is quite similar, so it has been included with the other 3 watches.
 
-| Model          | Resolution | Font                    |
-| -------------- | ---------- | ----------------------- |
-| vivoactive 3   | 240x240    | vivoactive / Forerunner |
-| Forerunner 245 | 240x240    | vivoactive / Forerunner |
-| Forerunner 255 | 260x260    | vivoactive / Forerunner |
-| vivoactive 4   | 260x260    | vivoactive / Forerunner |
+| Model          | Resolution | Font                      |
+| -------------- | ---------- | ------------------------- |
+| vivoactive 3   | 240x240    | vivoactive 3              |
+| Forerunner 245 | 240x240    | vivoactive 4 / Forerunner |
+| Forerunner 255 | 260x260    | vivoactive 4 / Forerunner |
+| vivoactive 4   | 260x260    | vivoactive 4 / Forerunner |
 
 
 
-All four watches are very similar in appearance, and the 3 rightmost watches appear to be using the same font.
+The rightmost 3 watches appear to be using the exact same font, but the vivoactive 3 is quite similar.
 
 ![img](img/20260410_142150.jpg)
 
 
 
-All four watches are very similar in appearance, and the 3 rightmost watches appear to be using the same font and layout.
+The rightmost 3 watches appear to be using the exact same font and layout.
 
 ![img](img/20260410_142210.jpg)
 
 
 
-All four models are very similar in appearance, and the 3 rightmost models appear to be using the same font and layout.
+The rightmost 3 watches appear to be using the exact same font and layout.
 
 ![](img/20260410_142224.jpg)
 
