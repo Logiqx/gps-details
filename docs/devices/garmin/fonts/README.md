@@ -21,7 +21,7 @@ jq -r '.fonts[] | select(.fontSet == "ww") | .fonts[] | select(.name == "medium"
 
 #### fenix and Forerunner
 
-The fenix 7 has been included as a comparator, but is quite different to the four watches that use fenix 5 fonts.
+The fenix 7 has been included as a comparator, but is very different to the four watches that use fenix 5 fonts.
 
 | Model                | Resolution | Font                                           |
 | -------------------- | ---------- | ---------------------------------------------- |
@@ -33,19 +33,19 @@ The fenix 7 has been included as a comparator, but is quite different to the fou
 
 
 
-The live screen is the same on the four rightmost watches. The font of the fenix 7 is quite different to the other watches.
+The live screen is the same on the four rightmost watches. The live speeds on the fenix 7 are very different to the other watches.
 
 ![img](img/20260410_142006.jpg)
 
 
 
-Top results are the same on the four rightmost watches. The fenix 7 on the left is subtly different to the other watches.
+Top results are the same on the four rightmost watches. The fenix 7 on the left is quite different to the other watches.
 
 ![img](img/20260410_142028.jpg)
 
 
 
-Top results are the same on the four rightmost watches. The fenix 7 on the left is subtly different to the other watches.
+Top results are the same on the four rightmost watches. The fenix 7 on the left is quite different to the other watches.
 
 ![img](img/20260410_142048.jpg)
 
@@ -86,7 +86,7 @@ The rightmost 3 watches appear to be using the exact same font and layout.
 
 #### 260 x 260
 
-There are 3 watches with 260x260 resolution, but the fenix 7 is the odd one out in terms of font and layout.
+There are 3 watches in my collection with 260x260 resolution, but the fenix 7 is the odd one out in terms of font and layout.
 
 | Model          | Resolution | Font                                           |
 | -------------- | ---------- | ---------------------------------------------- |
@@ -103,3 +103,64 @@ The Forerunner 255 and vivoactive 4 appear to be using the same font and layout,
 The Forerunner 255 and vivoactive 4 appear to be using the same font and layout, but the fenix 7 Pro is clearly different.
 
 ![img](img/20260410_142529.jpg)
+
+
+
+### AMOLED
+
+#### Forerunner and vivoactive
+
+There are 3 watches in my collection with 390x390 resolution, pretty much identical in terms of fonts and layouts.
+
+| Model          | Resolution | Font                                            |
+| -------------- | ---------- | ----------------------------------------------- |
+| Forerunner 165 | 390x390    | Roboto-Regular (TTF)                            |
+| vivoactive 5   | 390x390    | VIVOACTIVE5, VIVOACTIVE5_NUMBER                 |
+| vivoactive 6   | 390x390    | Roboto-Regular (TTF), Yantramanav-Regular (TTF) |
+
+The Forerunner 165 and vivoactive 6 both use TrueType fonts, but look almost identical to the vivoactive 5 (centre).
+
+![img](img/20260411_084903.jpg)
+
+![img](img/20260411_084911.jpg)
+
+![img](img/20260411_084917.jpg)
+
+![img](img/20260411_084923.jpg)
+
+
+
+#### epix Pro and Instinct 3
+
+There are 2 watches in my collection with 416x416 resolution, which are both very different in appearance.
+
+| Model              | Resolution | Font                                                   |
+| ------------------ | ---------- | ------------------------------------------------------ |
+| epix Pro - 47 mm   | 416x416    | EPIX2_CDPG_ROBOTO, EPIX2_BIONIC_SEMI_BOLD_NUMBER       |
+| Instinct 3 - 50 mm | 416x416    | INSTINCT3AMOLED50MM_ROBOTO, INSTINCT3AMOLED50MM_OSWALD |
+
+The epix Pro and Instinct 3 are very different in terms of the fonts, especially the live speeds.
+
+![img](img/20260411_085207.jpg)
+
+![img](img/20260411_085218.jpg)
+
+![img](img/20260411_085236.jpg)
+
+![img](img/20260411_085244.jpg)
+
+
+
+#### Venu Sq 2
+
+The Venu Sq 2 has a fairly unique specification, but is handled well by APPro v5.
+
+| Model     | Resolution | Font                                                 |
+| --------- | ---------- | ---------------------------------------------------- |
+| Venu Sq 2 | 320x360    | VENUSQ2_ROBOTO_CONDENSED, VENUSQ2_YANTRAMANAV_NUMBER |
+
+![img](img/venusq2_1.jpg)
+
+![img](img/venusq2_2.jpg)
+
+
