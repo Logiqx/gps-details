@@ -2,8 +2,8 @@
 
 DEVICES=/mnt/c/Users/mwgeo/AppData/Roaming/Garmin/ConnectIQ/Devices
 
-IN=docs/apps/appro/supported-models-in.txt
-OUT=docs/apps/appro/supported-models-out.txt
+IN=data/apps/appro/supported-models-in.txt
+OUT=data/apps/appro/supported-models-out.txt
 
 for DEVICE in $(cut -d'"' -f2 $IN)
 do
