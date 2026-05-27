@@ -2,21 +2,21 @@
 
 Date created: 22 Sep 2024
 
-Date updated: 22 Sep 2025
+Date updated: 27 May 2026
 
 
 
 ### Background
 
-Several of the COROS firmware releases during 2024 are problematic for the speedsurfing community. This page captures the various issues, listing the COROS firmware releases since the start of 2024 in reverse-chronological order.
+Several of the COROS firmware releases are problematic for the speedsurfing community. This page captures the various issues, listing the COROS firmware releases since the start of 2024 in reverse-chronological order.
 
-The task of testing new firmware releases has become extremely onerous, so I have not done any testing in 2025 since the 3.0808.0 release. Hopefully the firmware releases following 3.0808.0 are ok, but I do not know for sure.
+The task of testing new firmware releases has become extremely onerous, so I have not done any testing since the 3.0808.0 release in 2025. It has subsequently come to light that 3.0910.0 is badly broken, so maybe all releases since Apr 2025 are also broken.
 
 General advice for watches with broken firmware:
 
 - APEX Pro or VERTIX with firmware 3.0508.0, 3.0510.0 or 3.0808.0 should be downgraded to 3.0309.0
-- APEX 2 or APEX 2 Pro are only really advised to upgrade if they have a broken firmware
-- VERTIX 2 or VERTIX 2S are only really advised to upgrade if they have a broken firmware
+- APEX 2 or APEX 2 Pro are only advised to use firmware versions that are confirmed as ok
+- VERTIX 2 or VERTIX 2S are only advised to use firmware versions that are confirmed as ok
 
 Downgrading your firmware:
 
@@ -27,7 +27,7 @@ Prior to reviewing the finer details on this page it is advisable to read the ar
 
 
 
-### Summary
+### Summary - Newer Models
 
 This table is a summary of the COROS firmware releases since the beginning of 2024.
 
@@ -35,52 +35,76 @@ This table is a summary of the COROS firmware releases since the beginning of 20
 - 😐🤞 = ok-ish
 - 😡👎 = broken
 
-|               | APEX Pro | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 | VERTIX 2S |
-| :------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| [3.1012.0](3.1012.0/README.md) | - | - | ? | ? | ? | ? |
-| [3.1011.0](3.1011.0/README.md) | - | - | ? | ? | ? | ? |
-| [3.1008.0](3.1008.0/README.md) | - | - | ? | ? | ? | ? |
-| [3.0910.0](3.0910.0/README.md) | - | - | ? | ? | ? | ? |
-| [3.0808.0](3.0808.0/README.md) | ? | 😡👎 | ? | 😊🤙 | 😊🤙 | ? |
-| [3.0807.0](3.0807.0/README.md) beta | - | - | ? | 😊🤙 | 😊🤙 | ? |
-| [3.0709.0](3.0709.0/README.md) | - | - | 😊🤙 | 😊🤙 | 😡👎 | 😡👎 |
-| [3.0708.1113](3.0708.1113/README.md) beta | - | - | - | - | 😊🤙 | 😊🤙 |
-| [3.0708.0](3.0708.0/README.md) | - | - | 😊🤙 | 😊🤙 | 😡👎 | 😡👎 |
-| [3.0706.0](3.0706.0/README.md) beta | - | - | 😊🤙 | 😊🤙 | 😡👎 | 😡👎 |
-| [3.0510.0](3.0510.0/README.md) | 😡👎 | 😡👎 | 😐🤞 | 😐🤞 | 😐🤞 | 😐🤞 |
-| [3.0509.0](3.0509.0/README.md) | 😊🤙 | 😊🤙 | - | - | - | - |
-| [3.0508.0219](3.0508.0219/README.md) beta | 😊🤙 | 😊🤙 | - | - | - | - |
-| [3.0508.0](3.0508.0/README.md) | 😡👎 | 😡👎 | 😐🤞 | 😐🤞 | 😐🤞 | 😐🤞 |
-| [3.0506.0](3.0506.0/README.md) beta | - | - | 😐🤞 | 😐🤞 | 😐🤞 | 😐🤞 |
-| [3.0409.0](3.0409.0/README.md) | 😊🤙 | 😊🤙 | 😡👎 | 😡👎 | 😡👎 | 😡👎 |
-| [3.0408.0](3.0408.0/README.md) |    😊🤙    |   😊🤙   | 😡👎 | 😡👎 | 😡👎 | 😡👎 |
-| [3.0309.0](3.0309.0/README.md) | 😊🤙 | 😊🤙 |     -      |     -      |     -      |     -     |
-| [3.0308.0](3.0308.0/README.md) |     -      |     -      | 😊🤙 | 😊🤙 | 😊🤙 | - |
+|               | Date | Listed | APEX 2 | APEX 2 Pro | VERTIX 2 | VERTIX 2S |
+| :------ | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| 3.1608.0 | 15 May 2026 | Y | ? | ? | ? | ? |
+| 3.1508.0 | 31 Mar 2026 | Y | ? | ? | ? | ? |
+| 3.1408.0 | 30 Jan 2026 | Y | ? | ? | ? | ? |
+| 3.1308.0 | 15 Dec 2025 | Y | ? | ? | ? | ? |
+| 3.1216.0 | ? | - | ? | ? | ? | ? |
+| 3.1213.0 | 27 Oct 2025 | Y | ? | ? | ? | ? |
+| 3.1208.0 | 23 Sep 2025 | Y | ? | ? | ? | ? |
+| [3.1012.0](3.1012.0/README.md) | 12 Aug 2025 | Y | ? | ? | ? | ? |
+| [3.1011.0](3.1011.0/README.md) | 28 Jul 2025 | Y | ? | ? | ? | ? |
+| [3.1008.0](3.1008.0/README.md) | 17 Jul 2025 | Y | ? | ? | ? | ? |
+| [3.0910.0](3.0910.0/README.md) | 3 Apr 2025 | Y | ? | ? | 😡👎 | ? |
+| [3.0808.0](3.0808.0/README.md) | 15 Jan 2025 | Y | ? | 😊🤙 | 😊🤙 | ? |
+| [3.0807.0](3.0807.0/README.md) beta | ? | - | ? | 😊🤙 | 😊🤙 | ? |
+| [3.0709.0](3.0709.0/README.md) | 3 Dec 2024 | Y | 😊🤙 | 😊🤙 | 😡👎 | 😡👎 |
+| [3.0708.1113](3.0708.1113/README.md) beta | 13 Nov 2024 | - | - | - | 😊🤙 | 😊🤙 |
+| [3.0708.0](3.0708.0/README.md) | 15 Oct 2024 | Y | 😊🤙 | 😊🤙 | 😡👎 | 😡👎 |
+| [3.0706.0](3.0706.0/README.md) beta | ? | - | 😊🤙 | 😊🤙 | 😡👎 | 😡👎 |
+| [3.0510.0](3.0510.0/README.md) | 2 Aug 2024 | Y | 😐🤞 | 😐🤞 | 😐🤞 | 😐🤞 |
+| [3.0508.0](3.0508.0/README.md) | 15 Jul 2024 | Y | 😐🤞 | 😐🤞 | 😐🤞 | 😐🤞 |
+| [3.0506.0](3.0506.0/README.md) beta | ? | - | 😐🤞 | 😐🤞 | 😐🤞 | 😐🤞 |
+| [3.0409.0](3.0409.0/README.md) | 21 May 2024 | Y | 😡👎 | 😡👎 | 😡👎 | 😡👎 |
+| [3.0408.0](3.0408.0/README.md) |    10 May 2024    | Y | 😡👎 | 😡👎 | 😡👎 | 😡👎 |
+| [3.0308.0](3.0308.0/README.md) | 31 Jan 2024 | Y | 😊🤙 | 😊🤙 | 😊🤙 | ? |
+
+The official COROS release notes are often out of date and do not mention significant changes in behaviour.
+
+- [APEX 2](https://support.coros.com/hc/en-us/articles/20087491155092-COROS-APEX-2-Release-Notes)
+- [APEX 2 Pro](https://support.coros.com/hc/en-us/articles/20087492454932-COROS-APEX-2-Pro-Release-Notes)
+- [VERTIX 2](https://support.coros.com/hc/en-us/articles/20087327564820-COROS-VERTIX-2-Release-Notes)
+- [VERTIX 2S](https://support.coros.com/hc/en-us/articles/29019524935188-COROS-VERTIX-2S-Release-Notes)
 
 
 
-### Distinct Behaviors
+### Summary - Older Models
 
-There have been four distinct behaviors for speedsurfing activities during 2024:
+This table is a summary of the COROS firmware releases since the beginning of 2024.
 
-- **Jan 2024** - 3.03xx.0 - original behavior, similar in many respects to the Garmin watches in 2024.
+- 😊🤙 = working
+- 😡👎 = broken
+
+|                                           |    Date     | Listed | APEX Pro | VERTIX |
+| :---------------------------------------- | :---------: | :---------: | :------: | :----: |
+| [3.0808.0](3.0808.0/README.md)            | 19 Aug 2025 | Y |    ?     |   😡👎   |
+| [3.0510.0](3.0510.0/README.md)            | 18 Jun 2025 | - |    😡👎    |   😡👎   |
+| [3.0509.0](3.0509.0/README.md)            |      ?      | - |    😊🤙    |   😊🤙   |
+| [3.0508.0219](3.0508.0219/README.md) beta |      ?      | - |    😊🤙    |   😊🤙   |
+| [3.0508.0](3.0508.0/README.md)            | 15 Jul 2024 | - |    😡👎    |   😡👎   |
+| [3.0409.0](3.0409.0/README.md)            | 21 May 2024 | Y |    😊🤙    |   😊🤙   |
+| [3.0408.0](3.0408.0/README.md)            | 10 May 2024 | - |    😊🤙    |   😊🤙   |
+| [3.0309.0](3.0309.0/README.md)            | 31 Jan 2024 | Y |    😊🤙    |   😊🤙   |
+
+The official COROS release notes are often absent and do not mention significant changes in behaviour.
+
+- [APEX Pro](https://support.coros.com/hc/en-us/articles/20084448124052-COROS-APEX-Pro-Release-Notes)
+- [VERTIX](https://support.coros.com/hc/en-us/articles/20086432465044-COROS-VERTIX-Release-Notes)
+
+
+
+### Distinct Behaviours
+
+There have been four distinct behaviours for speedsurfing activities during 2024:
+
+- **Jan 2024** - 3.03xx.0 - original behaviour, similar in many respects to the Garmin watches in 2024.
 - **May - Jun 2024** - 3.04xx.0 - smoothing issues on APEX 2 / APEX 2 Pro / VERTIX 2, reminiscent of Garmin watches in 2022.
 - **Jul - Aug 2024** - 3.05xx.0 - speedsurfing behaves much like windsurfing, which is non-doppler and prone to errors / spikes.
 - **Sep - Nov 2024** - 3.0708.0 - fixes the May to Aug issues on the APEX 2 and APEX 2 Pro, but it breaks the VERTIX 2 + 2S.
 - **Jan 2025** - 3.0808.0 - confirmed as working on the APEX 2 Pro and VERTIX 2. Assumed working for the APEX 2 and VERTIX 2S.
 
-
-
-### Official Release Notes
-
-The official COROS release notes are often out of date and do not mention any of the changes in behavior:
-
-- [APEX Pro](https://support.coros.com/hc/en-us/articles/20084448124052-COROS-APEX-Pro-Release-Notes)
-- [APEX 2](https://support.coros.com/hc/en-us/articles/20087491155092-COROS-APEX-2-Release-Notes)
-- [APEX 2 Pro](https://support.coros.com/hc/en-us/articles/20087492454932-COROS-APEX-2-Pro-Release-Notes)
-- [VERTIX](https://support.coros.com/hc/en-us/articles/20086432465044-COROS-VERTIX-Release-Notes)
-- [VERTIX 2](https://support.coros.com/hc/en-us/articles/20087327564820-COROS-VERTIX-2-Release-Notes)
-- [VERTIX 2S](https://support.coros.com/hc/en-us/articles/29019524935188-COROS-VERTIX-2S-Release-Notes)
 
 
 
@@ -101,7 +125,7 @@ The 3.08xx.0 released have fixed the issues affecting the VERTIX 2 and VERTIX 2S
 
 The beta release 3.0706.0 appears to fix the issues between May and Aug 2024, but only on the APEX 2 and APEX 2 Pro.
 
-The VERTIX 2 + 2S are broken and have reverted back to the behavior of 3.040x.0 in May 2024.
+The VERTIX 2 + 2S are broken and have reverted back to the behaviour of 3.040x.0 in May 2024.
 
 |               | APEX Pro | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
 | :------- | :--------: | :--------: | :--------: | :--------: | :--------: |
@@ -142,7 +166,7 @@ The smoothing issues do not affect the Sony watches (APEX Pro, VERTIX).
 
 #### Jan 2024
 
-The 3.03xx.0 releases exhibit the original behavior, similar in many respects to the Garmin watches in 2024.
+The 3.03xx.0 releases exhibit the original behaviour, similar in many respects to the Garmin watches in 2024.
 
 However, unique to the COROS is the temporal offset issue on the APEX 2, APEX 2 Pro, VERTIX 2 which causes [fantasy alphas](../alpha/README.md).
 

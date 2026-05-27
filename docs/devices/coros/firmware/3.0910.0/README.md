@@ -2,4 +2,4 @@
 
 ### Overview
 
-3.0910.0 has yet to be properly tested.
+3.0910.0 is horribly broken, so I will document the issues when time allows.
