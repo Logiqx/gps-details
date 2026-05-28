@@ -12,7 +12,7 @@ jq . $TMP >$OUT
 rm $TMP
 
 CSV=$DATA_DIR/deviceTypes.csv
-jq -r '.[] | (.partNumber + "," + .name)' $OUT | sort >$CSV
+jq -r '.[] | (.partNumber + "," + .name)' $OUT | sed 's/™//;s/®//' | sort >$CSV
 
 TXT=$DATA_DIR/deviceTypes.txt
 sed -E 's/(006-B)(....)(-00),(.*)/| \2 | \4 | \1\2\3 |/' $CSV >$TXT
