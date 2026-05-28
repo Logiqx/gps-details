@@ -18,4 +18,17 @@ do
   grep $MODEL $REF
 done | sort -f -t, -k2 >$CSV
 
+echo "Models missing in my list of Garmin watches:"
+echo
+
+for PART in $(cut -d, -f1 $CSV | sed -E 's/...-.(....)-../\1/')
+do
+  echo $PART:$(cat docs/devices/garmin/watches/*.md | grep -c $PART)
+done | grep :0 | sed 's/:0//' >$TMP
+
+for PART in $(cat $TMP)
+do
+  grep $PART $REF
+done
+
 rm $TMP
