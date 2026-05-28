@@ -1,0 +1,2812 @@
+[
+  {
+    "id": "20",
+    "partNumber": "006-B2431-00",
+    "name": "Forerunner® 235",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-03717-54/v/cf-sm.jpg",
+    "urlName": "forerunner235"
+  },
+  {
+    "id": "1",
+    "partNumber": "006-B1907-00",
+    "name": "vívoactive®",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01297-00/v/cf-sm.jpg",
+    "urlName": "vivoactive"
+  },
+  {
+    "id": "79",
+    "partNumber": "006-B2700-00",
+    "name": "vívoactive® 3",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01769-00/v/cf-sm.jpg",
+    "urlName": "vivoactive3"
+  },
+  {
+    "id": "44",
+    "partNumber": "006-B2337-00",
+    "name": "vívoactive® HR",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01605-03/g/cf-sm.jpg",
+    "urlName": "vivoactivehr"
+  },
+  {
+    "id": "233",
+    "partNumber": "006-B3888-00",
+    "name": "Instinct® 2",
+    "additionalNames": [
+      "Instinct® 2 - Camo Edition",
+      "Instinct® 2 Solar - Tactical Edition",
+      "Instinct® 2 Solar - Surf Edition",
+      "Instinct® 2 - dēzl™ Edition"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02627-16/v/sc-05-sm-8e5d5a4c-63fa-4680-8dc0-e0f329a5debd.jpg",
+    "urlName": "instinct2"
+  },
+  {
+    "id": "289",
+    "partNumber": "006-B4394-00",
+    "name": "Instinct® 2X",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02805-10/v/rf-sm.jpg",
+    "urlName": "instinct2x"
+  },
+  {
+    "id": "248",
+    "partNumber": "006-B4071-00",
+    "name": "Instinct® 2",
+    "additionalNames": [
+      "Instinct® 2 - Camo Edition",
+      "Instinct® 2 Solar - Tactical Edition",
+      "Instinct® 2 Solar - Surf Edition",
+      "Instinct® 2 - dēzl™ Edition",
+      "Instinct® 2 Dual Power",
+      "Instinct® 2 Dual Power - Tactical Edition",
+      "Instinct® 2 Dual Power ONE PIECE LUFFY "
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02627-16/v/sc-05-sm-8e5d5a4c-63fa-4680-8dc0-e0f329a5debd.jpg",
+    "urlName": "instinct2-asia"
+  },
+  {
+    "id": "270",
+    "partNumber": "006-B4155-00",
+    "name": "Instinct® Crossover",
+    "additionalNames": [
+      "Instinct® Crossover Dual Power"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-02730-11/v/rf-sm.jpg",
+    "urlName": "instinct-crossover"
+  },
+  {
+    "id": "312",
+    "partNumber": "006-B4583-00",
+    "name": "Instinct® E – 40 mm",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02932-00/v/pd-04-sm.jpg",
+    "urlName": "Instincte-40mm"
+  },
+  {
+    "id": "313",
+    "partNumber": "006-B4584-00",
+    "name": "Instinct® E – 45 mm",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02933-00/v/rf-sm.jpg",
+    "urlName": "Instincte-45mm"
+  },
+  {
+    "id": "315",
+    "partNumber": "006-B4586-00",
+    "name": "Instinct® 3 – 45 mm, AMOLED",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en_GB/products/010-02936-00/v/pd-04-sm.jpg",
+    "urlName": "Instinct3-45mm-a"
+  },
+  {
+    "id": "314",
+    "partNumber": "006-B4585-00",
+    "name": "Instinct® 3 – 45 mm, Solar",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en_GB/products/010-02934-00/v/pd-10-sm.jpg",
+    "urlName": "Instinct3-45mm-s"
+  },
+  {
+    "id": "333",
+    "partNumber": "006-B4759-00",
+    "name": "Instinct® 3 – 50 mm, Solar",
+    "additionalNames": [
+      "Instinct® 3 – 50 mm",
+      "Solar",
+      "Tactical"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-02935-00/v/pd-09-sm.jpg",
+    "urlName": "Instinct3-50mm-s"
+  },
+  {
+    "id": "338",
+    "partNumber": "006-B4678-00",
+    "name": "Instinct® Crossover AMOLED",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-03398-00/v/rf-sm.jpg",
+    "urlName": "InstinctCrossoverA"
+  },
+  {
+    "id": "316",
+    "partNumber": "006-B4587-00",
+    "name": "Instinct® 3 – 50 mm, AMOLED",
+    "additionalNames": [
+      "Instinct® 3 – 50 mm",
+      "AMOLED",
+      "Tactical"
+    ],
+    "imageUrl": "https://res.garmin.com/en_GB/products/010-03020-00/v/pd-06-sm.jpg",
+    "urlName": "Instinct3-40mm-a"
+  },
+  {
+    "id": "68",
+    "partNumber": "006-B2544-00",
+    "name": "fēnix® 5S",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01685-00/v/cf-md.jpg",
+    "urlName": "fenix5s"
+  },
+  {
+    "id": "67",
+    "partNumber": "006-B2697-00",
+    "name": "fēnix® 5",
+    "additionalNames": [
+      "quatix® 5"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01688-00/v/cf-sm.jpg",
+    "urlName": "fenix5"
+  },
+  {
+    "id": "69",
+    "partNumber": "006-B2604-00",
+    "name": "fēnix® 5X",
+    "additionalNames": [
+      "tactix® Charlie"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01733-00/v/cf-md.jpg",
+    "urlName": "fenix5x"
+  },
+  {
+    "id": "234",
+    "partNumber": "006-B3889-00",
+    "name": "Instinct® 2S",
+    "additionalNames": [
+      "Instinct® 2S - Camo Edition",
+      "Instinct® 2S Solar - Tactical Edition",
+      "Instinct® 2S Solar - Surf Edition",
+      "Instinct® 2S - dēzl™ Edition"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02564-11/v/sc-02-sm-426e622a-2b1c-4296-9c52-e7a45755eee1.jpg",
+    "urlName": "instinct2S"
+  },
+  {
+    "id": "250",
+    "partNumber": "006-B4091-00",
+    "name": "Instinct® 2S",
+    "additionalNames": [
+      "Instinct® 2S - Camo Edition",
+      "Instinct® 2S Solar - Tactical Edition",
+      "Instinct® 2S Solar - Surf Edition",
+      "Instinct® 2S - dēzl™ Edition",
+      "Instinct® 2S Dual Power",
+      "Instinct® 2S Dual Power - Surf Edition",
+      "Instinct® 2S Dual Power ONE PIECE CHOPPER"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02564-11/v/sc-02-sm-426e622a-2b1c-4296-9c52-e7a45755eee1.jpg",
+    "urlName": "instinct2s-asia"
+  },
+  {
+    "id": "87",
+    "partNumber": "006-B2988-00",
+    "name": "vívoactive® 3 Music",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01985-03/v/cf-sm-cc4e0386-75e2-4c2f-8cc5-59cca47faed6.jpg",
+    "urlName": "vivoactive3m"
+  },
+  {
+    "id": "101",
+    "partNumber": "006-B3163-00",
+    "name": "vívoactive® 3 Music",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01985-03/v/cf-sm-cc4e0386-75e2-4c2f-8cc5-59cca47faed6.jpg",
+    "urlName": "vivoactive3m-apac"
+  },
+  {
+    "id": "108",
+    "partNumber": "006-B3066-00",
+    "name": "vívoactive® 3 Music",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01985-03/v/cf-sm-cc4e0386-75e2-4c2f-8cc5-59cca47faed6.jpg",
+    "urlName": "vivoactive3music"
+  },
+  {
+    "id": "83",
+    "partNumber": "006-B2859-00",
+    "name": "Descent™ Mk1",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01760-00/v/cf-sm.jpg",
+    "urlName": "descentmk1"
+  },
+  {
+    "id": "86",
+    "partNumber": "006-B2991-00",
+    "name": "Descent™ Mk1",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01760-00/v/cf-sm.jpg",
+    "urlName": "descentmk1-apac"
+  },
+  {
+    "id": "179",
+    "partNumber": "006-B3258-00",
+    "name": "Descent™ MK2",
+    "additionalNames": [
+      "Descent™MK2i"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02132-00/v/pd-03-sm-5dcaa3d1-3191-4acb-b602-7790096bddd6.jpg",
+    "urlName": "descentmk2"
+  },
+  {
+    "id": "187",
+    "partNumber": "006-B3702-00",
+    "name": "Descent™ MK2",
+    "additionalNames": [
+      "Descent™MK2i"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02132-00/v/pd-03-sm-5dcaa3d1-3191-4acb-b602-7790096bddd6.jpg",
+    "urlName": "descentmk2-asia"
+  },
+  {
+    "id": "208",
+    "partNumber": "006-B3542-00",
+    "name": "Descent™ Mk2S",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02403-00/v/cm-sm-ffd44110-3573-4463-9894-dd6896cdef35.png",
+    "urlName": "descentmk2s"
+  },
+  {
+    "id": "212",
+    "partNumber": "006-B3930-00",
+    "name": "Descent™ Mk2S",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02403-00/v/cm-sm-ffd44110-3573-4463-9894-dd6896cdef35.png",
+    "urlName": "descentmk2s-asia"
+  },
+  {
+    "id": "292",
+    "partNumber": "006-B4223-00",
+    "name": "Descent™ MK3i - 51mm",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/es_MX/products/010-02752-10/v/pd-04-sm.jpg",
+    "urlName": "descentmk3"
+  },
+  {
+    "id": "293",
+    "partNumber": "006-B4225-00",
+    "name": "Descent™ MK3i -51mm",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/es_MX/products/010-02752-10/v/pd-04-sm.jpg",
+    "urlName": "descentmk3-asia"
+  },
+  {
+    "id": "295",
+    "partNumber": "006-B4222-00",
+    "name": "Descent™ MK3 - 43mm",
+    "additionalNames": [
+      "Descent™ MK3i - 43mm"
+    ],
+    "imageUrl": "https://res.garmin.com/fr_CA/products/010-02753-03/v/pd-04-sm.jpg",
+    "urlName": "descentmk3-43"
+  },
+  {
+    "id": "322",
+    "partNumber": "006-B4588-00",
+    "name": "Descent™ G2",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/sv_SE/products/010-02986-01/v/pd-05-sm.jpg",
+    "urlName": "descentg2"
+  },
+  {
+    "id": "296",
+    "partNumber": "006-B4224-00",
+    "name": "Descent™ MK3 (43mm)",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/fr_CA/products/010-02753-03/v/pd-04-sm.jpg",
+    "urlName": "descentmk3-43-asia"
+  },
+  {
+    "id": "217",
+    "partNumber": "006-B3703-00",
+    "name": "Venu® 2",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02430-10/v/cm-sm-26d3d922-fbce-45e1-9851-0fc7cd29f2c0.png",
+    "urlName": "venu2"
+  },
+  {
+    "id": "218",
+    "partNumber": "006-B3704-00",
+    "name": "Venu® 2S",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02429-10/v/cm-sm-9e11f013-57fa-4143-aeba-20804d29ec5c.png",
+    "urlName": "venu2s"
+  },
+  {
+    "id": "219",
+    "partNumber": "006-B3851-00",
+    "name": "Venu® 2 Plus",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02496-10/v/pd-01-sm-8096ba5b-467d-406a-8207-6e2b8a609d2f.jpg",
+    "urlName": "venu2plus"
+  },
+  {
+    "id": "227",
+    "partNumber": "006-B3950-00",
+    "name": "Venu® 2",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02430-10/v/cm-sm-26d3d922-fbce-45e1-9851-0fc7cd29f2c0.png",
+    "urlName": "venu2-asia"
+  },
+  {
+    "id": "230",
+    "partNumber": "006-B4017-00",
+    "name": "Venu® 2 Plus",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02496-10/v/pd-01-sm-8096ba5b-467d-406a-8207-6e2b8a609d2f.jpg",
+    "urlName": "venu2plus-asia"
+  },
+  {
+    "id": "22",
+    "partNumber": "006-B2397-00",
+    "name": "ForeAthlete® 235J",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-03717-54/g/cf-sm.jpg",
+    "urlName": "forerunner235-apac-jp"
+  },
+  {
+    "id": "228",
+    "partNumber": "006-B3949-00",
+    "name": "Venu® 2S",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02429-10/v/cm-sm-9e11f013-57fa-4143-aeba-20804d29ec5c.png",
+    "urlName": "venu2s-asia"
+  },
+  {
+    "id": "29",
+    "partNumber": "006-B2413-00",
+    "name": "fēnix® 3 HR",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01338-70/g/cf-sm.jpg",
+    "urlName": "fenix3hr"
+  },
+  {
+    "id": "85",
+    "partNumber": "006-B2976-00",
+    "name": "vívoactive® 3",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01769-00/v/cf-sm.jpg",
+    "urlName": "vivoactive3-apac"
+  },
+  {
+    "id": "2",
+    "partNumber": "006-B2050-00",
+    "name": "fēnix® 3",
+    "additionalNames": [
+      "quatix® 3",
+      "tactix® Bravo"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01338-00/v/cf-sm.jpg",
+    "urlName": "fenix3"
+  },
+  {
+    "id": "290",
+    "partNumber": "006-B4260-00",
+    "name": "Venu® 3",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/de_DE/products/010-02784-00/v/pd-01-sm.png",
+    "urlName": "venu3"
+  },
+  {
+    "id": "291",
+    "partNumber": "006-B4261-00",
+    "name": "Venu® 3S",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/es_MX/products/010-02785-00/v/pd-01-sm.png",
+    "urlName": "venu3s"
+  },
+  {
+    "id": "326",
+    "partNumber": "006-B4644-00",
+    "name": "Venu® 4 – 41 mm",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-03013-00/v/pd-01-sm.jpg",
+    "urlName": "venu4s"
+  },
+  {
+    "id": "327",
+    "partNumber": "006-B4643-00",
+    "name": "Venu® 4 – 45 mm",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-03014-00/v/pd-01-sm.jpg",
+    "urlName": "venu4"
+  },
+  {
+    "id": "332",
+    "partNumber": "006-B4603-00",
+    "name": "Venu® X1",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/fr_CA/products/010-02980-00/v/rf-sm.jpg",
+    "urlName": "venux1"
+  },
+  {
+    "id": "74",
+    "partNumber": "006-B2833-00",
+    "name": "ForeAthlete 935",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01746-00/v/cf-sm.jpg",
+    "urlName": "forerunner935-apac"
+  },
+  {
+    "id": "4",
+    "partNumber": "006-B1765-00",
+    "name": "Forerunner® 920XT",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01174-00/v/cf-sm.jpg",
+    "urlName": "forerunner920XT"
+  },
+  {
+    "id": "18",
+    "partNumber": "006-B2157-00",
+    "name": "Forerunner® 230",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-03717-40/v/cf-sm.jpg",
+    "urlName": "forerunner230"
+  },
+  {
+    "id": "16",
+    "partNumber": "006-B2156-00",
+    "name": "Forerunner® 630",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-03717-00/v/cf-sm.jpg",
+    "urlName": "forerunner630"
+  },
+  {
+    "id": "81",
+    "partNumber": "006-B2886-00",
+    "name": "Forerunner® 645",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01863-10/v/cf-sm-3d860c6d-aec3-4fcd-8544-3ec55190a637.jpg",
+    "urlName": "forerunner645"
+  },
+  {
+    "id": "253",
+    "partNumber": "006-B4171-00",
+    "name": "Mercedes-Benz Venu® 2",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02430-22/v/cf-sm-c77f7728-90d5-4be1-a73b-b988ed45bcc1.png",
+    "urlName": "venu2d"
+  },
+  {
+    "id": "254",
+    "partNumber": "006-B4175-00",
+    "name": "Mercedes-Benz Venu® 2S",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02429-20/v/cf-sm-06f6a68d-b824-401d-b65e-dd33db5cb6cf.png",
+    "urlName": "venu2sd"
+  },
+  {
+    "id": "256",
+    "partNumber": "006-B4180-00",
+    "name": "Mercedes-Benz Venu® 2",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02430-22/v/cf-sm-c77f7728-90d5-4be1-a73b-b988ed45bcc1.png",
+    "urlName": "venu2d-apac"
+  },
+  {
+    "id": "257",
+    "partNumber": "006-B4181-00",
+    "name": "Mercedes-Benz Venu® 2S",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02429-20/v/cf-sm-06f6a68d-b824-401d-b65e-dd33db5cb6cf.png",
+    "urlName": "venu2sd-apac"
+  },
+  {
+    "id": "82",
+    "partNumber": "006-B2888-00",
+    "name": "Forerunner® 645 Music",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01863-30/v/cf-sm-cf7f4202-dce2-4c43-ab20-0d0ae12b35f3.jpg",
+    "urlName": "forerunner645music"
+  },
+  {
+    "id": "89",
+    "partNumber": "006-B3003-00",
+    "name": "ForeAthlete 645",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01863-10/v/cf-sm-3d860c6d-aec3-4fcd-8544-3ec55190a637.jpg",
+    "urlName": "forerunner645-apac"
+  },
+  {
+    "id": "90",
+    "partNumber": "006-B3004-00",
+    "name": "ForeAthlete 645 Music",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01863-30/v/cf-sm-cf7f4202-dce2-4c43-ab20-0d0ae12b35f3.jpg",
+    "urlName": "forerunner645m-apac"
+  },
+  {
+    "id": "88",
+    "partNumber": "006-B3095-00",
+    "name": "Edge® 1030, Bontrager",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01758-10/g/cf-sm.jpg",
+    "urlName": "edge1030bontrager"
+  },
+  {
+    "id": "27",
+    "partNumber": "006-B1836-00",
+    "name": "Edge® 1000",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/de/products/010-01161-01/g/cf-sm.jpg",
+    "urlName": "edge1000"
+  },
+  {
+    "id": "181",
+    "partNumber": "006-B3570-00",
+    "name": "Edge® 1030 Plus",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02424-00/g/cf-sm-87bc593f-a77e-4708-8d5c-b45ce3c8f4a7.jpg",
+    "urlName": "edge1030plus"
+  },
+  {
+    "id": "188",
+    "partNumber": "006-B3558-00",
+    "name": "Edge® 130 Plus",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02385-00/g/cf-sm-f7af9045-fccf-41f7-a2d9-3f3bfec4a5ee.jpg",
+    "urlName": "edge130plus"
+  },
+  {
+    "id": "202",
+    "partNumber": "006-B3812-00",
+    "name": "Edge® 1030 Plus",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02424-00/g/cf-sm-87bc593f-a77e-4708-8d5c-b45ce3c8f4a7.jpg",
+    "urlName": "edge1030plus-asia"
+  },
+  {
+    "id": "203",
+    "partNumber": "006-B3813-00",
+    "name": "Edge® 130 Plus",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02385-00/g/cf-sm-f7af9045-fccf-41f7-a2d9-3f3bfec4a5ee.jpg",
+    "urlName": "edge130plus-asia"
+  },
+  {
+    "id": "259",
+    "partNumber": "006-B3843-00",
+    "name": "Edge® 1040",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02503-00/g/cf-sm.jpg",
+    "urlName": "edge1040"
+  },
+  {
+    "id": "268",
+    "partNumber": "006-B4305-00",
+    "name": "Edge® 1040",
+    "additionalNames": [
+      "Edge® 1040 Dual Power"
+    ],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1648587543/Product_Images/en/products/010-02503-00/v/cf-sm-ba7f3091-b241-4fd3-a4e7-4f25a5332278.jpg",
+    "urlName": "edge1040-asia"
+  },
+  {
+    "id": "302",
+    "partNumber": "006-B4440-00",
+    "name": "Edge® 1050",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02890-00/g/cf-sm.jpg",
+    "urlName": "edge1050"
+  },
+  {
+    "id": "269",
+    "partNumber": "006-B4169-00",
+    "name": "Edge® Explore 2",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02703-00/g/cf-sm.jpg",
+    "urlName": "edgeexplore2"
+  },
+  {
+    "id": "26",
+    "partNumber": "006-B2067-00",
+    "name": "Edge® 520",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01368-00/v/cf-sm.jpg",
+    "urlName": "edge520"
+  },
+  {
+    "id": "3",
+    "partNumber": "006-B1988-00",
+    "name": "epix™",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01247-00/g/cf-sm.jpg",
+    "urlName": "epix"
+  },
+  {
+    "id": "46",
+    "partNumber": "006-B2158-00",
+    "name": "Forerunner® 735XT",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01614-00/v/cf-sm.jpg",
+    "urlName": "forerunner735XT"
+  },
+  {
+    "id": "177",
+    "partNumber": "006-B2187-00",
+    "name": "D2™ Air",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02173-41/g/cf-sm-11d59984-bc91-49ed-bfe9-d2ddc7c627a8.jpg",
+    "urlName": "d2air"
+  },
+  {
+    "id": "241",
+    "partNumber": "006-B4125-00",
+    "name": "D2™ Air X10",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02496-09/v/pd-01-sm-bc0a4be7-cac1-424e-9343-dbadb33efabf.jpg",
+    "urlName": "d2airx10"
+  },
+  {
+    "id": "341",
+    "partNumber": "006-B4944-00",
+    "name": "D2™ Air X15",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-03014-50/v/rf-sm.jpg",
+    "urlName": "D2airx15"
+  },
+  {
+    "id": "11",
+    "partNumber": "006-B2262-00",
+    "name": "D2™ Bravo",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01338-31/v/cf-sm.jpg",
+    "urlName": "d2bravo"
+  },
+  {
+    "id": "21",
+    "partNumber": "006-B2396-00",
+    "name": "Forerunner® 235",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-03717-54/g/cf-sm.jpg",
+    "urlName": "forerunner235-apac"
+  },
+  {
+    "id": "260",
+    "partNumber": "006-B4079-00",
+    "name": "D2™ Mach 1",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02582-50/g/cf-sm-072c4843-2066-4cd6-8d23-35dfcc65dd05.jpg",
+    "urlName": "d2mach1"
+  },
+  {
+    "id": "303",
+    "partNumber": "006-B4556-00",
+    "name": "D2™ Mach 1 Pro",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02804-80/v/pd-01-sm.jpg",
+    "urlName": "D2mach1pro"
+  },
+  {
+    "id": "340",
+    "partNumber": "006-B4879-00",
+    "name": "D2™ Mach 2",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02904-30/v/rf-sm.jpg",
+    "urlName": "D2mach2"
+  },
+  {
+    "id": "346",
+    "partNumber": "006-B5056-00",
+    "name": "D2™ Mach 2 Pro",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-03199-50/v/cf-sm-2x3.png",
+    "urlName": "d2mach2pro"
+  },
+  {
+    "id": "8",
+    "partNumber": "006-B2132-00",
+    "name": "ForeAthlete® 920XTJ",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01174-00/g/cf-sm.jpg",
+    "urlName": "forerunner920XT-apac-jp"
+  },
+  {
+    "id": "28",
+    "partNumber": "006-B2204-00",
+    "name": "Edge® Explore 1000",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01527-00/g/cf-sm.jpg",
+    "urlName": "edgeexplore1000"
+  },
+  {
+    "id": "51",
+    "partNumber": "006-B2547-00",
+    "name": "D2™ Bravo Titanium",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01338-36/v/cf-sm.jpg",
+    "urlName": "d2bravotitanium"
+  },
+  {
+    "id": "104",
+    "partNumber": "006-B3197-00",
+    "name": "D2™ Delta",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01988-30/g/cf-sm-87bb0674-cc55-4a52-ad94-32bf9b4e729c.jpg",
+    "urlName": "d2delta"
+  },
+  {
+    "id": "105",
+    "partNumber": "006-B3196-00",
+    "name": "D2™ Delta S",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01987-30/g/cf-sm-431a8fa0-3449-43e0-9702-5ff6ad991c84.jpg",
+    "urlName": "d2deltas"
+  },
+  {
+    "id": "106",
+    "partNumber": "006-B3198-00",
+    "name": "D2™ Delta PX",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01989-30/g/cf-sm-874810a3-a28b-4484-955d-6c4a24c4f7bf.jpg",
+    "urlName": "d2deltapx"
+  },
+  {
+    "id": "78",
+    "partNumber": "006-B2819-00",
+    "name": "D2™ Charlie",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01733-30/v/cf-sm.jpg",
+    "urlName": "d2charlie"
+  },
+  {
+    "id": "80",
+    "partNumber": "006-B2994-00",
+    "name": "D2™ Charlie",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01733-30/v/cf-sm.jpg",
+    "urlName": "d2charlie-apac"
+  },
+  {
+    "id": "258",
+    "partNumber": "006-B4135-00",
+    "name": "tactix® 7",
+    "additionalNames": [
+      "tactix® 7 – Pro Ballistics Edition",
+      "tactix® 7 – Pro Edition"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02704-00/v/pd-01-sm-b5f086c9-db63-458e-b1c3-70076dff030d.jpg",
+    "urlName": "tactix7"
+  },
+  {
+    "id": "301",
+    "partNumber": "006-B4542-00",
+    "name": "tactix® 7 – AMOLED Edition",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02931-00/g/pd-03-sm.png",
+    "urlName": "tactix7o"
+  },
+  {
+    "id": "324",
+    "partNumber": "006-B4775-00",
+    "name": "tactix® 8 – 47 mm, AMOLED",
+    "additionalNames": [
+      "tactix® 8 – 51 mm",
+      "AMOLED"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-03405-00/v/pd-07-sm.jpg",
+    "urlName": "tactix8-47-51"
+  },
+  {
+    "id": "335",
+    "partNumber": "006-B4776-00",
+    "name": "tactix® 8 – 51 mm, Solar",
+    "additionalNames": [
+      "tactix® 8 – 51 mm",
+      "Solar",
+      "Elite"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-03407-00/v/pd-08-sm.jpg",
+    "urlName": "tactix8s-51"
+  },
+  {
+    "id": "235",
+    "partNumber": "006-B3943-00",
+    "name": "epix™ (Gen 2)",
+    "additionalNames": [
+      "quatix® 7 – Sapphire Edition"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02582-00/v/sc-02-sm-a9a189e7-e6a6-4a21-a8f2-71d306469085.jpg",
+    "urlName": "epix2"
+  },
+  {
+    "id": "240",
+    "partNumber": "006-B3944-00",
+    "name": "epix™ (Gen 2)",
+    "additionalNames": [
+      "quatix® 7 – Sapphire Edition"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02582-00/v/sc-02-sm-a9a189e7-e6a6-4a21-a8f2-71d306469085.jpg",
+    "urlName": "epix2-asia"
+  },
+  {
+    "id": "277",
+    "partNumber": "006-B4312-00",
+    "name": "epix™ Pro (42mm)",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02802-13/v/pd-01-sm.jpg",
+    "urlName": "epixpro42"
+  },
+  {
+    "id": "278",
+    "partNumber": "006-B4313-00",
+    "name": "epix™ Pro (47mm)",
+    "additionalNames": [
+      "quatix® 7 Pro"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-02803-00/v/pd-04-sm.jpg",
+    "urlName": "epixpro47"
+  },
+  {
+    "id": "279",
+    "partNumber": "006-B4314-00",
+    "name": "epix™ Pro (51mm)",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02804-21/v/pd-04-sm.jpg",
+    "urlName": "epixpro51"
+  },
+  {
+    "id": "50",
+    "partNumber": "006-B2313-00",
+    "name": "ForeAthlete® 230J",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-03717-40/g/cf-sm.jpg",
+    "urlName": "forerunner230-apac-jp"
+  },
+  {
+    "id": "49",
+    "partNumber": "006-B2311-00",
+    "name": "ForeAthlete® 630J",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-03717-00/g/cf-sm.jpg",
+    "urlName": "forerunner630-apac-jp"
+  },
+  {
+    "id": "53",
+    "partNumber": "006-B2512-00",
+    "name": "Oregon® 7 Series",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01672-20/g/cf-sm.jpg",
+    "urlName": "oregon750"
+  },
+  {
+    "id": "52",
+    "partNumber": "006-B2432-00",
+    "name": "fēnix® Chronos",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01957-00/v/cf-sm.jpg",
+    "urlName": "fenixchronos"
+  },
+  {
+    "id": "48",
+    "partNumber": "006-B2534-00",
+    "name": "ForeAthlete® 735XTJ",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01614-00/g/cf-sm.jpg",
+    "urlName": "forerunner735XT-apac-jp"
+  },
+  {
+    "id": "54",
+    "partNumber": "006-B2530-00",
+    "name": "Edge® 820",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01626-00/g/cf-sm.jpg",
+    "urlName": "edge820"
+  },
+  {
+    "id": "55",
+    "partNumber": "006-B2531-00",
+    "name": "Edge® Explore 820",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01626-02/g/cf-sm.jpg",
+    "urlName": "edgeexplore820"
+  },
+  {
+    "id": "62",
+    "partNumber": "006-B2444-00",
+    "name": "Rino® 7 Series",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01958-01/g/cf-sm.jpg",
+    "urlName": "rino750"
+  },
+  {
+    "id": "107",
+    "partNumber": "006-B3187-00",
+    "name": "Rino® 7 Series",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01958-01/g/cf-sm.jpg",
+    "urlName": "rino7501"
+  },
+  {
+    "id": "70",
+    "partNumber": "006-B2691-00",
+    "name": "Forerunner® 935",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01746-00/v/cf-sm.jpg",
+    "urlName": "forerunner935"
+  },
+  {
+    "id": "72",
+    "partNumber": "006-B2797-00",
+    "name": "fēnix® 5S",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01685-00/v/cf-md.jpg",
+    "urlName": "fenix5s-apac"
+  },
+  {
+    "id": "71",
+    "partNumber": "006-B2796-00",
+    "name": "fēnix® 5",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01688-00/v/cf-sm.jpg",
+    "urlName": "fenix5-apac"
+  },
+  {
+    "id": "73",
+    "partNumber": "006-B2798-00",
+    "name": "fēnix® 5X",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01733-00/v/cf-md.jpg",
+    "urlName": "fenix5x-apac"
+  },
+  {
+    "id": "23",
+    "partNumber": "006-B2407-00",
+    "name": "fēnix® 3",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01338-21/g/cf-sm.jpg",
+    "urlName": "fenix3-apac-kor"
+  },
+  {
+    "id": "24",
+    "partNumber": "006-B2408-00",
+    "name": "fēnix® 3",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01338-21/g/cf-sm.jpg",
+    "urlName": "fenix3-apac-sea"
+  },
+  {
+    "id": "285",
+    "partNumber": "006-B4415-00",
+    "name": "Montana® 700",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02133-00/g/cf-sm-eed10c23-6410-4fb4-bbe7-d235d8c1de78.jpg",
+    "urlName": "montana7xx-apac"
+  },
+  {
+    "id": "9",
+    "partNumber": "006-B2188-00",
+    "name": "fēnix® 3",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01338-00/g/cf-sm.jpg",
+    "urlName": "fenix3-apac-cn"
+  },
+  {
+    "id": "30",
+    "partNumber": "006-B2473-00",
+    "name": "fēnix® 3 HR",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01338-70/g/cf-sm.jpg",
+    "urlName": "fenix3hr-apac"
+  },
+  {
+    "id": "31",
+    "partNumber": "006-B2475-00",
+    "name": "fēnix® 3 HR",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01338-70/g/cf-sm.jpg",
+    "urlName": "fenix3hr-apac-jp"
+  },
+  {
+    "id": "32",
+    "partNumber": "006-B2477-00",
+    "name": "fēnix® 3 HR",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01338-70/g/cf-sm.jpg",
+    "urlName": "fenix3hr-apac-kor"
+  },
+  {
+    "id": "33",
+    "partNumber": "006-B2476-00",
+    "name": "fēnix® 3 HR",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01338-70/g/cf-sm.jpg",
+    "urlName": "fenix3hr-apac-sea"
+  },
+  {
+    "id": "236",
+    "partNumber": "006-B4005-00",
+    "name": "Descent™ G1",
+    "additionalNames": [
+      "Descent™ G1 Solar",
+      "Descent™ G1 Solar - Ocean Edition"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02604-00/g/cf-sm-d5a36bc4-dc37-4747-a026-4dc1d6a289b7.jpg",
+    "urlName": "DescentG1"
+  },
+  {
+    "id": "255",
+    "partNumber": "006-B4132-00",
+    "name": "Descent™ G1",
+    "additionalNames": [
+      "Descent™ G1 Dual Power",
+      "Descent™ G1 Dual Power - Ocean Edition"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02604-00/g/cf-sm-d5a36bc4-dc37-4747-a026-4dc1d6a289b7.jpg",
+    "urlName": "DescentG1-apac"
+  },
+  {
+    "id": "34",
+    "partNumber": "006-B2474-00",
+    "name": "fēnix® 3 HR",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01338-70/g/cf-sm.jpg",
+    "urlName": "fenix3hr-apac-tw"
+  },
+  {
+    "id": "19",
+    "partNumber": "006-B2312-00",
+    "name": "Forerunner® 230",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-03717-40/v/cf-sm.jpg",
+    "urlName": "forerunner230-apac"
+  },
+  {
+    "id": "43",
+    "partNumber": "006-B2516-00",
+    "name": "Forerunner® 235",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-03717-54/v/cf-sm.jpg",
+    "urlName": "forerunner235-emea-isr"
+  },
+  {
+    "id": "17",
+    "partNumber": "006-B2310-00",
+    "name": "Forerunner® 630",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-03717-00/g/cf-sm.jpg",
+    "urlName": "forerunner630-apac"
+  },
+  {
+    "id": "47",
+    "partNumber": "006-B2533-00",
+    "name": "Forerunner® 735XT",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01614-00/g/cf-sm.jpg",
+    "urlName": "forerunner735XT-apac"
+  },
+  {
+    "id": "6",
+    "partNumber": "006-B2130-00",
+    "name": "Forerunner® 920XT",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01174-00/g/cf-sm.jpg",
+    "urlName": "forerunner920XT-apac-tw"
+  },
+  {
+    "id": "7",
+    "partNumber": "006-B2131-00",
+    "name": "Forerunner® 920XT",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01174-00/g/cf-sm.jpg",
+    "urlName": "forerunner920XT-apac-cn"
+  },
+  {
+    "id": "5",
+    "partNumber": "006-B2160-00",
+    "name": "vívoactive®",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en_GB/products/010-01297-00/de/cf-sm.jpg",
+    "urlName": "vivoactive-apac"
+  },
+  {
+    "id": "45",
+    "partNumber": "006-B2497-00",
+    "name": "vívoactive® HR",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01605-03/g/cf-sm.jpg",
+    "urlName": "vivoactivehr-apac"
+  },
+  {
+    "id": "42",
+    "partNumber": "006-B2467-00",
+    "name": "D2™ Bravo",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01338-36/g/cf-sm.jpg",
+    "urlName": "d2bravo-apac-cn"
+  },
+  {
+    "id": "35",
+    "partNumber": "006-B2052-00",
+    "name": "Edge® 1000",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/de_DE/products/010-01161-04/g/cf-sm.jpg",
+    "urlName": "edge1000-apac-tw"
+  },
+  {
+    "id": "77",
+    "partNumber": "006-B2713-00",
+    "name": "Edge® 1030",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01758-10/v/cf-sm.jpg",
+    "urlName": "edge1030"
+  },
+  {
+    "id": "36",
+    "partNumber": "006-B2053-00",
+    "name": "Edge® 1000",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/de_DE/products/010-01161-04/g/cf-sm.jpg",
+    "urlName": "edge1000-apac-jp"
+  },
+  {
+    "id": "37",
+    "partNumber": "006-B2070-00",
+    "name": "Edge® 1000",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/de_DE/products/010-01161-04/g/cf-sm.jpg",
+    "urlName": "edge1000-apac-cn"
+  },
+  {
+    "id": "38",
+    "partNumber": "006-B2100-00",
+    "name": "Edge® 1000",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/de_DE/products/010-01161-04/g/cf-sm.jpg",
+    "urlName": "edge1000-apac-kor"
+  },
+  {
+    "id": "39",
+    "partNumber": "006-B2274-00",
+    "name": "Edge® 1000",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/de_DE/products/010-01161-04/g/cf-sm.jpg",
+    "urlName": "edge1000-apac-th"
+  },
+  {
+    "id": "40",
+    "partNumber": "006-B2260-00",
+    "name": "Edge® 520",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01368-00/g/cf-sm.jpg",
+    "urlName": "edge520-apac"
+  },
+  {
+    "id": "41",
+    "partNumber": "006-B2261-00",
+    "name": "Edge® 520",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01368-00/g/cf-sm.jpg",
+    "urlName": "edge520-apac-jp"
+  },
+  {
+    "id": "56",
+    "partNumber": "006-B2599-00",
+    "name": "Edge® 820",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01626-00/g/cf-sm.jpg",
+    "urlName": "edge820-apac-cn"
+  },
+  {
+    "id": "57",
+    "partNumber": "006-B2628-00",
+    "name": "Edge® 820",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01626-00/g/cf-sm.jpg",
+    "urlName": "edge820-apac-tw"
+  },
+  {
+    "id": "58",
+    "partNumber": "006-B2600-00",
+    "name": "Edge® 820",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01626-00/g/cf-sm.jpg",
+    "urlName": "edge820-apac-jp"
+  },
+  {
+    "id": "59",
+    "partNumber": "006-B2629-00",
+    "name": "Edge® 820",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01626-00/g/cf-sm.jpg",
+    "urlName": "edge820-apac-ko"
+  },
+  {
+    "id": "60",
+    "partNumber": "006-B2630-00",
+    "name": "Edge® 820",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01626-00/g/cf-sm.jpg",
+    "urlName": "edge820-apac-sea"
+  },
+  {
+    "id": "13",
+    "partNumber": "006-B2330-00",
+    "name": "epix™",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01247-00/g/cf-sm.jpg",
+    "urlName": "epix-apac-tw"
+  },
+  {
+    "id": "14",
+    "partNumber": "006-B2331-00",
+    "name": "epix™",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01247-00/g/cf-sm.jpg",
+    "urlName": "epix-apac-cn"
+  },
+  {
+    "id": "15",
+    "partNumber": "006-B2332-00",
+    "name": "epix™",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01247-00/g/cf-sm.jpg",
+    "urlName": "epix-apac-jp"
+  },
+  {
+    "id": "25",
+    "partNumber": "006-B2457-00",
+    "name": "epix™",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01247-00/g/cf-sm.jpg",
+    "urlName": "epix-apac-kor"
+  },
+  {
+    "id": "10",
+    "partNumber": "006-B2189-00",
+    "name": "fēnix® 3",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01338-00/g/cf-sm.jpg",
+    "urlName": "fenix3-apac-tw"
+  },
+  {
+    "id": "12",
+    "partNumber": "006-B2293-00",
+    "name": "fēnix® 3",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01338-00/g/cf-sm.jpg",
+    "urlName": "fenix3-apac-jp"
+  },
+  {
+    "id": "178",
+    "partNumber": "006-B3459-00",
+    "name": "Montana 700",
+    "additionalNames": [
+      "Montana 700i",
+      "Montana 750i"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02133-00/g/cf-sm-eed10c23-6410-4fb4-bbe7-d235d8c1de78.jpg",
+    "urlName": "montana7xx"
+  },
+  {
+    "id": "342",
+    "partNumber": "006-B5015-00",
+    "name": "Montana® 760i",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02964-10/v/cf-sm.jpg",
+    "urlName": "montana760i-apac"
+  },
+  {
+    "id": "61",
+    "partNumber": "006-B2681-00",
+    "name": "Oregon® 7 Series",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01672-20/g/cf-sm.jpg",
+    "urlName": "oregon750-apac"
+  },
+  {
+    "id": "63",
+    "partNumber": "006-B2692-00",
+    "name": "Oregon® 7 Series",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01672-20/g/cf-sm.jpg",
+    "urlName": "oregon750-apac-cn"
+  },
+  {
+    "id": "64",
+    "partNumber": "006-B2675-00",
+    "name": "fēnix® Chronos",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01957-00/v/cf-sm.jpg",
+    "urlName": "fenixchronos-apac"
+  },
+  {
+    "id": "65",
+    "partNumber": "006-B2653-00",
+    "name": "Forerunner® 235",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-03717-54/v/cf-sm.jpg",
+    "urlName": "forerunner235cib-apac"
+  },
+  {
+    "id": "66",
+    "partNumber": "006-B2733-00",
+    "name": "Forerunner® 235",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-03717-54/v/cf-sm.jpg",
+    "urlName": "forerunner235ep-apac"
+  },
+  {
+    "id": "75",
+    "partNumber": "006-B2656-00",
+    "name": "Approach® S60",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01702-00/v/cf-sm.jpg",
+    "urlName": "approachs60"
+  },
+  {
+    "id": "282",
+    "partNumber": "006-B4336-00",
+    "name": "GPSMAP® 67",
+    "additionalNames": [
+      "GPSMAP® 67i"
+    ],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1666014335/Product_Images/en/products/010-02813-00/g/cf-sm.jpg",
+    "urlName": "gpsmap67"
+  },
+  {
+    "id": "298",
+    "partNumber": "006-B4473-00",
+    "name": "GPSMAP® 67",
+    "additionalNames": [
+      "GPSMAP® 67i"
+    ],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1666014335/Product_Images/en/products/010-02813-00/g/cf-sm.jpg",
+    "urlName": "gpsmap67-asia"
+  },
+  {
+    "id": "321",
+    "partNumber": "006-B4552-00",
+    "name": "GPSMAP® H1",
+    "additionalNames": [
+      "GPSMAP® H1i Plus"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-02920-00/g/cf-sm.jpg",
+    "urlName": "gpsmaph1"
+  },
+  {
+    "id": "331",
+    "partNumber": "006-B4522-00",
+    "name": "eTrex® Touch",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02940-00/v/pd-03-sm.jpg",
+    "urlName": "etrextouch"
+  },
+  {
+    "id": "174",
+    "partNumber": "006-B3393-00",
+    "name": "Approach® S62",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02200-00/v/pd-03-sm-32c3215c-7217-4a09-9b06-adeda2ed555a.jpg",
+    "urlName": "approachs62"
+  },
+  {
+    "id": "180",
+    "partNumber": "006-B3700-00",
+    "name": "Approach® S62",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02200-00/v/pd-03-sm-32c3215c-7217-4a09-9b06-adeda2ed555a.jpg",
+    "urlName": "approachs62-asia"
+  },
+  {
+    "id": "280",
+    "partNumber": "006-B4234-00",
+    "name": "Approach® S70 (47mm)",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02746-22/g/pd-05-sm.jpg",
+    "urlName": "approachs70"
+  },
+  {
+    "id": "281",
+    "partNumber": "006-B4233-00",
+    "name": "Approach® S70 (42mm)",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/fi_FI/products/010-02746-10/pd-01-sm.jpg",
+    "urlName": "approachs70s"
+  },
+  {
+    "id": "323",
+    "partNumber": "006-B4656-00",
+    "name": "Approach® S50",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-03010-00/v/pd-03-sm.jpg",
+    "urlName": "approachS50"
+  },
+  {
+    "id": "76",
+    "partNumber": "006-B2907-00",
+    "name": "Approach® S60",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01702-00/v/cf-sm.jpg",
+    "urlName": "approachs60-apac"
+  },
+  {
+    "id": "113",
+    "partNumber": "006-B3246-00",
+    "name": "MARQ™ Driver",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02006-00/g/cf-sm-2f580581-696f-4e11-808b-c8acd963de46.jpg",
+    "urlName": "marq-driver"
+  },
+  {
+    "id": "274",
+    "partNumber": "006-B4105-00",
+    "name": "MARQ® (Gen 2)",
+    "additionalNames": [
+      "MARQ® Carbon Collection",
+      "MARQ® Adventurer (Gen 2) - Damascus Steel Edition"
+    ],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1664569372/Product_Images/en/products/010-02648-30/g/pd-04-sm.jpg",
+    "urlName": "marqII"
+  },
+  {
+    "id": "275",
+    "partNumber": "006-B4124-00",
+    "name": "MARQ™ Aviator (Gen 2)",
+    "additionalNames": [],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1660570440/Product_Images/en/products/010-02648-00/g/pd-04-sm.jpg",
+    "urlName": "marqIIaviator"
+  },
+  {
+    "id": "276",
+    "partNumber": "006-B4106-00",
+    "name": "MARQ® (Gen 2)",
+    "additionalNames": [
+      "MARQ® Carbon Collection"
+    ],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1664569372/Product_Images/en/products/010-02648-30/g/pd-04-sm.jpg",
+    "urlName": "marqII-apac"
+  },
+  {
+    "id": "297",
+    "partNumber": "006-B4472-00",
+    "name": "MARQ® Commander (Gen 2) – Carbon Edition",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02722-00/v/pd-03-sm.jpg",
+    "urlName": "marqII-commander-carbon"
+  },
+  {
+    "id": "84",
+    "partNumber": "006-B2924-00",
+    "name": "Edge® 1030",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01758-10/g/cf-sm.jpg",
+    "urlName": "edge1030-apac"
+  },
+  {
+    "id": "114",
+    "partNumber": "006-B3247-00",
+    "name": "MARQ™ Aviator",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02006-03/g/cf-sm-614d7b98-9b70-4c8a-bec7-5ee303166767.jpg",
+    "urlName": "marq-aviator"
+  },
+  {
+    "id": "91",
+    "partNumber": "006-B3110-00",
+    "name": "fēnix® 5 Plus",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01988-10/v/cf-sm-c9091bfe-f1af-42b4-bd62-f3b45f46a15d.jpg",
+    "urlName": "fenix5plus"
+  },
+  {
+    "id": "115",
+    "partNumber": "006-B3248-00",
+    "name": "MARQ™ Captain",
+    "additionalNames": [
+      "MARQ™ Captain: American Magic Edition"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02006-06/g/cf-sm-04034f67-9380-4d27-b5aa-678600fb8b5f.jpg",
+    "urlName": "marq-captain"
+  },
+  {
+    "id": "92",
+    "partNumber": "006-B2900-00",
+    "name": "fēnix® 5S Plus",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01987-00/v/cf-sm-58f98bed-90e7-4199-b4bc-925aec9690a7.jpg",
+    "urlName": "fenix5splus"
+  },
+  {
+    "id": "116",
+    "partNumber": "006-B3249-00",
+    "name": "MARQ™ Commander",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02006-11/g/rf-sm-517ae5f4-8789-49b5-ad89-d2002ee9f8e3.jpg",
+    "urlName": "marq-commander"
+  },
+  {
+    "id": "93",
+    "partNumber": "006-B3111-00",
+    "name": "fēnix® 5X Plus",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01989-04/v/cf-sm-6dd29412-ddad-4f53-b62d-84eaaa06f258.jpg",
+    "urlName": "fenix5xplus"
+  },
+  {
+    "id": "117",
+    "partNumber": "006-B3250-00",
+    "name": "MARQ™ Expedition",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02006-12/g/cf-sm-4d82de5c-a266-4cb0-abd1-a167526e2669.jpg",
+    "urlName": "marq-expedition"
+  },
+  {
+    "id": "102",
+    "partNumber": "006-B3142-00",
+    "name": "Edge® 520 Plus",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02083-00/v/cf-sm-222cacb8-6733-4d20-8ad9-6c69b4fc917b.jpg",
+    "urlName": "edge520plus-apac"
+  },
+  {
+    "id": "118",
+    "partNumber": "006-B3251-00",
+    "name": "MARQ™ Athlete",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02006-15/g/cf-sm-0b73c33d-2df0-4d7e-b438-fd23d7c4390f.jpg",
+    "urlName": "marq-athlete"
+  },
+  {
+    "id": "103",
+    "partNumber": "006-B3011-00",
+    "name": "Edge® Explore",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02029-00/g/cf-sm-989c05c5-db39-4699-9692-440101e52cce.jpg",
+    "urlName": "edgeexplore"
+  },
+  {
+    "id": "94",
+    "partNumber": "006-B3112-00",
+    "name": "Edge® 520 Plus",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02083-00/v/cf-sm-222cacb8-6733-4d20-8ad9-6c69b4fc917b.jpg",
+    "urlName": "edge520plus"
+  },
+  {
+    "id": "109",
+    "partNumber": "006-B3076-00",
+    "name": "Forerunner® 245",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02120-00/v/cf-sm-13aa6bd1-4382-4520-ba05-be6a77decdbf.jpg",
+    "urlName": "forerunner245"
+  },
+  {
+    "id": "111",
+    "partNumber": "006-B3121-00",
+    "name": "Edge® 530",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02060-00/v/cf-sm-4eb7ba21-1912-4616-bdf2-87c56008c2b8.jpg",
+    "urlName": "edge530"
+  },
+  {
+    "id": "112",
+    "partNumber": "006-B3122-00",
+    "name": "Edge® 830",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02060-00/v/cf-sm-4eb7ba21-1912-4616-bdf2-87c56008c2b8.jpg",
+    "urlName": "edge830"
+  },
+  {
+    "id": "95",
+    "partNumber": "006-B2909-00",
+    "name": "Edge® 130",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01913-00/v/cf-sm-a859efd3-adee-4924-ad86-8883b05468fd.jpg",
+    "urlName": "edge130"
+  },
+  {
+    "id": "110",
+    "partNumber": "006-B3077-00",
+    "name": "Forerunner® 245 Music",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02120-20/v/cf-sm-3f7eab23-b754-4e70-aba1-518f230a57f7.jpg",
+    "urlName": "forerunner245music"
+  },
+  {
+    "id": "96",
+    "partNumber": "006-B3134-00",
+    "name": "fēnix® 5S Plus",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01987-00/v/cf-sm-58f98bed-90e7-4199-b4bc-925aec9690a7.jpg",
+    "urlName": "fenix5splus-apac"
+  },
+  {
+    "id": "97",
+    "partNumber": "006-B3089-00",
+    "name": "fēnix® 5 Plus",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01988-10/v/cf-sm-c9091bfe-f1af-42b4-bd62-f3b45f46a15d.jpg",
+    "urlName": "fenix5plus-apac"
+  },
+  {
+    "id": "98",
+    "partNumber": "006-B3135-00",
+    "name": "fēnix® 5X Plus",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01989-04/v/cf-sm-6dd29412-ddad-4f53-b62d-84eaaa06f258.jpg",
+    "urlName": "fenix5xplus-apac"
+  },
+  {
+    "id": "100",
+    "partNumber": "006-B3028-00",
+    "name": "GPSMAP® 66s / 66st",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01918-00/g/cf-sm-239388ff-962c-49e5-bd4d-9d0936be669d.jpg",
+    "urlName": "gpsmap66"
+  },
+  {
+    "id": "175",
+    "partNumber": "006-B3657-00",
+    "name": "GPSMAP® 66s / 66st",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01918-00/g/cf-sm-239388ff-962c-49e5-bd4d-9d0936be669d.jpg",
+    "urlName": "gpsmap66-asia"
+  },
+  {
+    "id": "99",
+    "partNumber": "006-B3092-00",
+    "name": "Edge® 130",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01913-00/v/cf-sm-a859efd3-adee-4924-ad86-8883b05468fd.jpg",
+    "urlName": "edge130-apac"
+  },
+  {
+    "id": "122",
+    "partNumber": "006-B3473-00",
+    "name": "vívoactive® 3 Mercedes-Benz® Collection",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01769-01/g/cf-sm-01b9b246-bee9-46f0-a42d-db98ddfea352.jpg",
+    "urlName": "vivoactive3mercedes"
+  },
+  {
+    "id": "123",
+    "partNumber": "006-B3324-00",
+    "name": "D2™ Delta PX",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01989-30/g/cf-sm-874810a3-a28b-4484-955d-6c4a24c4f7bf.jpg",
+    "urlName": "d2deltapx-apac"
+  },
+  {
+    "id": "124",
+    "partNumber": "006-B3477-00",
+    "name": "vívoactive® 3 Mercedes-Benz® Collection",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01769-01/g/cf-sm-01b9b246-bee9-46f0-a42d-db98ddfea352.jpg",
+    "urlName": "vivoactive3mercedes-asia"
+  },
+  {
+    "id": "125",
+    "partNumber": "006-B3428-00",
+    "name": "vívolife",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01769-00/v/cf-sm.jpg",
+    "urlName": "vivolife-twn"
+  },
+  {
+    "id": "159",
+    "partNumber": "006-B3388-00",
+    "name": "vívoactive® 4",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02174-12/v/cf-sm-ea8594d6-289b-4a61-b99c-0566e02a9b43.jpg",
+    "urlName": "vivoactive4-asia"
+  },
+  {
+    "id": "126",
+    "partNumber": "006-B3224-00",
+    "name": "vívoactive® 4S",
+    "additionalNames": [
+      "GarminActive S"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02172-32/v/cf-sm-dd867152-525f-4622-a4f4-d7a09dcea813.jpg",
+    "urlName": "vivoactive4s"
+  },
+  {
+    "id": "127",
+    "partNumber": "006-B3225-00",
+    "name": "vívoactive® 4",
+    "additionalNames": [
+      "GarminActive"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02174-12/v/cf-sm-ea8594d6-289b-4a61-b99c-0566e02a9b43.jpg",
+    "urlName": "vivoactive4"
+  },
+  {
+    "id": "294",
+    "partNumber": "006-B4426-00",
+    "name": "vívoactive® 5",
+    "additionalNames": [],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/f_auto/q_auto/Product_Images/en/products/010-02862-10/v/pd-01-sm.jpg",
+    "urlName": "vivoactive5"
+  },
+  {
+    "id": "328",
+    "partNumber": "006-B4625-00",
+    "name": "vívoactive® 6",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/cs_CZ/products/010-02985-00/v/pd-03-sm.jpg",
+    "urlName": "vva6"
+  },
+  {
+    "id": "160",
+    "partNumber": "006-B3387-00",
+    "name": "vívoactive® 4S",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02172-32/v/cf-sm-dd867152-525f-4622-a4f4-d7a09dcea813.jpg",
+    "urlName": "vivoactive4s-asia"
+  },
+  {
+    "id": "128",
+    "partNumber": "006-B3226-00",
+    "name": "Venu®",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02173-12/v/cf-sm-9af674f3-640f-43f0-91df-117ed510ffcf.jpg",
+    "urlName": "venu"
+  },
+  {
+    "id": "161",
+    "partNumber": "006-B3389-00",
+    "name": "Venu®",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02173-12/v/cf-sm-9af674f3-640f-43f0-91df-117ed510ffcf.jpg",
+    "urlName": "venu-asia"
+  },
+  {
+    "id": "205",
+    "partNumber": "006-B3596-00",
+    "name": "Venu® Sq. Music",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02426-00/v/pd-03-sm-3fe44d78-b9a2-4f69-9530-152a9e1b8daa.jpg",
+    "urlName": "venusq-music"
+  },
+  {
+    "id": "210",
+    "partNumber": "006-B3838-00",
+    "name": "Venu® Sq. Music",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02426-00/v/pd-03-sm-3fe44d78-b9a2-4f69-9530-152a9e1b8daa.jpg",
+    "urlName": "venusq-music-asia"
+  },
+  {
+    "id": "206",
+    "partNumber": "006-B3600-00",
+    "name": "Venu® Sq.",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02427-00/v/pd-03-sm-9fec0ed3-32bb-4284-aae2-5c0fe4a66c8a.jpg",
+    "urlName": "venusq"
+  },
+  {
+    "id": "209",
+    "partNumber": "006-B3837-00",
+    "name": "Venu® Sq.",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02427-00/v/pd-03-sm-9fec0ed3-32bb-4284-aae2-5c0fe4a66c8a.jpg",
+    "urlName": "venusq-asia"
+  },
+  {
+    "id": "242",
+    "partNumber": "006-B4119-00",
+    "name": "Venu® Sq. Music",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02426-00/v/pd-03-sm-3fe44d78-b9a2-4f69-9530-152a9e1b8daa.jpg",
+    "urlName": "venusq-music-asia-r"
+  },
+  {
+    "id": "243",
+    "partNumber": "006-B4118-00",
+    "name": "Venu® Sq.",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02427-00/v/pd-03-sm-9fec0ed3-32bb-4284-aae2-5c0fe4a66c8a.jpg",
+    "urlName": "venusq-asia-r"
+  },
+  {
+    "id": "238",
+    "partNumber": "006-B3599-00",
+    "name": "Venu® Sq. Music",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02426-00/v/pd-03-sm-3fe44d78-b9a2-4f69-9530-152a9e1b8daa.jpg",
+    "urlName": "venusq-music-r"
+  },
+  {
+    "id": "237",
+    "partNumber": "006-B3603-00",
+    "name": "Venu® Sq.",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02427-00/v/pd-03-sm-9fec0ed3-32bb-4284-aae2-5c0fe4a66c8a.jpg",
+    "urlName": "venusq-r"
+  },
+  {
+    "id": "266",
+    "partNumber": "006-B4116-00",
+    "name": "Venu® Sq. 2 Music",
+    "additionalNames": [],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1657201253/Product_Images/en/products/010-02700-00/v/pd-03-sm.jpg",
+    "urlName": "venusq2music"
+  },
+  {
+    "id": "267",
+    "partNumber": "006-B4115-00",
+    "name": "Venu® Sq. 2",
+    "additionalNames": [],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1657202226/Product_Images/en/products/010-02701-00/v/pd-01-sm.jpg",
+    "urlName": "venusq2"
+  },
+  {
+    "id": "129",
+    "partNumber": "006-B3446-00",
+    "name": "vívoactive® 3",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-01769-01/g/cf-sm-01b9b246-bee9-46f0-a42d-db98ddfea352.jpg",
+    "urlName": "vivoactive3t"
+  },
+  {
+    "id": "130",
+    "partNumber": "006-B3321-00",
+    "name": "Forerunner® 245 Music",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02120-20/v/cf-sm-3f7eab23-b754-4e70-aba1-518f230a57f7.jpg",
+    "urlName": "forerunner245m-APAC"
+  },
+  {
+    "id": "131",
+    "partNumber": "006-B3145-00",
+    "name": "Forerunner® 245",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02120-00/v/cf-sm-13aa6bd1-4382-4520-ba05-be6a77decdbf.jpg",
+    "urlName": "forerunner245-APAC"
+  },
+  {
+    "id": "162",
+    "partNumber": "006-B3500-00",
+    "name": "Captain Marvel",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02172-41/g/cf-sm-0a318bb6-9baa-4c5d-b344-19de0c656cd7.jpg",
+    "urlName": "smartwatch-cm-se"
+  },
+  {
+    "id": "215",
+    "partNumber": "006-B3914-00",
+    "name": "ForeAthlete 245",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02120-00/v/cf-sm-13aa6bd1-4382-4520-ba05-be6a77decdbf.jpg",
+    "urlName": "forerunner245-asia"
+  },
+  {
+    "id": "216",
+    "partNumber": "006-B3913-00",
+    "name": "ForeAthlete 245 Music",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02120-20/v/cf-sm-3f7eab23-b754-4e70-aba1-518f230a57f7.jpg",
+    "urlName": "forerunner245m-asia"
+  },
+  {
+    "id": "244",
+    "partNumber": "006-B3992-00",
+    "name": "Forerunner® 255",
+    "additionalNames": [],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1651774681/Product_Images/en/products/010-02641-01/v/rf-sm.jpg",
+    "urlName": "forerunner255"
+  },
+  {
+    "id": "246",
+    "partNumber": "006-B3993-00",
+    "name": "Forerunner® 255S",
+    "additionalNames": [],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1648587635/Product_Images/en/products/010-02641-02/v/rf-sm-f774ed02-b5fc-43b9-8344-122f325fdfcf.jpg",
+    "urlName": "forerunner255s"
+  },
+  {
+    "id": "245",
+    "partNumber": "006-B3990-00",
+    "name": "Forerunner® 255 Music",
+    "additionalNames": [],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1649774269/Product_Images/en/products/010-02641-20/v/pd-03-sm.jpg",
+    "urlName": "forerunner255M"
+  },
+  {
+    "id": "247",
+    "partNumber": "006-B3991-00",
+    "name": "Forerunner® 255S Music",
+    "additionalNames": [],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1649774367/Product_Images/en/products/010-02641-23/v/pd-03-sm.jpg",
+    "urlName": "forerunner255SM"
+  },
+  {
+    "id": "271",
+    "partNumber": "006-B4258-00",
+    "name": "Forerunner® 265S",
+    "additionalNames": [],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1673209517/Product_Images/en/products/010-02810-03/g/pd-01-sm.jpg",
+    "urlName": "forerunner265s"
+  },
+  {
+    "id": "272",
+    "partNumber": "006-B4257-00",
+    "name": "Forerunner® 265",
+    "additionalNames": [],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1671719581/Product_Images/en/products/010-02810-00/g/rf-sm.jpg",
+    "urlName": "forerunner265"
+  },
+  {
+    "id": "273",
+    "partNumber": "006-B4315-00",
+    "name": "Forerunner® 965",
+    "additionalNames": [],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1673539390/Product_Images/en/products/010-02809-00/g/rf-sm.jpg",
+    "urlName": "forerunner965"
+  },
+  {
+    "id": "163",
+    "partNumber": "006-B3501-00",
+    "name": "First Avenger",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02174-41/g/cf-sm-f2db5e1c-5419-42b2-9f22-c4da61e9878a.jpg",
+    "urlName": "smartwatch-fa-se"
+  },
+  {
+    "id": "164",
+    "partNumber": "006-B3498-00",
+    "name": "Rey™",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02172-51/g/rf-sm-f55ac7b5-223c-4c58-ba98-8b6938b26bc0.jpg",
+    "urlName": "smartwatch-ry-se"
+  },
+  {
+    "id": "165",
+    "partNumber": "006-B3499-00",
+    "name": "Darth Vader™",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02174-51/g/rf-sm-068425e4-b235-460f-a031-304d364ebb6c.jpg",
+    "urlName": "smartwatch-dv-se"
+  },
+  {
+    "id": "132",
+    "partNumber": "006-B3282-00",
+    "name": "Forerunner® 45",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02156-05/v/cf-sm-ddce0f3c-16b2-4cfc-bd14-7e541f5412bc.jpg",
+    "urlName": "forerunner45"
+  },
+  {
+    "id": "207",
+    "partNumber": "006-B3847-00",
+    "name": "Forerunner® 45 Plus",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02156-17/g/pd-01-sm-10961d0d-93c9-408a-a577-4feb56faa580.jpg",
+    "urlName": "forerunner45plus"
+  },
+  {
+    "id": "231",
+    "partNumber": "006-B3869-00",
+    "name": "Forerunner® 55",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02562-00/v/pd-02-sm-6b38e8ac-6ca8-41d0-8ef4-a064dbba6a1f.jpg",
+    "urlName": "forerunner55"
+  },
+  {
+    "id": "339",
+    "partNumber": "006-B4838-00",
+    "name": "Forerunner® 55",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02562-00/v/pd-02-sm-6b38e8ac-6ca8-41d0-8ef4-a064dbba6a1f.jpg",
+    "urlName": "FR55"
+  },
+  {
+    "id": "343",
+    "partNumber": "006-B4916-00",
+    "name": "Forerunner® 70",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-04307-03/g/cf-sm-2x3.png",
+    "urlName": "forerunner70"
+  },
+  {
+    "id": "344",
+    "partNumber": "006-B4814-00",
+    "name": "Forerunner® 170 Music",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-03920-12/g/cf-sm-2x3.jpg",
+    "urlName": "forerunner170m"
+  },
+  {
+    "id": "345",
+    "partNumber": "006-B4815-00",
+    "name": "Forerunner® 170",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-03920-00/g/cf-sm-2x3.jpg",
+    "urlName": "forerunner170"
+  },
+  {
+    "id": "355",
+    "partNumber": "006-B5214-00",
+    "name": "Forerunner® 70",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-04307-03/g/cf-sm-2x3.png",
+    "urlName": "forerunner70-r"
+  },
+  {
+    "id": "299",
+    "partNumber": "006-B4432-00",
+    "name": "Forerunner® 165",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/pl_PL/products/010-02863-20/v/rf-sm.jpg",
+    "urlName": "fr165"
+  },
+  {
+    "id": "300",
+    "partNumber": "006-B4433-00",
+    "name": "Forerunner® 165 Music",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/sl_SI/products/010-02863-31/v/rf-sm.jpg",
+    "urlName": "fr165m"
+  },
+  {
+    "id": "318",
+    "partNumber": "006-B4574-00",
+    "name": "Forerunner® 570 - 42mm",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/fr_CH/products/010-02970-01/v/pd-03-sm.jpg",
+    "urlName": "FR570-42mm"
+  },
+  {
+    "id": "319",
+    "partNumber": "006-B4570-00",
+    "name": "Forerunner® 570 - 47mm",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/cs_CZ/products/010-02971-00/v/rf-sm.jpg",
+    "urlName": "FR570-47mm"
+  },
+  {
+    "id": "320",
+    "partNumber": "006-B4565-00",
+    "name": "Forerunner® 970",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/pl_PL/products/010-02969-00/v/rf-sm.jpg",
+    "urlName": "FR970"
+  },
+  {
+    "id": "232",
+    "partNumber": "006-B4033-00",
+    "name": "ForeAthlete 55",
+    "additionalNames": [
+      "Forerunner® 158 "
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02562-00/v/pd-02-sm-6b38e8ac-6ca8-41d0-8ef4-a064dbba6a1f.jpg",
+    "urlName": "forerunner55-asia"
+  },
+  {
+    "id": "133",
+    "partNumber": "006-B3287-00",
+    "name": "fēnix® 6S",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02159-00/v/cf-sm-880ca1fb-2302-4a53-bfda-962e357fd7f8.jpg",
+    "urlName": "fenix6s"
+  },
+  {
+    "id": "134",
+    "partNumber": "006-B3288-00",
+    "name": "fēnix® 6S Pro",
+    "additionalNames": [
+      "fēnix® 6S Sapphire"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02159-14/v/cf-sm-6f0a6934-59f4-467c-8a6d-e74cb01d5ca6.jpg",
+    "urlName": "fenix6sp"
+  },
+  {
+    "id": "135",
+    "partNumber": "006-B3289-00",
+    "name": "fēnix® 6",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02158-11/v/cf-sm-d9660dd6-f71d-4fe6-8682-2f6d80e12dff.jpg",
+    "urlName": "fenix6"
+  },
+  {
+    "id": "136",
+    "partNumber": "006-B3290-00",
+    "name": "fēnix® 6 Pro",
+    "additionalNames": [
+      "fēnix® 6 Sapphire"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02158-02/v/cf-sm-c561cac8-1a27-4bb1-8374-d99dc6afe57a.jpg",
+    "urlName": "fenix6p"
+  },
+  {
+    "id": "137",
+    "partNumber": "006-B3291-00",
+    "name": "fēnix® 6X Pro",
+    "additionalNames": [
+      "fēnix® 6X Sapphire",
+      "fēnix® 6X Pro Solar",
+      "tactix® Delta Sapphire",
+      "quatix® 6X Solar",
+      "tactix® Delta Solar",
+      "tactix® Delta Solar Ballistics"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02157-01/v/cf-sm-47dff6dd-beb7-42eb-9daa-3585c81c12ea.jpg",
+    "urlName": "fenix6xp"
+  },
+  {
+    "id": "154",
+    "partNumber": "006-B3512-00",
+    "name": "fēnix® 6S",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02159-00/v/cf-sm-880ca1fb-2302-4a53-bfda-962e357fd7f8.jpg",
+    "urlName": "fenix6s-asia"
+  },
+  {
+    "id": "155",
+    "partNumber": "006-B3513-00",
+    "name": "fēnix® 6S Pro",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02159-14/v/cf-sm-6f0a6934-59f4-467c-8a6d-e74cb01d5ca6.jpg",
+    "urlName": "fenix6sp-asia"
+  },
+  {
+    "id": "156",
+    "partNumber": "006-B3514-00",
+    "name": "fēnix® 6",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02158-11/v/cf-sm-d9660dd6-f71d-4fe6-8682-2f6d80e12dff.jpg",
+    "urlName": "fenix6-asia"
+  },
+  {
+    "id": "190",
+    "partNumber": "006-B3638-00",
+    "name": "Enduro™",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02408-00/v/pd-01-sm-d11e8da1-0277-4007-a62f-d41c0343b6cd.jpg",
+    "urlName": "enduro"
+  },
+  {
+    "id": "261",
+    "partNumber": "006-B4341-00",
+    "name": "Enduro™ 2",
+    "additionalNames": [],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1648824135/Product_Images/en/products/010-02754-00/g/pd-05-sm-66796f25-e282-4a31-bd44-93fb6ddbf2ee.jpg",
+    "urlName": "enduro2"
+  },
+  {
+    "id": "309",
+    "partNumber": "006-B4575-00",
+    "name": "Enduro™ 3",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02751-00/v/pd-05-sm.jpg",
+    "urlName": "enduro3"
+  },
+  {
+    "id": "310",
+    "partNumber": "006-B4532-00",
+    "name": "fēnix® 8 Solar (47mm)",
+    "additionalNames": [
+      "fēnix® 8 Dual Power (47mm)"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-02906-10/v/rf-sm.jpg",
+    "urlName": "fenix8s-47mm"
+  },
+  {
+    "id": "311",
+    "partNumber": "006-B4533-00",
+    "name": "fēnix® 8 Solar (51mm)",
+    "additionalNames": [
+      "fēnix® 8 Dual Power (51mm)"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-02907-10/v/rf-sm.jpg",
+    "urlName": "fenix8s-51mm"
+  },
+  {
+    "id": "337",
+    "partNumber": "006-B4631-00",
+    "name": "fēnix® 8 Pro",
+    "additionalNames": [
+      "fēnix® 8 Pro – 47 mm AMOLED",
+      "fēnix® 8 Pro – 51 mm AMOLED",
+      "fēnix® 8 Pro – 51 mm MicroLED",
+      "quatix® 8 Pro - 47mm AMOLED",
+      "quatix® 8 Pro - 51mm AMOLED"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-03380-00/v/rf-sm.jpg",
+    "urlName": "fenix8Pro-47-51mm"
+  },
+  {
+    "id": "317",
+    "partNumber": "006-B4666-00",
+    "name": "fēnix® E",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-03025-02/v/pd-05-sm.jpg",
+    "urlName": "fenixE"
+  },
+  {
+    "id": "191",
+    "partNumber": "006-B3589-00",
+    "name": "Forerunner® 745",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02445-00/v/pd-01-sm-08be35f2-d0c8-4f90-8bba-79330826183f.jpg",
+    "urlName": "forerunner745"
+  },
+  {
+    "id": "211",
+    "partNumber": "006-B3794-00",
+    "name": "ForeAthlete 745",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02445-00/v/pd-01-sm-08be35f2-d0c8-4f90-8bba-79330826183f.jpg",
+    "urlName": "forerunner745-asia"
+  },
+  {
+    "id": "157",
+    "partNumber": "006-B3515-00",
+    "name": "fēnix® 6 Pro",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02158-02/v/cf-sm-c561cac8-1a27-4bb1-8374-d99dc6afe57a.jpg",
+    "urlName": "fenix6p-asia"
+  },
+  {
+    "id": "193",
+    "partNumber": "006-B3766-00",
+    "name": "fēnix® 6 Solar",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02410-00/v/pd-04-sm-05fc6663-0a28-451a-aa9d-8595a8238209.jpg",
+    "urlName": "fenix6-asia-solar"
+  },
+  {
+    "id": "158",
+    "partNumber": "006-B3516-00",
+    "name": "fēnix® 6X Pro",
+    "additionalNames": [
+      "fēnix® 6X Sapphire",
+      "tactix® Delta Sapphire",
+      "tactix® Delta Solar",
+      "tactix® Delta Solar:Ballisitcs Edition",
+      "fēnix® 6X Pro Dual Power"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02157-01/v/cf-sm-47dff6dd-beb7-42eb-9daa-3585c81c12ea.jpg",
+    "urlName": "fenix6xp-asia"
+  },
+  {
+    "id": "194",
+    "partNumber": "006-B3767-00",
+    "name": "fēnix® 6 Pro Solar",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02410-10/v/rf-sm-f9532945-ccc5-430c-9bd7-8a0f50b7fb1d.jpg",
+    "urlName": "fenix6p-asia-solar"
+  },
+  {
+    "id": "195",
+    "partNumber": "006-B3764-00",
+    "name": "fēnix® 6S Solar",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02409-00/g/rf-sm-af7a3331-c961-4cc9-83c0-2183baba6c2e.jpg",
+    "urlName": "fenix6s-asia-solar"
+  },
+  {
+    "id": "196",
+    "partNumber": "006-B3765-00",
+    "name": "fēnix® 6S Pro Solar",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02409-15/v/rf-sm-4d0f762d-bb36-4d24-b4fe-c897e246ab91.jpg",
+    "urlName": "fenix6sp-asia-solar"
+  },
+  {
+    "id": "197",
+    "partNumber": "006-B3768-00",
+    "name": "fēnix® 6S Dual Power",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02409-00/g/rf-sm-af7a3331-c961-4cc9-83c0-2183baba6c2e.jpg",
+    "urlName": "fenix6s-jpn-solar"
+  },
+  {
+    "id": "198",
+    "partNumber": "006-B3769-00",
+    "name": "fēnix® 6S Pro Dual Power",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02409-15/v/rf-sm-4d0f762d-bb36-4d24-b4fe-c897e246ab91.jpg",
+    "urlName": "fenix6sp-jpn-solar"
+  },
+  {
+    "id": "199",
+    "partNumber": "006-B3770-00",
+    "name": "fēnix® 6 Dual Power",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02410-00/v/pd-04-sm-05fc6663-0a28-451a-aa9d-8595a8238209.jpg",
+    "urlName": "fenix6-jpn-solar"
+  },
+  {
+    "id": "200",
+    "partNumber": "006-B3771-00",
+    "name": "fēnix® 6 Pro Dual Power",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02410-10/v/rf-sm-f9532945-ccc5-430c-9bd7-8a0f50b7fb1d.jpg",
+    "urlName": "fenix6p-jpn-solar"
+  },
+  {
+    "id": "201",
+    "partNumber": "006-B3872-00",
+    "name": "Enduro™",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02408-00/v/pd-01-sm-d11e8da1-0277-4007-a62f-d41c0343b6cd.jpg",
+    "urlName": "enduro-asia"
+  },
+  {
+    "id": "221",
+    "partNumber": "006-B3905-00",
+    "name": "fēnix® 7S",
+    "additionalNames": [
+      "fēnix® 7S– Solar Edition",
+      "fēnix® 7S– Sapphire Solar Edition"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02539-00/g/cf-sm-3ecb177b-cbcd-41dd-80e5-c954164a0955.jpg",
+    "urlName": "fenix7s"
+  },
+  {
+    "id": "222",
+    "partNumber": "006-B3908-00",
+    "name": "fēnix® 7S",
+    "additionalNames": [
+      "fēnix® 7S– Sapphire Dual Power Edition"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02539-00/g/cf-sm-3ecb177b-cbcd-41dd-80e5-c954164a0955.jpg",
+    "urlName": "fenix7s-asia"
+  },
+  {
+    "id": "224",
+    "partNumber": "006-B3909-00",
+    "name": "fēnix® 7",
+    "additionalNames": [
+      "quatix® 7",
+      "fēnix® 7– Sapphire Dual Power Edition"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02540-00/v/rf-sm-79088307-fcf5-4dff-9eb9-3090f92db1bb.jpg",
+    "urlName": "fenix7-asia"
+  },
+  {
+    "id": "286",
+    "partNumber": "006-B4375-00",
+    "name": "fēnix® 7 Pro",
+    "additionalNames": [
+      "fēnix® 7 Pro – Solar Edition",
+      "fēnix® 7 Pro – Sapphire Solar Edition",
+      "fēnix® 7 Pro– Sapphire Dual Power Edition"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-02777-01/v/pd-06-sm.jpg",
+    "urlName": "fenix7pro"
+  },
+  {
+    "id": "287",
+    "partNumber": "006-B4374-00",
+    "name": "fēnix® 7S Pro",
+    "additionalNames": [
+      "fēnix® 7S Pro– Sapphire Solar Edition",
+      "fēnix® 7S Pro– Sapphire Dual Power Edition"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-02776-30/v/pd-06-sm.jpg",
+    "urlName": "fenix7spro"
+  },
+  {
+    "id": "288",
+    "partNumber": "006-B4376-00",
+    "name": "fēnix® 7X Pro",
+    "additionalNames": [
+      "fēnix® 7X Pro– Sapphire Solar Edition",
+      "fēnix® 7X Pro– Sapphire Dual Power Edition"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-02778-00/g/pd-06-sm.jpg",
+    "urlName": "fenix7xpro"
+  },
+  {
+    "id": "304",
+    "partNumber": "006-B4595-00",
+    "name": "fēnix® 7 Pro – Solar Edition (No Wi-Fi®)",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02777-13/v/pd-02-sm.jpg",
+    "urlName": "fenix7pro-nwifi"
+  },
+  {
+    "id": "305",
+    "partNumber": "006-B4596-00",
+    "name": "fēnix® 7X Pro No Wi-Fi",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02778-13/v/pd-05-sm.jpg",
+    "urlName": "fenix7Xpro-nwifi"
+  },
+  {
+    "id": "306",
+    "partNumber": "006-B4534-00",
+    "name": "fēnix® 8 AMOLED (43mm)",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02903-00/v/pd-06-sm.jpg",
+    "urlName": "fenix8-43mm"
+  },
+  {
+    "id": "308",
+    "partNumber": "006-B4536-00",
+    "name": "fēnix® 8 AMOLED (47mm/51mm)",
+    "additionalNames": [
+      "quatix® 8 AMOLED (47mm/51mm)"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-02905-00/v/pd-06-sm.jpg",
+    "urlName": "fenix8-51mm"
+  },
+  {
+    "id": "223",
+    "partNumber": "006-B3906-00",
+    "name": "fēnix® 7",
+    "additionalNames": [
+      "fēnix® 7– Sapphire Solar Edition",
+      "fēnix® 7 Solar",
+      "quatix® 7"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02540-00/v/rf-sm-79088307-fcf5-4dff-9eb9-3090f92db1bb.jpg",
+    "urlName": "fenix7"
+  },
+  {
+    "id": "225",
+    "partNumber": "006-B3907-00",
+    "name": "fēnix® 7X",
+    "additionalNames": [
+      "fēnix® 7X - Solar Edition",
+      "fēnix® 7X– Sapphire Solar Edition",
+      "quatix® 7X – Solar Edition"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02541-11/v/sc-03-sm-cd878574-7789-4323-a2f2-1acebcff5f36.jpg",
+    "urlName": "fenix7X"
+  },
+  {
+    "id": "226",
+    "partNumber": "006-B3910-00",
+    "name": "fēnix® 7X",
+    "additionalNames": [
+      "fēnix® 7X– Sapphire Dual Power Edition",
+      "quatix® 7X"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02541-11/v/sc-03-sm-cd878574-7789-4323-a2f2-1acebcff5f36.jpg",
+    "urlName": "fenix7X-asia"
+  },
+  {
+    "id": "138",
+    "partNumber": "006-B3420-00",
+    "name": "MARQ™ Driver",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02006-00/g/cf-sm-2f580581-696f-4e11-808b-c8acd963de46.jpg",
+    "urlName": "marq-driver-asia"
+  },
+  {
+    "id": "139",
+    "partNumber": "006-B3421-00",
+    "name": "MARQ™ Aviator",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02006-03/g/cf-sm-614d7b98-9b70-4c8a-bec7-5ee303166767.jpg",
+    "urlName": "marq-aviator-asia"
+  },
+  {
+    "id": "140",
+    "partNumber": "006-B3448-00",
+    "name": "MARQ™ Captain",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02006-06/g/cf-sm-04034f67-9380-4d27-b5aa-678600fb8b5f.jpg",
+    "urlName": "marq-captain-asia"
+  },
+  {
+    "id": "141",
+    "partNumber": "006-B3449-00",
+    "name": "MARQ™ Commander",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02006-11/g/rf-sm-517ae5f4-8789-49b5-ad89-d2002ee9f8e3.jpg",
+    "urlName": "marq-commander-asia"
+  },
+  {
+    "id": "142",
+    "partNumber": "006-B3450-00",
+    "name": "MARQ™ Expedition",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02006-12/g/cf-sm-4d82de5c-a266-4cb0-abd1-a167526e2669.jpg",
+    "urlName": "marq-expedition-asia"
+  },
+  {
+    "id": "143",
+    "partNumber": "006-B3451-00",
+    "name": "MARQ™ Athlete",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02006-15/g/cf-sm-0b73c33d-2df0-4d7e-b438-fd23d7c4390f.jpg",
+    "urlName": "marq-athlete-asia"
+  },
+  {
+    "id": "144",
+    "partNumber": "006-B3113-00",
+    "name": "Forerunner® 945",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02063-00/v/cf-sm-538e211f-f991-4d7a-91f7-d25d4feb9a99.jpg",
+    "urlName": "forerunner945"
+  },
+  {
+    "id": "145",
+    "partNumber": "006-B3349-00",
+    "name": "Edge® 530",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02060-00/v/cf-sm-4eb7ba21-1912-4616-bdf2-87c56008c2b8.jpg",
+    "urlName": "edge530-asia"
+  },
+  {
+    "id": "283",
+    "partNumber": "006-B4061-00",
+    "name": "Edge® 540",
+    "additionalNames": [
+      "Edge® 540 Dual Power"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-02694-00/v/cf-sm.jpg",
+    "urlName": "edge540"
+  },
+  {
+    "id": "284",
+    "partNumber": "006-B4062-00",
+    "name": "Edge® 840",
+    "additionalNames": [
+      "Edge® 840 Dual Power"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-02695-00/v/cf-sm.jpg",
+    "urlName": "edge840"
+  },
+  {
+    "id": "307",
+    "partNumber": "006-B4655-00",
+    "name": "Edge® MTB",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-02993-10/g/cf-sm.jpg",
+    "urlName": "edgemtb"
+  },
+  {
+    "id": "329",
+    "partNumber": "006-B4633-00",
+    "name": "Edge® 550",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-03022-00/g/cf-sm.jpg",
+    "urlName": "edge550"
+  },
+  {
+    "id": "330",
+    "partNumber": "006-B4634-00",
+    "name": "Edge® 850",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-03023-00/v/cf-sm.jpg",
+    "urlName": "edge850"
+  },
+  {
+    "id": "146",
+    "partNumber": "006-B3350-00",
+    "name": "Edge® 830",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02060-00/v/cf-sm-4eb7ba21-1912-4616-bdf2-87c56008c2b8.jpg",
+    "urlName": "edge830-asia"
+  },
+  {
+    "id": "147",
+    "partNumber": "006-B3469-00",
+    "name": "ForeAthlete 45",
+    "additionalNames": [
+      "ForeAthlete 45S"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02156-05/v/cf-sm-ddce0f3c-16b2-4cfc-bd14-7e541f5412bc.jpg",
+    "urlName": "foreathlete45"
+  },
+  {
+    "id": "148",
+    "partNumber": "006-B3441-00",
+    "name": "Forerunner® 945",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02063-00/v/cf-sm-538e211f-f991-4d7a-91f7-d25d4feb9a99.jpg",
+    "urlName": "forerunner945-asia"
+  },
+  {
+    "id": "213",
+    "partNumber": "006-B3652-00",
+    "name": "Forerunner® 945 LTE",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02383-00/v/rf-sm-333473bc-693b-47c4-aaa8-dbb0768ddaa3.jpg",
+    "urlName": "forerunner945LTE"
+  },
+  {
+    "id": "229",
+    "partNumber": "006-B3978-00",
+    "name": "Forerunner® 945 LTE",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02383-00/v/rf-sm-333473bc-693b-47c4-aaa8-dbb0768ddaa3.jpg",
+    "urlName": "forerunner945LTE-asia"
+  },
+  {
+    "id": "239",
+    "partNumber": "006-B4024-00",
+    "name": "Forerunner® 955 Dual Power",
+    "additionalNames": [],
+    "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1648587638/Product_Images/en/products/010-02638-10/v/rf-sm-02b8c734-88b3-4aef-94ec-8ef61dec4c3f.jpg",
+    "urlName": "forerunner955"
+  },
+  {
+    "id": "182",
+    "partNumber": "006-B3694-00",
+    "name": "GPSMAP® 66sr",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02431-00/g/pd-02-sm-43db5af0-0ae8-43ff-819d-da2f8c5f5e1f.jpg",
+    "urlName": "gpsmap66sr"
+  },
+  {
+    "id": "149",
+    "partNumber": "006-B3284-00",
+    "name": "GPSMAP® 66i",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02088-01/g/cf-sm-7eea9327-3b51-4860-ab75-e2c1c33bd952.jpg",
+    "urlName": "gpsmap66i"
+  },
+  {
+    "id": "176",
+    "partNumber": "006-B3658-00",
+    "name": "GPSMAP® 66i",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02088-01/g/cf-sm-7eea9327-3b51-4860-ab75-e2c1c33bd952.jpg",
+    "urlName": "gpsmap66i-asia"
+  },
+  {
+    "id": "150",
+    "partNumber": "006-B3454-00",
+    "name": "GPSMAP® 86i",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02236-00/g/cf-sm-7765c2a0-e04a-4aa0-9e77-51590be1a005.jpg",
+    "urlName": "gpsmap86i"
+  },
+  {
+    "id": "151",
+    "partNumber": "006-B3452-00",
+    "name": "GPSMAP® 86s",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02235-00/g/cf-sm-b5128964-2292-4542-86e2-6becc7a575ca.jpg",
+    "urlName": "gpsmap86s"
+  },
+  {
+    "id": "152",
+    "partNumber": "006-B3453-00",
+    "name": "GPSMAP® 86sc",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02235-02/g/cf-sm-3ff30e86-a84c-495c-bf05-3e0ddc30aa51.jpg",
+    "urlName": "gpsmap86sc"
+  },
+  {
+    "id": "153",
+    "partNumber": "006-B3455-00",
+    "name": "GPSMAP® 86sci",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02236-02/g/cf-sm-3837365d-0d5a-4a92-b330-de1f1ec75234.jpg",
+    "urlName": "gpsmap86sci"
+  },
+  {
+    "id": "166",
+    "partNumber": "006-B3624-00",
+    "name": "MARQ™ Adventurer",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02006-26/g/cf-sm-f78826d3-cb9a-42f0-871c-ca80cc34c5a4.jpg",
+    "urlName": "marq-adventurer"
+  },
+  {
+    "id": "167",
+    "partNumber": "006-B3535-00",
+    "name": "Captain Marvel",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02172-41/g/cf-sm-0a318bb6-9baa-4c5d-b344-19de0c656cd7.jpg",
+    "urlName": "smartwatch-cm-asia"
+  },
+  {
+    "id": "168",
+    "partNumber": "006-B3536-00",
+    "name": "First Avenger",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02174-41/g/cf-sm-f2db5e1c-5419-42b2-9f22-c4da61e9878a.jpg",
+    "urlName": "smartwatch-fa-asia"
+  },
+  {
+    "id": "169",
+    "partNumber": "006-B3537-00",
+    "name": "Rey™",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02172-51/g/rf-sm-f55ac7b5-223c-4c58-ba98-8b6938b26bc0.jpg",
+    "urlName": "smartwatch-ry-asia"
+  },
+  {
+    "id": "170",
+    "partNumber": "006-B3538-00",
+    "name": "Darth Vader™",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02174-51/g/rf-sm-068425e4-b235-460f-a031-304d364ebb6c.jpg",
+    "urlName": "smartwatch-dv-asia"
+  },
+  {
+    "id": "171",
+    "partNumber": "006-B3405-00",
+    "name": "Garmin Swim™ 2",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02247-00/g/rf-sm-d2856784-66cb-4e0f-a055-a23f242e5ce2.jpg",
+    "urlName": "swim2Is"
+  },
+  {
+    "id": "172",
+    "partNumber": "006-B3639-00",
+    "name": "Garmin Swim™ 2",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02247-00/g/rf-sm-d2856784-66cb-4e0f-a055-a23f242e5ce2.jpg",
+    "urlName": "swim2ls-asia"
+  },
+  {
+    "id": "173",
+    "partNumber": "006-B3648-00",
+    "name": "MARQ™ Adventurer",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02006-26/g/cf-sm-f78826d3-cb9a-42f0-871c-ca80cc34c5a4.jpg",
+    "urlName": "marq-adventurer-asia"
+  },
+  {
+    "id": "189",
+    "partNumber": "006-B3739-00",
+    "name": "MARQ™ Golfer",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02394-00/g/pd-01-sm-fab01f49-dd1d-4d6e-8519-0d817c1ae674.jpg",
+    "urlName": "marq-golfer"
+  },
+  {
+    "id": "204",
+    "partNumber": "006-B3850-00",
+    "name": "MARQ™ Golfer",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02394-00/g/pd-01-sm-fab01f49-dd1d-4d6e-8519-0d817c1ae674.jpg",
+    "urlName": "marq-golfer-asia"
+  },
+  {
+    "id": "183",
+    "partNumber": "006-B3782-00",
+    "name": "quatix® 6",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02158-90/g/rf-sm-c3bd24e1-838f-41a5-b84b-45f8c3bc33ec.jpg",
+    "urlName": "quatix6-asia"
+  },
+  {
+    "id": "184",
+    "partNumber": "006-B3783-00",
+    "name": "quatix® 6X",
+    "additionalNames": [
+      "quatix® 6X Solar",
+      "quatix® 6X Dual Power"
+    ],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02157-30/g/rf-sm-08137167-34a8-4a4b-8065-ab9f72810db0.jpg",
+    "urlName": "quatix6x-asia"
+  },
+  {
+    "id": "186",
+    "partNumber": "006-B3740-00",
+    "name": "Mercedes-Benz Venu®",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02173-52/v/cf-sm-86fc3396-766b-408e-9755-0c8fb5bbacc5.jpg",
+    "urlName": "mercedes-benz-venu"
+  },
+  {
+    "id": "185",
+    "partNumber": "006-B3737-00",
+    "name": "Mercedes-Benz Venu®",
+    "additionalNames": [],
+    "imageUrl": "https://static.garmincdn.com/en/products/010-02173-52/v/cf-sm-86fc3396-766b-408e-9755-0c8fb5bbacc5.jpg",
+    "urlName": "mercedes-benz-venu-asia"
+  }
+]
