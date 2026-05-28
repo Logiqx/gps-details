@@ -47,16 +47,16 @@ Full list of Garmin products supporting Connect IQ applications as of 28 May 202
 | 4005 | Descent G1 | 006-B4005-00 |
 | 4132 | Descent G1 | 006-B4132-00 |
 | 4588 | Descent G2 | 006-B4588-00 |
+| 2859 | Descent Mk1 | 006-B2859-00 |
+| 2991 | Descent Mk1 | 006-B2991-00 |
 | 3258 | Descent MK2 | 006-B3258-00 |
 | 3702 | Descent MK2 | 006-B3702-00 |
+| 3542 | Descent Mk2S | 006-B3542-00 |
+| 3930 | Descent Mk2S | 006-B3930-00 |
 | 4224 | Descent MK3 (43mm) | 006-B4224-00 |
 | 4222 | Descent MK3 - 43mm | 006-B4222-00 |
 | 4223 | Descent MK3i - 51mm | 006-B4223-00 |
 | 4225 | Descent MK3i -51mm | 006-B4225-00 |
-| 2859 | Descent Mk1 | 006-B2859-00 |
-| 2991 | Descent Mk1 | 006-B2991-00 |
-| 3542 | Descent Mk2S | 006-B3542-00 |
-| 3930 | Descent Mk2S | 006-B3930-00 |
 | 1836 | Edge 1000 | 006-B1836-00 |
 | 2052 | Edge 1000 | 006-B2052-00 |
 | 2053 | Edge 1000 | 006-B2053-00 |
@@ -103,6 +103,17 @@ Full list of Garmin products supporting Connect IQ applications as of 28 May 202
 | 3872 | Enduro | 006-B3872-00 |
 | 4341 | Enduro 2 | 006-B4341-00 |
 | 4575 | Enduro 3 | 006-B4575-00 |
+| 1988 | epix | 006-B1988-00 |
+| 2330 | epix | 006-B2330-00 |
+| 2331 | epix | 006-B2331-00 |
+| 2332 | epix | 006-B2332-00 |
+| 2457 | epix | 006-B2457-00 |
+| 3943 | epix (Gen 2) | 006-B3943-00 |
+| 3944 | epix (Gen 2) | 006-B3944-00 |
+| 4312 | epix Pro (42mm) | 006-B4312-00 |
+| 4313 | epix Pro (47mm) | 006-B4313-00 |
+| 4314 | epix Pro (51mm) | 006-B4314-00 |
+| 4522 | eTrex Touch | 006-B4522-00 |
 | 3501 | First Avenger | 006-B3501-00 |
 | 3536 | First Avenger | 006-B3536-00 |
 | 2313 | ForeAthlete 230J | 006-B2313-00 |
@@ -165,103 +176,6 @@ Full list of Garmin products supporting Connect IQ applications as of 28 May 202
 | 4024 | Forerunner 955 Dual Power | 006-B4024-00 |
 | 4315 | Forerunner 965 | 006-B4315-00 |
 | 4565 | Forerunner 970 | 006-B4565-00 |
-| 3284 | GPSMAP 66i | 006-B3284-00 |
-| 3658 | GPSMAP 66i | 006-B3658-00 |
-| 3028 | GPSMAP 66s / 66st | 006-B3028-00 |
-| 3657 | GPSMAP 66s / 66st | 006-B3657-00 |
-| 3694 | GPSMAP 66sr | 006-B3694-00 |
-| 4336 | GPSMAP 67 | 006-B4336-00 |
-| 4473 | GPSMAP 67 | 006-B4473-00 |
-| 3454 | GPSMAP 86i | 006-B3454-00 |
-| 3452 | GPSMAP 86s | 006-B3452-00 |
-| 3453 | GPSMAP 86sc | 006-B3453-00 |
-| 3455 | GPSMAP 86sci | 006-B3455-00 |
-| 4552 | GPSMAP H1 | 006-B4552-00 |
-| 3405 | Garmin Swim 2 | 006-B3405-00 |
-| 3639 | Garmin Swim 2 | 006-B3639-00 |
-| 3888 | Instinct 2 | 006-B3888-00 |
-| 4071 | Instinct 2 | 006-B4071-00 |
-| 3889 | Instinct 2S | 006-B3889-00 |
-| 4091 | Instinct 2S | 006-B4091-00 |
-| 4394 | Instinct 2X | 006-B4394-00 |
-| 4586 | Instinct 3 – 45 mm, AMOLED | 006-B4586-00 |
-| 4585 | Instinct 3 – 45 mm, Solar | 006-B4585-00 |
-| 4587 | Instinct 3 – 50 mm, AMOLED | 006-B4587-00 |
-| 4759 | Instinct 3 – 50 mm, Solar | 006-B4759-00 |
-| 4155 | Instinct Crossover | 006-B4155-00 |
-| 4678 | Instinct Crossover AMOLED | 006-B4678-00 |
-| 4583 | Instinct E – 40 mm | 006-B4583-00 |
-| 4584 | Instinct E – 45 mm | 006-B4584-00 |
-| 4105 | MARQ (Gen 2) | 006-B4105-00 |
-| 4106 | MARQ (Gen 2) | 006-B4106-00 |
-| 3624 | MARQ Adventurer | 006-B3624-00 |
-| 3648 | MARQ Adventurer | 006-B3648-00 |
-| 3251 | MARQ Athlete | 006-B3251-00 |
-| 3451 | MARQ Athlete | 006-B3451-00 |
-| 3247 | MARQ Aviator | 006-B3247-00 |
-| 3421 | MARQ Aviator | 006-B3421-00 |
-| 4124 | MARQ Aviator (Gen 2) | 006-B4124-00 |
-| 3248 | MARQ Captain | 006-B3248-00 |
-| 3448 | MARQ Captain | 006-B3448-00 |
-| 3249 | MARQ Commander | 006-B3249-00 |
-| 3449 | MARQ Commander | 006-B3449-00 |
-| 4472 | MARQ Commander (Gen 2) – Carbon Edition | 006-B4472-00 |
-| 3246 | MARQ Driver | 006-B3246-00 |
-| 3420 | MARQ Driver | 006-B3420-00 |
-| 3250 | MARQ Expedition | 006-B3250-00 |
-| 3450 | MARQ Expedition | 006-B3450-00 |
-| 3739 | MARQ Golfer | 006-B3739-00 |
-| 3850 | MARQ Golfer | 006-B3850-00 |
-| 3737 | Mercedes-Benz Venu | 006-B3737-00 |
-| 3740 | Mercedes-Benz Venu | 006-B3740-00 |
-| 4171 | Mercedes-Benz Venu 2 | 006-B4171-00 |
-| 4180 | Mercedes-Benz Venu 2 | 006-B4180-00 |
-| 4175 | Mercedes-Benz Venu 2S | 006-B4175-00 |
-| 4181 | Mercedes-Benz Venu 2S | 006-B4181-00 |
-| 3459 | Montana 700 | 006-B3459-00 |
-| 4415 | Montana 700 | 006-B4415-00 |
-| 5015 | Montana 760i | 006-B5015-00 |
-| 2512 | Oregon 7 Series | 006-B2512-00 |
-| 2681 | Oregon 7 Series | 006-B2681-00 |
-| 2692 | Oregon 7 Series | 006-B2692-00 |
-| 3498 | Rey | 006-B3498-00 |
-| 3537 | Rey | 006-B3537-00 |
-| 2444 | Rino 7 Series | 006-B2444-00 |
-| 3187 | Rino 7 Series | 006-B3187-00 |
-| 3226 | Venu | 006-B3226-00 |
-| 3389 | Venu | 006-B3389-00 |
-| 3703 | Venu 2 | 006-B3703-00 |
-| 3950 | Venu 2 | 006-B3950-00 |
-| 3851 | Venu 2 Plus | 006-B3851-00 |
-| 4017 | Venu 2 Plus | 006-B4017-00 |
-| 3704 | Venu 2S | 006-B3704-00 |
-| 3949 | Venu 2S | 006-B3949-00 |
-| 4260 | Venu 3 | 006-B4260-00 |
-| 4261 | Venu 3S | 006-B4261-00 |
-| 4644 | Venu 4 – 41 mm | 006-B4644-00 |
-| 4643 | Venu 4 – 45 mm | 006-B4643-00 |
-| 3600 | Venu Sq. | 006-B3600-00 |
-| 3603 | Venu Sq. | 006-B3603-00 |
-| 3837 | Venu Sq. | 006-B3837-00 |
-| 4118 | Venu Sq. | 006-B4118-00 |
-| 4115 | Venu Sq. 2 | 006-B4115-00 |
-| 4116 | Venu Sq. 2 Music | 006-B4116-00 |
-| 3596 | Venu Sq. Music | 006-B3596-00 |
-| 3599 | Venu Sq. Music | 006-B3599-00 |
-| 3838 | Venu Sq. Music | 006-B3838-00 |
-| 4119 | Venu Sq. Music | 006-B4119-00 |
-| 4603 | Venu X1 | 006-B4603-00 |
-| 4522 | eTrex Touch | 006-B4522-00 |
-| 1988 | epix | 006-B1988-00 |
-| 2330 | epix | 006-B2330-00 |
-| 2331 | epix | 006-B2331-00 |
-| 2332 | epix | 006-B2332-00 |
-| 2457 | epix | 006-B2457-00 |
-| 3943 | epix (Gen 2) | 006-B3943-00 |
-| 3944 | epix (Gen 2) | 006-B3944-00 |
-| 4312 | epix Pro (42mm) | 006-B4312-00 |
-| 4313 | epix Pro (47mm) | 006-B4313-00 |
-| 4314 | epix Pro (51mm) | 006-B4314-00 |
 | 2050 | fēnix 3 | 006-B2050-00 |
 | 2188 | fēnix 3 | 006-B2188-00 |
 | 2189 | fēnix 3 | 006-B2189-00 |
@@ -323,12 +237,98 @@ Full list of Garmin products supporting Connect IQ applications as of 28 May 202
 | 2432 | fēnix Chronos | 006-B2432-00 |
 | 2675 | fēnix Chronos | 006-B2675-00 |
 | 4666 | fēnix E | 006-B4666-00 |
+| 3405 | Garmin Swim 2 | 006-B3405-00 |
+| 3639 | Garmin Swim 2 | 006-B3639-00 |
+| 3284 | GPSMAP 66i | 006-B3284-00 |
+| 3658 | GPSMAP 66i | 006-B3658-00 |
+| 3028 | GPSMAP 66s / 66st | 006-B3028-00 |
+| 3657 | GPSMAP 66s / 66st | 006-B3657-00 |
+| 3694 | GPSMAP 66sr | 006-B3694-00 |
+| 4336 | GPSMAP 67 | 006-B4336-00 |
+| 4473 | GPSMAP 67 | 006-B4473-00 |
+| 3454 | GPSMAP 86i | 006-B3454-00 |
+| 3452 | GPSMAP 86s | 006-B3452-00 |
+| 3453 | GPSMAP 86sc | 006-B3453-00 |
+| 3455 | GPSMAP 86sci | 006-B3455-00 |
+| 4552 | GPSMAP H1 | 006-B4552-00 |
+| 3888 | Instinct 2 | 006-B3888-00 |
+| 4071 | Instinct 2 | 006-B4071-00 |
+| 3889 | Instinct 2S | 006-B3889-00 |
+| 4091 | Instinct 2S | 006-B4091-00 |
+| 4394 | Instinct 2X | 006-B4394-00 |
+| 4586 | Instinct 3 – 45 mm, AMOLED | 006-B4586-00 |
+| 4585 | Instinct 3 – 45 mm, Solar | 006-B4585-00 |
+| 4587 | Instinct 3 – 50 mm, AMOLED | 006-B4587-00 |
+| 4759 | Instinct 3 – 50 mm, Solar | 006-B4759-00 |
+| 4155 | Instinct Crossover | 006-B4155-00 |
+| 4678 | Instinct Crossover AMOLED | 006-B4678-00 |
+| 4583 | Instinct E – 40 mm | 006-B4583-00 |
+| 4584 | Instinct E – 45 mm | 006-B4584-00 |
+| 4105 | MARQ (Gen 2) | 006-B4105-00 |
+| 4106 | MARQ (Gen 2) | 006-B4106-00 |
+| 3624 | MARQ Adventurer | 006-B3624-00 |
+| 3648 | MARQ Adventurer | 006-B3648-00 |
+| 3251 | MARQ Athlete | 006-B3251-00 |
+| 3451 | MARQ Athlete | 006-B3451-00 |
+| 3247 | MARQ Aviator | 006-B3247-00 |
+| 3421 | MARQ Aviator | 006-B3421-00 |
+| 4124 | MARQ Aviator (Gen 2) | 006-B4124-00 |
+| 3248 | MARQ Captain | 006-B3248-00 |
+| 3448 | MARQ Captain | 006-B3448-00 |
+| 3249 | MARQ Commander | 006-B3249-00 |
+| 3449 | MARQ Commander | 006-B3449-00 |
+| 4472 | MARQ Commander (Gen 2) – Carbon Edition | 006-B4472-00 |
+| 3246 | MARQ Driver | 006-B3246-00 |
+| 3420 | MARQ Driver | 006-B3420-00 |
+| 3250 | MARQ Expedition | 006-B3250-00 |
+| 3450 | MARQ Expedition | 006-B3450-00 |
+| 3739 | MARQ Golfer | 006-B3739-00 |
+| 3850 | MARQ Golfer | 006-B3850-00 |
+| 3737 | Mercedes-Benz Venu | 006-B3737-00 |
+| 3740 | Mercedes-Benz Venu | 006-B3740-00 |
+| 4171 | Mercedes-Benz Venu 2 | 006-B4171-00 |
+| 4180 | Mercedes-Benz Venu 2 | 006-B4180-00 |
+| 4175 | Mercedes-Benz Venu 2S | 006-B4175-00 |
+| 4181 | Mercedes-Benz Venu 2S | 006-B4181-00 |
+| 3459 | Montana 700 | 006-B3459-00 |
+| 4415 | Montana 700 | 006-B4415-00 |
+| 5015 | Montana 760i | 006-B5015-00 |
+| 2512 | Oregon 7 Series | 006-B2512-00 |
+| 2681 | Oregon 7 Series | 006-B2681-00 |
+| 2692 | Oregon 7 Series | 006-B2692-00 |
 | 3782 | quatix 6 | 006-B3782-00 |
 | 3783 | quatix 6X | 006-B3783-00 |
+| 3498 | Rey | 006-B3498-00 |
+| 3537 | Rey | 006-B3537-00 |
+| 2444 | Rino 7 Series | 006-B2444-00 |
+| 3187 | Rino 7 Series | 006-B3187-00 |
 | 4135 | tactix 7 | 006-B4135-00 |
 | 4542 | tactix 7 – AMOLED Edition | 006-B4542-00 |
 | 4775 | tactix 8 – 47 mm, AMOLED | 006-B4775-00 |
 | 4776 | tactix 8 – 51 mm, Solar | 006-B4776-00 |
+| 3226 | Venu | 006-B3226-00 |
+| 3389 | Venu | 006-B3389-00 |
+| 3703 | Venu 2 | 006-B3703-00 |
+| 3950 | Venu 2 | 006-B3950-00 |
+| 3851 | Venu 2 Plus | 006-B3851-00 |
+| 4017 | Venu 2 Plus | 006-B4017-00 |
+| 3704 | Venu 2S | 006-B3704-00 |
+| 3949 | Venu 2S | 006-B3949-00 |
+| 4260 | Venu 3 | 006-B4260-00 |
+| 4261 | Venu 3S | 006-B4261-00 |
+| 4644 | Venu 4 – 41 mm | 006-B4644-00 |
+| 4643 | Venu 4 – 45 mm | 006-B4643-00 |
+| 3600 | Venu Sq. | 006-B3600-00 |
+| 3603 | Venu Sq. | 006-B3603-00 |
+| 3837 | Venu Sq. | 006-B3837-00 |
+| 4118 | Venu Sq. | 006-B4118-00 |
+| 4115 | Venu Sq. 2 | 006-B4115-00 |
+| 4116 | Venu Sq. 2 Music | 006-B4116-00 |
+| 3596 | Venu Sq. Music | 006-B3596-00 |
+| 3599 | Venu Sq. Music | 006-B3599-00 |
+| 3838 | Venu Sq. Music | 006-B3838-00 |
+| 4119 | Venu Sq. Music | 006-B4119-00 |
+| 4603 | Venu X1 | 006-B4603-00 |
 | 1907 | vívoactive | 006-B1907-00 |
 | 2160 | vívoactive | 006-B2160-00 |
 | 2700 | vívoactive 3 | 006-B2700-00 |

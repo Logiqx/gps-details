@@ -28,16 +28,16 @@
 006-B4132-00,Descent™ G1,Descent™ G1 Dual Power,Descent™ G1 Dual Power - Ocean Edition
 006-B4005-00,Descent™ G1,Descent™ G1 Solar,Descent™ G1 Solar - Ocean Edition
 006-B4588-00,Descent™ G2
+006-B2859-00,Descent™ Mk1
+006-B2991-00,Descent™ Mk1
 006-B3258-00,Descent™ MK2,Descent™MK2i
 006-B3702-00,Descent™ MK2,Descent™MK2i
+006-B3542-00,Descent™ Mk2S
+006-B3930-00,Descent™ Mk2S
 006-B4224-00,Descent™ MK3 (43mm)
 006-B4222-00,Descent™ MK3 - 43mm,Descent™ MK3i - 43mm
 006-B4223-00,Descent™ MK3i - 51mm
 006-B4225-00,Descent™ MK3i -51mm
-006-B2859-00,Descent™ Mk1
-006-B2991-00,Descent™ Mk1
-006-B3542-00,Descent™ Mk2S
-006-B3930-00,Descent™ Mk2S
 006-B1836-00,Edge® 1000
 006-B2052-00,Edge® 1000
 006-B2053-00,Edge® 1000
@@ -84,6 +84,17 @@
 006-B3872-00,Enduro™
 006-B4341-00,Enduro™ 2
 006-B4575-00,Enduro™ 3
+006-B1988-00,epix™
+006-B2330-00,epix™
+006-B2331-00,epix™
+006-B2332-00,epix™
+006-B2457-00,epix™
+006-B3943-00,epix™ (Gen 2),quatix® 7 – Sapphire Edition
+006-B3944-00,epix™ (Gen 2),quatix® 7 – Sapphire Edition
+006-B4312-00,epix™ Pro (42mm)
+006-B4313-00,epix™ Pro (47mm),quatix® 7 Pro
+006-B4314-00,epix™ Pro (51mm)
+006-B4522-00,eTrex® Touch
 006-B3501-00,First Avenger
 006-B3536-00,First Avenger
 006-B3914-00,ForeAthlete 245
@@ -146,103 +157,6 @@
 006-B4024-00,Forerunner® 955 Dual Power
 006-B4315-00,Forerunner® 965
 006-B4565-00,Forerunner® 970
-006-B3284-00,GPSMAP® 66i
-006-B3658-00,GPSMAP® 66i
-006-B3028-00,GPSMAP® 66s / 66st
-006-B3657-00,GPSMAP® 66s / 66st
-006-B3694-00,GPSMAP® 66sr
-006-B4336-00,GPSMAP® 67,GPSMAP® 67i
-006-B4473-00,GPSMAP® 67,GPSMAP® 67i
-006-B3454-00,GPSMAP® 86i
-006-B3452-00,GPSMAP® 86s
-006-B3453-00,GPSMAP® 86sc
-006-B3455-00,GPSMAP® 86sci
-006-B4552-00,GPSMAP® H1,GPSMAP® H1i Plus
-006-B3405-00,Garmin Swim™ 2
-006-B3639-00,Garmin Swim™ 2
-006-B3888-00,Instinct® 2,Instinct® 2 - Camo Edition,Instinct® 2 Solar - Tactical Edition,Instinct® 2 Solar - Surf Edition,Instinct® 2 - dēzl™ Edition
-006-B4071-00,Instinct® 2,Instinct® 2 - Camo Edition,Instinct® 2 Solar - Tactical Edition,Instinct® 2 Solar - Surf Edition,Instinct® 2 - dēzl™ Edition,Instinct® 2 Dual Power,Instinct® 2 Dual Power - Tactical Edition,Instinct® 2 Dual Power ONE PIECE LUFFY 
-006-B3889-00,Instinct® 2S,Instinct® 2S - Camo Edition,Instinct® 2S Solar - Tactical Edition,Instinct® 2S Solar - Surf Edition,Instinct® 2S - dēzl™ Edition
-006-B4091-00,Instinct® 2S,Instinct® 2S - Camo Edition,Instinct® 2S Solar - Tactical Edition,Instinct® 2S Solar - Surf Edition,Instinct® 2S - dēzl™ Edition,Instinct® 2S Dual Power,Instinct® 2S Dual Power - Surf Edition,Instinct® 2S Dual Power ONE PIECE CHOPPER
-006-B4394-00,Instinct® 2X
-006-B4586-00,Instinct® 3 – 45 mm, AMOLED
-006-B4585-00,Instinct® 3 – 45 mm, Solar
-006-B4587-00,Instinct® 3 – 50 mm, AMOLED,Instinct® 3 – 50 mm,AMOLED,Tactical
-006-B4759-00,Instinct® 3 – 50 mm, Solar,Instinct® 3 – 50 mm,Solar,Tactical
-006-B4678-00,Instinct® Crossover AMOLED
-006-B4155-00,Instinct® Crossover,Instinct® Crossover Dual Power
-006-B4583-00,Instinct® E – 40 mm
-006-B4584-00,Instinct® E – 45 mm
-006-B4106-00,MARQ® (Gen 2),MARQ® Carbon Collection
-006-B4105-00,MARQ® (Gen 2),MARQ® Carbon Collection,MARQ® Adventurer (Gen 2) - Damascus Steel Edition
-006-B4472-00,MARQ® Commander (Gen 2) – Carbon Edition
-006-B3624-00,MARQ™ Adventurer
-006-B3648-00,MARQ™ Adventurer
-006-B3251-00,MARQ™ Athlete
-006-B3451-00,MARQ™ Athlete
-006-B3247-00,MARQ™ Aviator
-006-B3421-00,MARQ™ Aviator
-006-B4124-00,MARQ™ Aviator (Gen 2)
-006-B3448-00,MARQ™ Captain
-006-B3248-00,MARQ™ Captain,MARQ™ Captain: American Magic Edition
-006-B3249-00,MARQ™ Commander
-006-B3449-00,MARQ™ Commander
-006-B3246-00,MARQ™ Driver
-006-B3420-00,MARQ™ Driver
-006-B3250-00,MARQ™ Expedition
-006-B3450-00,MARQ™ Expedition
-006-B3739-00,MARQ™ Golfer
-006-B3850-00,MARQ™ Golfer
-006-B3737-00,Mercedes-Benz Venu®
-006-B3740-00,Mercedes-Benz Venu®
-006-B4171-00,Mercedes-Benz Venu® 2
-006-B4180-00,Mercedes-Benz Venu® 2
-006-B4175-00,Mercedes-Benz Venu® 2S
-006-B4181-00,Mercedes-Benz Venu® 2S
-006-B3459-00,Montana 700,Montana 700i,Montana 750i
-006-B4415-00,Montana® 700
-006-B5015-00,Montana® 760i
-006-B2512-00,Oregon® 7 Series
-006-B2681-00,Oregon® 7 Series
-006-B2692-00,Oregon® 7 Series
-006-B3498-00,Rey™
-006-B3537-00,Rey™
-006-B2444-00,Rino® 7 Series
-006-B3187-00,Rino® 7 Series
-006-B3226-00,Venu®
-006-B3389-00,Venu®
-006-B3703-00,Venu® 2
-006-B3950-00,Venu® 2
-006-B3851-00,Venu® 2 Plus
-006-B4017-00,Venu® 2 Plus
-006-B3704-00,Venu® 2S
-006-B3949-00,Venu® 2S
-006-B4260-00,Venu® 3
-006-B4261-00,Venu® 3S
-006-B4644-00,Venu® 4 – 41 mm
-006-B4643-00,Venu® 4 – 45 mm
-006-B3600-00,Venu® Sq.
-006-B3603-00,Venu® Sq.
-006-B3837-00,Venu® Sq.
-006-B4118-00,Venu® Sq.
-006-B4115-00,Venu® Sq. 2
-006-B4116-00,Venu® Sq. 2 Music
-006-B3596-00,Venu® Sq. Music
-006-B3599-00,Venu® Sq. Music
-006-B3838-00,Venu® Sq. Music
-006-B4119-00,Venu® Sq. Music
-006-B4603-00,Venu® X1
-006-B4522-00,eTrex® Touch
-006-B1988-00,epix™
-006-B2330-00,epix™
-006-B2331-00,epix™
-006-B2332-00,epix™
-006-B2457-00,epix™
-006-B3943-00,epix™ (Gen 2),quatix® 7 – Sapphire Edition
-006-B3944-00,epix™ (Gen 2),quatix® 7 – Sapphire Edition
-006-B4312-00,epix™ Pro (42mm)
-006-B4313-00,epix™ Pro (47mm),quatix® 7 Pro
-006-B4314-00,epix™ Pro (51mm)
 006-B2188-00,fēnix® 3
 006-B2189-00,fēnix® 3
 006-B2293-00,fēnix® 3
@@ -304,12 +218,98 @@
 006-B2432-00,fēnix® Chronos
 006-B2675-00,fēnix® Chronos
 006-B4666-00,fēnix® E
+006-B3405-00,Garmin Swim™ 2
+006-B3639-00,Garmin Swim™ 2
+006-B3284-00,GPSMAP® 66i
+006-B3658-00,GPSMAP® 66i
+006-B3028-00,GPSMAP® 66s / 66st
+006-B3657-00,GPSMAP® 66s / 66st
+006-B3694-00,GPSMAP® 66sr
+006-B4336-00,GPSMAP® 67,GPSMAP® 67i
+006-B4473-00,GPSMAP® 67,GPSMAP® 67i
+006-B3454-00,GPSMAP® 86i
+006-B3452-00,GPSMAP® 86s
+006-B3453-00,GPSMAP® 86sc
+006-B3455-00,GPSMAP® 86sci
+006-B4552-00,GPSMAP® H1,GPSMAP® H1i Plus
+006-B3888-00,Instinct® 2,Instinct® 2 - Camo Edition,Instinct® 2 Solar - Tactical Edition,Instinct® 2 Solar - Surf Edition,Instinct® 2 - dēzl™ Edition
+006-B4071-00,Instinct® 2,Instinct® 2 - Camo Edition,Instinct® 2 Solar - Tactical Edition,Instinct® 2 Solar - Surf Edition,Instinct® 2 - dēzl™ Edition,Instinct® 2 Dual Power,Instinct® 2 Dual Power - Tactical Edition,Instinct® 2 Dual Power ONE PIECE LUFFY 
+006-B3889-00,Instinct® 2S,Instinct® 2S - Camo Edition,Instinct® 2S Solar - Tactical Edition,Instinct® 2S Solar - Surf Edition,Instinct® 2S - dēzl™ Edition
+006-B4091-00,Instinct® 2S,Instinct® 2S - Camo Edition,Instinct® 2S Solar - Tactical Edition,Instinct® 2S Solar - Surf Edition,Instinct® 2S - dēzl™ Edition,Instinct® 2S Dual Power,Instinct® 2S Dual Power - Surf Edition,Instinct® 2S Dual Power ONE PIECE CHOPPER
+006-B4394-00,Instinct® 2X
+006-B4586-00,Instinct® 3 – 45 mm, AMOLED
+006-B4585-00,Instinct® 3 – 45 mm, Solar
+006-B4587-00,Instinct® 3 – 50 mm, AMOLED,Instinct® 3 – 50 mm,AMOLED,Tactical
+006-B4759-00,Instinct® 3 – 50 mm, Solar,Instinct® 3 – 50 mm,Solar,Tactical
+006-B4678-00,Instinct® Crossover AMOLED
+006-B4155-00,Instinct® Crossover,Instinct® Crossover Dual Power
+006-B4583-00,Instinct® E – 40 mm
+006-B4584-00,Instinct® E – 45 mm
+006-B4106-00,MARQ® (Gen 2),MARQ® Carbon Collection
+006-B4105-00,MARQ® (Gen 2),MARQ® Carbon Collection,MARQ® Adventurer (Gen 2) - Damascus Steel Edition
+006-B4472-00,MARQ® Commander (Gen 2) – Carbon Edition
+006-B3624-00,MARQ™ Adventurer
+006-B3648-00,MARQ™ Adventurer
+006-B3251-00,MARQ™ Athlete
+006-B3451-00,MARQ™ Athlete
+006-B3247-00,MARQ™ Aviator
+006-B3421-00,MARQ™ Aviator
+006-B4124-00,MARQ™ Aviator (Gen 2)
+006-B3448-00,MARQ™ Captain
+006-B3248-00,MARQ™ Captain,MARQ™ Captain: American Magic Edition
+006-B3249-00,MARQ™ Commander
+006-B3449-00,MARQ™ Commander
+006-B3246-00,MARQ™ Driver
+006-B3420-00,MARQ™ Driver
+006-B3250-00,MARQ™ Expedition
+006-B3450-00,MARQ™ Expedition
+006-B3739-00,MARQ™ Golfer
+006-B3850-00,MARQ™ Golfer
+006-B3737-00,Mercedes-Benz Venu®
+006-B3740-00,Mercedes-Benz Venu®
+006-B4171-00,Mercedes-Benz Venu® 2
+006-B4180-00,Mercedes-Benz Venu® 2
+006-B4175-00,Mercedes-Benz Venu® 2S
+006-B4181-00,Mercedes-Benz Venu® 2S
+006-B3459-00,Montana 700,Montana 700i,Montana 750i
+006-B4415-00,Montana® 700
+006-B5015-00,Montana® 760i
+006-B2512-00,Oregon® 7 Series
+006-B2681-00,Oregon® 7 Series
+006-B2692-00,Oregon® 7 Series
 006-B3782-00,quatix® 6
 006-B3783-00,quatix® 6X,quatix® 6X Solar,quatix® 6X Dual Power
+006-B3498-00,Rey™
+006-B3537-00,Rey™
+006-B2444-00,Rino® 7 Series
+006-B3187-00,Rino® 7 Series
 006-B4542-00,tactix® 7 – AMOLED Edition
 006-B4135-00,tactix® 7,tactix® 7 – Pro Ballistics Edition,tactix® 7 – Pro Edition
 006-B4775-00,tactix® 8 – 47 mm, AMOLED,tactix® 8 – 51 mm,AMOLED
 006-B4776-00,tactix® 8 – 51 mm, Solar,tactix® 8 – 51 mm,Solar,Elite
+006-B3226-00,Venu®
+006-B3389-00,Venu®
+006-B3703-00,Venu® 2
+006-B3950-00,Venu® 2
+006-B3851-00,Venu® 2 Plus
+006-B4017-00,Venu® 2 Plus
+006-B3704-00,Venu® 2S
+006-B3949-00,Venu® 2S
+006-B4260-00,Venu® 3
+006-B4261-00,Venu® 3S
+006-B4644-00,Venu® 4 – 41 mm
+006-B4643-00,Venu® 4 – 45 mm
+006-B3600-00,Venu® Sq.
+006-B3603-00,Venu® Sq.
+006-B3837-00,Venu® Sq.
+006-B4118-00,Venu® Sq.
+006-B4115-00,Venu® Sq. 2
+006-B4116-00,Venu® Sq. 2 Music
+006-B3596-00,Venu® Sq. Music
+006-B3599-00,Venu® Sq. Music
+006-B3838-00,Venu® Sq. Music
+006-B4119-00,Venu® Sq. Music
+006-B4603-00,Venu® X1
 006-B1907-00,vívoactive®
 006-B2160-00,vívoactive®
 006-B2700-00,vívoactive® 3
