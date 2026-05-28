@@ -10,3 +10,9 @@ echo
 
 jq . $TMP >$OUT
 rm $TMP
+
+CSV=$DATA_DIR/deviceTypes.csv
+jq -r '.[] | (.partNumber + "," + .name)' $OUT | sort >$CSV
+
+CSV=$DATA_DIR/deviceTypesWide.csv
+jq -r '.[] | [.partNumber, .name] +  [.additionalNames[]] | join(",")' $OUT | sort >$CSV
