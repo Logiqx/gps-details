@@ -3,14 +3,19 @@
 DEVICES=/mnt/c/Users/mwgeo/AppData/Roaming/Garmin/ConnectIQ/Devices
 
 IN=data/apps/appro/supported-models.json
-OUT=data/apps/appro/supported-models.csv
+TMP=data/apps/appro/supported-models.tmp
+CSV=data/apps/appro/supported-models.csv
 
 for DEVICE in $(cut -d'"' -f2 $IN)
 do
-  jq -r '.deviceId + "," + .displayName + "," + (.partNumbers[] | .number + "," + .connectIQVersion) + "," + .displayType + "," + .deviceFamily + "," + .deviceGroup' $DEVICES/$DEVICE/compiler.json
-done >$OUT
+  jq -r '.partNumbers[] | .number' $DEVICES/$DEVICE/compiler.json
+done >$TMP
 
-for MODEL in $(cut -d, -f3 $OUT | sed 's/006-B//;s/-00//')
+REF=data/devices/garmin/deviceTypes.csv
+
+for MODEL in $(cat $TMP)
 do
-  echo $MODEL:$(cat docs/devices/garmin/watches/*md | grep -c $MODEL)
-done | grep :0 | sort -n
+  grep $MODEL $REF
+done | sort >$CSV
+
+rm $TMP
