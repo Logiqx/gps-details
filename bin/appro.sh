@@ -18,6 +18,13 @@ do
   grep $MODEL $REF
 done | sort -f -t, -k2 >$CSV
 
+echo "Models that may be missing support:"
+echo
+
+diff data/apps/appro/supported-models.csv data/devices/garmin/deviceTypes.csv | grep '^>' >$TMP
+egrep -v 'Edge|GPSMAP|Montana|Oregon|Rino|fēnix 3|eTrex|epix$|D2 Bravo|D2 Charlie|Forerunner [1-9][23]|ForeAthlete [1-9][23]|Fore.* 45|Venu Sq.$|Garmin Swim 2|Venu Sq. Music|vívoactive$|vívoactive 3 Mercedes|vívoactive HR|vivolife' $TMP
+
+echo
 echo "Models missing in my list of Garmin watches:"
 echo
 
