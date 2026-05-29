@@ -202,7 +202,7 @@
 | 3906 | fēnix 7 | 006-B3906-00 |
 | 3909 | fēnix 7 | 006-B3909-00 |
 | 4375 | fēnix 7 Pro | 006-B4375-00 |
-| 4595 | fēnix 7 Pro – Solar Edition (No Wi-Fi®) | 006-B4595-00 |
+| 4595 | fēnix 7 Pro – Solar Edition (No Wi-Fi) | 006-B4595-00 |
 | 3905 | fēnix 7S | 006-B3905-00 |
 | 3908 | fēnix 7S | 006-B3908-00 |
 | 4374 | fēnix 7S Pro | 006-B4374-00 |
@@ -315,8 +315,8 @@
 | 2700 | vívoactive 3 | 006-B2700-00 |
 | 2976 | vívoactive 3 | 006-B2976-00 |
 | 3446 | vívoactive 3 | 006-B3446-00 |
-| 3473 | vívoactive 3 Mercedes-Benz® Collection | 006-B3473-00 |
-| 3477 | vívoactive 3 Mercedes-Benz® Collection | 006-B3477-00 |
+| 3473 | vívoactive 3 Mercedes-Benz Collection | 006-B3473-00 |
+| 3477 | vívoactive 3 Mercedes-Benz Collection | 006-B3477-00 |
 | 2988 | vívoactive 3 Music | 006-B2988-00 |
 | 3066 | vívoactive 3 Music | 006-B3066-00 |
 | 3163 | vívoactive 3 Music | 006-B3163-00 |

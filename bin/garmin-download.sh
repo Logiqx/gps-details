@@ -8,7 +8,7 @@ OUT=$DATA_DIR/deviceTypes.json
 curl -o $TMP https://apps.garmin.com/api/appsLibraryExternalServices/api/asw/deviceTypes
 echo
 
-jq . $TMP | sed 's/™//;s/®//' >$OUT
+jq . $TMP | sed 's/™//g;s/®//g' >$OUT
 rm $TMP
 
 CSV=$DATA_DIR/deviceTypes.csv
