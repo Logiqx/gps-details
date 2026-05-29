@@ -16,7 +16,7 @@ REF=data/devices/garmin/deviceTypes.csv
 for MODEL in $(cat $TMP)
 do
   grep $MODEL $REF
-done | sort -f -t, -k2 >$CSV
+done | sort >$CSV
 
 echo "Models that may be missing support:"
 echo
