@@ -21,8 +21,19 @@ done | sort >$CSV
 echo "Models that may be missing support:"
 echo
 
-diff data/apps/appro/supported-models.csv data/devices/garmin/deviceTypes.csv | grep '^>' >$TMP
-egrep -v 'Edge|GPSMAP|Montana|Oregon|Rino|fēnix 3|eTrex|epix$|D2 Bravo|D2 Charlie|Forerunner [1-9][23]|ForeAthlete [1-9][23]|Fore.* 45|Venu Sq.$|Garmin Swim 2|Venu Sq. Music|vívoactive$|vívoactive 3 Mercedes|vívoactive HR|vivolife' $TMP
+VER=data/devices/garmin/versions.csv
+
+diff data/apps/appro/supported-models.csv data/devices/garmin/deviceTypes.csv | grep '^>' | egrep -v 'Edge|GPSMAP|Montana|eTrex' | sed 's/> //;s/,.*//' >$TMP
+
+for DEVICE in $(cat $TMP)
+do
+  API=$(grep $DEVICE $VER | egrep -v ',[12]\.|,3\.0' | cut -d, -f2)
+
+  if [ -n "$API" ]
+  then
+    echo $(grep $DEVICE $REF),$API
+  fi
+done
 
 echo
 echo "Models missing in my list of Garmin watches:"
