@@ -44,7 +44,7 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| Descent Mk1 | 2017-10 | 2859, 2991 | MT3333  | 3.1 | - |                                                              |
+| Descent Mk1 | 2017-10 | 2859, 2991 | MT3333  | 3.1 | Y |                                                              |
 
 Alternative product number(s) are APAC models.
 
