@@ -5,6 +5,7 @@
 General advice and guidance for COROS watches is in another GitHub repo.
 
 - [COROS advice](https://logiqx.github.io/gps-guides/guidance/coros/) - 10 Jan 2025
+- [COROS thoughts](thoughts/README.md) - 26 Aug 2026
 
 
 
