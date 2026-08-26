@@ -102,7 +102,7 @@ COROS and Garmin are the only two sports watch manufacturers that provide activi
 
 Hopefully this has provided some relevant background information about COROS devices between 2020 and 2025. What happens about the APEX 4 is still to be decided. The GNSS performance is unknown, and reliability of future firmware updates cannot possibly be known.
 
-I have numerous [projects](https://logiqx.github.io/gps-wip/) on the go for the speedsurfing community, but I haven't personally investigated the APEX 4. I also haven't yet documented how assess GNSS performance for a new device, and the variety of issues that may be evident. Sadly, it's not as simple as comparing the top runs.
+I have numerous [projects](https://logiqx.github.io/gps-wip/) on the go for the speedsurfing community, but I haven't personally investigated the APEX 4. I also haven't yet documented how  to assess GNSS performance of a new device, and the variety of issues that may be evident. Sadly, it's not as simple as comparing the top runs.
 
 TBH, I don't really know what to think about COROS watches at this time. The fact that COROS have re-introduced the same issues over and over again does not fill me (or the guys at GPS-Speedsurfing) with confidence. We have also lost contact with the company, which is not great.
 
