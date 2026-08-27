@@ -38,7 +38,7 @@ Lastly, lots minor bugs are present such as not understanding that gybes mark th
 
 ### Lack of Support
 
-There used to be regular discussion with the Head of Product Marketing and Support at COROS, but there has been no contact since April 2025. There has been no notice of new product releases (e.g. COROS APEX 4), or updates about the firmware issues.
+There used to be regular discussion with the Head of Product Marketing and Support at COROS, but there has been no contact since April 2025. There has been no notice of new product releases (e.g. NOMAD or COROS APEX 4), or updates about the firmware issues.
 
 The various [firmware issues](https://logiqx.github.io/gps-details/devices/coros/firmware/) during 2024 continued to re-occur during 2025, and testing every firmware release is unrealistic. I have personally spent hundreds of hours working on COROS issues (probably 300+ hours), and it is very frustrating to see issues re-occurring.
 
