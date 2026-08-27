@@ -22,7 +22,7 @@ It was also possible to link a GPS-Speedsurfing account with a COROS account, so
 
 The early models (APEX Pro and VERTIX) used a GNSS receiver from Sony, which had mediocre GNSS performance at best. However, Locosys had stopped producing the GT-31, GW-52, and GW-60 so the community urgently required a successor.
 
-The willingness of COROS to collaborate, and the convenience of their watches made them a great choice. They weren't perfect, but the view was that they could be improved over time. It was only later when it become evident that the watches had a variety of issues.
+The willingness of COROS to collaborate, and the convenience of their watches made them a sensible choice. They weren't perfect, but the view was that they could be improved over time. It was only later when it become evident that the watches had a variety of issues.
 
 The APEX 2 Pro, VERTIX 2, and VERTIX 2S initially had significantly improved GNSS performance, thanks to the Airoha AG3335M chipset. Sadly in May 2024, firmware issues started to occur and that is when things started to go downhill in terms of GNSS performance.
 
