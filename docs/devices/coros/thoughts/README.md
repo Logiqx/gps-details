@@ -14,17 +14,17 @@ COROS released firmware in Nov 2020 which introduced the Windsurfing and Speedsu
 
 The APEX Pro and VERTIX were the latest models at the time, and they provided some really nice features to the community. Metrics such as 2 sec, 10 sec, 250 m, 500 m, and NM are great on the water. The phone app could also produce a nice session summary, near perfect for social media.
 
-It was possible to link a GPS-Speedsurfing account with a COROS account, so sessions would be automatically uploaded. It was a great user experience, and it simplified the process of posting sessions after the session, eliminating the need for a laptop and cables.
+It was also possible to link a GPS-Speedsurfing account with a COROS account, so sessions would be automatically uploaded. It was a great user experience, and it simplified the process of posting sessions after the session, eliminating the need for a laptop and cables.
 
 
 
 ### Issues
 
-The early models (APEX Pro and VERTIX) used a GNSS receiver from Sony, which to be honest has mediocre GNSS performance at best. However, Locosys had stopped producing the GT-31, GW-52, and GW-60 so the community urgently required a successor.
+The early models (APEX Pro and VERTIX) used a GNSS receiver from Sony, which had mediocre GNSS performance at best. However, Locosys had stopped producing the GT-31, GW-52, and GW-60 so the community urgently required a successor.
 
 The willingness of COROS to collaborate, and the convenience of their watches made them a great choice. They weren't perfect, but the view was that they could be improved over time. It was only later when it become evident that the watches had a variety of issues.
 
-The APEX 2 Pro, VERTIX 2, and VERTIX 2S initially had significantly improved GNSS performance, thanks to the Airoha AG3335M chipset. In May 2024, firmware issues started to occur and that is when things started to go downhill in terms of GNSS performance.
+The APEX 2 Pro, VERTIX 2, and VERTIX 2S initially had significantly improved GNSS performance, thanks to the Airoha AG3335M chipset. Sadly in May 2024, firmware issues started to occur and that is when things started to go downhill in terms of GNSS performance.
 
 Some of the known issues are documented within this website; [investigations](https://logiqx.github.io/gps-details/devices/coros/), and [firmware](https://logiqx.github.io/gps-details/devices/coros/firmware/) details. Some of the issues are not even documented, because frankly it takes a lot of time and effort, and I have limited spare time available.
 
@@ -38,11 +38,11 @@ Lastly, lots minor bugs are present such as not understanding that gybes mark th
 
 ### Lack of Support
 
-There used to be an healthy discussion with the Head of Product Marketing and Support at COROS, but there has been no contact since April 2025. There has been no notice of new product releases (e.g. COROS APEX 4), or updates about the firmware issues.
+There used to be regular discussion with the Head of Product Marketing and Support at COROS, but there has been no contact since April 2025. There has been no notice of new product releases (e.g. COROS APEX 4), or updates about the firmware issues.
 
 The various [firmware issues](https://logiqx.github.io/gps-details/devices/coros/firmware/) during 2024 continued to re-occur during 2025, and testing every firmware release is unrealistic. I have personally spent hundreds of hours working on COROS issues (probably 300+ hours), and it is very frustrating to see issues re-occurring.
 
-Neither I, nor the guys at GPS-Speedsurfing have heard from our COROS representative for almost 18 months, and despite the early promise, it feels like the company has lost interest in our community, and incapable of resolving the issues that we report.
+Neither I, nor the guys at GPS-Speedsurfing have heard from our COROS representative for almost 18 months, and despite the early promise, it feels like the company has lost interest in our community, and incapable of resolving issues that we report.
 
 
 
@@ -52,7 +52,7 @@ Just recently there has been a [discussion](https://www.facebook.com/groups/2806
 
 The COROS APEX 4 (42 mm and 46 mm) was released in Oct 2025, and the specification suggests that COROS may have switched to a different GNSS chipset. This adds uncertainty around the performance, and we have already seen that change is not always for the better.
 
-My expectation is that the bugs present on the APEX Pro, VERTIX, APEX 2 Pro, VERTIX 2, and VERTIX 2S will still be present in the APEX 4. Establishing whether this is the case is rather time consuming though, and not an endeavour that I have undertaken to this day.
+My expectation is that the bugs present on the APEX Pro, VERTIX, APEX 2 Pro, VERTIX 2, and VERTIX 2S will still be present in the APEX 4. Establishing whether this is the case is rather time consuming though, and not an activity that I have undertaken as yet.
 
 
 
@@ -60,7 +60,7 @@ My expectation is that the bugs present on the APEX Pro, VERTIX, APEX 2 Pro, VER
 
 #### Doppler
 
-The green icon on GPS-Speedsurfing is often thought to represent a "Doppler" device, but that is not actually the case. It actually represents a device that has been approved for use on GP3S, considering the overall performance, and mandatory criteria of Doppler-derived speeds.
+The green icon on GPS-Speedsurfing is often thought to represent a "Doppler" device, but that is not actually the case. It actually represents a device that has been approved for use on GP3S, considering the overall performance, presence of Doppler-derived speeds, and correct usage.
 
 Satellites are orbiting the earth twice per day, whilst the earth is rotating, whilst we are windsurfing. The GNSS signals are affected by the Doppler effect, which essentially changes the frequency. In order to process the GNSS signals, receivers must determine the Doppler shift for each signal.
 
@@ -102,13 +102,13 @@ COROS and Garmin are the only two watch manufacturers known to provide activity 
 
 Hopefully this has provided some relevant background information about COROS devices between 2020 and 2025. What happens about the APEX 4 is still to be decided. The GNSS performance is unknown, and reliability of future firmware updates cannot be predicted.
 
-I have numerous GPS [projects](https://logiqx.github.io/gps-wip/) on the go for the wider community, but I haven't investigated the APEX 4. I have plans to document how I assess GNSS performance of new devices, and the variety of issues that can be evident. It's not as simple as just comparing the top runs.
+I have numerous GPS [projects](https://logiqx.github.io/gps-wip/) on the go for the wider community, so I haven't investigated the APEX 4. I have plans to document how I assess GNSS performance of new devices, and the variety of issues that can be present. It's not as simple as just comparing the top runs.
 
-TBH, I don't really know what to think about COROS at this time. The fact they have re-introduced the same issues over and over again does not fill me (or the guys at GPS-Speedsurfing) with confidence. We have also lost all contact with the company, which is not great.
+TBH, I don't really know what to think of COROS at this time. The fact they have re-introduced the same issues over and over again does not fill me (or the guys at GPS-Speedsurfing) with confidence. We have also lost all contact with the company, which is not great.
 
 I've not ruled out an investigation into the APEX 4, but I do have a lot of other projects on the go, which are summarised in the link above. The next couple of months are going to be super-busy for me, during which I won't have any bandwidth for COROS investigations.
 
-Like I say, hopefully this provides some clarity and insights into why the APEX 4 has not been assessed as yet. We all have busy lives, and lots of things competing for a slice of our spare time. If anyone owns a Motion (or ESP GPS) and APEX 4 then please reach out to me.
+Like I said earlier, hopefully this provides some clarity and insights into why the APEX 4 has not been assessed as of yet. We all have busy lives, and many things competing for our spare time. If anyone owns a Motion (or ESP GPS) and APEX 4 then please reach out to me.
 
 
 
