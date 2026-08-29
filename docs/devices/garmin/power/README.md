@@ -12,7 +12,7 @@ There is currently some debate about the "new" satellite settings on the fenix 9
 
 ![comparison](img/comparison.png)
 
-This is a quick document which shares my thoughts, which will be tested in the near future.
+This is a quick document which shares my thoughts, and my suspicions will be tested in the near future.
 
 
 
@@ -104,6 +104,6 @@ I believe that Garmin have simply renamed the satellite settings to match the po
 
 I also suspect that "GPS Only" has been ditched, and the "Extended Battery" profile now uses "All Systems".
 
-This can all be confirmed by examining [GPS Events](../developer/gps-events.md) in FIT files from the fenix 8. This is planned for the near future, once I receive some FIT files from the fenix 9. It is also worth noting that the [battery estimates](https://docs.google.com/spreadsheets/d/1JgJJNWAgFoC59cPQnlPvR_oOnTK9rUo2PIFP8X9-_PE/edit?usp=sharing) go a long way to corroborating what I have said in this document.
+This can all be confirmed by examining [GPS Events](../developer/gps-events.md) in FIT files from the fenix 9. This is planned for the near future, once I receive some FIT files from the fenix 9. It is also worth noting that the [battery estimates](https://docs.google.com/spreadsheets/d/1JgJJNWAgFoC59cPQnlPvR_oOnTK9rUo2PIFP8X9-_PE/edit?usp=sharing) go a long way to corroborating what I have said in this document.
 
 Whether or not Garmin are still using the Synaptics SYN4778 (like the fenix 8) remains to be seen. Hopefully [Ferhad Fidan](https://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) will treat us to a future teardown of the fenix 9!
