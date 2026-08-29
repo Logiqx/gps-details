@@ -50,7 +50,7 @@ There is currently some confusion about the "new" satellite settings on the feni
 | **Extended Battery** |   All Systems    | Balances above-average battery life and below-average positioning accuracy. This setting provides the best battery life while still prioritizing positioning accuracy. |
 | **Max Battery**      |    UltraTrac     | Prioritizes maximum battery life while reducing positioning accuracy. This setting records track points and sensor data less frequently for long-duration activities. |
 
-Note: The above expectations are different to some prominent reviewers on YouTube.
+Note: The above expectations are different to some prominent reviewers on YouTube, with the exception of "Max Battery".
 
 
 
@@ -58,7 +58,7 @@ Note: The above expectations are different to some prominent reviewers on YouTub
 
 > Prioritizes maximum positioning accuracy while reducing battery life. This setting provides increased performance in challenging environments for short-duration activities.
 
-I am pretty sure that "Max Accuracy" is the same as "All + Multi-Band", not "Auto Select" as suggested by some people on YouTube.
+I am fairly sure that "Max Accuracy" is the same as "All + Multi-Band", and not "Auto Select".
 
 All + Multi-Band is described in more detail in the fenix 7 and fenix 8 manuals, but I am pretty sure that "Max Accuracy" will be the same.
 
@@ -68,7 +68,7 @@ All + Multi-Band is described in more detail in the fenix 7 and fenix 8 manuals,
 
 > Balances average positioning accuracy and average battery life. This setting provides the best positioning accuracy while still prioritizing battery life.
 
-I am pretty sure "Normal" is the same as "Auto Select" (aka SatIQ) on the fenix 7 and fenix 8 watches.
+I am fairly sure that "Normal" is the same as "Auto Select" (i.e. SatIQ), and not "All Systems".
 
 n.b. The phrase "*best positioning accuracy while still prioritizing battery life*" also appears in the fenix 7 and fenix 8 manuals:
 
@@ -80,7 +80,7 @@ n.b. The phrase "*best positioning accuracy while still prioritizing battery lif
 
 > Balances above-average battery life and below-average positioning accuracy. This setting provides the best battery life while still prioritizing positioning accuracy.
 
-I am fairly confident "Extended Battery" will be using "All Systems", not "GPS Only" as suggested by some people on YouTube.
+I am fairly confident that "Extended Battery" will be using "All Systems", and not "GPS Only".
 
 This will be confirmed by [GPS Events](../developer/gps-events.md) in the FIT files of activities using this power mode / satellite setting.
 
@@ -90,7 +90,7 @@ This will be confirmed by [GPS Events](../developer/gps-events.md) in the FIT fi
 
 > Prioritizes maximum battery life while reducing positioning accuracy. This setting records track points and sensor data less frequently for long-duration activities.
 
-I am pretty sure "Max Battery" is the same as "UltraTrac", which only records track points and sensor data once per minute.
+I am fairly sure that "Max Battery" is the same as "UltraTrac", which only records track points and sensor data once per minute.
 
 n.b. The phrase "*records track points and sensor data less frequently*" also appears in the fenix 7 and fenix 8 manuals:
 
