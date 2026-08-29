@@ -102,4 +102,5 @@ n.b. The phrase "*records track points and sensor data less frequently*" also ap
 
 I believe that Garmin have simply renamed the satellite settings to match the power modes. This makes a lot of sense from a user perspective, because the average user doesn't really need to know the technical GNSS terms (or Garmin trademarks UltraTrac and SatIQ).
 
-It is possible to confirm all the the satellite settings by examining [GPS Events](../developer/gps-events.md) in FIT files. This is planned for the near future, once I receive some FIT files from the fenix 9. It is also worth noting that the battery estimates go a long way to corroborating what I have said in this document.
+It is possible to confirm all the the satellite settings by examining [GPS Events](../developer/gps-events.md) in FIT files. This is planned for the near future, once I receive some FIT files from the fenix 9. It is also worth noting that the [battery estimates](https://docs.google.com/spreadsheets/d/1JgJJNWAgFoC59cPQnlPvR_oOnTK9rUo2PIFP8X9-_PE/edit?usp=sharing) go a long way to corroborating what I have said in this document.
+
