@@ -41,7 +41,7 @@ Notes about some Garmin trademarks:
 
 ### Satellite Settings
 
-There is currently some confusion about the "new" satellite settings on the fenix 9, but these are my expectations:
+There is currently some debate about the "new" satellite settings on the fenix 9, but these are my expectations:
 
 |                      |   Historically   | Description in fenix 8 owner's manual                        |
 | -------------------- | :--------------: | ------------------------------------------------------------ |
@@ -50,7 +50,7 @@ There is currently some confusion about the "new" satellite settings on the feni
 | **Extended Battery** |   All Systems    | Balances above-average battery life and below-average positioning accuracy. This setting provides the best battery life while still prioritizing positioning accuracy. |
 | **Max Battery**      |    UltraTrac     | Prioritizes maximum battery life while reducing positioning accuracy. This setting records track points and sensor data less frequently for long-duration activities. |
 
-Note: The above expectations are different to some prominent reviewers on YouTube, with the exception of "Max Battery".
+Note: My interpretation differs from some popular reviewers on YouTube, with the exception of "Max Battery".
 
 
 
@@ -60,7 +60,7 @@ Note: The above expectations are different to some prominent reviewers on YouTub
 
 I am fairly sure that "Max Accuracy" is the same as "All + Multi-Band", and not "Auto Select".
 
-All + Multi-Band is described in more detail in the fenix 7 and fenix 8 manuals, but I am pretty sure that "Max Accuracy" will be the same.
+All + Multi-Band is described in more detail in the fenix 7 and fenix 8 manuals, and I am pretty sure that "Max Accuracy" will be the same.
 
 
 
@@ -100,8 +100,8 @@ n.b. The phrase "*records track points and sensor data less frequently*" also ap
 
 ### Next Steps
 
-I believe that Garmin have simply renamed the satellite settings to match the power modes. This makes a lot of sense from a user perspective, because the average user doesn't really need to know the technical GNSS terms (or Garmin trademarks UltraTrac and SatIQ).
+I believe that Garmin have simply renamed the satellite settings to match the power modes. This makes a lot of sense from a user perspective, because the average user doesn't really need to know the technical GNSS terms (or Garmin trademarks UltraTrac and SatIQ). I also suspect that "GPS Only" has been ditched, and the "Extended Battery" profile now uses "All Systems".
 
-It is possible to confirm all the the satellite settings by examining [GPS Events](../developer/gps-events.md) in FIT files. This is planned for the near future, once I receive some FIT files from the fenix 9. It is also worth noting that the [battery estimates](https://docs.google.com/spreadsheets/d/1JgJJNWAgFoC59cPQnlPvR_oOnTK9rUo2PIFP8X9-_PE/edit?usp=sharing) go a long way to corroborating what I have said in this document.
+This can all be confirmed by examining [GPS Events](../developer/gps-events.md) in FIT files from the fenix 8. This is planned for the near future, once I receive some FIT files from the fenix 9. It is also worth noting that the [battery estimates](https://docs.google.com/spreadsheets/d/1JgJJNWAgFoC59cPQnlPvR_oOnTK9rUo2PIFP8X9-_PE/edit?usp=sharing) go a long way to corroborating what I have said in this document.
 
 Whether or not Garmin are still using the Synaptics SYN4778 (like the fenix 8) remains to be seen. Hopefully [Ferhad Fidan](https://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) will treat us to a future teardown of the fenix 9!
