@@ -25,7 +25,8 @@ This project is work in progress and there are more things to be documented.
 
 This project is work in progress and new articles are added periodically.
 
-- [Synaptics](synaptics/README.md) - WIP
+- [Power Modes](power/README.md) - 29 Aug 2026
+- [Synaptics](synaptics/README.md) - 19 Jul 2026
 - [Static testing](testing/20250210-static/README.md) - 10 Feb 2025
 - [PVT data](pvt/README.md) - 18 Jan 2025
 - [Filtering](filtering/README.md) - 18 Jan 2025
