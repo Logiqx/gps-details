@@ -100,7 +100,9 @@ n.b. The phrase "*records track points and sensor data less frequently*" also ap
 
 ### Next Steps
 
-I believe that Garmin have simply renamed the satellite settings to match the power modes. This makes a lot of sense from a user perspective, because the average user doesn't really need to know the technical GNSS terms (or Garmin trademarks UltraTrac and SatIQ). I also suspect that "GPS Only" has been ditched, and the "Extended Battery" profile now uses "All Systems".
+I believe that Garmin have simply renamed the satellite settings to match the power modes. This makes a lot of sense from a user perspective, because the average user doesn't really need to know the technical GNSS terms (or Garmin trademarks UltraTrac and SatIQ).
+
+I also suspect that "GPS Only" has been ditched, and the "Extended Battery" profile now uses "All Systems".
 
 This can all be confirmed by examining [GPS Events](../developer/gps-events.md) in FIT files from the fenix 8. This is planned for the near future, once I receive some FIT files from the fenix 9. It is also worth noting that the [battery estimates](https://docs.google.com/spreadsheets/d/1JgJJNWAgFoC59cPQnlPvR_oOnTK9rUo2PIFP8X9-_PE/edit?usp=sharing) go a long way to corroborating what I have said in this document.
 
