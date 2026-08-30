@@ -72,7 +72,7 @@ Multiband is not a pre-requisite for Doppler-derived speeds. It is also not a si
 
 In the context of watches, multi-band simply means they can use two signals from each satellite (e.g. L1 band, and L5 band). The signals on the L5 band are more powerful, and thus provide better penetration of tree cover, and some common building materials.
 
-The L5 signals also has a higher "chipping rate" which results in greater precision when estimating the distance between the satellite and the receiver (aka pseudo-range measurement), somewhat akin to the original P(Y) code of GPS which was for military purposes.
+The L5 signals also have a higher "chipping rate" which results in greater precision when estimating the distance between the satellite and the receiver (aka pseudo-range measurement), somewhat akin to the original P(Y) code of GPS which was for military purposes.
 
 Perhaps the most significant factor of using the L1 and L5 signals is to allow the ionospheric delays to be modelled, and largely eliminated from the navigation solution. The ionospheric delay is the most significant [error source](https://www.vectornav.com/resources/inertial-navigation-primer/specifications--and--error-budgets/specs-gnsserrorbudget) in the pseudo-range measurement.
 
