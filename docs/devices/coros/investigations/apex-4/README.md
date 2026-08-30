@@ -37,6 +37,18 @@ Since COG is not recorded by the APEX 4 it is unsuitable for the above competiti
 
 
 
+#### Activity Type
+
+The activity type is crucial when it comes to having good quality speed data from a COROS watch.
+
+It was possible to infer the activity type of earlier watches by the presence (or absence) of Satellites, HDOP, and COG.
+
+Since these items are not recorded by the APEX 4 there is no way to determine whether the activity was Speedsurfing.
+
+This makes it impossible for GPS-Speedsurfing to validate the session.
+
+
+
 ### Loss of Precision
 
 Unique speeds were extracted from a single APEX 4 session and sorted numerically. All speeds above 2.5 kt were in increments of 0.1 kt, but with some minor variation due to the various conversions being performed by the APEX 4.
@@ -85,6 +97,7 @@ Immediate issues:
 
 - The absence of Number of Satellites and HDOP are an issue when detecting erroneous speeds.
 - The absence of Course Over Ground (COG) makes the devices unsuitable for real-world competitions.
+- The activity type being unknown is an issue when it comes to verifying sessions for GPS Speedsurfing.
 - Restricting speeds to multiples of 0.1 knots is not acceptable, because FIT files support 3 decimal places.
 
 Establishing the reliability of the actual data is a much bigger activity, and not worthwhile until the above issues are resolved.
