@@ -100,6 +100,6 @@ Immediate issues:
 - The activity type being unknown is an issue when it comes to verifying sessions for GPS Speedsurfing.
 - Restricting speeds to multiples of 0.1 knots is not acceptable, because FIT files support 3 decimal places.
 
-Establishing the reliability of the actual data is a much bigger activity, and not worthwhile until the above issues are resolved.
+Establishing the quality of the data is a much bigger activity, and not worthwhile until these issues are resolved.
 
 I am now going to have to park any further APEX 4 analysis, so that I can focus on my immediate priorities.
