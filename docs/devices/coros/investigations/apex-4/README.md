@@ -26,7 +26,7 @@ Number of Satellites and [Horizontal Dilution of Precision](https://en.wikipedia
 
 #### Course Over Ground
 
-GNSS receivers calculate Speed Over Ground (SOG) and Course Over Ground (COG) to represent the two-dimensional velocity of the receiver. SOG and COG are both required to calculate results for various speed sailing competitions:
+GNSS receivers calculate Speed Over Ground (SOG) and Course Over Ground (COG) to represent the two-dimensional velocity of the receiver. SOG and COG are both required to calculate results for various real-world competitions:
 
 - International Speed Windsurfing Class
 - Prince of Speed
@@ -65,19 +65,21 @@ Should I wish to find my analysis, including reverse-engineering of the speed co
 
 
 
+#### Absence of Metadata
+
+COROS watches do not record basic metadata such as the firmware version, or GNSS settings in the FIT file.
+
+Due to all of the firmware issues in recent years, we requested this basic metadata in FIT files from COROS.
+
+The required list of metadata items was [documented](../../fit/README.md) in Feb 2024.
+
+
+
 #### Minimum Speed
 
 Speeds lower than 0.6 knots are not recorded by the APEX 4, which is not uncommon for smart watches.
 
 This is somewhat unfortunate though, because it prevents any kind of [static testing](https://logiqx.github.io/ubx-cfg/testing/static-esp/) to assess the device accuracy.
-
-
-
-#### Lack of Metadata
-
-COROS watches do not record basic metadata such as the firmware version, or GNSS settings in the FIT file.
-
-Due to all of the firmware issues in recent years, we requested this basic metadata in FIT files from COROS.
 
 
 
@@ -93,13 +95,14 @@ I am not in a position to look at data from the APEX 4 in more detail at this ti
 
 ### Summary
 
-Immediate issues:
+Immediate issues that are present on the APEX 4:
 
 - The absence of Number of Satellites and HDOP are an issue when detecting erroneous speeds.
 - The absence of Course Over Ground (COG) makes the devices unsuitable for real-world competitions.
-- The activity type being unknown is an issue when it comes to verifying sessions for GPS Speedsurfing.
-- Restricting speeds to multiples of 0.1 knots is not acceptable, because FIT files support 3 decimal places.
+- The activity type being unknown is an issue when it comes to verifying sessions for GPS-Speedsurfing.
+- Limiting precision to multiples of 0.1 knots is not acceptable, especially with FIT supporting 3 decimals.
+- The absence of metadata is a wider issue for COROS watches, and it should really be added to FIT files.
 
-Establishing the quality of the data is a much bigger activity, and not worthwhile until these issues are resolved.
+Establishing the quality of APEX 4 data is not worthwhile, until the above issues have been resolved.
 
 I am now going to have to park any further APEX 4 analysis, so that I can focus on my immediate priorities.

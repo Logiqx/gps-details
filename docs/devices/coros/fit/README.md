@@ -1,5 +1,11 @@
 ## COROS FIT
 
+Date created: 22 Sep 2024
+
+Last updated: 11 Feb 2025
+
+
+
 ### Overview
 
 It would be beneficial if the COROS FIT files contained some additional metadata to assist with analysis and diagnostics.
