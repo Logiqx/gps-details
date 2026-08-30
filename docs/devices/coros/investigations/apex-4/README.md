@@ -85,7 +85,7 @@ Immediate issues:
 
 - The absence of Number of Satellites and HDOP are an issue when detecting erroneous speeds.
 - The absence of Course Over Ground (COG) makes the devices unsuitable for real-world competitions.
-- Restricting speeds to multiples of 0.1 knots is not acceptable, and FIT files support 3 decimal places.
+- Restricting speeds to multiples of 0.1 knots is not acceptable, because FIT files support 3 decimal places.
 
 Establishing the reliability of the actual data is a much bigger activity, and not worthwhile until the above issues are resolved.
 
