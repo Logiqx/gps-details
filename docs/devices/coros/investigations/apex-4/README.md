@@ -45,7 +45,9 @@ Since these items are not recorded by the APEX 4 there is no way to determine wh
 
 
 
-### Loss of Precision
+### Deficiencies
+
+#### Loss of Precision
 
 Unique speeds were extracted from a single APEX 4 session and sorted numerically. All speeds above 2.5 kt were in increments of 0.1 kt, but with some minor variation due to the various conversions being performed by the APEX 4.
 
@@ -57,9 +59,11 @@ n.b. The crazy looking 1.85199999809265 is just the floating point representatio
 
 Putting aside why this is happening, restricting speeds to multiples of 0.1 knots is not acceptable. The speedsurfing world uses 2 decimal places for results, and loss of precision at the time of recording is an issue.
 
+Should I wish to find my analysis, including reverse-engineering of the speed conversions:
+
+`C:\Users\mwgeo\OneDrive\Projects\GPS\Logs\Organised\COROS\APEX 4\Pernille Sanderhoff\2026-08-29, APEX 4`
 
 
-### Inconveniences
 
 #### Minimum Speed
 
@@ -99,11 +103,3 @@ Immediate issues:
 Establishing the reliability of the actual data is a much bigger activity, and not worthwhile until the above issues are resolved.
 
 I am now going to have to park any further APEX 4 analysis, so that I can focus on my immediate priorities.
-
-
-
-### Note to Self
-
-Should I wish to find my analysis, including reverse-engineering of the speed conversions:
-
-`C:\Users\mwgeo\OneDrive\Projects\GPS\Logs\Organised\COROS\APEX 4\Pernille Sanderhoff\2026-08-29, APEX 4`
