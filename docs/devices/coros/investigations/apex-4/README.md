@@ -43,7 +43,7 @@ Unique speeds were extracted from a single APEX 4 session and sorted numerically
 
 I reverse-engineered the conversions and concluded that speeds in knots are likely converted to km/h by the APEX 4, prior to being recorded in m/s in the FIT and GPX. Floating point arithmetic causes some errors and they are compounded by floor and round functions.
 
-The actual formula that produces the speeds found in APEX 4 files is `ROUND(FLOOR($G8794*1.85199999809265,0.01)/3.6,3)`.
+The actual formula that produces the speeds found in APEX 4 files is `m/s = ROUND(FLOOR(knots * 1.85199999809265, 0.01) / 3.6, 3)`.
 
 n.b. The crazy looking 1.85199999809265 is just the floating point representation of 1.852. I didn't really need to go to the effort of figuring out what is being done by the APEX 4, but I was curious as to why there were anomalies.
 
