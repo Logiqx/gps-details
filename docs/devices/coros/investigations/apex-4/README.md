@@ -51,7 +51,7 @@ Putting aside why this is happening, restricting speeds to multiples of 0.1 knot
 
 
 
-### Additional Observations
+### Inconveniences
 
 #### Minimum Speed
 
@@ -73,7 +73,7 @@ Due to all of the firmware issues in recent years, we requested this basic metad
 
 Assessing the data quality of a new device is very time consuming, but a quick look saw some areas for concern.
 
-There is clearly some filtering going on of the speed data, and times where the acceleration exceeded that of Luderitz.
+There appears to be some filtering of the speed data, and times where the acceleration exceeded that of Luderitz.
 
 I am not in a position to look at data from the APEX 4 in more detail at this time, likely not until late October.
 
