@@ -81,9 +81,11 @@ I am not in a position to look at data from the APEX 4 in more detail at this ti
 
 ### Summary
 
-The absence of Number of Satellites, Horizontal Dilution of Precision (HDOP), and Course Over Ground (COG) is an issue.
+Immediate issues:
 
-Restricting speeds to multiples of 0.1 knots is also not acceptable. The FIT format represents speeds using 3 decimal places.
+- The absence of Number of Satellites and HDOP are an issue when detecting erroneous speeds.
+- The absence of Course Over Ground (COG) makes the devices unsuitable for real-world competitions.
+- Restricting speeds to multiples of 0.1 knots is not acceptable, and FIT files support 3 decimal places.
 
 Establishing the reliability of the actual data is a much bigger activity, and not worthwhile until the above issues are resolved.
 
