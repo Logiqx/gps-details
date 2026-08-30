@@ -55,7 +55,7 @@ Putting aside why this is happening, restricting speeds to multiples of 0.1 knot
 
 #### Minimum Speed
 
-Speeds lower than 0.6 are not recorded by the APEX 4, which is not uncommon for smart watches.
+Speeds lower than 0.6 knots are not recorded by the APEX 4, which is not uncommon for smart watches.
 
 This is somewhat unfortunate though, because it prevents any kind of [static testing](https://logiqx.github.io/ubx-cfg/testing/static-esp/) to assess the device accuracy.
 
