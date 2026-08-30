@@ -39,13 +39,9 @@ Since COG is not recorded by the APEX 4 it is unsuitable for the above competiti
 
 #### Activity Type
 
-The activity type is crucial when it comes to having good quality speed data from a COROS watch.
+The activity type is crucial when it comes to having good quality speed data from a COROS watch. It was possible to infer the activity type of earlier watches by the presence (or absence) of Satellites, HDOP, and COG.
 
-It was possible to infer the activity type of earlier watches by the presence (or absence) of Satellites, HDOP, and COG.
-
-Since these items are not recorded by the APEX 4 there is no way to determine whether the activity was Speedsurfing.
-
-This makes it impossible for GPS-Speedsurfing to validate the session.
+Since these items are not recorded by the APEX 4 there is no way to determine whether the activity was Speedsurfing. This makes it impossible for GPS-Speedsurfing to validate the session.
 
 
 
