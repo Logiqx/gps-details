@@ -43,7 +43,7 @@ Notes about some Garmin trademarks:
 
 There is currently some debate about the "new" satellite settings on the fenix 9, but these are my expectations:
 
-|                      |   Historically   | Description in fenix 8 owner's manual                        |
+| Satellite Mode       |    Equivalent    | Description in fenix 8 owner's manual                        |
 | -------------------- | :--------------: | ------------------------------------------------------------ |
 | **Max Accuracy**     | All + Multi-Band | Prioritizes maximum positioning accuracy while reducing battery life. This setting provides increased performance in challenging environments for short-duration activities. |
 | **Normal**           |   Auto Select    | Balances average positioning accuracy and average battery life. This setting provides the best positioning accuracy while still prioritizing battery life. |
