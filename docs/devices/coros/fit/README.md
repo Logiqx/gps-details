@@ -1,4 +1,4 @@
-## COROS FIT
+## FIT Metadata
 
 Author: Michael George
 

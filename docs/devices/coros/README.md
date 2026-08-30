@@ -15,7 +15,7 @@ This project is work in progress and there are more things to be documented.
 
 - [Firmware](firmware/README.md) behaviours - 26 Aug 2026
 - [Repeating speeds](swinging/README.md) - 16 Mar 2025
-- [FIT](fit/README.md) files - 11 Feb 2025
+- [FIT metadata](fit/README.md) - 11 Feb 2025
 
 
 
