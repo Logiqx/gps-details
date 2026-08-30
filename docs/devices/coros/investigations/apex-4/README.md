@@ -77,7 +77,7 @@ COROS watches do not record basic metadata such as the firmware version, or GNSS
 
 Due to all of the firmware issues in recent years, we requested this basic metadata in FIT files from COROS.
 
-The required list of metadata items was [documented](../../fit/README.md) in Feb 2024.
+The required list of metadata items was initially [requested](https://github.com/Logiqx/gp3s-coros/issues/16) in May 2022, and seperately [documented](../../fit/README.md) in Feb 2024.
 
 
 

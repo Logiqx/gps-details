@@ -14,6 +14,8 @@ It would be beneficial if the COROS FIT files contained some additional metadata
 
 This brief document lists the various pieces of metadata in the hopes that they can be included in the future.
 
+The request for additional metadata was first made in a Github repository in May 2022 - see [link](https://github.com/Logiqx/gp3s-coros/issues/16).
+
 
 
 ### Useful Information
