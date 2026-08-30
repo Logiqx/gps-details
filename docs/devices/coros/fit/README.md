@@ -1,8 +1,10 @@
 ## COROS FIT
 
-Date created: 22 Sep 2024
+Author: Michael George
 
-Last updated: 11 Feb 2025
+Created: 22 Sep 2024
+
+Updated: 11 Feb 2025
 
 
 
@@ -53,5 +55,4 @@ System -> More Settings -> Device Info -> Satellite Systems.
 There is no way to determine which version of the GNSS firmware was used to record the activity.
 
 It would be helpful if the GNSS firmware version was recorded in the FIT file.
-
 

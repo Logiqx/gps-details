@@ -1,5 +1,11 @@
 ## COROS APEX 4
 
+Author: Michael George
+
+Created: 30 Aug 2026
+
+
+
 ### Quick Look
 
 This is just a very quick summary of my initial observations, since I am very short of time.

@@ -1,8 +1,10 @@
 ## COROS Firmware
 
-Date created: 22 Sep 2024
+Author: Michael George
 
-Date updated: 26 Aug 2026
+Created: 22 Sep 2024
+
+Updated: 26 Aug 2026
 
 
 
