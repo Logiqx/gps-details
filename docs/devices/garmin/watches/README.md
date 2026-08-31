@@ -26,10 +26,10 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 
 | Series                  | Model                        | Brand     | Multi-Band | Recommended |
 | ----------------------- | ---------------------------- | --------- | :--------: | :--------: |
-| [fēnix](fenix.md)       | fēnix 8 Pro - MicroLED       | Synaptics |     Y      | - |
-|  | fēnix 8 Pro - AMOLED         | Synaptics |     Y      | - |
-|                         | fēnix 8 - AMOLED             | Synaptics |     Y      | - |
-|  | fēnix 8 - Solar Sapphire | Synaptics | Y | - |
+| [fēnix](fenix.md)       | fēnix 8 Pro - MicroLED       | Synaptics |     Y      | Y |
+|  | fēnix 8 Pro - AMOLED         | Synaptics |     Y      | Y |
+|                         | fēnix 8 - AMOLED             | Synaptics |     Y      | Y |
+|  | fēnix 8 - Solar Sapphire | Synaptics | Y | Y |
 |                         | fēnix E                      | Airoha |     -      | - |
 |                         | fēnix 7 Pro - Sapphire Solar | Airoha    |     Y      | Y |
 |                         | fēnix 7 Pro - Solar      | Airoha    |     Y      | Y |
@@ -55,8 +55,6 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 | [D2](d2.md)             | D2 Mach 2                    | Synaptics |     Y      | - |
 |  | D2 Mach 1 Pro | Airoha | Y | Y |
 |                         | D2 Mach 1                    | Airoha    |     Y      | Y |
-
-The fēnix 8 (and its variants) have yet to be fully tested and verified, but please get in touch if you can help.
 
 
 
@@ -94,15 +92,13 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 
 | Series                      | Model          | Brand     | Multi-Band | Recommended |
 | --------------------------- | -------------- | --------- | :--------: | :--------: |
-| [Forerunner](forerunner.md) | Forerunner 970 | Synaptics |     Y      | - |
-|                             | Forerunner 570 | Synaptics |     Y      | - |
+| [Forerunner](forerunner.md) | Forerunner 970 | Synaptics |     Y      | Y |
+|                             | Forerunner 570 | Synaptics |     Y      | Y |
 |                             | Forerunner 165 | Airoha    |     -      | Y <sup>[1]</sup> |
 |                             | Forerunner 965 | Airoha    |     Y      | Y |
 |                             | Forerunner 265 | Airoha    |     Y      | Y |
 |                             | Forerunner 955 | Airoha    |     Y      | Y |
 |                             | Forerunner 255 | Airoha    |     Y      | Y |
-
-The Forerunner 570 + 970 have yet to be fully tested and verified, but please get in touch if you can help.
 
 Notes:
 
@@ -116,20 +112,21 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 
 | Series                      | Model        | Brand     | Multi-Band |   Recommended    |
 | --------------------------- | ------------ | --------- | :--------: | :--------------: |
-| [vívoactive](vivoactive.md) | vívoactive 6 | TBC       |     -      |        -         |
-|                             | vívoactive 5 | Airoha    |     -      | N <sup>[1]</sup> |
+| [vívoactive](vivoactive.md) | vívoactive 6 | TBC       |     -      | Y <sup>[1]</sup> |
+|                             | vívoactive 5 | Airoha    |     -      | N <sup>[2]</sup> |
 | [Venu](venu.md)             | Venu 4       | Synaptics |     Y      |        -         |
 |                             | Venu X1      | Synaptics |     -      |        -         |
-|                             | Venu 3       | Airoha    |     -      | N <sup>[1]</sup> |
-|                             | Venu Sq 2    | Airoha    |     -      | N <sup>[2]</sup> |
+|                             | Venu 3       | Airoha    |     -      | N <sup>[2]</sup> |
+|                             | Venu Sq 2    | Airoha    |     -      | N <sup>[3]</sup> |
 | [D2](d2.md)                 | D2 Air X15   | Synaptics |     Y      |        -         |
 
 The reliance on a touchscreen makes the vívoactive and Venu difficult to operate when the watch (or hands) are wet.
 
 Notes:
 
-1. vívoactive 5 and Venu 3 do not perform nearly so well as other Garmin watches with an Airoha chipset.
-2. Venu Sq 2 has a firmware issue affecting the speeds being recorded.
+1. The vívoactive 6 is potentially a good low-cost option for people who do not participate on GPS-Speedsurfing.
+2. The vívoactive 5 and Venu 3 do not perform nearly so well as other Garmin watches with an Airoha chipset.
+3. The Venu Sq 2 has a firmware issue affecting the speeds being recorded.
 
 
 
