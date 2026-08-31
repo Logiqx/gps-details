@@ -20,9 +20,9 @@ In the absence of a public fix, owners of an APEX Pro or VERTIX with firmware 3.
 
 ### Satellite Systems
 
-| APEX 2 | APEX 2 Pro | VERTIX 2 | VERTIX 2S |
-| :----: | :--------: | :------: | :------: |
-|   ?    |   3.1.0    |  3.1.0   | ?         |
+| APEX Pro | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
+| :------: | :----: | :----: | :--------: | :-----------: |
+|  20047   | 20047  | 3.1.0  |   3.1.0    |     3.1.0     |
 
 
 
