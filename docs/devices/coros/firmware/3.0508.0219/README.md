@@ -8,6 +8,14 @@ Results are no longer exaggerated by position-derived speeds and artefacts of th
 
 
 
+### Satellite Systems
+
+| APEX Pro | VERTIX |
+| :------: | :----: |
+|  20047   | 20047  |
+
+
+
 ### Example
 
 The image below shows a comparison of 3.0508.0219 beta on the APEX Pro against the Motion Mini.

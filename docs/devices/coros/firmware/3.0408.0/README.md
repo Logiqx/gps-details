@@ -8,9 +8,9 @@ The 3.0408.0 release in May 2024 exhibits major smoothing issues on Airoha watch
 
 ### Satellite Systems
 
-| APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
-| :----: | :--------: | :-----------: |
-| 3.1.0  |   3.1.0    |     3.1.0     |
+| APEX Pro | VERTIX | APEX 2 | APEX 2 Pro | VERTIX 2 / 2S |
+| :------: | :----: | :----: | :--------: | :-----------: |
+|  20047   | 20047  | 3.1.0  |   3.1.0    |     3.1.0     |
 
 
 
