@@ -47,7 +47,7 @@ There is currently some debate about the "new" satellite settings on the fenix 9
 | -------------------- | :--------------: | ------------------------------------------------------------ |
 | **Max Accuracy**     | All + Multi-Band | Prioritizes maximum positioning accuracy while reducing battery life. This setting provides increased performance in challenging environments for short-duration activities. |
 | **Normal**           |   Auto Select    | Balances average positioning accuracy and average battery life. This setting provides the best positioning accuracy while still prioritizing battery life. |
-| **Extended Battery** |   All Systems    | Balances above-average battery life and below-average positioning accuracy. This setting provides the best battery life while still prioritizing positioning accuracy. |
+| **Extended Battery** |  GPS + Galileo   | Balances above-average battery life and below-average positioning accuracy. This setting provides the best battery life while still prioritizing positioning accuracy. |
 | **Max Battery**      |    UltraTrac     | Prioritizes maximum battery life while reducing positioning accuracy. This setting records track points and sensor data less frequently for long-duration activities. |
 
 Note: My interpretation differs from some popular reviewers on YouTube, with the exception of "Max Battery".
@@ -80,9 +80,9 @@ n.b. The phrase "*best positioning accuracy while still prioritizing battery lif
 
 > Balances above-average battery life and below-average positioning accuracy. This setting provides the best battery life while still prioritizing positioning accuracy.
 
-I am fairly confident that "Extended Battery" will be using "All Systems", and not "GPS Only".
+It would appear that "Extended Battery" uses "GPS + Galileo", and not "GPS Only".
 
-This will be confirmed by [GPS Events](../developer/gps-events.md) in the FIT files of activities using this power mode / satellite setting.
+This has been confirmed by [GPS Events](../developer/gps-events.md) in the FIT files of activities using this power mode / satellite setting.
 
 
 
@@ -91,6 +91,8 @@ This will be confirmed by [GPS Events](../developer/gps-events.md) in the FIT fi
 > Prioritizes maximum battery life while reducing positioning accuracy. This setting records track points and sensor data less frequently for long-duration activities.
 
 I am fairly sure that "Max Battery" is the same as "UltraTrac", which only records track points and sensor data once per minute.
+
+"Max Battery"may however use "GPS + Galileo", just like "Extended Battery".
 
 n.b. The phrase "*records track points and sensor data less frequently*" also appears in the fenix 7 and fenix 8 manuals:
 
@@ -102,7 +104,7 @@ n.b. The phrase "*records track points and sensor data less frequently*" also ap
 
 I believe that Garmin have simply renamed the satellite settings to match the power modes. This makes a lot of sense from a user perspective, because the average user doesn't really need to know the technical GNSS terms (or Garmin trademarks UltraTrac and SatIQ).
 
-I also suspect that "GPS Only" has been ditched, and the "Extended Battery" profile now uses "All Systems".
+I also suspect that "GPS Only" has been ditched because the "Extended Battery" profile appears to use "GPS + Galileo".
 
 This can all be confirmed by examining [GPS Events](../developer/gps-events.md) in FIT files from the fenix 9. This is planned for the near future, once I receive some FIT files from the fenix 9. It is also worth noting that the [battery estimates](https://docs.google.com/spreadsheets/d/1JgJJNWAgFoC59cPQnlPvR_oOnTK9rUo2PIFP8X9-_PE/edit?usp=sharing) go a long way to corroborating what I have said in this document.
 
