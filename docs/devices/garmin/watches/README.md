@@ -92,8 +92,8 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 
 | Series                      | Model          | Brand     | Multi-Band | Recommended |
 | --------------------------- | -------------- | --------- | :--------: | :--------: |
-| [Forerunner](forerunner.md) | Forerunner 970 | Synaptics |     Y      | Y |
-|                             | Forerunner 570 | Synaptics |     Y      | Y |
+| [Forerunner](forerunner.md) | Forerunner 970 | Synaptics |     Y      | - |
+|                             | Forerunner 570 | Synaptics |     Y      | - |
 |                             | Forerunner 165 | Airoha    |     -      | Y <sup>[1]</sup> |
 |                             | Forerunner 965 | Airoha    |     Y      | Y |
 |                             | Forerunner 265 | Airoha    |     Y      | Y |
@@ -112,7 +112,7 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 
 | Series                      | Model        | Brand     | Multi-Band |   Recommended    |
 | --------------------------- | ------------ | --------- | :--------: | :--------------: |
-| [vívoactive](vivoactive.md) | vívoactive 6 | TBC       |     -      | Y <sup>[1]</sup> |
+| [vívoactive](vivoactive.md) | vívoactive 6 | TBC       |     -      | - <sup>[1]</sup> |
 |                             | vívoactive 5 | Airoha    |     -      | N <sup>[2]</sup> |
 | [Venu](venu.md)             | Venu 4       | Synaptics |     Y      |        -         |
 |                             | Venu X1      | Synaptics |     -      |        -         |
