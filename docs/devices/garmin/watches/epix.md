@@ -33,7 +33,7 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| epix | 2015-01 | 1988, 2332 | MT3333 | 1.2 | - | |
+| epix | 2015-01 | 1988, 2332<br />2330, 2331<br />2457 | MT3333 | 1.2 | - | |
 
 Alternative product number(s) are APAC models.
 
