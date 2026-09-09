@@ -14,6 +14,14 @@ The various models are listed in reverse-chronological order. The release dates 
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| fēnix 9 Pro - 51 mm, Solar | 2026-08 | 4956 | TBC |  | - |  |
+| fēnix 9 Pro - 47 mm, Solar | 2026-08 | 4955 | TBC |  | - |  |
+| fēnix 9 Pro - 51 mm | 2026-08 | 4954 | TBC |  | - |  |
+| fēnix 9 Pro - 47 mm | 2026-08 | 4953 | TBC |  | - |  |
+| fēnix 9 Pro - 43 mm | 2026-08 | 4952 | TBC |  | - |  |
+| fēnix 9 - 51 mm | 2026-08 | 5134 | TBC |  | - |  |
+| fēnix 9 - 47 mm | 2026-08 | 5134 | TBC |  | - |  |
+| fēnix 9 - 43 mm | 2026-08 | 5133 | TBC |  | - |  |
 | fēnix 8 Pro - 51 mm, MicroLED | 2025-09 | 4631 | SYN4778 | 5.2 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1723221/#specs) |
 | fēnix 8 Pro - 51 mm, AMOLED | 2025-09 | 4631 | SYN4778 | 5.2 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1703902/pn/010-03199-40/#specs) |
 | fēnix 8 Pro - 47 mm, AMOLED | 2025-09 | 4631 | SYN4778 | 5.2 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1701921/pn/010-03198-40/#specs) |
@@ -33,8 +41,8 @@ The various models are listed in reverse-chronological order. The release dates 
 | fēnix 7X Pro - Sapphire Solar | 2023-05 | 4376 | AG3335M | 5.2 | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
 | fēnix 7 Pro - Sapphire Solar | 2023-05 | 4375 | AG3335M | 5.2 | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
 | fēnix 7S Pro - Sapphire Solar | 2023-05 | 4374 | AG3335M | 5.2 | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
-| fēnix 7X Pro - Solar | 2023-05 | 4376 | AG3335M | 5.2 | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
-| fēnix 7 Pro - Solar | 2023-05 | 4375 | AG3335M | 5.2 | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
+| fēnix 7X Pro - Solar | 2023-05 | 4376, 4596 | AG3335M | 5.2 | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
+| fēnix 7 Pro - Solar | 2023-05 | 4375, 4595 | AG3335M | 5.2 | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
 | fēnix 7S Pro - Solar | 2023-05 | 4374 | AG3335M | 5.2 | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2023/05/garmin-fenix-7-pro-in-depth-review-flashlight-and-multiband-for-everyone.html) |
 | fēnix 7X - Sapphire Solar | 2022-01 | 3907, 3910 | AG3335M | 5.2 | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
 | fēnix 7 - Sapphire Solar | 2022-01 | 3906, 3909 | AG3335M | 5.2 | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + DCR [review](https://www.dcrainmaker.com/2022/01/garmin-fenix7-7s-7x-in-depth-review.html) |
@@ -87,12 +95,12 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | fēnix 5 | 2017-01 | 2697, 2796 | MT3333 | 3.1 | Y |  |
 | fēnix 5S | 2017-01 | 2544, 2797 | MT3333 | 3.1 | Y |  |
 | fēnix Chronos          | 2016-08  | 2432, 2675 | MT3333  | 3.1 | Y | DCR [review](https://www.dcrainmaker.com/2016/08/garmin-chronos-details.html) |
-| fēnix 3 HR             | 2016-01  | 2413, 2473 | MT3333  | 1.4 | - | Red Turtle [teardown](https://medium.com/personal-notes-on-the-garmin-f%C4%93nix-3-hr/f%C4%93nix-3-hr-a-non-destructive-teardown-bcfb45f1b746) |
-| fēnix 3                | 2015-01  | 2050, ... | MT3333  | 1.4 | - | F Tipi [teardown](http://www.f-blog.info/diving-inside-garmin-fenix-3-tear-down-etc/) + iFixit [teardown](https://www.ifixit.com/Guide/Garmin+Fenix+3+Motherboard+Replacement/113919) |
+| fēnix 3 HR             | 2016-01  | 2413, 2473<br />2474, 2475<br />2476, 2477 | MT3333  | 1.4 | - | Red Turtle [teardown](https://medium.com/personal-notes-on-the-garmin-f%C4%93nix-3-hr/f%C4%93nix-3-hr-a-non-destructive-teardown-bcfb45f1b746) |
+| fēnix 3                | 2015-01  | 2050, 2188<br />2189, 2293<br />2407, 2408 | MT3333  | 1.4 | - | F Tipi [teardown](http://www.f-blog.info/diving-inside-garmin-fenix-3-tear-down-etc/) + iFixit [teardown](https://www.ifixit.com/Guide/Garmin+Fenix+3+Motherboard+Replacement/113919) |
 | fēnix 2                | 2014-02  | 1967 | MT3333 | -     | - |                                                              |
 | fēnix                  | 2012-07  | 1551 | MT333x  | -     | - |                                                              |
 
-Alternative product number(s) are APAC variants. There are many variants of the fēnix 3 - 2188, 2189, 2293, 2407, 2408.
+Alternative product number(s) are APAC variants.
 
 The MT333x in watches prior to 2013 was likely to be the MT3339 or MT3337.
 
