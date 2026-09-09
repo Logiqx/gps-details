@@ -17,8 +17,8 @@ The Descent G2 was released one month after the [Instinct 3](instinct.md). It ha
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
 | Descent G2 | 2025-02 | 4588 | AG3335MN | 5.1 | Y |  |
-| Descent Mk3i - 51mm | 2023-11 | 4223 | AG3335M | 5.1 | Y | |
-| Descent Mk3 / Mk3i - 43mm | 2023-11 | 4222 | AG3335M | 5.1 | Y | |
+| Descent Mk3i - 51mm | 2023-11 | 4223, 4225 | AG3335M | 5.1 | Y | |
+| Descent Mk3 / Mk3i - 43mm | 2023-11 | 4222, 4224 | AG3335M | 5.1 | Y | |
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
