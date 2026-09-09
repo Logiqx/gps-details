@@ -14,6 +14,9 @@ The Forerunner 970 and 570 appear to use a Synaptics GNSS chipset, just like the
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | --------------------------- |
+| Forerunner 170 Music | 2026-05 | 4814 | TBC |  | Y |  |
+| Forerunner 170 | 2026-05 | 4815 | TBC |  | Y |  |
+| Forerunner 70 | 2026-05 | 4916, 5214 | TBC |  | Y |  |
 | Forerunner 970    | 2025-05 | 4565 | SYN4778 | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-025D75CF-3445-49E1-8D81-1AA74AB4E00F/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 | Forerunner 570 - 47 mm | 2025-05 | 4570 | SYN4778 | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-25E3235D-44D2-4384-A591-DD1D71BEBCB1/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 | Forerunner 570 - 42 mm | 2025-05 | 4574 | SYN4778 | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-25E3235D-44D2-4384-A591-DD1D71BEBCB1/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
@@ -43,7 +46,7 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | --------------------------- |
-| Forerunner 55 | 2021-06 | 3869, 4033 | CXD56xxxx | 3.4 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-3A791586-B59F-4B37-B9C5-5A41F8C6BE0B/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + [forum](https://forums.garmin.com/developer/connect-iq/f/discussion/271658/what-is-it-fr158) |
+| Forerunner 55 | 2021-06 | 3869, 4033, 4838 | CXD56xxxx | 3.4 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-3A791586-B59F-4B37-B9C5-5A41F8C6BE0B/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + [forum](https://forums.garmin.com/developer/connect-iq/f/discussion/271658/what-is-it-fr158) |
 | Forerunner 945 LTE          | 2021-06 | 3652, 3978 | CXD56xxxx | 4.2 | Y |  |
 | Forerunner 745 | 2020-09 | 3589, 3794 | CXD56xxxx | 3.3 | Y | |
 | Forerunner 45 Plus | 2020-08 | 3469 | CXD56xxxx | 1.4 | - | |
@@ -69,8 +72,8 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 | Forerunner 35               | 2016-08 | 2503, 2650, 2667, 2668, 2727, 2814 | MT3333 | - | - |  |
 | Forerunner 735XT            | 2016-05 | 2158, 2533, 2534 | MT3333 | 2.4 | - | iFixit [teardown](https://www.ifixit.com/Teardown/Garmin+Forerunner+735XT+Teardown/117852) |
 | Forerunner 630              | 2015-10 | 2156, 2310, 2311 | MT3333 | 1.4 | - | Tech T [teardown](https://youtu.be/WdbPKmjUrKc?t=114) |
-| Forerunner 235        | 2015-10 | 2431, 2396, 2397, 2653, 2733 | MT3333 | 1.4 | - |  |
-| Forerunner 230 | 2015-10 | 2157, 2313 | MT3333 | 1.4 | - | Embedded [teardown](https://embeddedcomputing.com/27555-tear-down-garmin-forerunner-230-gps-running-watch/) |
+| Forerunner 235        | 2015-10 | 2431, 2396, 2397, 2516, 2653, 2733 | MT3333 | 1.4 | - |  |
+| Forerunner 230 | 2015-10 | 2157, 2312, 2313 | MT3333 | 1.4 | - | Embedded [teardown](https://embeddedcomputing.com/27555-tear-down-garmin-forerunner-230-gps-running-watch/) |
 | Forerunner 25               | 2015-08 | 2148 | MT3333 ? | - | - |  |
 | Forerunner 225              | 2015-05 | 2153, 2219 | MT3333 | - | - |                                                              |
 | Forerunner 920XT            | 2014-10 | 1765, 2130, 2131, 2132 | MT3333 | 1.4 | - |  |

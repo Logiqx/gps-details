@@ -95,7 +95,9 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 
 | Series                      | Model          | Brand     | Multi-Band | Recommended |
 | --------------------------- | -------------- | --------- | :--------: | :--------: |
-| [Forerunner](forerunner.md) | Forerunner 970 | Synaptics |     Y      | - |
+| [Forerunner](forerunner.md) | Forerunner 170 | TBC       |     -      |        -         |
+|  | Forerunner 70 | TBC | - | - |
+|  | Forerunner 970 | Synaptics | Y | - |
 |                             | Forerunner 570 | Synaptics |     Y      | - |
 |                             | Forerunner 165 | Airoha    |     -      | Y <sup>[1]</sup> |
 |                             | Forerunner 965 | Airoha    |     Y      | Y |
