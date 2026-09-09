@@ -25,7 +25,7 @@ Disclaimer: It should be noted that not all of these watches have been tested ex
 All of these watches include native windsurfing / kiteboarding activities, but [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is strongly recommended.
 
 | Series                  | Model                        | Brand     | Multi-Band | Recommended |
-| ----------------------- | ---------------------------- | --------- | :--------: | :--------: |
+| ----------------------- | ---------------------------- | :-------: | :--------: | :--------: |
 | [fēnix](fenix.md)       | fēnix 9 Pro - Solar          | TBC       |     Y      |      -      |
 |  | fēnix 9 Pro                  | TBC       |     Y      |      -      |
 |  | fēnix 9                      | TBC       |     Y      |      -      |
@@ -67,7 +67,7 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 All of these watches include native windsurfing / kiteboarding activities, but [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is strongly recommended.
 
 | Series                      | Model          | Brand     | Multi-Band | Recommended |
-| --------------------------- | -------------- | --------- | :--------: | :--------: |
+| --------------------------- | -------------- | :-------: | :--------: | :--------: |
 | [Instinct](instinct.md) | Instinct Crossover AMOLED - Tactical | Airoha <sup>[1]</sup> | Y | - |
 |  | Instinct Crossover AMOLED | Airoha <sup>[1]</sup> | Y | - |
 |  | Instinct 3 - AMOLED, Tactical | Airoha    |     Y      | Y |
@@ -94,7 +94,7 @@ Notes:
 None of these watches include native windsurfing / kiteboarding activities, so [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is recommended.
 
 | Series                      | Model          | Brand     | Multi-Band | Recommended |
-| --------------------------- | -------------- | --------- | :--------: | :--------: |
+| --------------------------- | -------------- | :-------: | :--------: | :--------: |
 | [Forerunner](forerunner.md) | Forerunner 170 | TBC       |     -      |        -         |
 |  | Forerunner 70 | TBC | - | - |
 |  | Forerunner 970 | Synaptics | Y | - |
@@ -116,7 +116,7 @@ Notes:
 None of these watches include native windsurfing / kiteboarding activities, so [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is recommended.
 
 | Series                      | Model        | Brand     | Multi-Band |   Recommended    |
-| --------------------------- | ------------ | --------- | :--------: | :--------------: |
+| --------------------------- | ------------ | :-------: | :--------: | :--------------: |
 | [vívoactive](vivoactive.md) | vívoactive 6 | TBC       |     -      | - <sup>[1]</sup> |
 |                             | vívoactive 5 | Airoha    |     -      | N <sup>[2]</sup> |
 | [Venu](venu.md)             | Venu 4       | Synaptics |     Y      |        -         |
