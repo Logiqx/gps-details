@@ -32,6 +32,10 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
+| Darth Vader | 2019-10 | 3499, 3538 | CXD56xxxx | 3.3 | Y |  |
+| Rey | 2019-10 | 3498, 3537 | CXD56xxxx | 3.3 | Y |  |
+| First Avenger | 2019-09 | 3501, 3536 | CXD56xxxx | 3.3 | Y |  |
+| Captain Marvel | 2019-09 | 3500, 3535 | CXD56xxxx | 3.3 | Y |  |
 | vívoactive 4 | 2019-09  | 3225, 3388 | CXD56xxxx | 3.3 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/vivoactive4_4S/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2020/02/garmin-vivoactive-4-gps-smartwatch-in-depth-review.html) + iFixit [teardown](https://www.ifixit.com/Guide/Garmin+V%C3%ADvoactive+4+Motherboard+Replacement/167460) |
 | vívoactive 4S | 2019-09 | 3224, 3387 | CXD56xxxx | 3.3 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/vivoactive4_4S/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + DCR [review](https://www.dcrainmaker.com/2020/02/garmin-vivoactive-4-gps-smartwatch-in-depth-review.html) |
 
