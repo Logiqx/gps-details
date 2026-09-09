@@ -18,7 +18,7 @@ The Enduro 3 is akin to the fēnix 8 51 mm Solar Sapphire but with longer batter
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| Enduro 3 | 2024-08 | 4575 | SYN4778 | 5.2 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/851039#specs) |
+| Enduro 3 | 2024-08 | 4575 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/851039#specs) |
 
 
 

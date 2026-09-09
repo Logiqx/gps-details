@@ -16,9 +16,9 @@ The Venu 4 and Venu X1 appear to use a Synaptics GNSS chipset, just like the [fÄ
 
 | Model          | Released | Product | Chipset | CIQ  | APPro | References                                                   |
 | -------------- | :------: | :-----: | :-----: | :--: | :---: | ------------------------------------------------------------ |
-| Venu 4 - 45 mm | 2025-09  |  4643   | SYN4778 | 5.2  |   Y   | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2CF5620C-E585-4E0A-9CC3-9565533EEE4D/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-| Venu 4 - 41 mm | 2025-09  |  4644   | SYN4778 | 5.2  |   Y   | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2CF5620C-E585-4E0A-9CC3-9565533EEE4D/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-| Venu X1        | 2025-06  |  4603   |   TBC   | 5.2  |   Y   | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C144B465-A0C8-4FE9-AFE6-41A3FE3F1D9A/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2025/06/garmin-venu-x1-details-hands-everything.html) |
+| Venu 4 - 45 mm | 2025-09  |  4643   | SYN4778 | 6.0  |   Y   | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2CF5620C-E585-4E0A-9CC3-9565533EEE4D/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| Venu 4 - 41 mm | 2025-09  |  4644   | SYN4778 | 6.0  |   Y   | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2CF5620C-E585-4E0A-9CC3-9565533EEE4D/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| Venu X1        | 2025-06  |  4603   |   TBC   | 6.0  |   Y   | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C144B465-A0C8-4FE9-AFE6-41A3FE3F1D9A/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2025/06/garmin-venu-x1-details-hands-everything.html) |
 
 
 
