@@ -25,20 +25,21 @@ Results of some basic using the windsurf activity; "normal" power mode, and vari
 | Satellite Mode       | Observations                                                 |        Equivalent        |
 | -------------------- | ------------------------------------------------------------ | :----------------------: |
 | **Max Accuracy**     | GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />Location updates every 1 second, adhering to "every second" recording |     All + Multi-Band     |
-| **Normal**           | GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />Location updates every 1 second, adhering to "every second" recording<<br /><br />Occasional downgrades during session:<br />GPS L1, QZSS L1, Galileo E1, BeiDou B1I <br />GPS L1, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />GPS L1, QZSS L1, Galileo E1, BeiDou B1I on "stop" | Auto Select<br />(SatIQ) |
+| **Normal**           | GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />Location updates every 1 second, adhering to "every second" recording<br /><br />Occasional downgrades during session:<br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I <br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I on "stop" | Auto Select<br />(SatIQ) |
 | **Extended Battery** | GPS L1, Galileo E1<br />Location updates sometimes every 2 seconds, despite "every second" recording<br />Frequent mode change, but always GPS L1, Galileo E1 |      GPS + Galileo       |
 | **Max Battery**      | GPS L1, Galileo E1<br />Location updates sometimes every 5 seconds, despite "every second" recording<br />Occasional mode change, but always GPS L1, Galileo E1 |      GPS + Galileo       |
 
 Notes:
 
-- "Extended Battery" and "Max Battery" use GPS + Galileo, but sometimes switch to recording points every 2 or 5 seconds.
-- "Normal" and "Max Accuracy" typically record points every second, but "Normal" sometimes switches off multi-band.
+- "Extended Battery" and "Max Battery" use GPS + Galileo, but sometimes only record points every 2 or 5 seconds respectively.
+- "Normal" and "Max Accuracy" both support multi-band, but "Normal" sometimes reverts to single-band (aka traditional SatIQ).
+- "Normal" has been observed to stop using GLONASS, referred to as "constellation shedding" by the5krunner
 
-Event type 44:
+Event type 44 often appears in files from the fenix 8 and fenix 9:
 
-- Spotted in several files, typically after the first mode change (start up).
-- Perhaps something to do with the ephemeris?
-- The data value is a Garmin timestamp up to 12 mins earlier.
+- Spotted in several files, typically after the first mode change / start up.
+- Perhaps it is something to do with the ephemeris?
+- The data value is a Garmin timestamp that can be up to 12 mins earlier.
 
 
 
