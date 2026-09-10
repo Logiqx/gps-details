@@ -20,7 +20,7 @@ This is a quick document which shares my thoughts, observations, and my current 
 
 ### Observations
 
-Results of some basic using the windsurf activity; "normal" power mode, and various satellite modes:
+Results of some basic testing using the windsurf activity; "normal" power mode, and various satellite modes:
 
 | Satellite Mode       | Observations                                                 |        Equivalent        |
 | -------------------- | ------------------------------------------------------------ | :----------------------: |
