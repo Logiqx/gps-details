@@ -108,14 +108,12 @@ Notes about some Garmin trademarks:
 
 There was initially some debate about the "new" satellite settings on the fenix 9, but these are my observations:
 
-| Satellite Mode       |    Equivalent    | Description in fenix 9 owner's manual                        |
-| -------------------- | :--------------: | ------------------------------------------------------------ |
-| **Max Accuracy**     | All + Multi-Band | Prioritizes maximum positioning accuracy while reducing battery life. This setting provides increased performance in challenging environments for short-duration activities. |
-| **Normal**           |   Auto Select    | Balances average positioning accuracy and average battery life. This setting provides the best positioning accuracy while still prioritizing battery life. |
-| **Extended Battery** |  GPS + Galileo   | Balances above-average battery life and below-average positioning accuracy. This setting provides the best battery life while still prioritizing positioning accuracy. |
-| **Max Battery**      |  GPS + Galileo   | Prioritizes maximum battery life while reducing positioning accuracy. This setting records track points and sensor data less frequently for long-duration activities. |
-
-Note: These observations differ from the speculation of some reviewers on YouTube.
+| Satellite Mode       |    Equivalent    | Interval (seconds) | Description in fenix 9 owner's manual                        |
+| -------------------- | :--------------: | :----------------: | ------------------------------------------------------------ |
+| **Max Accuracy**     | All + Multi-Band |         1          | Prioritizes maximum positioning accuracy while reducing battery life. This setting provides increased performance in challenging environments for short-duration activities. |
+| **Normal**           |   Auto Select    |         1          | Balances average positioning accuracy and average battery life. This setting provides the best positioning accuracy while still prioritizing battery life. |
+| **Extended Battery** |  GPS + Galileo   |       1 or 2       | Balances above-average battery life and below-average positioning accuracy. This setting provides the best battery life while still prioritizing positioning accuracy. |
+| **Max Battery**      |  GPS + Galileo   |       1 or 5       | Prioritizes maximum battery life while reducing positioning accuracy. This setting records track points and sensor data less frequently for long-duration activities. |
 
 
 
@@ -181,7 +179,7 @@ n.b. The phrase "*records track points and sensor data less frequently*" also ap
 
 The GPS software version can sometimes give some insight into whether devices are using GNSS chipsets from the same manufacturer. The fenix 9 and fenix 9 Pro were released with GPS software 11.02 which caused some speculation about there possibly being a new GNSS chipset. However, [recent beta software](https://forums.garmin.com/beta-program/fenix-8-series/f/announcements/439016/beta-version-23-11--check-for-updates-only) for the fenix 8 (and similar models) was already using GPS software 11.02.
 
-Right now there is no reason to suspect a significant change in the GNSS chipset, although not impossible. The new satellite settings are essentially a software implementation and extension of the existing SatIQ. I suspect that Garmin will not apply these same modes to existing models, even if it is technically possible. Many users would find it confusing and no doubt there would be a large number of complaints. 
+Right now there is no reason to suspect a significant change in the GNSS chipset, although not impossible. The new satellite settings are essentially a software implementation and extension of the existing SatIQ. I suspect that Garmin will not apply these same modes to existing models, even if it is technically possible. Many users would find it confusing and it would likely cause complaints. 
 
 
 
@@ -189,13 +187,9 @@ Right now there is no reason to suspect a significant change in the GNSS chipset
 
 With the advent of the fenix 9 and fenix 9 Pro, Garmin have had a rethink about GNSS configuration. Everything is now using SatIQ (albeit with more variety) and the names for the [satellite settings](https://www8.garmin.com/manuals/webhelp/GUID-708A8F4D-9A78-49CF-9528-DE109BBCC472/EN-US/GUID-0E83C645-3795-4505-B5C1-2B97415DFA80.html) are more consistent with the names for the [activity power modes](https://www8.garmin.com/manuals/webhelp/GUID-708A8F4D-9A78-49CF-9528-DE109BBCC472/EN-US/GUID-A98507AE-C8FE-4CE7-A441-417DEAC99C65.html). This makes a lot of sense from a user perspective, because the average user doesn't really need to know the technical GNSS terms (or Garmin trademarks SatIQ and UltraTrac).
 
-"GPS Only" appears to have been ditched because the "Extended Battery" and "Max Battery" profiles both use "GPS + Galileo". However, I wouldn't entirely rule out the possibility of those settings downgrading to "GPS Only" in some scenarios. 
+"GPS Only" appears to have been ditched because the "Extended Battery" and "Max Battery" profiles both use "GPS + Galileo". However, I wouldn't entirely rule out the possibility of those settings downgrading to "GPS Only" in some scenarios. These findings were confirmed by the [GPS Events](../developer/gps-events.md) inside FIT files from the fenix 9 Pro. It is also worth noting that the [battery estimates](https://docs.google.com/spreadsheets/d/1JgJJNWAgFoC59cPQnlPvR_oOnTK9rUo2PIFP8X9-_PE/edit?usp=sharing) go a long way to corroborating these findings, and they were helpful prior to any testing.
 
-The above findings were confirmed by the [GPS Events](../developer/gps-events.md) inside FIT files from the fenix 9 Pro. It is also worth noting that the [battery estimates](https://docs.google.com/spreadsheets/d/1JgJJNWAgFoC59cPQnlPvR_oOnTK9rUo2PIFP8X9-_PE/edit?usp=sharing) go a long way to corroborating these findings, and they were helpful prior to any testing.
-
-Whether or not Garmin are still using the Synaptics SYN4778 (like the fenix 8) remains to be seen. Since the fenix 8 and fenix 9 use the same GPS software version (currently 11.02), I suspect they are still using a Synaptics chipset.
-
-Hopefully [Ferhad Fidan](https://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) will treat us to a future teardown of the fenix 9!
+Whether or not Garmin are still using the Synaptics SYN4778 (like the fenix 8) remains to be seen. Since the fenix 8 and fenix 9 use the same GPS software version (currently 11.02), I suspect they are still using a Synaptics chipset. Hopefully [Ferhad Fidan](https://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) will treat us to a future teardown of the fenix 9!
 
 
 
