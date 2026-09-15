@@ -57,7 +57,7 @@ With the advent of the fenix 9 series, Garmin have had a rethink about GNSS conf
 - Extended Battery (aka Extended)
 - Max Battery
 
-It is possible to diagnose what is actually occurring under the covers thanks to the excellent [FIT File Viewer](https://www.fitfileviewer.com/). There is a lot of interesting metadata inside the FIT files produced by Garmin devices, and some time ago I helped to reverse-engineer the [GPS mode changes](https://logiqx.github.io/gps-details/devices/garmin/developer/gps-events.html). Since these findings have subsequently been incorporated into the FIT File Viewer, it is possible to observe the GNSS changes that occur during an activity. 
+It is possible to diagnose what is actually occurring under the covers thanks to the excellent [FIT File Viewer](https://www.fitfileviewer.com/). There is a lot of interesting metadata inside the FIT files produced by Garmin devices, and some time ago I helped to decode the [GPS mode changes](https://logiqx.github.io/gps-details/devices/garmin/developer/gps-events.html). Since these findings have subsequently been incorporated into the FIT File Viewer, it is possible to observe the GNSS changes that occur during an activity. 
 
 What is immediately apparent when doing some basic testing of the fenix 9 series is that "GPS only" appears to have gone, and so has the traditional "all systems". The new GNSS configurations include the following:
 
@@ -79,14 +79,14 @@ Results of some basic testing using the Garmin windsurf activity; "normal" power
 
 | Satellite Setting    | Observations                                                 |        Equivalent        |
 | -------------------- | ------------------------------------------------------------ | :----------------------: |
-| **Max Accuracy**     | GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />Location updates every 1 second, adhering to "every second" recording |     All + Multi-Band     |
-| **Normal**           | GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />Location updates every 1 second, adhering to "every second" recording<br /><br />Occasional downgrades during session:<br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I <br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I on "stop" | Auto Select<br />(SatIQ) |
-| **Extended Battery** | GPS L1, Galileo E1<br />Location updates sometimes every 2 seconds, even with the "every second" setting<br />Frequent mode change, but always GPS L1, Galileo E1 |      GPS + Galileo       |
-| **Max Battery**      | GPS L1, Galileo E1<br />Location updates sometimes every 5 seconds, even with the "every second" setting<br />Occasional mode change, but always GPS L1, Galileo E1 |      GPS + Galileo       |
+| **Max Accuracy**     | GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br /><br />Location updates every 1 second, adhering to "every second" recording |     All + Multi-Band     |
+| **Normal**           | GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br /><br />Location updates every 1 second, adhering to "every second" recording<br /><br />Occasional downgrades during session:<br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I <br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I on "stop" | Auto Select<br />(SatIQ) |
+| **Extended Battery** | GPS L1, Galileo E1<br /><br />Location updates sometimes every 2 seconds, even with the "every second" setting<br />Frequent mode change, but always GPS L1, Galileo E1 |      GPS + Galileo       |
+| **Max Battery**      | GPS L1, Galileo E1<br /><br />Location updates sometimes every 5 seconds, even with the "every second" setting<br />Occasional mode change, but always GPS L1, Galileo E1 |      GPS + Galileo       |
 
 Notes:
 
-- The new satellite settings are all related to Sat IQ, and there is no specific SatIQ flag in the mode changes.
+- The new satellite settings are all related to SatIQ, and there is no specific SatIQ flag in the mode changes.
 - "Extended Battery" and "Max Battery" use GPS + Galileo, but sometimes only record points every 2 or 5 seconds respectively.
 - "Normal" and "Max Accuracy" both support multi-band, but "Normal" sometimes reverts to single-band.
 - "Normal" has also been observed to stop using GLONASS, referred to as "constellation shedding" by the5krunner.
@@ -184,7 +184,7 @@ With the advent of the fenix 9 series, Garmin have rethought their GNSS configur
 
 "GPS Only" appears to have been ditched because the "Extended Battery" and "Max Battery" profiles both use "GPS + Galileo". However, I wouldn't entirely rule out the possibility of those settings downgrading to "GPS Only" in some scenarios. These findings were confirmed by the [GPS Events](../developer/gps-events.md) inside FIT files from the fenix 9 Pro. It is also worth noting that the [battery estimates](https://docs.google.com/spreadsheets/d/1JgJJNWAgFoC59cPQnlPvR_oOnTK9rUo2PIFP8X9-_PE/edit?usp=sharing) also go a long way to corroborating these findings, and they were helpful prior to any testing.
 
-Whether or not Garmin are still using the Synaptics SYN4778 (chip inside the fenix 8) remains to be seen. Since the fenix 8 and fenix 9 both use the same GPS software version (currently 11.02), I suspect they are both using a Synaptics chipset. The only way to know for sure is to open up the watch and to have a proper look. Hopefully [Ferhad Fidan](https://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) will treat us to a future teardown of the fenix 9 in the near future!
+Whether or not Garmin are still using the Synaptics SYN4778 (chip inside the fenix 8) remains to be seen. Since the fenix 8 and fenix 9 both use the same GPS software version (currently 11.02), I suspect they are both using a Synaptics chipset. The only way to know for sure is to open up the watch and to have a proper look. Hopefully [Ferhad Fidan](https://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) will treat us to a teardown of the fenix 9 some time in the near future!
 
 
 
