@@ -57,9 +57,9 @@ With the advent of the fenix 9 series, Garmin have had a rethink about GNSS conf
 - Extended Battery (aka Extended)
 - Max Battery
 
-It is possible to diagnose what is actually occurring under the covers thanks to the excellent [FIT File Viewer](https://www.fitfileviewer.com/). There is a lot of interesting metadata inside the FIT files produced by Garmin devices, and some time ago I helped to reverse-engineer the [GPS mode changes](https://logiqx.github.io/gps-details/devices/garmin/developer/gps-events.html). Since these findings have subsequently been incorporated into the FIT File Viewer, we observe the GNSS changes during an activity. 
+It is possible to diagnose what is actually occurring under the covers thanks to the excellent [FIT File Viewer](https://www.fitfileviewer.com/). There is a lot of interesting metadata inside the FIT files produced by Garmin devices, and some time ago I helped to reverse-engineer the [GPS mode changes](https://logiqx.github.io/gps-details/devices/garmin/developer/gps-events.html). Since these findings have subsequently been incorporated into the FIT File Viewer, it is possible to observe the GNSS changes that occur during an activity. 
 
-What is immediately apparent when doing some basic testing of the fenix 9 series is that "GPS only" appears to have gone, and so has the basic  "all systems". The new GNSS configurations include the following:
+What is immediately apparent when doing some basic testing of the fenix 9 series is that "GPS only" appears to have gone, and so has the traditional "all systems". The new GNSS configurations include the following:
 
 - All + Multi-Band
 - Auto Select - All + Multi-Band, or All Systems
@@ -81,23 +81,23 @@ Results of some basic testing using the Garmin windsurf activity; "normal" power
 | -------------------- | ------------------------------------------------------------ | :----------------------: |
 | **Max Accuracy**     | GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />Location updates every 1 second, adhering to "every second" recording |     All + Multi-Band     |
 | **Normal**           | GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />Location updates every 1 second, adhering to "every second" recording<br /><br />Occasional downgrades during session:<br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I <br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I on "stop" | Auto Select<br />(SatIQ) |
-| **Extended Battery** | GPS L1, Galileo E1<br />Location updates sometimes every 2 seconds, despite "every second" recording<br />Frequent mode change, but always GPS L1, Galileo E1 |      GPS + Galileo       |
-| **Max Battery**      | GPS L1, Galileo E1<br />Location updates sometimes every 5 seconds, despite "every second" recording<br />Occasional mode change, but always GPS L1, Galileo E1 |      GPS + Galileo       |
+| **Extended Battery** | GPS L1, Galileo E1<br />Location updates sometimes every 2 seconds, even with the "every second" setting<br />Frequent mode change, but always GPS L1, Galileo E1 |      GPS + Galileo       |
+| **Max Battery**      | GPS L1, Galileo E1<br />Location updates sometimes every 5 seconds, even with the "every second" setting<br />Occasional mode change, but always GPS L1, Galileo E1 |      GPS + Galileo       |
 
 Notes:
 
-- The new satellite settings are all referred to as Sat IQ now, and there is no SatIQ flag in the GPS event types.
+- The new satellite settings are all related to Sat IQ, and there is no specific SatIQ flag in the mode changes.
 - "Extended Battery" and "Max Battery" use GPS + Galileo, but sometimes only record points every 2 or 5 seconds respectively.
-- "Normal" and "Max Accuracy" both support multi-band, but "Normal" sometimes reverts to single-band. This is just like the traditional SatIQ on older devices.
-- "Normal" has been observed to stop using GLONASS, referred to as "constellation shedding" by the5krunner
+- "Normal" and "Max Accuracy" both support multi-band, but "Normal" sometimes reverts to single-band.
+- "Normal" has also been observed to stop using GLONASS, referred to as "constellation shedding" by the5krunner.
 
-Event type 44 can also be observed in FIT files from the fenix 8, fenix 8 Pro, fenix 9, and fenix 9 Pro:
+Event type 44 can also be observed in FIT files from the fenix 8 series, and fenix 9 series:
 
 - Spotted in several files, typically shortly after start up.
-- The data value is a Garmin timestamp that can be up to 12 mins earlier.
+- The data value (when present) is a Garmin timestamp that can be up to 12 mins earlier.
 - Perhaps it is something to do with acquisition of the latest [ephemeris](https://gssc.esa.int/navipedia/index.php/GPS_Navigation_Message)?
 
-I have yet to figure out what GPS event 25 represents, but 2 and 3 are simply loss of the GNSS signals and re-acquisition.
+I have yet to determine what GPS event 25 represents, but 2 and 3 are simply loss of the GNSS signals and re-acquisition.
 
 
 
@@ -120,7 +120,7 @@ fenix 9 manual:
 
 > **Max Accuracy** - Prioritizes maximum positioning accuracy while reducing battery life. This setting provides increased performance in challenging environments for short-duration activities.
 
-The "Max Accuracy" setting is the same as "All + Multi-Band" setting on previous devices, and not "Auto Select".
+The "Max Accuracy" setting is essentially the same "All + Multi-Band" on previous models, and not "Auto Select".
 
 
 
@@ -130,13 +130,13 @@ fenix 9 manual:
 
 > **Normal** - Balances average positioning accuracy and average battery life. This setting provides the **best positioning accuracy while still prioritizing battery life**.
 
-The "Normal" setting is near-identical to "Auto Select" (i.e. SatIQ) on previous devices, and not "All Systems".
+The "Normal" setting is near-identical to "Auto Select" (aka SatIQ) on previous models, and not "All Systems".
 
 The description of "Normal" is also very similar to the description of "Auto Select" in the fenix 7 and fenix 8 manuals:
 
 > **Auto Select** - Enables the watch to use SatIQ™ technology to dynamically select the best multi-band GNSS system based on your environment. The Auto Select setting offers the **best positioning accuracy while still prioritizing battery life**.
 
-One noticeable difference is that GLONASS can be dropped when using the "Normal" (aka "Balanced") mode.
+One noticeable difference is that GLONASS is sometimes dropped when using "Normal" (aka "Balanced").
 
 
 
@@ -146,9 +146,9 @@ fenix 9 manual:
 
 > **Extended Battery** - Balances above-average battery life and below-average positioning accuracy. This setting provides the best battery life while still prioritizing positioning accuracy.
 
-The "Extended Battery" setting uses "GPS + Galileo", and not "GPS Only".
+The "Extended Battery" setting uses "GPS + Galileo", and not "GPS Only". 
 
-It can also use either 1 or 2 second recording interval for track points, regardless of the "every second" setting.
+It can also use either 1 or 2 second recording interval for track points, even with the "every second" setting.
 
 
 
@@ -160,31 +160,31 @@ fenix 9 manual:
 
 The "Max Battery" setting uses "GPS + Galileo", and not "GPS Only".
 
-I initially expected "Max Battery" to be the same as UltraTrac, but it records more frequently. It can use either 1 or 5 second recording interval for track points, regardless of the "every second" setting.
+I initially expected "Max Battery" to be similar to UltraTrac, but it records much more frequently. It can use either 1 or 5 second recording interval for track points, even with the "every second" setting.
 
-n.b. The phrase "*records track points and sensor data less frequently*" also appears in the fenix 7 and fenix 8 manuals:
+The phrase "*records track points and sensor data less frequently*" also appears in the fenix 7 and fenix 8 manuals:
 
 > **UltraTrac** - **Records track points and sensor data less frequently**. Enabling the UltraTrac feature increases battery life but decreases the quality of recorded activities. You should use the UltraTrac feature for activities that demand longer battery life and for which frequent sensor data updates are less important.
 
-It should be noted that "max battery" is not the same as the legacy UltraTrac mode.
+It should be noted that "max battery" is NOT the same as the UltraTrac mode.
 
 
 
 ### GPS Software
 
-The GPS software version can sometimes give some insight into whether devices are using GNSS chipsets from the same manufacturer. The fenix 9 series was released with GPS software 11.02 which caused some speculation about there possibly being a new GNSS chipset. However, [recent beta software](https://forums.garmin.com/beta-program/fenix-8-series/f/announcements/439016/beta-version-23-11--check-for-updates-only) for the fenix 8 (and similar models) was already using GPS software 11.02.
+The GPS software version can sometimes give some insight into whether devices are using GNSS chipsets from the same manufacturer. The fenix 9 series was released with GPS software 11.02 which caused some speculation about there possibly being a new GNSS chipset. However, [recent beta software](https://forums.garmin.com/beta-program/fenix-8-series/f/announcements/439016/beta-version-23-11--check-for-updates-only) for the fenix 8 series was already using GPS software 11.02.
 
-Right now there is no reason to suspect a significant change in the GNSS chipset, although not impossible. The new satellite settings are essentially a software implementation and extension of the existing SatIQ. I suspect that Garmin will not apply these same modes to existing models, even if it is technically possible. Many users would find it confusing and it would likely cause complaints. 
+Right now there is no reason to suspect a significant change in the GNSS chipset, although not impossible. The new satellite settings are an evolution of SatIQ and specific to Garmin. I suspect that Garmin will not implement the new satellite settings on existing models, even if technically possible. Many users would find it confusing, and it would likely result in complaints. 
 
 
 
 ### Summary
 
-With the advent of the fenix 9 series, Garmin have had a rethink about GNSS configuration. Everything is now using SatIQ (albeit with more variety) and the names for the [satellite settings](https://www8.garmin.com/manuals/webhelp/GUID-708A8F4D-9A78-49CF-9528-DE109BBCC472/EN-US/GUID-0E83C645-3795-4505-B5C1-2B97415DFA80.html) are more consistent with the names for the [activity power modes](https://www8.garmin.com/manuals/webhelp/GUID-708A8F4D-9A78-49CF-9528-DE109BBCC472/EN-US/GUID-A98507AE-C8FE-4CE7-A441-417DEAC99C65.html). This makes a lot of sense from a user perspective, because the average user doesn't really need to know the technical GNSS terms (or Garmin trademarks SatIQ and UltraTrac).
+With the advent of the fenix 9 series, Garmin have rethought their GNSS configurations and enhanced SatIQ. Everything is now considered to be SatIQ, and the names for the [satellite settings](https://www8.garmin.com/manuals/webhelp/GUID-708A8F4D-9A78-49CF-9528-DE109BBCC472/EN-US/GUID-0E83C645-3795-4505-B5C1-2B97415DFA80.html) are more consistent with the names for the [activity power modes](https://www8.garmin.com/manuals/webhelp/GUID-708A8F4D-9A78-49CF-9528-DE109BBCC472/EN-US/GUID-A98507AE-C8FE-4CE7-A441-417DEAC99C65.html). This makes a lot of sense from a user perspective, because the average user doesn't really need to understand different GNSS technologies, or the implications of Garmin concepts such as SatIQ and UltraTrac.
 
-"GPS Only" appears to have been ditched because the "Extended Battery" and "Max Battery" profiles both use "GPS + Galileo". However, I wouldn't entirely rule out the possibility of those settings downgrading to "GPS Only" in some scenarios. These findings were confirmed by the [GPS Events](../developer/gps-events.md) inside FIT files from the fenix 9 Pro. It is also worth noting that the [battery estimates](https://docs.google.com/spreadsheets/d/1JgJJNWAgFoC59cPQnlPvR_oOnTK9rUo2PIFP8X9-_PE/edit?usp=sharing) go a long way to corroborating these findings, and they were helpful prior to any testing.
+"GPS Only" appears to have been ditched because the "Extended Battery" and "Max Battery" profiles both use "GPS + Galileo". However, I wouldn't entirely rule out the possibility of those settings downgrading to "GPS Only" in some scenarios. These findings were confirmed by the [GPS Events](../developer/gps-events.md) inside FIT files from the fenix 9 Pro. It is also worth noting that the [battery estimates](https://docs.google.com/spreadsheets/d/1JgJJNWAgFoC59cPQnlPvR_oOnTK9rUo2PIFP8X9-_PE/edit?usp=sharing) also go a long way to corroborating these findings, and they were helpful prior to any testing.
 
-Whether or not Garmin are still using the Synaptics SYN4778 (like the fenix 8) remains to be seen. Since the fenix 8 and fenix 9 use the same GPS software version (currently 11.02), I suspect they are still using a Synaptics chipset. Hopefully [Ferhad Fidan](https://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) will treat us to a future teardown of the fenix 9!
+Whether or not Garmin are still using the Synaptics SYN4778 (chip inside the fenix 8) remains to be seen. Since the fenix 8 and fenix 9 both use the same GPS software version (currently 11.02), I suspect they are both using a Synaptics chipset. The only way to know for sure is to open up the watch and to have a proper look. Hopefully [Ferhad Fidan](https://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) will treat us to a future teardown of the fenix 9 in the near future!
 
 
 
