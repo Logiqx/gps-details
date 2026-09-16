@@ -81,8 +81,8 @@ Results of some basic testing using the Garmin windsurf activity; "normal" power
 | -------------------- | ------------------------------------------------------------ | :----------------------: |
 | **Max Accuracy**     | GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br /><br />Location updates every 1 second, adhering to "every second" recording |     All + Multi-Band     |
 | **Normal**           | GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br /><br />Location updates every 1 second, adhering to "every second" recording<br /><br />Occasional downgrades during session:<br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I <br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I on "stop" | Auto Select<br />(SatIQ) |
-| **Extended Battery** | GPS L1, Galileo E1<br /><br />Location updates sometimes every 2 seconds, even with the "every second" setting<br />Frequent mode change, but always GPS L1, Galileo E1 |      GPS + Galileo       |
-| **Max Battery**      | GPS L1, Galileo E1<br /><br />Location updates sometimes every 5 seconds, even with the "every second" setting<br />Occasional mode change, but always GPS L1, Galileo E1 |      GPS + Galileo       |
+| **Extended Battery** | GPS L1, Galileo E1<br /><br />Location updates sometimes every 2 seconds, even with the "every second" setting<br /><br />Frequent mode change, but always GPS L1, Galileo E1 |      GPS + Galileo       |
+| **Max Battery**      | GPS L1, Galileo E1<br /><br />Location updates sometimes every 5 seconds, even with the "every second" setting<br /><br />Occasional mode change, but always GPS L1, Galileo E1 |      GPS + Galileo       |
 
 Notes:
 
