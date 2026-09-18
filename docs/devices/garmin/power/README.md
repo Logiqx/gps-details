@@ -4,17 +4,17 @@ Author: Michael George
 
 Created: 29 Aug 2026
 
-Updated: 15 Sep 2026
+Updated: 18 Sep 2026
 
 
 
 ### Introduction
 
-There is currently some debate about the "new" satellite settings on the fenix 9.
+There was initially some debate about the "new" satellite settings on the fenix 9.
 
 ![comparison](img/comparison.png)
 
-This document shares my observations after some basic investigations.
+This document shares what has been learned after some basic investigations.
 
 
 
@@ -62,12 +62,12 @@ It is possible to diagnose what is actually occurring under the covers thanks to
 What is immediately apparent when doing some basic testing of the fenix 9 series is that "GPS only" appears to have gone, and so has the traditional "all systems". The new GNSS configurations include the following:
 
 - All + Multi-Band
-- Auto Select - All + Multi-Band, or All Systems
+- Auto Select - All + Multi-Band, or All Systems, or GPS + Galileo
 - GPS + Galileo
 
-Note: The "auto select" mode sometimes stops using GLONASS, which is referred to as "constellation shedding" by [the5krunner](https://the5krunner.com/).
+Note: The "Auto Select" mode sometimes stops using GLONASS, which is referred to as "constellation shedding" by [the5krunner](https://the5krunner.com/).
 
-It is also important to note the battery saving modes can also reduce the recording frequency of track points, despite the "every second" recording interval. The "extended battery" mode sometimes records track points every 2 seconds,  and "max battery" sometimes records track points every 5 seconds.
+It is also important to note that battery saving modes can also reduce the recording frequency of track points, despite the "every second" recording interval. The "extended battery" mode sometimes records track points every 2 seconds,  and "max battery" sometimes records track points every 5 seconds.
 
 There may be some other subtle behaviours that are yet to be observed and documented.
 
@@ -77,16 +77,16 @@ There may be some other subtle behaviours that are yet to be observed and docume
 
 Results of some basic testing using the Garmin windsurf activity; "normal" power mode, various satellite modes, and every second recording:
 
-| Satellite Setting    | Observations                                                 |        Equivalent        |
-| -------------------- | ------------------------------------------------------------ | :----------------------: |
-| **Max Accuracy**     | GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br /><br />Location updates every 1 second, adhering to "every second" recording |     All + Multi-Band     |
-| **Normal**           | GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br /><br />Location updates every 1 second, adhering to "every second" recording<br /><br />Occasional downgrades during session:<br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I <br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />- GPS L1, QZSS L1, Galileo E1, BeiDou B1I on "stop" | Auto Select<br />(SatIQ) |
-| **Extended Battery** | GPS L1, Galileo E1<br /><br />Location updates sometimes every 2 seconds, even with the "every second" setting<br /><br />Frequent mode change, but always GPS L1, Galileo E1 |      GPS + Galileo       |
-| **Max Battery**      | GPS L1, Galileo E1<br /><br />Location updates sometimes every 5 seconds, even with the "every second" setting<br /><br />Occasional mode change, but always GPS L1, Galileo E1 |      GPS + Galileo       |
+| Satellite Setting    | Observations                                                 |    Equivalent    |
+| -------------------- | ------------------------------------------------------------ | :--------------: |
+| **Max Accuracy**     | 15571 = GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br /><br />Location updates every 1 second, adhering to "every second" recording | All + Multi-Band |
+| **Normal**           | 15571 = GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br /><br />Location updates every 1 second, adhering to "every second" recording<br /><br />Occasional downgrades during session:<br />15569 = GPS L1, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />209 = GPS L1, QZSS L1, Galileo E1, BeiDou B1I<br />65 = GPS L1, Galileo E1 |   Auto Select    |
+| **Extended Battery** | 65 = GPS L1, Galileo E1<br /><br />Location updates sometimes every 2 seconds, even with the "every second" setting<br /><br />Frequent mode change, but always GPS L1, Galileo E1 |  GPS + Galileo   |
+| **Max Battery**      | 65 = GPS L1, Galileo E1<br /><br />Location updates sometimes every 5 seconds, even with the "every second" setting<br /><br />Occasional mode change, but always GPS L1, Galileo E1 |  GPS + Galileo   |
 
 Notes:
 
-- The new satellite settings are all related to SatIQ, and there is no specific SatIQ flag in the mode changes.
+- The new satellite settings are all considered to be SatIQ, and there is no specific SatIQ flag in the mode changes.
 - "Extended Battery" and "Max Battery" use GPS + Galileo, but sometimes only record points every 2 or 5 seconds respectively.
 - "Normal" and "Max Accuracy" both support multi-band, but "Normal" sometimes reverts to single-band.
 - "Normal" has also been observed to stop using GLONASS, referred to as "constellation shedding" by the5krunner.
@@ -122,6 +122,8 @@ fenix 9 manual:
 
 The "Max Accuracy" setting is essentially the same "All + Multi-Band" on previous models, and not "Auto Select".
 
+- Mode 15571 = GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5
+
 
 
 #### Normal
@@ -131,6 +133,11 @@ fenix 9 manual:
 > **Normal** - Balances average positioning accuracy and average battery life. This setting provides the **best positioning accuracy while still prioritizing battery life**.
 
 The "Normal" setting is near-identical to "Auto Select" (aka SatIQ) on previous models, and not "All Systems".
+
+- Mode 15571 = GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5
+- Mode 15569 = GPS L1, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5
+- Mode 209 = GPS L1, QZSS L1, Galileo E1, BeiDou B1I
+- Mode 65 = GPS L1, Galileo E1
 
 The description of "Normal" is also very similar to the description of "Auto Select" in the fenix 7 and fenix 8 manuals:
 
@@ -148,6 +155,8 @@ fenix 9 manual:
 
 The "Extended Battery" setting uses "GPS + Galileo", and not "GPS Only". 
 
+- Mode 65 = GPS L1, Galileo E1
+
 It can also use either 1 or 2 second recording interval for track points, even with the "every second" setting.
 
 
@@ -159,6 +168,8 @@ fenix 9 manual:
 > **Max Battery** - Prioritizes maximum battery life while reducing positioning accuracy. This setting **records track points and sensor data less frequently** for long-duration activities.
 
 The "Max Battery" setting uses "GPS + Galileo", and not "GPS Only".
+
+- Mode 65 = GPS L1, Galileo E1
 
 I initially expected "Max Battery" to be similar to UltraTrac, but it records much more frequently. It can use either 1 or 5 second recording interval for track points, even with the "every second" setting.
 
@@ -190,7 +201,8 @@ Whether or not Garmin are still using the Synaptics SYN4778 (chip inside the fen
 
 ### Links
 
-Garmin forum
+Garmin forum:
 
-- [Fenix 9 Position.CONFIGURATION_GPS_xxxxx not supported](https://forums.garmin.com/developer/connect-iq/i/bug-reports/fenix-9-position-configuration_gps_xxxxx-not-supported)
-- [fenix 8 Pro - location events stopped mis-session - SW 23.28, GPS 11.02](https://forums.garmin.com/beta-program/fenix-8-series/f/community-discussion/443670/fenix-8-pro---location-events-stopped-mis-session---sw-23-28-gps-11-02/2061662)
+- [fenix 9 series satellite settings](https://forums.garmin.com/outdoor-recreation/outdoor-recreation/f/fenix-9-series/444266/fenix-9-series-satellite-settings) by Mike K888
+- [Fenix 9 Position.CONFIGURATION_GPS_xxxxx not supported](https://forums.garmin.com/developer/connect-iq/i/bug-reports/fenix-9-position-configuration_gps_xxxxx-not-supported) by F3b Software (Brian)
+- [fenix 8 Pro - location events stopped mis-session - SW 23.28, GPS 11.02](https://forums.garmin.com/beta-program/fenix-8-series/f/community-discussion/443670/fenix-8-pro---location-events-stopped-mis-session---sw-23-28-gps-11-02/2061662) by Mike K888
