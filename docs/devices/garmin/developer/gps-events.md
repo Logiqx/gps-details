@@ -31,8 +31,8 @@ Most significant byte:
 
 ```
 00000001 = SatIQ - Auto Select
-------?- = Unknown
-00011100 = GPS L5, Galileo E5a, BeiDou B2a *
+00000010 = NavIC
+00011100 = GPS L5, Galileo E5a, BeiDou B2a
 00100000 = QZSS L5
 ??------ = Unknown / Unused
 ```
@@ -64,24 +64,26 @@ Most significant byte:
 
 
 
-#### All Systems
+#### Multiple Systems
 
 | Satellites                                                 | Dec  | Bin               |
 | ---------------------------------------------------------- | ---- | ----------------- |
 | GPS L1, GLONASS, Galileo E1, BeiDou B1I                    | 195  | 00000000 11000011 |
+| GPS L1, QZSS L1, Galileo E1, BeiDou B1I                    | 209  | 00000000 11010001 |
 | GPS L1, QZSS L1, GLONASS, Galileo E1, BeiDou B1I           | 211  | 00000000 11010011 |
 | GPS L1, QZSS L1, GLONASS, Galileo E1, BeiDou B1I via SatIQ | 467  | 00000001 11010011 |
 
 
 
-#### All Systems + Multi-Band
+#### Multiple Systems + Multi-Band
 
 | Satellites                                           | Dec   | Bin               |
 | ------------------------------------------------------------ | ----- | ----------------- |
 | GPS L1+L5, GLONASS, Galileo E1+E5a, BeiDou B1I+B2a | 7363 | 00011100 11000011 |
+| GPS L1+L5, QZSS L1+L5, Galileo E1+E5a, BeiDou B1I+B2a | 15569 | 00111100 11010001 |
 | GPS L1+L5, QZSS L1+L5, GLONASS, Galileo E1+E5a, BeiDou B1I+B2a | 15571 | 00111100 11010011 |
-| GPS L1+L5, QZSS L1+L5, GLONASS, Galileo E1+E5a, BeiDou B1I+B2a, MYSTERY | 16083 | 00111110 11010011 |
 | GPS L1+L5, QZSS L1+L5, GLONASS, Galileo E1+E5a, BeiDou B1I+B2a via SatIQ | 15827 | 00111101 11010011 |
+| GPS L1+L5, QZSS L1+L5, GLONASS, Galileo E1+E5a, BeiDou B1I+B2a, NavIC | 16083 | 00111110 11010011 |
 
 
 
