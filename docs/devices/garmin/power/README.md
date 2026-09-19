@@ -75,14 +75,14 @@ There may be some other subtle behaviours that are yet to be observed and docume
 
 ### General Observations
 
-Results of some basic testing using the Garmin windsurf activity; "normal" power mode, various satellite modes, and every second recording:
+The table below used GPS event type 49 (mode change) in FIT files. The observation that location updates can be less frequent than every second were using the built-in windsurfing activity, "normal" power mode, and every second recording.
 
 | Satellite Setting    | Observations                                                 |    Equivalent    |
 | -------------------- | ------------------------------------------------------------ | :--------------: |
-| **Max Accuracy**     | 15571 = GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br /><br />Location updates every 1 second, adhering to "every second" recording | All + Multi-Band |
-| **Normal**           | 15571 = GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br /><br />Location updates every 1 second, adhering to "every second" recording<br /><br />Occasional downgrades during session:<br />15569 = GPS L1, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />209 = GPS L1, QZSS L1, Galileo E1, BeiDou B1I<br />65 = GPS L1, Galileo E1 |   Auto Select    |
-| **Extended Battery** | 65 = GPS L1, Galileo E1<br /><br />Location updates sometimes every 2 seconds, even with the "every second" setting<br /><br />Frequent mode change, but always GPS L1, Galileo E1 |  GPS + Galileo   |
-| **Max Battery**      | 65 = GPS L1, Galileo E1<br /><br />Location updates sometimes every 5 seconds, even with the "every second" setting<br /><br />Occasional mode change, but always GPS L1, Galileo E1 |  GPS + Galileo   |
+| **Max Accuracy**     | Initial GNSS mode:<br />15571 = GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br /><br />Location updates every 1 second, adhering to "every second" recording | All + Multi-Band |
+| **Normal**           | Initial GNSS mode:<br />15571 = GPS L1, GLONASS, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br /><br />Occasional downgrades during session:<br />15569 = GPS L1, QZSS L1, Galileo E1, BeiDou B1I, GPS L5, Galileo E5a, BeiDou B2a, QZSS L5<br />209 = GPS L1, QZSS L1, Galileo E1, BeiDou B1I<br />65 = GPS L1, Galileo E1<br /><br />Location updates every 1 second, adhering to "every second" recording |   Auto Select    |
+| **Extended Battery** | Initial GNSS mode:<br />65 = GPS L1, Galileo E1<br /><br />Frequent mode changes, but always 65 = GPS L1, Galileo E1<br /><br />Location updates sometimes every 2 seconds, even with the "every second" setting |  GPS + Galileo   |
+| **Max Battery**      | Initial GNSS mode:<br />65 = GPS L1, Galileo E1<br /><br />Occasional mode changes, but always 65 = GPS L1, Galileo E1<br /><br />Location updates sometimes every 5 seconds, even with the "every second" setting |  GPS + Galileo   |
 
 Notes:
 
