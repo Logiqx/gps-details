@@ -12,12 +12,13 @@ The various models are listed in reverse-chronological order. The release dates 
 
 ### Synaptics
 
-The Enduro 3 was released at the same time as the [fēnix 8](fenix.md) and built on the same hardware platform.
+The Enduro 4 was released after the [fēnix 9](fenix.md) but built on the same hardware platform. The Enduro 4 is akin to the fēnix 9 51 mm Solar, but with longer battery life.
 
-The Enduro 3 is akin to the fēnix 8 51 mm Solar Sapphire but with longer battery life.
+The Enduro 3 was released at the same time as the [fēnix 8](fenix.md) and built on the same hardware platform. The Enduro 3 is akin to the fēnix 8 51 mm Solar Sapphire, but with longer battery life.
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| Enduro 4 | 2026-10 | 5169 | ? | 6.0 | Y |  |
 | Enduro 3 | 2024-08 | 4575 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/851039#specs) |
 
 
