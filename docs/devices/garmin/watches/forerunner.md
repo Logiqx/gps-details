@@ -99,17 +99,17 @@ Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chi
 | Forerunner 910XT | 2011-10 | 1328, 1537, 1600, 1664 | SiRFstarIV | - | - | DCR [review](https://www.dcrainmaker.com/2011/10/garmin-forerunner-910xt-in-depth-review.html) |
 | Forerunner 70 | 2011-10 | 1436 | SiRFstarIV | - | - |  |
 | Forerunner 610   | 2011-04 | 1345, 1410 | SiRFstarIV | - | - | DCR [review](https://www.dcrainmaker.com/2011/04/garmin-forerunner-610-in-depth-review.html) |
-| Forerunner 410   | 2010-10 |  | SiRFstarIV | - | - |  |
+| Forerunner 410   | 2010-10 | 717, 987 | SiRFstarIV | - | - |  |
 | Forerunner 210   | 2010-10 | 1360 | SiRFstarIV | - | - |  |
 | Forerunner 110   | 2010-03 | 1124, 1274 | SiRFstarIV | - | - | DCR [review](https://www.dcrainmaker.com/2010/03/garmin-forerunner-110-first-look-review.html) |
-| Forerunner 405CX | 2009-04 |  | SiRFstarIII ? | - | - |  |
+| Forerunner 405CX | 2009-04 | 717, 987 | SiRFstarIII ? | - | - |  |
 | Forerunner 310XT | 2009-04 | 1018, 1446 | SiRFstarIII ? | - | - |  |
-| Forerunner 60    | 2009-01 |  | SiRFstarIII ? | - | - |  |
+| Forerunner 60    | 2009-01 | 988 | SiRFstarIII ? | - | - |  |
 | Forerunner 405   | 2008-01 | 717, 987 | SiRFstarIII | - | - |  |
-| Forerunner 50    | 2007-08 |  | SiRFstarIII | - | - |  |
-| Forerunner 305   | 2006-01 |  | SiRFstarIII | - | - | Garmin [manual](https://static.garmin.com/pumac/984_OwnersManual.pdf) |
-| Forerunner 205   | 2006-01 |  | SiRFstarIII | - | - | Garmin [manual](https://static.garmin.com/pumac/984_OwnersManual.pdf) |
-| Forerunner 301   | 2005-01 |  | SiRFstarII | - | - |  |
-| Forerunner 201   | 2003-08 |  | SiRFstarII | - | - |  |
-| Forerunner 101   | 2003-03 |  | SiRFstarII | - | - |  |
+| Forerunner 50    | 2007-08 | 782 | SiRFstarIII | - | - |  |
+| Forerunner 305   | 2006-01 | - | SiRFstarIII | - | - | Garmin [manual](https://static.garmin.com/pumac/984_OwnersManual.pdf) |
+| Forerunner 205   | 2006-01 | - | SiRFstarIII | - | - | Garmin [manual](https://static.garmin.com/pumac/984_OwnersManual.pdf) |
+| Forerunner 301   | 2005-01 | 473, 474, 475, 494 | SiRFstarII | - | - |  |
+| Forerunner 201   | 2003-08 | - | SiRFstarII | - | - |  |
+| Forerunner 101   | 2003-03 | - | SiRFstarII | - | - |  |
 
