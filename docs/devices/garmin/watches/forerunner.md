@@ -65,6 +65,7 @@ Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets ar
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | --------------------------- |
+| Forerunner 235L | 2018-04 | 3144 | MT3333 | - | - |  |
 | Forerunner 645 Music | 2018-01 | 2888, 3004 | MT3333 | 3.2 | Y | |
 | Forerunner 645 | 2018-01 | 2886, 3003 | MT3333 | 3.1 | Y |  |
 | Forerunner 30               | 2017-09 | 2891, 2977 | MT3333 | - | - |  |
@@ -95,16 +96,16 @@ Additional [notes](../../../chipsets/mediatek/devices.md) about the Mediatek chi
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | --------------------------- |
-| Forerunner 910XT | 2011-10 |  | SiRFstarIV | - | - | DCR [review](https://www.dcrainmaker.com/2011/10/garmin-forerunner-910xt-in-depth-review.html) |
-| Forerunner 70 | 2011-10 | | SiRFstarIV | - | - |  |
-| Forerunner 610   | 2011-04 |  | SiRFstarIV | - | - | DCR [review](https://www.dcrainmaker.com/2011/04/garmin-forerunner-610-in-depth-review.html) |
+| Forerunner 910XT | 2011-10 | 1328, 1537, 1600, 1664 | SiRFstarIV | - | - | DCR [review](https://www.dcrainmaker.com/2011/10/garmin-forerunner-910xt-in-depth-review.html) |
+| Forerunner 70 | 2011-10 | 1436 | SiRFstarIV | - | - |  |
+| Forerunner 610   | 2011-04 | 1345, 1410 | SiRFstarIV | - | - | DCR [review](https://www.dcrainmaker.com/2011/04/garmin-forerunner-610-in-depth-review.html) |
 | Forerunner 410   | 2010-10 |  | SiRFstarIV | - | - |  |
-| Forerunner 210   | 2010-10 |  | SiRFstarIV | - | - |  |
-| Forerunner 110   | 2010-03 |  | SiRFstarIV | - | - | DCR [review](https://www.dcrainmaker.com/2010/03/garmin-forerunner-110-first-look-review.html) |
+| Forerunner 210   | 2010-10 | 1360 | SiRFstarIV | - | - |  |
+| Forerunner 110   | 2010-03 | 1124, 1274 | SiRFstarIV | - | - | DCR [review](https://www.dcrainmaker.com/2010/03/garmin-forerunner-110-first-look-review.html) |
 | Forerunner 405CX | 2009-04 |  | SiRFstarIII ? | - | - |  |
-| Forerunner 310XT | 2009-04 |  | SiRFstarIII ? | - | - |  |
+| Forerunner 310XT | 2009-04 | 1018, 1446 | SiRFstarIII ? | - | - |  |
 | Forerunner 60    | 2009-01 |  | SiRFstarIII ? | - | - |  |
-| Forerunner 405   | 2008-01 |  | SiRFstarIII | - | - |  |
+| Forerunner 405   | 2008-01 | 717, 987 | SiRFstarIII | - | - |  |
 | Forerunner 50    | 2007-08 |  | SiRFstarIII | - | - |  |
 | Forerunner 305   | 2006-01 |  | SiRFstarIII | - | - | Garmin [manual](https://static.garmin.com/pumac/984_OwnersManual.pdf) |
 | Forerunner 205   | 2006-01 |  | SiRFstarIII | - | - | Garmin [manual](https://static.garmin.com/pumac/984_OwnersManual.pdf) |
