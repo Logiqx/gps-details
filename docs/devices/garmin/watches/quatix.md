@@ -61,7 +61,7 @@ All product codes are shared with the [fēnix](fenix.md).
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
 | quatix 5 | 2017-06  | 2697, 2796 | MT3333  | 3.1 | Y |            |
 | quatix 3          | 2016-01  | 2050, ... | MT3333  | 1.4 | - |            |
-| quatix            | 2012-07  | ? | MT333x  | -     | - |            |
+| quatix            | 2012-07  | 1551 | MT333x  | -     | - |            |
 
 Alternative product number(s) are APAC variants.
 

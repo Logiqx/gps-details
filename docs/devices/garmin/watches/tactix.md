@@ -58,7 +58,7 @@ All product codes are shared with the [fēnix](fenix.md).
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
 | tactix Charlie | 2018-03  | 2604, 2798 | MT3333  | 3.1 | Y |                                                              |
 | tactix Bravo   | 2016-01  | 2050, ... | MT3333  | 1.4 | - | DCR [explainer](https://www.dcrainmaker.com/2016/01/garmins-tactix-bravo.html) |
-| tactix         | 2013-10  | ? | MT333x  | -     | - | DCR [review](https://www.dcrainmaker.com/2013/10/garmin-tactix-review.html) |
+| tactix         | 2013-10  | 1551 | MT333x  | -     | - | DCR [review](https://www.dcrainmaker.com/2013/10/garmin-tactix-review.html) |
 
 Alternative product number(s) are possible APAC variants.
 
