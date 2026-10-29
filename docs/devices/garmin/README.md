@@ -25,6 +25,7 @@ This project is work in progress and there are more things to be documented.
 
 This project is work in progress and new articles are added periodically.
 
+- [Persistence of speeds](persistence/README.md) - 29 Oct 2026
 - [Power Modes](power/README.md) - 29 Aug 2026
 - [Synaptics](synaptics/README.md) - 19 Jul 2026
 - [Static testing](testing/20250210-static/README.md) - 10 Feb 2025
