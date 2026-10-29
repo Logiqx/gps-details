@@ -10,9 +10,9 @@ Created: 29 Oct 2026
 
 It is relatively well known that [GNSS](https://en.wikipedia.org/wiki/Satellite_navigation) receivers are capable of calculating [Speed Over Ground](https://en.wikipedia.org/wiki/Ground_speed) (SOG) using the Doppler [observable](https://gssc.esa.int/navipedia/index.php/GNSS_Basic_Observables). The receiver must establish the [Doppler shifts](https://en.wikipedia.org/wiki/Doppler_effect) affecting the GNSS signals as part of the tracking process, and those Doppler-shifts can subsequently be used to determine the velocity of the receiver itself. The Doppler-derived speeds are typically a lot more accurate than position-derived speeds, and it makes them particularly important for sports such as speed sailing / speed surfing, and other high speed water sports.
 
-It is possible to record the Doppler-derived speeds measured by Garmin watches for activities such as windsurfing, kiteboarding, wakeboarding, wakesurfing, and waterskiing. This contrasts with other water based activities such as kayaking, SUP, and surfing which employ heavy filtering of the speed data to eliminate any irrelevant changes in speed, largely due to the arm movements. The Doppler-derived speed data is present in several places within FIT files, and this document is a quickly summarise the nuances. Examples will be from the fenix 8 Pro.
+It is possible to record the Doppler-derived speeds measured by Garmin watches for activities such as windsurfing, kiteboarding, wakeboarding, wakesurfing, and waterskiing. This contrasts with other water based activities such as kayaking, SUP, and surfing which employ heavy filtering of the speed data to eliminate any irrelevant changes in speed, largely due to the arm movements. The Doppler-derived speed data is present in several places within FIT files, and this document is a summary of the nuances. All examples come from the fenix 8 Pro.
 
-This document will also touch on some of the issues that are unique to Garmin watches, and how the consequences can be mitigated. A recent beta firmware for the fenix 8 Pro appears to have dropped the "GPS metadata" which is particularly useful to speed sailing community, and probably affects other sports as well. In the absence of this "GPS metadata" it would be worth Garmin revisiting one of the long standing issues that is unique to their watches, and summarised within this document. Essentially, GNSS data can be skipped and duplicated due to a timing issue.
+This document will also touch on some of the issues and nuances that are unique to Garmin watches, and how the consequences can be mitigated. A recent beta firmware for the fenix 8 Pro appears to have dropped the "GPS metadata" which is particularly useful to speed sailing community, and probably affects other sports as well. In the absence of this "GPS metadata" it would be worth Garmin revisiting one of the long standing issues that is unique to their watches, and described within this document. Essentially, GNSS data can be skipped or duplicated due to a timing issue.
 
 
 
@@ -20,27 +20,27 @@ This document will also touch on some of the issues that are unique to Garmin wa
 
 #### GPS Metadata
 
-Within every Garmin watch is a GNSS chipset which is responsible for calculating [Position, Velocity, and Time](https://gssc.esa.int/navipedia/index.php/GNSS_Receivers_General_Introduction). Over time the manufacturer of the GNSS chipsets has varied but included SiRF, MediaTek, Sony, Airoha, and Synaptics. Since the advent of the fenix 6 the speeds calculated by the GNSS chipset have been recorded in the FIT file as GPS Metadata. This is evident in tools such as the [FIT File Viewer](https://www.fitfileviewer.com/), which makes it easy to compare the speeds in GPS Metadata against the speeds within the main FIT records. This method of comparison is useful in establishing which activities are actually recording the Doppler-derived speeds within the main FIT records, and which activities are applying filtering / smoothing.
+Within every Garmin watch is a GNSS chipset which is responsible for calculating [Position, Velocity, and Time](https://gssc.esa.int/navipedia/index.php/GNSS_Receivers_General_Introduction). Over time the manufacturer of the GNSS chipsets has varied - e.g. SiRF, MediaTek, Sony, Airoha, and Synaptics. Since the advent of the fenix 6 the speeds calculated by the GNSS chipset have been recorded in the FIT file as GPS Metadata. This is evident in tools such as the [FIT File Viewer](https://www.fitfileviewer.com/), which makes it easy to compare the speeds in GPS Metadata against the speeds within the main FIT records. This method of comparison is useful in establishing which activities are actually recording the Doppler-derived speeds within the main FIT records, and which activities are applying filtering / smoothing.
 
-GPS Metadata uses the name "enhanced speed", but this simply relates to the field type being a 32-bit integer. The word "enhanced" relates to the legacy of speeds in FIT files using 16-bit integers, prior to the "enhanced" 32-bit integers. IIRC, GPS Metadata records are only written to the FIT when `Toybox.Position.Quality` is 3 or 4, and the speed is greater than or equal to 0.447 m/s which is ~1 mph. Speeds of zero are recorded if the value is less than 0.447 m/s, and there is no obvious use of intermediate units or unexpected [quantization](https://en.wikipedia.org/wiki/Quantization_(signal_processing)). There are no timestamps present for the GPS Metadata, so neighbouring FIT records must be used to determine the approximate timing.
+GPS Metadata uses the name "enhanced speed", but this simply relates to the field type being a 32-bit integer. The word "enhanced" relates to the legacy of speeds in FIT files using 16-bit integers, prior to the "enhanced" 32-bit integers. GPS Metadata records are only written to the FIT when `Toybox.Position.Quality` is considered "good", and the speed is greater than or equal to 0.447 m/s which is ~1 mph. Speeds of zero are recorded if the value is less than 0.447 m/s, and there is no obvious use of intermediate units or unexpected [quantization](https://en.wikipedia.org/wiki/Quantization_(signal_processing)). There are no timestamps present for the GPS Metadata, so neighbouring FIT records must be used to determine the approximate timing.
 
-All good quality GNSS navigation solutions (i.e. [`Toybox.Position.Quality = 4`](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#Quality-module)) are recorded in GPS Metadata, regardless of whether there are issues affecting the persistence of "enhanced speed" in the FIT record, or persistence of `Toybox.Position.Info.speed` within developer fields. This makes GPS metadata extremely useful for activities that are reliant on solid 1 Hz recording of speed data, and where the persistence issue within the standard FIT records is problematic. The topic of persistence issues will be described later in this document. One final note is that GPS Event records will typically record when the GNSS signals are lost, and re-established. This is useful when identifying gaps in the GPS Metadata.
+Good quality GNSS navigation solutions (i.e. [`Toybox.Position.Quality = 4`](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#Quality-module)) are recorded in GPS Metadata, regardless of whether there are issues affecting the persistence of "enhanced speed" in the FIT record, or persistence of `Toybox.Position.Info.speed` within developer fields. This makes GPS metadata extremely useful for activities that are reliant on solid 1 Hz recording of speed data, and where the persistence issue within the standard FIT records is problematic. The concept of FIT persistence is described throughout this document. One final note is that GPS Event records will typically record exactly when the GNSS signals are lost, and re-established. This is useful when identifying gaps in the GPS Metadata.
 
-Note: This page will not discuss the nuances relating to GPS Metadata from the Airoha watches such the fenix 7 series and Forerunner x55 series. Those specific watches record GPS metadata where the speeds have been filtered / smoothed.
+Note: This page will not discuss the nuances relating to GPS Metadata from the Airoha watches such the fenix 7 series and Forerunner x55 series. Those specific watches record GPS metadata where the speeds have been filtered / smoothed. The same smoothing has been evident on watches and GPS loggers from other brands using similar GNSS chipsets.
 
 
 
 #### Toybox.Position.Info
 
-Connect IQ apps can access the speed data from the GNSS chipset via `Toybox.Position.Info` and this can subsequently be recorded in developer fields via `Toybox.FitContributor`. It should be noted that when writing developer fields to the FIT file there is no guarantee that the timing of [Toybox Location events](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#enableLocationEvents-instance_function)  is suitable for the [FIT contributor](https://developer.garmin.com/connect-iq/api-docs/Toybox/FitContributor/Field.html). Values that are known to location events may be missing in the FIT file if they are overwritten before being written to the FIT, or repeated if the next location event occurs slightly later than expected. This is essentially the same issue with FIT persistence that affects the regular records; latitude, longitude, speed, etc.
+Connect IQ apps can access the speed data from the GNSS chipset via `Toybox.Position.Info` and this can subsequently be recorded in developer fields via `Toybox.FitContributor`. It should be noted that when writing developer fields to the FIT file there is no guarantee that the timing of [Toybox Location events](https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html#enableLocationEvents-instance_function)  is suitable for the [FIT contributor](https://developer.garmin.com/connect-iq/api-docs/Toybox/FitContributor/Field.html). Values that are known to location events may be missing in the FIT file if they are overwritten before being written to the FIT, or repeated if the next location event occurs slightly later than expected. This is essentially the same persistence issue that affects standard FIT fields such as latitude, longitude, and speed.
 
-It is interesting to note that there is noticeable [quantization](https://en.wikipedia.org/wiki/Quantization_(signal_processing)) for `Toybox.Position.Info.speed` and values are essentially multiples of ~0.00933 m/s. This applies to all of the Garmin watches and suggests that the watches are using some kind of standard units internally. The reason that it is a multiple of ~0.00933 m/s will be summarised in the appendices at the end of this document, since it is not important right now. What is relevant is that the minimum value that is reported by `Toybox.Position.Info.speed` is ~0.00933 m/s, thus providing access to the the speeds that are recorded as zero in the standard FIT records. The big issue is that there is no way to reliably record 1 Hz speeds in developer fields.
+It is worth noting that [quantization](https://en.wikipedia.org/wiki/Quantization_(signal_processing)) is evident for `Toybox.Position.Info.speed` and values are essentially multiples of ~0.00933 m/s. This applies to all of the Garmin watches and suggests they are using some standardised units internally. The reason that it is a multiple of ~0.00933 m/s will be summarised in the appendices at the end of this document, since it is not important right now. What is relevant is that the minimum value that is reported by `Toybox.Position.Info.speed` is ~0.00933 m/s, thus providing access to the the speeds that are recorded as zero in the standard `enhanced_speed` field. The biggest issue is that there is no way to reliably record 1 Hz speeds in developer fields.
 
 
 
 #### FIT Record
 
-The main FIT records include latitude, longitude, and speed from the GNSS chipset. Some of the Garmin activity types apply filtering / smoothing to these fields, but all of the high speed water sports record unfiltered values from the GNSS chipset. Quantization of speed is evident (just like `Toybox.Position.Info.speed`), but further compounded by the field precision of 0.001 m/s. If you extract all of the distinct values of `enhanced_speed` from FIT records, you will see a steps of 0.009, 0.009, 0.010 between the possible values (i.e. averaging ~0.00933). When comparing the values of `enhanced speed` in FIT records against the corresponding `GPS Metadata`, they will be up to 0.009 m/s less due to the quantization.
+The main FIT records include latitude, longitude, and speed from the GNSS chipset. Some of the Garmin activity types apply filtering / smoothing to these fields, but all of the high speed water sports record unfiltered values from the GNSS chipset. Quantization is clearly evident (just like `Toybox.Position.Info.speed`), but further compounded by the field precision of 0.001 m/s. If you extract all of the distinct values of `enhanced_speed`  you will see a increases of 0.009, 0.009, 0.010 between the unique values (i.e. averaging ~0.00933). When comparing the values of `enhanced speed` in FIT records against the corresponding `GPS Metadata`, they will be up to 0.009 m/s less due to the quantization.
 
 The standard FIT records do not allow speeds less than 0.196 m/s to be recorded, which is around 0.7 km/h. These low speeds are recorded as zero in `enhanced_speed`, but they can be obtained via `Toybox.Position.Info.speed` and recorded in a developer field. The big issue with latitude, longitude, and speed in the FIT records is that they suffer from the FIT persistence issue that has already been mentioned in this document. The timing of location events does not lend itself to reliable 1 Hz recording, and values can either be repeated, or skipped entirely. One of the easiest ways to illustrate this is to overlay the Doppler-derived speeds and position-derived speeds.
 
@@ -65,7 +65,7 @@ The table below gives a quick comparison of the speeds present in Garmin FIT fil
 
 Notes:
 
-1. Toybox.Position.Info.when has an issue in that it is a truncated timestamp, not rounded. This causes duplicate "when" values, and missed "when" values for the GNSS navigation solutions.
+1. Toybox.Position.Info.when has an issue in that it is a truncated timestamp, not rounded. This causes duplicated "when" values, and missing "when" values for the GNSS navigation solutions.
 2. Timestamps in the standard FIT records relate to when the FIT record was written, not the time of the GNSS navigation solution. The data typically lags behind the GNSS timestamps by 1 second, but sometimes they are in sync.
 3. The FIT persistence issue is due to the timings of location events, and records being written to the FIT. Latitude, longitude, speed, and course in FIT records cannot be considered to be a reliable 1 Hz recording due to the persistence issue.
 
@@ -106,7 +106,7 @@ The charts included in this document are from a fenix 8 Pro session in August 20
 
 Whilst that session is not using the latest beta software it nicely illustrates the FIT persistence issue which affects Garmin watches.
 
-The fenix 8 Pro data also corroborate the minutia about speed that are discussed within this document.
+The fenix 8 Pro data also corroborates all of the minutia discussed throughout this document.
 
 The fenix 8 Pro FIT file and some scrappy Excel investigations are all available on Google Drive - [link](https://drive.google.com/drive/folders/17fhgeGxQwVmOPaPi-sYByZLBMvqz-mEG?usp=sharing)
 
@@ -114,7 +114,7 @@ The fenix 8 Pro FIT file and some scrappy Excel investigations are all available
 
 #### Internal Units
 
-This document mentioned some obvious quantization of speeds in `Toybox.Position.Info` and within the FIT records.
+This document mentioned quantization of speeds in `Toybox.Position.Info` and within the FIT records.
 
 It is not unusual to use standardised units internally (e.g. m/s, km/h, mph, or knots), but what does 0.00933 m/s represent?
 
@@ -122,16 +122,16 @@ The short answer is that Garmin have chosen a unit that directly relates to thei
 
 Earth’s circumference / 2<sup>32</sup> = 2 * semi-major axis (WGS 84) * π / 2<sup>32</sup> = 0.009330692 meters.
 
-The internal units for speed came to me after reading a discussion about Google maps zoom levels on [Stack Exchange](https://gis.stackexchange.com/a/42423).
+The internal units for speed occurred to me after reading a discussion about Google maps on [Stack Exchange](https://gis.stackexchange.com/a/42423).
 
 
 
 #### "When" Issue
 
-It is also worth mentioning that there there is an issue with the times in `Toybox.Position.Info`.
+It is also worth mentioning that there there is an issue with the GNSS timestamps reported by `Toybox.Position.Info`.
 
-GNSS chips will typically output a timestamp which relates to the PVT solution, but it is not exactly on the second. Due to the issue of clock drift, it should not be entirely unexpected to see timestamps that are not quite on the second - e.g. 09:28:15.999 then 09:28:17.000 then 09:28:17.999.
+GNSS chips will output the timestamp which relates to the [PVT](https://gssc.esa.int/navipedia/index.php/GNSS_Receivers_General_Introduction) solution, but it is not always on the second. Due to the issue of clock drift, it is not unusual to see timestamps that are not quite on the second - e.g. 09:28:15.999 then 09:28:17.000 then 09:28:17.999.
 
-Since the `when` property is the GPS timestamp in seconds, it should be rounded to nearest second. Truncating the GPS timestamp will result in apparently missing timestamps, and duplicate timestamps as seen in the log file from APPro.
+Since the `when` property is supposed to be the GNSS timestamp in seconds, it should be rounded to nearest second. Truncating the GPS timestamp will result in missing timestamps, and duplicate timestamps as seen in the log files from [APPro Windsurf](https://apps.garmin.com/en-US/apps/9567700b-6587-44be-9708-879bfc844791).
 
-Further details are in a Github repo where I am recording Garmin issues that affect the speed sailing community - [link](https://github.com/Logiqx/garmin-issues/issues/3)
+Full details are documented on [Github](https://github.com/Logiqx/garmin-issues/issues/3) where I am recording Garmin issues that affect the speed sailing community.
