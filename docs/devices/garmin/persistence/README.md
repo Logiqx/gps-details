@@ -124,3 +124,14 @@ Earth’s circumference / 2<sup>32</sup> = 2 * semi-major axis (WGS 84) * π / 2
 
 The internal units for speed came to me after reading a discussion about Google maps zoom levels on [Stack Exchange](https://gis.stackexchange.com/a/42423).
 
+
+
+#### "When" Issue
+
+It is also worth mentioning that there there is an issue with the times in `Toybox.Position.Info`.
+
+GNSS chips will typically output a timestamp which relates to the PVT solution, but it is not exactly on the second. Due to the issue of clock drift, it should not be entirely unexpected to see timestamps that are not quite on the second - e.g. 09:28:15.999 then 09:28:17.000 then 09:28:17.999.
+
+Since the `when` property is the GPS timestamp in seconds, it should be rounded to nearest second. Truncating the GPS timestamp will result in apparently missing timestamps, and duplicate timestamps as seen in the log file from APPro.
+
+Further details are in a Github repo where I am recording Garmin issues that affect the speed sailing community - [link](https://github.com/Logiqx/garmin-issues/issues/3)
