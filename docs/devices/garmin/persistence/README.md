@@ -89,15 +89,17 @@ This FIT persistence issue also applies to developer fields which are reliant up
 
 ### Appendices
 
-#### Example FIT
+#### Example Data
 
-The charts included in this document are from a fenix 8 Pro session in August 2026.
+The charts included in this document are from a fenix 8 Pro session on 6 Aug 2026.
 
 Whilst that session is not using the latest beta software it nicely illustrates the FIT persistence issue which affects Garmin watches.
 
 The fenix 8 Pro data also corroborates all of the minutia discussed throughout this document.
 
 The fenix 8 Pro FIT file and some scrappy Excel investigations are all available on [Google Drive](https://drive.google.com/drive/folders/17fhgeGxQwVmOPaPi-sYByZLBMvqz-mEG?usp=sharing).
+
+The folder on Google Drive includes a number of fenix 8 Pro sessions affected by the persistence issue on FW 22.x and 23.x.
 
 
 
@@ -135,5 +137,4 @@ The following tools have been used to evaluate the FIT data.
 - [FIT File Viewer](https://www.fitfileviewer.com/) by Harry Oosterveen
 - [GPS Results](https://gps-speed.com/gpsresults/) by Manfred Fuchs
 - [GPS Speedreader](https://github.com/prichterich/GPS-Speedreader) by Peter Richterich
-
 
