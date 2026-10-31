@@ -65,7 +65,7 @@ What is immediately apparent when doing some basic testing of the fenix 9 series
 - Auto Select - All + Multi-Band, or All Systems, or GPS + Galileo
 - GPS + Galileo
 
-Note: The "Auto Select" mode sometimes stops using GLONASS, which is referred to as "constellation shedding" by [the5krunner](https://the5krunner.com/).
+Note: The "Auto Select" mode sometimes stops using GLONASS, which is sometimes referred to as "constellation shedding".
 
 It is also important to note that battery saving modes can also reduce the recording frequency of track points, despite the "every second" recording interval. The "extended battery" mode sometimes records track points every 2 seconds,  and "max battery" sometimes records track points every 5 seconds.
 
@@ -89,7 +89,7 @@ Notes:
 - The new satellite settings are all considered to be SatIQ, and there is no specific SatIQ flag in the mode changes.
 - "Extended Battery" and "Max Battery" use GPS + Galileo, but sometimes only record points every 2 or 5 seconds respectively.
 - "Normal" and "Max Accuracy" both support multi-band, but "Normal" sometimes reverts to single-band.
-- "Normal" has also been observed to stop using GLONASS, referred to as "constellation shedding" by the5krunner.
+- "Normal" has also been observed to stop using GLONASS, sometimes referred to as "constellation shedding".
 
 Event type 44 can also be observed in FIT files from the fenix 8 series, and fenix 9 series:
 
