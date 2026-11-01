@@ -17,6 +17,7 @@ This repository contains information and observations relating to specific GPS /
 - [AmazFit](devices/amazfit/README.md)
 - [Apple](devices/apple/README.md)
 - [COROS](devices/coros/README.md)
+- [ESP-GPS](devices/esp-gps/README.md)
 - [Garmin](devices/garmin/README.md)
 - [Locosys](devices/locosys/README.md)
 - [Metasail](devices/metasail/README.md)
@@ -31,3 +32,4 @@ This repository contains information and observations relating to specific GPS /
 
 - [Broadcom](chipsets/broadcom/README.md)
 - [MediaTek](chipsets/mediatek/README.md)
+- [u-blox](chipsets/u-blox/README.md)
