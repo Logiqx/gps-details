@@ -19,4 +19,5 @@ The optimal GNSS settings for the ESP-GPS have been determined through extensive
 
 ### References
 
+- [ESP-GPS](https://github.com/RP6conrad/ESP-GPS-Logger) - repository for code and documentation on GitHub
 - [Static ESP Testing](https://logiqx.github.io/ubx-cfg/testing/static-esp/) - determining optimal GNSS settings, including 5 Hz vs 10 Hz
