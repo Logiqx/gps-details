@@ -143,3 +143,7 @@ It is not known how the Motion is producing data at different log rates:
     - CFG-RATE-MEAS = 500 and CFG-RATE-NAV = 2
     - CFG-RATE-MEAS = 1000 and CFG-RATE-NAV = 1
   - It is also not clear to me whether navigation solutions can use several recent GNSS measurements, or just the latest.
+
+2.1.5 Message output configuration of the [Max M10 Integration Manual](https://content.u-blox.com/sites/default/files/MAX-M10S_IntegrationManual_UBX-20053088.pdf) clarifies the use of `CFG-RATE-NAV` greater than 1:
+
+> Set the navigation rate value higher than one when the raw measurement data output rate needs to be higher than the navigation data rate.
