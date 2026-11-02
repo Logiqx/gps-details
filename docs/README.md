@@ -25,6 +25,7 @@ This repository contains information and observations relating to specific GPS /
 - [Polar](devices/polar/README.md)
 - [Sailmon](devices/sailmon/README.md)
 - [Suunto](devices/suunto/README.md)
+- [Vakaros](devices/vakaros/README.md)
 
 
 

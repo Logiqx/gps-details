@@ -12,3 +12,4 @@ There are individual pages for each brand of watch / device.
 - [Polar](polar/README.md)
 - [Sailmon](sailmon/README.md)
 - [Suunto](suunto/README.md)
+- [Vakaros](vakaros/README.md)
