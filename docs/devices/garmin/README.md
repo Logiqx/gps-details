@@ -13,11 +13,12 @@ General advice and guidance for Garmin watches.
 
 This project is work in progress and there are more things to be documented.
 
-- [Garmin watches](watches/README.md)
-- Watch [product numbers](products/README.md)
-- Identifying [GNSS Chipsets](chipsets/README.md)
-- GNSS [product numbers](chipsets/products.md)
-- [Developer tips](developer/README.md)
+- [Garmin watches](watches/README.md) - full list of Garmin watches
+- [Developer tips](developer/README.md) - guidance for developers of Connect IQ apps
+- [GNSS Chipsets](chipsets/README.md) - how some of the GNSS chipsets can be identified
+  - [GNSS product numbers](chipsets/products.md) - relates to fenix 7, forerunner x55, and earlier
+- [Garmin IDs](https://github.com/Logiqx/garmin-ids) - maps Garmin part numbers to usable product names
+- [Garmin Issues](https://github.com/Logiqx/garmin-issues/issues) - records watch issues that affect the speed sailing community
 
 
 
