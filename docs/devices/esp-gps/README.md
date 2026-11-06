@@ -10,7 +10,7 @@ The ESP-GPS is a DIY project but the [SYRAC GPS](https://syrac.es/en/provis/79-s
 
 
 
-### GNSS Settings
+### Recommended Settings
 
 The optimal GNSS settings for the ESP-GPS have been determined through extensive [testing](https://logiqx.github.io/ubx-cfg/testing/static-esp/):
 
