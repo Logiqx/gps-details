@@ -57,7 +57,6 @@ n.b. Older designs by Paco Raap are also available on [Printables](https://www.p
 | ?                | Australia     | [Boz](https://www.seabreeze.com.au/Member/Details/Boz)       | Collaborations with Flex2 to 3D-print specialized casings    |
 | Rolan Schmidt    | Australia     | [Rolz](https://www.seabreeze.com.au/Member/Details/Rolz)     | Modular dual-housing setup - [YouTube](https://www.youtube.com/@rrschmid) |
 | ?                | ?             | [Actimel87](https://www.seabreeze.com.au/Member/Details/Actimel87) | Worked on modified enclosures, gasket seals, etc             |
-| ?                | Australia     | [leftfield](https://www.seabreeze.com.au/Member/Details/leftfield) | Documented building, waterproofing, and testing              |
 | ?                | ?             | [JurjenvdN](https://www.seabreeze.com.au/Member/Details/JurjenvdN) | Custom 3D-print casing                                       |
 | ?                | ?             | [GaragePlant](https://www.seabreeze.com.au/Member/Details/GaragePlant) | Custom 3D-print casing                                       |
 
