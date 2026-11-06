@@ -18,10 +18,11 @@ I have yet to do a proper side-by-side comparison with the Motion Mini.
 
 
 
-### Issues
+### Issues and Suggestions
 
-I have recorded a couple of minor issues in the Vakaros [GitHub](https://github.com/vakaros/vkx).
+I have recorded some issues and suggestions for Vakaros on [GitHub](https://github.com/vakaros/vkx).
 
-- [Trouble decoding altitude in VKX file](https://github.com/vakaros/vkx/issues/5) - 2 Aug 2026
+- [Suggestion - Accuracy estimates - hAcc, sAcc, cAcc](https://github.com/vakaros/vkx/issues/8) - 6 Nov 2026
 - [Timestamps - Vakaros clock or GNSS navigation solution?](https://github.com/vakaros/vkx/issues/7) - 2 Nov 2026
-- [Declaration of payload sizes](https://github.com/vakaros/vkx/issues/6#issuecomment-6572672183) - 2 Nov 2026
+- [Suggestion - Declaration of payload sizes](https://github.com/vakaros/vkx/issues/6#issuecomment-6572672183) (comment) - 2 Nov 2026
+- [Trouble decoding altitude in VKX file](https://github.com/vakaros/vkx/issues/5) - 2 Aug 2026
