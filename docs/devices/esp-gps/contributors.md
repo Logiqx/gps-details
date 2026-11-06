@@ -41,9 +41,9 @@ n.b. Older designs by Paco Raap are also available on [Printables](https://www.p
 
 | Name                                                         | Country        | Seabreeze                                                    | Comments                                                     |
 | ------------------------------------------------------------ | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Andrew?                                                      | Austria        | -                                                            | Web interface - [Github](https://github.com/tritondm)        |
-| [Simon Dijkstra](https://speedsurf.app/profile/freezer)      | Netherlands    | [Freezer](https://www.seabreeze.com.au/Member/Details/Freezer) | Stat screens layout, etc - [Github](https://github.com/Freezer-SD) |
-| [Michael George](https://speedsurf.app/profile/9b40a4b5-7e87-464d-9e4f-7f0698e9766d) | United Kingdom | [K888](https://www.seabreeze.com.au/Member/Details/K888)     | Behind-the-scenes advice - [Github](https://github.com/Logiqx/ubx-cfg/) |
+| Andreas Kraxner                                              | Austria        | -                                                            | Web interface - [Github](https://github.com/tritondm/ESP-GPS-Logger) |
+| [Simon Dijkstra](https://speedsurf.app/profile/freezer)      | Netherlands    | [Freezer](https://www.seabreeze.com.au/Member/Details/Freezer) | Stat screens layout, etc - [Github](https://github.com/Freezer-SD/ESP-GPS-Logger) |
+| [Michael George](https://speedsurf.app/profile/9b40a4b5-7e87-464d-9e4f-7f0698e9766d) | United Kingdom | [K888](https://www.seabreeze.com.au/Member/Details/K888)     | Behind-the-scenes advice - [Github](https://github.com/Logiqx/ubx-cfg/tree/main/docs) |
 | [Ron Koldeweid](https://speedsurf.app/profile/NED54)         | Netherlands    | -                                                            | Uploads to [speedsurf.app](https://speedsurf.app/) - [Github](https://github.com/mediazone/ESP-GPS-Logger) |
 
 
@@ -68,5 +68,5 @@ n.b. Older designs by Paco Raap are also available on [Printables](https://www.p
 | Name                                                         | Country | WhatsApp      | Comments                                                     |
 | ------------------------------------------------------------ | ------- | ------------- | ------------------------------------------------------------ |
 | [Lars Schneider](https://speedsurf.app/profile/8a6e48dc-1f66-4f72-8b11-13c29f7c72e1) (GER-27) | Germany | Speedsurf.app | Building the classic design by Andres (BigBoss) and Simon (Freezer) |
-| [Paul Fink](https://speedsurf.app/profile/paul)              | Germany | Speedsurf.app | Producing transparent milled enclosure - story on [speedsurf.app](https://speedsurf.app/nl/news/a-new-gps-device-just-arrived-at-speedsurf-app) |
+| [Paul FFF](https://speedsurf.app/profile/paul)               | Germany | Speedsurf.app | Producing transparent milled enclosure - story on [speedsurf.app](https://speedsurf.app/nl/news/a-new-gps-device-just-arrived-at-speedsurf-app) |
 
