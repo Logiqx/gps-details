@@ -10,7 +10,7 @@ There is a huge [discussion](https://www.seabreeze.com.au/forums/Windsurfing/Gps
 
 | Name                                                   | Country | Seabreeze                                                    | Comments                                                     |
 | ------------------------------------------------------ | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Jan Heynen](https://speedsurf.app/profile/jan_heynen) | Belgium | [rp6conrad](https://www.seabreeze.com.au/Member/Details/rp6conrad) | [Docs](https://docs.google.com/document/d/1XJD6BV1Xay4nXo0cDuo_IOtxC_f1LyG7DE7X6KGlAB0/edit?tab=t.0) + [Github](https://github.com/RP6conrad/ESP-GPS-Logger) + [YouTube](https://www.youtube.com/@RP6conrad) |
+| [Jan Heynen](https://speedsurf.app/profile/jan_heynen) | Belgium | [rp6conrad](https://www.seabreeze.com.au/Member/Details/rp6conrad) | [Docs](https://docs.google.com/document/d/1XJD6BV1Xay4nXo0cDuo_IOtxC_f1LyG7DE7X6KGlAB0/edit?tab=t.0) + [Github](https://github.com/RP6conrad/ESP-GPS-Logger) + [Onshape](https://cad.onshape.com/documents/1a133db3bc3e572121f2d2b0/w/41124def46406a956a0f502a/e/4113362641da97c18bf510e6) + [YouTube](https://www.youtube.com/@RP6conrad) |
 
 
 
