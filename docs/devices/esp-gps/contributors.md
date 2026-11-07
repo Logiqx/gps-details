@@ -44,10 +44,10 @@ Notes:
 
 ### Speedsurf.app Collaborators
 
-| Name                                                         | Country | WhatsApp      | Comments                                                     |
+| Name                                                         | Country | Seabreeze | Comments                                                     |
 | :-----: | :-----: | :-----: | ------------------------------------------------------------ |
-| [Lars Schneider](https://speedsurf.app/profile/8a6e48dc-1f66-4f72-8b11-13c29f7c72e1) | Germany | Speedsurf.app | Uses the "[classic](https://www.printables.com/model/320425-gps-case)" design of Andres (BigBoss) and Simon (Freezer) |
-| [Paul Fink](https://speedsurf.app/profile/paul)            | Germany | Speedsurf.app | Manufactures a transparent milled enclosure - story on [speedsurf.app](https://speedsurf.app/nl/news/a-new-gps-device-just-arrived-at-speedsurf-app) |
+| [Lars Schneider](https://speedsurf.app/profile/8a6e48dc-1f66-4f72-8b11-13c29f7c72e1) | Germany | ? | Uses the "[classic](https://www.printables.com/model/320425-gps-case)" design of Andres (BigBoss) and Simon (Freezer) |
+| [Paul Fink](https://speedsurf.app/profile/paul)            | Germany | [Actimel87](https://www.seabreeze.com.au/Member/Details/Actimel87) | Manufactures a transparent milled enclosure - story on [speedsurf.app](https://speedsurf.app/nl/news/a-new-gps-device-just-arrived-at-speedsurf-app) |
 
 
 
@@ -57,7 +57,7 @@ Notes:
 | :-----: | :-----: | :-----: | ------------------------------------------------------------ |
 | [Michael George](https://speedsurf.app/profile/9b40a4b5-7e87-464d-9e4f-7f0698e9766d) | United Kingdom | [K888](https://www.seabreeze.com.au/Member/Details/K888)     | Behind-the-scenes advice - [Github](https://github.com/Logiqx/ubx-cfg/tree/main/docs) |
 | [Simon Dijkstra](https://speedsurf.app/profile/freezer)      | Netherlands    | [Freezer](https://www.seabreeze.com.au/Member/Details/Freezer) | Stat screens layout, etc - [Github](https://github.com/Freezer-SD/ESP-GPS-Logger) |
-| Andreas Kraxner                                              | Austria        | -                                                            | Web interface - [Github](https://github.com/tritondm/ESP-GPS-Logger) |
+| Andreas Kraxner                                              | Austria        | ?                                                            | Web interface - [Github](https://github.com/tritondm/ESP-GPS-Logger) |
 | [Ron Koldeweid](https://speedsurf.app/profile/NED54)         | Netherlands    | -                                                            | Uploads to [speedsurf.app](https://speedsurf.app/) - [Github](https://github.com/mediazone/ESP-GPS-Logger) |
 
 
@@ -72,7 +72,7 @@ Notes:
 | Andrew Daff | Australia | [Sailquik](https://www.seabreeze.com.au/Member/Details/Sailquik) | Evaluated the ESP-GPS for use with GPSTC |
 | Nick Bozikovic  | Australia     | [Boz](https://www.seabreeze.com.au/Member/Details/Boz)       | Collaborated with Flex2 on 3D-printed casings |
 | Rolan Schmidt    | Australia     | [Rolz](https://www.seabreeze.com.au/Member/Details/Rolz)     | Tested the "[classic](https://www.printables.com/model/320425-gps-case)" design of Andres and Simon - [YouTube](https://www.youtube.com/@rrschmid) |
-| Paul Fink       | Germany      | [Actimel87](https://www.seabreeze.com.au/Member/Details/Actimel87) | Manufactured a transparent milled enclosure |
+| [Paul Fink](https://speedsurf.app/profile/paul) | Germany      | [Actimel87](https://www.seabreeze.com.au/Member/Details/Actimel87) | Manufactured a transparent milled enclosure |
 | Jurjen van der Noord | Netherlands  | [JurjenvdN](https://www.seabreeze.com.au/Member/Details/JurjenvdN) | Created custom 3D-printed casing                             |
 | ?                | ?             | [GaragePlant](https://www.seabreeze.com.au/Member/Details/GaragePlant) | Created custom 3D-printed casing                            |
 
