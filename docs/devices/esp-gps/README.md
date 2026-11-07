@@ -29,10 +29,11 @@ The optimal GNSS settings for the ESP-GPS have been determined through extensive
 
 
 
-### References
+### Useful Links
 
 - [YouTube](https://www.youtube.com/watch?v=6Njr3pmpBdM) - overview of the ESP-GPS by Paco Raap
-- [Seabreeze discussion](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Another-DIY-GPS-logger-approach) contains most of the project history
-- [List of contributors](contributors.md) from around the world, hardware and software
-- [ESP-GPS](https://github.com/RP6conrad/ESP-GPS-Logger) - repository for code and documentation on GitHub
-- [Static ESP testing](https://logiqx.github.io/ubx-cfg/testing/static-esp/) - determining optimal GNSS settings, including 5 Hz vs 10 Hz
+- [Make your own GPS logger](https://docs.google.com/document/d/1XJD6BV1Xay4nXo0cDuo_IOtxC_f1LyG7DE7X6KGlAB0/edit?tab=t.0#heading=h.z6ne0og04bp5) - documentation by Jan Heynen
+- [ESP-GPS](https://github.com/RP6conrad/ESP-GPS-Logger) - repository for code and documentation
+- [Seabreeze discussion](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Another-DIY-GPS-logger-approach) - conception and evolution
+- [List of contributors](contributors.md) - hardware, software, and derivates
+- [Static ESP testing](https://logiqx.github.io/ubx-cfg/testing/static-esp/) - optimal GNSS settings, including 5 Hz vs 10 Hz
