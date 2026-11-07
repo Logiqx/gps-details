@@ -2,7 +2,7 @@
 
 The ESP-GPS was the brainchild of Jan Heynen in 2021, but people from around the world have also contributed to the project.
 
-There is a huge [discussion](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Another-DIY-GPS-logger-approach) on the Seabreeze forums where you can find most of the history.
+There is a huge discussion on the [Seabreeze](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Another-DIY-GPS-logger-approach) forums where you can find most of the history.
 
 A nice video by Paco Raap provides an overview of the ESP-GPS, and can be found on [YouTube](https://www.youtube.com/watch?v=6Njr3pmpBdM).
 

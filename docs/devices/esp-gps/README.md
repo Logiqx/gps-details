@@ -4,7 +4,7 @@
 
 The ESP-GPS was the brainchild of Jan Heynen in 2021, and people from around the world have contributed to the project.
 
-There is a huge [discussion](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Another-DIY-GPS-logger-approach) about the ESP-GPS in the Seabreeze forums and a list of [contributors](contributors.md) is also available.
+There is a huge discussion about the ESP-GPS in the [Seabreeze](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Another-DIY-GPS-logger-approach) forums and a list of [contributors](contributors.md) is also available.
 
 The ESP-GPS is a DIY project but the [SYRAC GPS](https://syrac.es/en/provis/79-syrac-gps-for-watersports.html) has been on sale since Nov 2026, and the [LISA GPS](https://lisawindsurfing.shop/products/lisa-watersports-gps) is expected soon.
 
