@@ -53,8 +53,8 @@ n.b. Older designs by Paco Raap are also available on [Printables](https://www.p
 | Name                                                         | Country        | Seabreeze                                                    | Comments                                                     |
 | :-----: | :-----: | :-----: | ------------------------------------------------------------ |
 | [Michael George](https://speedsurf.app/profile/9b40a4b5-7e87-464d-9e4f-7f0698e9766d) | United Kingdom | [K888](https://www.seabreeze.com.au/Member/Details/K888)     | Behind-the-scenes advice - [Github](https://github.com/Logiqx/ubx-cfg/tree/main/docs) |
-| Andreas Kraxner                                              | Austria        | -                                                            | Web interface - [Github](https://github.com/tritondm/ESP-GPS-Logger) |
 | [Simon Dijkstra](https://speedsurf.app/profile/freezer)      | Netherlands    | [Freezer](https://www.seabreeze.com.au/Member/Details/Freezer) | Stat screens layout, etc - [Github](https://github.com/Freezer-SD/ESP-GPS-Logger) |
+| Andreas Kraxner                                              | Austria        | -                                                            | Web interface - [Github](https://github.com/tritondm/ESP-GPS-Logger) |
 | [Ron Koldeweid](https://speedsurf.app/profile/NED54)         | Netherlands    | -                                                            | Uploads to [speedsurf.app](https://speedsurf.app/) - [Github](https://github.com/mediazone/ESP-GPS-Logger) |
 
 
