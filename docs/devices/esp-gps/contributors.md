@@ -1,6 +1,6 @@
 ## ESP-GPS Contributors
 
-The ESP-GPS was the brainchild of Jan Heynen in 2021, but people from around the world have also contributed to the project.
+The ESP-GPS is the brainchild of Jan Heynen in 2021, but people from around the world have also contributed to the project.
 
 There is a huge discussion on the [Seabreeze](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Another-DIY-GPS-logger-approach) forums where you can find most of the history.
 
