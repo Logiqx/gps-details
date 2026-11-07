@@ -26,7 +26,10 @@ A nice video by Paco Raap provides an overview of the ESP-GPS, and can be found 
 | [Andres](https://speedsurf.app/profile/andres)               | Netherlands | [BigBoss](https://www.seabreeze.com.au/Member/Details/BigBoss) | Worked on "[classic](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Another-DIY-GPS-logger-approach?page=17)" and "[compact](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Another-DIY-GPS-logger-approach?page=44)" enclosures with Simon |
 | [Salvador Yáñez](https://speedsurf.app/profile/c4025485-b0c6-410f-9a39-6378c0135147) | Spain       | [veton](https://www.seabreeze.com.au/Member/Details/veton)   | Designer and seller of the [SYRAC GPS](https://syrac.es/en/provis/79-syrac-gps-for-watersports.html) |
 
-n.b. Older designs by Paco Raap are also available on [Printables](https://www.printables.com/@JupaCreations_259898).
+Notes:
+
+- These guys also influenced the software features, such as the concept of real-time alpha predictor from Jim Thompson.
+- n.b. Older designs by Paco Raap are also available on [Printables](https://www.printables.com/@JupaCreations_259898).
 
 
 
@@ -65,7 +68,9 @@ n.b. Older designs by Paco Raap are also available on [Printables](https://www.p
 | :-----: | :-----: | :-----: | ------------------------------------------------------------ |
 | Peter Richterich | United States | [boardsurfr](https://www.seabreeze.com.au/Member/Details/boardsurfr) | Technical GNSS information                                   |
 | ?                | Australia     | [powersloshin](https://www.seabreeze.com.au/Member/Details/powersloshin) | Primary sounding board right at the beginning                |
-| ?                | Australia     | [Boz](https://www.seabreeze.com.au/Member/Details/Boz)       | Collaborations with Flex2 to 3D-print specialized casings    |
+| Mike Layzel | Australia | [Decrepit](https://www.seabreeze.com.au/Member/Details/Decrepit) | Evaluation of the ESP-GPS for use with GPSTC |
+| Andrew Daff | Australia | [Sailquik](https://www.seabreeze.com.au/Member/Details/Sailquik) | Evaluation of the ESP-GPS for use with GPSTC |
+| Nick Bozikovic  | Australia     | [Boz](https://www.seabreeze.com.au/Member/Details/Boz)       | Collaborations with Flex2 to 3D-print specialized casings    |
 | Rolan Schmidt    | Australia     | [Rolz](https://www.seabreeze.com.au/Member/Details/Rolz)     | Modular dual-housing setup - [YouTube](https://www.youtube.com/@rrschmid) |
 | Paul Fink       | Germany      | [Actimel87](https://www.seabreeze.com.au/Member/Details/Actimel87) | Transparent milled enclosure |
 | Jurjen van der Noord | Netherlands  | [JurjenvdN](https://www.seabreeze.com.au/Member/Details/JurjenvdN) | Custom 3D-print casing                                       |
