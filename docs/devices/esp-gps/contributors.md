@@ -37,8 +37,8 @@ Notes:
 
 | Name             | Country | Product              | Comments                                                     |
 | :-----: | :-----: | :-----: | ------------------------------------------------------------ |
-| Aivo Prükk       | Estonia | ESP-IDF GPS Logger   | ESP-IDF variant - [Github](https://github.com/aivoprykk) |
-| Nicolas Saillard | France  | [LISA Watersports GPS](https://lisawindsurfing.shop/products/lisa-watersports-gps) | T-Display variant - [Github](https://github.com/LISAWINDSURFING) |
+| Aivo Prükk       | Estonia | ESP-IDF GPS Logger   | [ESP-IDF variant](https://docs.espressif.com/projects/esp-idf/) - [Github](https://github.com/aivoprykk) |
+| Nicolas Saillard | France  | [LISA Watersports GPS](https://lisawindsurfing.shop/products/lisa-watersports-gps) | [T-Display S3 AMOLED](https://lilygo.cc/products/t-display-s3-amoled?variant=43228221636789) - [Github](https://github.com/LISAWINDSURFING) |
 
 
 
