@@ -32,8 +32,8 @@ n.b. Older designs by Paco Raap are also available on [Printables](https://www.p
 
 | Name             | Country | Product              | Comments                                                     |
 | :-----: | :-----: | :-----: | ------------------------------------------------------------ |
-| Aivo Prükk       | Estonia | ESP-IDF GPS Logger   | See code on [Github](https://github.com/aivoprykk)           |
-| Nicolas Saillard | France  | LISA Watersports GPS | T-Display variant - [LISA Windsurfing](https://lisawindsurfing.shop/products/lisa-watersports-gps) |
+| Aivo Prükk       | Estonia | ESP-IDF GPS Logger   | ESP-IDF variant - [Github](https://github.com/aivoprykk) |
+| Nicolas Saillard | France  | [LISA Watersports GPS](https://lisawindsurfing.shop/products/lisa-watersports-gps) | T-Display variant - [Github](https://github.com/LISAWINDSURFING) |
 
 
 
