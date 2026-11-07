@@ -1,4 +1,4 @@
-## ESP-GPS Contributions
+## ESP-GPS Contributors
 
 The ESP-GPS was the brainchild of Jan Heynen in 2021, but people from around the world have also contributed to the project.
 
@@ -57,7 +57,7 @@ n.b. Older designs by Paco Raap are also available on [Printables](https://www.p
 
 
 
-### General Contributors
+### Additional Contributors
 
 | Name             | Country       | Seabreeze                                                    | Comments                                                     |
 | :-----: | :-----: | :-----: | ------------------------------------------------------------ |
