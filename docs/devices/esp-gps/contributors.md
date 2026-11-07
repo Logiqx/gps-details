@@ -47,7 +47,7 @@ Notes:
 | Name                                                         | Country | WhatsApp      | Comments                                                     |
 | :-----: | :-----: | :-----: | ------------------------------------------------------------ |
 | [Lars Schneider](https://speedsurf.app/profile/8a6e48dc-1f66-4f72-8b11-13c29f7c72e1) | Germany | Speedsurf.app | Uses the "[classic](https://www.printables.com/model/320425-gps-case)" design of Andres (BigBoss) and Simon (Freezer) |
-| [Paul Fink](https://speedsurf.app/profile/paul)            | Germany | Speedsurf.app | Manufacture of transparent milled enclosure - story on [speedsurf.app](https://speedsurf.app/nl/news/a-new-gps-device-just-arrived-at-speedsurf-app) |
+| [Paul Fink](https://speedsurf.app/profile/paul)            | Germany | Speedsurf.app | Manufactures a transparent milled enclosure - story on [speedsurf.app](https://speedsurf.app/nl/news/a-new-gps-device-just-arrived-at-speedsurf-app) |
 
 
 
@@ -70,9 +70,9 @@ Notes:
 | ?                | Australia     | [powersloshin](https://www.seabreeze.com.au/Member/Details/powersloshin) | Primary sounding board right at the beginning                |
 | Mike Layzel | Australia | [Decrepit](https://www.seabreeze.com.au/Member/Details/Decrepit) | Evaluation of the ESP-GPS for use with GPSTC |
 | Andrew Daff | Australia | [Sailquik](https://www.seabreeze.com.au/Member/Details/Sailquik) | Evaluation of the ESP-GPS for use with GPSTC |
-| Nick Bozikovic  | Australia     | [Boz](https://www.seabreeze.com.au/Member/Details/Boz)       | Collaborations with Flex2 to 3D-print specialized casings    |
+| Nick Bozikovic  | Australia     | [Boz](https://www.seabreeze.com.au/Member/Details/Boz)       | Collaborates with Flex2 on 3D-printed casings |
 | Rolan Schmidt    | Australia     | [Rolz](https://www.seabreeze.com.au/Member/Details/Rolz)     | Tested the "[classic](https://www.printables.com/model/320425-gps-case)" design of Andres and Simon - [YouTube](https://www.youtube.com/@rrschmid) |
-| Paul Fink       | Germany      | [Actimel87](https://www.seabreeze.com.au/Member/Details/Actimel87) | Manufacture of transparent milled enclosure |
-| Jurjen van der Noord | Netherlands  | [JurjenvdN](https://www.seabreeze.com.au/Member/Details/JurjenvdN) | Custom 3D-print casing                                       |
-| ?                | ?             | [GaragePlant](https://www.seabreeze.com.au/Member/Details/GaragePlant) | Custom 3D-print casing                                       |
+| Paul Fink       | Germany      | [Actimel87](https://www.seabreeze.com.au/Member/Details/Actimel87) | Manufactures a transparent milled enclosure |
+| Jurjen van der Noord | Netherlands  | [JurjenvdN](https://www.seabreeze.com.au/Member/Details/JurjenvdN) | Created custom 3D-printed casing                             |
+| ?                | ?             | [GaragePlant](https://www.seabreeze.com.au/Member/Details/GaragePlant) | Created custom 3D-printed casing                            |
 
