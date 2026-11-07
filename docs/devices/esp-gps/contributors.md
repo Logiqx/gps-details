@@ -47,7 +47,7 @@ Notes:
 | Name                                                         | Country | WhatsApp      | Comments                                                     |
 | :-----: | :-----: | :-----: | ------------------------------------------------------------ |
 | [Lars Schneider](https://speedsurf.app/profile/8a6e48dc-1f66-4f72-8b11-13c29f7c72e1) | Germany | Speedsurf.app | Building the "classic" design by Andres (BigBoss) and Simon (Freezer) |
-| [Paul Fink](https://speedsurf.app/profile/paul)            | Germany | Speedsurf.app | Manufacturing transparent milled enclosure - story on [speedsurf.app](https://speedsurf.app/nl/news/a-new-gps-device-just-arrived-at-speedsurf-app) |
+| [Paul Fink](https://speedsurf.app/profile/paul)            | Germany | Speedsurf.app | Manufacture of transparent milled enclosure - story on [speedsurf.app](https://speedsurf.app/nl/news/a-new-gps-device-just-arrived-at-speedsurf-app) |
 
 
 
@@ -72,7 +72,7 @@ Notes:
 | Andrew Daff | Australia | [Sailquik](https://www.seabreeze.com.au/Member/Details/Sailquik) | Evaluation of the ESP-GPS for use with GPSTC |
 | Nick Bozikovic  | Australia     | [Boz](https://www.seabreeze.com.au/Member/Details/Boz)       | Collaborations with Flex2 to 3D-print specialized casings    |
 | Rolan Schmidt    | Australia     | [Rolz](https://www.seabreeze.com.au/Member/Details/Rolz)     | Modular dual-housing setup - [YouTube](https://www.youtube.com/@rrschmid) |
-| Paul Fink       | Germany      | [Actimel87](https://www.seabreeze.com.au/Member/Details/Actimel87) | Transparent milled enclosure |
+| Paul Fink       | Germany      | [Actimel87](https://www.seabreeze.com.au/Member/Details/Actimel87) | Manufacture of transparent milled enclosure |
 | Jurjen van der Noord | Netherlands  | [JurjenvdN](https://www.seabreeze.com.au/Member/Details/JurjenvdN) | Custom 3D-print casing                                       |
 | ?                | ?             | [GaragePlant](https://www.seabreeze.com.au/Member/Details/GaragePlant) | Custom 3D-print casing                                       |
 
