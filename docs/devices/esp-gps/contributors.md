@@ -41,8 +41,8 @@ n.b. Older designs by Paco Raap are also available on [Printables](https://www.p
 
 | Name                                                         | Country | WhatsApp      | Comments                                                     |
 | :-----: | :-----: | :-----: | ------------------------------------------------------------ |
-| [Lars Schneider](https://speedsurf.app/profile/8a6e48dc-1f66-4f72-8b11-13c29f7c72e1) | Germany | Speedsurf.app | Built the "classic" design by Andres (BigBoss) and Simon (Freezer) |
-| [Paul FFF](https://speedsurf.app/profile/paul)               | Germany | Speedsurf.app | Manufactured transparent milled enclosure - story on [speedsurf.app](https://speedsurf.app/nl/news/a-new-gps-device-just-arrived-at-speedsurf-app) |
+| [Lars Schneider](https://speedsurf.app/profile/8a6e48dc-1f66-4f72-8b11-13c29f7c72e1) | Germany | Speedsurf.app | Building the "classic" design by Andres (BigBoss) and Simon (Freezer) |
+| [Paul FFF](https://speedsurf.app/profile/paul)               | Germany | Speedsurf.app | Manufacturing transparent milled enclosure - story on [speedsurf.app](https://speedsurf.app/nl/news/a-new-gps-device-just-arrived-at-speedsurf-app) |
 
 
 
