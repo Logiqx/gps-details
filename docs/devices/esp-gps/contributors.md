@@ -4,6 +4,8 @@ The ESP-GPS was the brainchild of Jan Heynen in 2021, but people from around the
 
 There is a huge [discussion](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Another-DIY-GPS-logger-approach) on the Seabreeze forums where you can find most of the history.
 
+A nice video by Paco Raap provides an overview of the ESP-GPS, and can be found on [YouTube](https://www.youtube.com/watch?v=6Njr3pmpBdM).
+
 
 
 ### Originator and Maintainer
@@ -67,5 +69,5 @@ n.b. Older designs by Paco Raap are also available on [Printables](https://www.p
 | Rolan Schmidt    | Australia     | [Rolz](https://www.seabreeze.com.au/Member/Details/Rolz)     | Modular dual-housing setup - [YouTube](https://www.youtube.com/@rrschmid) |
 | ?                | ?             | [JurjenvdN](https://www.seabreeze.com.au/Member/Details/JurjenvdN) | Custom 3D-print casing                                       |
 | ?                | ?             | [GaragePlant](https://www.seabreeze.com.au/Member/Details/GaragePlant) | Custom 3D-print casing                                       |
-| ?                | ?             | [Actimel87](https://www.seabreeze.com.au/Member/Details/Actimel87) | Worked on modified enclosures, gasket seals, etc             |
+| Paul Fink       | Germany      | [Actimel87](https://www.seabreeze.com.au/Member/Details/Actimel87) | Worked on modified enclosures, gasket seals, etc             |
 

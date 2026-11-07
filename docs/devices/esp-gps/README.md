@@ -8,6 +8,8 @@ There is a huge [discussion](https://www.seabreeze.com.au/forums/Windsurfing/Gps
 
 The ESP-GPS is a DIY project but the [SYRAC GPS](https://syrac.es/en/provis/79-syrac-gps-for-watersports.html) has been on sale since Nov 2026, and the [LISA GPS](https://lisawindsurfing.shop/products/lisa-watersports-gps) is expected soon.
 
+A nice video by Paco Raap provides an overview of the ESP-GPS, and can be found on [YouTube](https://www.youtube.com/watch?v=6Njr3pmpBdM).
+
 
 
 ### Recommended Settings
@@ -29,7 +31,8 @@ The optimal GNSS settings for the ESP-GPS have been determined through extensive
 
 ### References
 
-- [ESP-GPS](https://github.com/RP6conrad/ESP-GPS-Logger) - repository for code and documentation on GitHub
+- [YouTube](https://www.youtube.com/watch?v=6Njr3pmpBdM) - overview of the ESP-GPS by Paco Raap
 - [Seabreeze discussion](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Another-DIY-GPS-logger-approach) contains most of the project history
 - [List of contributors](contributors.md) from around the world, hardware and software
+- [ESP-GPS](https://github.com/RP6conrad/ESP-GPS-Logger) - repository for code and documentation on GitHub
 - [Static ESP testing](https://logiqx.github.io/ubx-cfg/testing/static-esp/) - determining optimal GNSS settings, including 5 Hz vs 10 Hz
