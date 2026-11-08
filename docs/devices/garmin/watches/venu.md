@@ -33,7 +33,7 @@ The Venu 4 and Venu X1 appear to use a Synaptics GNSS chipset, just like the [f�
 
 \* Notes
 
-- Venu X1 was released two months after the [vívoactive 6](vivoactive.md) so it almost certainly contains the AG3352.
+- Venu X1 was released two months after the [vívoactive 6](vivoactive.md) so may also contain the AG3352, but different GPS software.
 - Venu Sq 2 and Venu Sq 2 Music have a significant smoothing issue and are NOT recommended for wind sports.
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
