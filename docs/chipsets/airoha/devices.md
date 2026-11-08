@@ -15,7 +15,7 @@ The SIMCOM GNSS solutions [comparison](https://www.avnet.com/wps/wcm/connect/one
 - AG3331 is single band for GPS / GLONASS / BeiDou / QZSS , but isn't used by Garmin or COROS.
 - [AG3335M](https://www.airoha.com/products/p/A0Dmm0pijWW3MScb) is multi-band (L1 + L5) for GPS / GLONASS / Galileo / BeiDou / QZSS / NavIC.
 - AG3335MN is single-band for GPS / GLONASS / Galileo / BeiDou / QZSS but it supports NavIC on L5.
-- [AG3352](https://www.airoha.com/products/p/zy4r082hgNywp1bg) is another single-band chip on the Airoha website, which could well be used in future watches.
+- [AG3352](https://www.airoha.com/products/p/zy4r082hgNywp1bg) is another single-band chip on the Airoha website, which is used in the Garmin vivoactive 6.
 
 
 

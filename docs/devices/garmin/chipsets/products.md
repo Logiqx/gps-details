@@ -4,6 +4,8 @@ Author: Michael George
 
 Created: 7 Jun 2025
 
+Updated: 8 Nov 2026
+
 
 
 ### Introduction
@@ -91,6 +93,7 @@ The Instinct 3 and Instinct E refer to the AG3335M and AG3335MN respectively. Th
 | ------- | -------- | ------------------------------------------------------------ |
 | 3865    | AG3335M  | Edge 840<br />Edge 1050<br />epix Pro (Gen 2)<br />fēnix 7 Pro<br />Forerunner 255<br />Forerunner 265<br />Forerunner 955<br />Forerunner 965<br />Instinct 2X<br />Instinct 3 |
 | 3866    | AG3335MN | epix (Gen 2)<br />fēnix 7<br />fēnix E<br />Forerunner 165<br />Instinct E<br />Descent G2<br />Venu Sq 2<br />Venu 3S<br />vívoactive 5 |
+| 4548    | AG3352   | vívoactive 6                                                 |
 
 Several teardowns (including the FCC) show the AG3335M and AG3335MN:
 
@@ -101,6 +104,10 @@ Several teardowns (including the FCC) show the AG3335M and AG3335MN:
 - [Instinct 2 Crossover](https://fccid.io/IPH-04348/Internal-Photos/Internal-Photos-6150278) - AG3335M - FCC
 - [Venu Sq2](https://fccid.io/IPH-A4390/Internal-Photos/Internal-Photos-5919154) - AG3335MN - FCC
 - [Venu Sq2 Music](https://fccid.io/IPH-04390/Internal-Photos/Internal-Photos-5930782) - AG3335MN - FCC
+
+One teardown shows the AG3352:
+
+- [vívoactive 6](https://fccid.io/IPH-04951) - AG3352 - FCC
 
 
 
@@ -116,31 +123,19 @@ Subsequent software has recorded a GNSS product number which is identical to the
 
 Likewise the Forerunner 970 also records its product number (4565) as the GNSS product number.
 
-| Product | Chipset    | Observed       |
-| ------- | ---------- | -------------- |
-| 4536    | SYN4778    | fēnix 8        |
-| 4565    | SYN4778 \* | Forerunner 970 |
+| Product | Chipset | Observed                  |
+| ------- | ------- | ------------------------- |
+| 4536    | SYN4778 | fēnix 8                   |
+| 4565    | SYN4778 | Forerunner 970            |
+| 4678    | SYN4778 | Instinct Crossover AMOLED |
 
-\* Further testing is pending to look for any Airoha-related artefacts in the gps_metadata of the Forerunner 970.
+The F Tipi Blog identified the SYN4778 in the fēnix 8:
 
-The F Tipi Blog identified the Synaptics GNSS chipset in the fēnix 8:
+- [fēnix 8 Solar 51 mm](http://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) - SYN4778 - F Tipi Blog
 
-- [fēnix 8 Solar 51 mm](http://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) - F Tipi Blog
+One FCC teardown shows the SYN4778:
 
-
-
-#### TBC
-
-The following product numbers have been observed in recent watches, but the GNSS chipset is yet to be confirmed.
-
-A single-band (L1) GNSS chipset could be Synaptics (e.g. [SYN47762](https://www.synaptics.com/products/wireless)) or Airoha (e.g. AG3335MN or [AG3352](https://www.airoha.com/products/p/zy4r082hgNywp1bg)).
-
-Articles on [Garmin Rumours](https://garminrumors.com/models/vivoactive-6/) and [Runners World](https://www.runnersworld.com/uk/gear/tech/a64352245/garmin-vivoactive-6/) say it uses the same GNSS chipset as the vívoactive 5, which is the AG3335MN.
-
-| Product | Chipset | Observed     |
-| ------- | ------- | ------------ |
-| 4548    | ?       | vívoactive 6 |
-| ?       | ?       | Venu X2      |
+- [Instinct Crossover AMOLED](https://fccid.io/IPH-05049) - AG3352 - FCC
 
 
 
