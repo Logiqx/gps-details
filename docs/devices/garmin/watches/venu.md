@@ -18,7 +18,6 @@ The Venu 4 and Venu X1 appear to use a Synaptics GNSS chipset, just like the [fÄ
 | -------------- | :------: | :-----: | :-----: | :--: | :---: | ------------------------------------------------------------ |
 | Venu 4 - 45 mm | 2025-09  |  4643   | SYN4778 | 6.0  |   Y   | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2CF5620C-E585-4E0A-9CC3-9565533EEE4D/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 | Venu 4 - 41 mm | 2025-09  |  4644   | SYN4778 | 6.0  |   Y   | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2CF5620C-E585-4E0A-9CC3-9565533EEE4D/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-| Venu X1        | 2025-06  |  4603   |   TBC   | 6.0  |   Y   | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C144B465-A0C8-4FE9-AFE6-41A3FE3F1D9A/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2025/06/garmin-venu-x1-details-hands-everything.html) |
 
 
 
@@ -26,6 +25,7 @@ The Venu 4 and Venu X1 appear to use a Synaptics GNSS chipset, just like the [fÄ
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
+| Venu X1 | 2025-06 | 4603 | AG3352 | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C144B465-A0C8-4FE9-AFE6-41A3FE3F1D9A/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [review](https://www.dcrainmaker.com/2025/06/garmin-venu-x1-details-hands-everything.html) |
 | Venu 3          | 2023-08 |  4260   | AG3335MN | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals-apac/webhelp/venu33s/EN-SG/GUID-220C5858-1518-4580-AEA8-EC0E2A523BFE-7277.html) + DCR [review](https://www.dcrainmaker.com/2023/08/garmin-venu-3-in-depth-review-more-sleep-analytics-power-meters-and-more.html) |
 | Venu 3S | 2023-08 | 4261 | AG3335MN | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals-apac/webhelp/venu33s/EN-SG/GUID-220C5858-1518-4580-AEA8-EC0E2A523BFE-7277.html) + DCR [review](https://www.dcrainmaker.com/2023/08/garmin-venu-3-in-depth-review-more-sleep-analytics-power-meters-and-more.html) |
 | Venu Sq 2 Music \* | 2022-09  | 4116 | AG3335MN | 5.0 | Y | Garmin [manual](https://www8.garmin.com/manuals-apac/webhelp/venusq2/EN-SG/GUID-57C7FCDE-E149-4898-96F3-F5D53D177F00-4988.html) + FCC [teardown](https://fccid.io/IPH-04390/Internal-Photos/Internal-Photos-5930782) + DCR [review](https://www.dcrainmaker.com/2022/09/garmin-venu-sq-2-in-depth-review.html) |
