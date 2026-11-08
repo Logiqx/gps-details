@@ -135,7 +135,7 @@ The F Tipi Blog identified the SYN4778 in the fēnix 8:
 
 One FCC teardown shows the SYN4778:
 
-- [Instinct Crossover AMOLED](https://fccid.io/IPH-05049) - AG3352 - FCC
+- [Instinct Crossover AMOLED](https://fccid.io/IPH-05049) - SYN4778 - FCC
 
 
 
