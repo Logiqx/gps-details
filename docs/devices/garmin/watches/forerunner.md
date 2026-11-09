@@ -22,17 +22,15 @@ The Forerunner 970 and 570 appear to use a Synaptics GNSS chipset, just like the
 
 ### Airoha
 
-The Forerunner 70 and 170 are very probably using the AG3352 based on what can be seen in the FCC teardowns.
-
-The Forerunner 165 may be using the single-band AG3352 like the [vívoactive 6](vivoactive.md) which was released 2025-04.
+The Forerunner 70 and 170 are may be using the AG3352 based on what can be seen in the FCC teardowns.
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | --------------------------- |
 | Forerunner 170 Music | 2026-05 | 4814 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-A5206/) |
 | Forerunner 170 | 2026-05 | 4815 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-05206) |
 | Forerunner 70 | 2026-05 | 4916, 5214 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-B5206) |
-| Forerunner 165 Music      | 2024-02 | 4433 | TBC | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-607F08F6-33FC-40BF-9727-84E54043D82D/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + [the5krunner](https://the5krunner.com/2024/03/02/garmin-forerunner-165-review-specifications/) |
-| Forerunner 165 | 2024-02 | 4432 | TBC | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-607F08F6-33FC-40BF-9727-84E54043D82D/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + [the5krunner](https://the5krunner.com/2024/03/02/garmin-forerunner-165-review-specifications/) |
+| Forerunner 165 Music      | 2024-02 | 4433 | AG3335MN | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-607F08F6-33FC-40BF-9727-84E54043D82D/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + [the5krunner](https://the5krunner.com/2024/03/02/garmin-forerunner-165-review-specifications/) |
+| Forerunner 165 | 2024-02 | 4432 | AG3335MN | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-607F08F6-33FC-40BF-9727-84E54043D82D/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + [the5krunner](https://the5krunner.com/2024/03/02/garmin-forerunner-165-review-specifications/) |
 | Forerunner 965              | 2023-03 | 4315 | AG3335M | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-0221611A-992D-495E-8DED-1DD448F7A066/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + [TechInsights](https://www.techinsights.com/blog/deep-dive-teardown-garmin-forerunner-965-a04578-smartwatch) |
 | Forerunner 265 | 2023-03 | 4257 | AG3335M | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-F41EAFB3-6CC9-42DE-9C6C-9E358DBB0671/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) |
 | Forerunner 265S       | 2023-03 | 4258 | AG3335M | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-F41EAFB3-6CC9-42DE-9C6C-9E358DBB0671/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) |
