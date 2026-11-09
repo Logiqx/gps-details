@@ -10,7 +10,7 @@ The various models are listed in reverse-chronological order. The release dates 
 
 
 
-### Synaptics
+### TBC
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
@@ -22,6 +22,13 @@ The various models are listed in reverse-chronological order. The release dates 
 | fēnix 9 - 51 mm | 2026-08 | 5134 | TBC | 6.0 | - |  |
 | fēnix 9 - 47 mm | 2026-08 | 5134 | TBC | 6.0 | - |  |
 | fēnix 9 - 43 mm | 2026-08 | 5133 | TBC | 6.0 | - |  |
+
+
+
+### Synaptics
+
+| Model                       | Released   | Product | Chipset | CIQ | APPro | References |
+| --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | fēnix 8 Pro - 51 mm, MicroLED | 2025-09 | 4631 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1723221/#specs) + FCC [teardown](https://fccid.io/IPH-05201) |
 | fēnix 8 Pro - 51 mm, AMOLED | 2025-09 | 4631 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1703902/pn/010-03199-40/#specs) + FCC [teardown](https://fccid.io/IPH-05201) |
 | fēnix 8 Pro - 47 mm, AMOLED | 2025-09 | 4631 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1701921/pn/010-03198-40/#specs) + FCC [teardown](https://fccid.io/IPH-04807) |
