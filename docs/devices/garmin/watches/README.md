@@ -116,14 +116,14 @@ Notes:
 
 None of these watches include native windsurfing / kiteboarding activities, so [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) is recommended.
 
-| Series                      | Model        | Brand     | Multi-Band |   Recommended    |
+| Series                      | Model        |   Brand   | Multi-Band |   Recommended    |
 | --------------------------- | ------------ | :-------: | :--------: | :--------------: |
-| [vívoactive](vivoactive.md) | vívoactive 6 | TBC       |     -      | - <sup>[1]</sup> |
-|                             | vívoactive 5 | Airoha    |     -      | N <sup>[2]</sup> |
+| [vívoactive](vivoactive.md) | vívoactive 6 |  Airoha   |     -      | - <sup>[1]</sup> |
+|                             | vívoactive 5 |  Airoha   |     -      | N <sup>[2]</sup> |
 | [Venu](venu.md)             | Venu 4       | Synaptics |     Y      |        -         |
 |                             | Venu X1      | Synaptics |     -      |        -         |
-|                             | Venu 3       | Airoha    |     -      | N <sup>[2]</sup> |
-|                             | Venu Sq 2    | Airoha    |     -      | N <sup>[3]</sup> |
+|                             | Venu 3       |  Airoha   |     -      | N <sup>[2]</sup> |
+|                             | Venu Sq 2    |  Airoha   |     -      | N <sup>[3]</sup> |
 | [D2](d2.md)                 | D2 Air X15   | Synaptics |     Y      |        -         |
 
 The reliance on a touchscreen makes the vívoactive and Venu difficult to operate when the watch (or hands) are wet.
