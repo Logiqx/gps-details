@@ -16,8 +16,9 @@ The quatix 8 was released after the [fēnix 8](fenix.md) and built on the same h
 
 | Model                    | Released |  Product   | Chipset | CIQ | APPro | References |
 | ------------------------ | :------: | :--------: | :-----: | :---: | :----: | ---------- |
-| quatix 8 - 51 mm, AMOLED | 2025-06  | 4536, 4775 | SYN4778 | 5.2 |   Y    |            |
-| quatix 8 - 47 mm, AMOLED | 2025-06  | 4536, 4775 | SYN4778 | 5.2 |   Y    |            |
+| quatix 8 Pro - 47 mm, AMOLED | 2026-01 | 4631 | SYN4778 | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-04809) |
+| quatix 8 - 51 mm, AMOLED | 2025-06  | 4536, 4775 | SYN4778 | 6.0 |   Y    |            |
+| quatix 8 - 47 mm, AMOLED | 2025-06  | 4536, 4775 | SYN4778 | 6.0  |   Y    |            |
 
 
 
