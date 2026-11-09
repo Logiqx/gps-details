@@ -14,7 +14,7 @@ You should also take a look at the article [Which Garmin for Watersports?](https
 
 When choosing a Garmin watch it is highly recommended that you choose a model which incorporates an Airoha or Synaptics GNSS chipset. The speeds from the these chipsets are a lot more trustworthy than earlier watches, especially the ones using a Sony GNSS chipset.
 
-There are numerous Garmin watches that incorporate the Synaptics SYN4778 (multi-band GNSS), Airoha AG3335M (multi-band GNSS) or AG3335MN (single-band GNSS). The following sections list all of the Garmin watches that use an Airoha or Synaptics GNSS chipset that you might wish to consider for wind sports.
+There are numerous Garmin watches that incorporate the Synaptics SYN4778 (multi-band), Airoha AG3335M (multi-band), AG3335MN (single-band) or AG3352 (single-band). The following sections list all of the Garmin watches that use an Airoha or Synaptics GNSS chipset that you might wish to consider for wind sports.
 
 Disclaimer: It should be noted that not all of these watches have been tested extensively. Whilst they all use Airoha or Synaptics chipsets there are other factors that impact GNSS accuracy, such as the antenna design and watch firmware. Testing the [Synaptics](../synaptics/README.md) watches is an ongoing activity.
 
@@ -72,10 +72,10 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 | --------------------------- | -------------- | :-------: | :--------: | :--------: |
 | [Instinct](instinct.md) | Instinct Crossover AMOLED - Tactical | Synaptics | Y | - |
 |  | Instinct Crossover AMOLED | Synaptics | Y | - |
-|  | Instinct 3 - AMOLED, Tactical | TBC  |     Y      | Y |
-|                         | Instinct 3 - Solar, Tactical | TBC |     Y      | Y |
-|                         | Instinct 3 - AMOLED          | TBC |     Y      | Y |
-|                         | Instinct 3 - Solar           | TBC |     Y      | Y |
+|  | Instinct 3 - AMOLED, Tactical | Airoha |     Y      | Y |
+|                         | Instinct 3 - Solar, Tactical | Airoha |     Y      | Y |
+|                         | Instinct 3 - AMOLED          | Airoha |     Y      | Y |
+|                         | Instinct 3 - Solar           | Airoha |     Y      | Y |
 |                         | Instinct E                   | Airoha    |     -      | Y <sup>[1]</sup> |
 | | Instinct 2X | Airoha | Y | N <sup>[2]</sup> |
 | | Instinct Crossover | Airoha | - | N <sup>[2]</sup> |
@@ -96,8 +96,8 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 
 | Series                      | Model          | Brand     | Multi-Band | Recommended |
 | --------------------------- | -------------- | :-------: | :--------: | :--------: |
-| [Forerunner](forerunner.md) | Forerunner 170 | TBC       |     -      |        -         |
-|  | Forerunner 70 | TBC | - | - |
+| [Forerunner](forerunner.md) | Forerunner 170 | Airoha |     -      |        -         |
+|  | Forerunner 70 | Airoha | - | - |
 |  | Forerunner 970 | Synaptics | Y | Y |
 |                             | Forerunner 570 | Synaptics |     Y      | Y |
 |                             | Forerunner 165 | Airoha    |     -      | Y <sup>[1]</sup> |

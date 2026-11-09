@@ -35,7 +35,7 @@ The various models are listed in reverse-chronological order. The release dates 
 
 ### Airoha
 
-The fēnix E is single-band so it may be using the Airoha AG3335MN or AG3352 like the [vívoactive 6](vivoactive.md) which was released 2025-04.
+The fēnix E may be using the single-band AG3352 like the [vívoactive 6](vivoactive.md) which was released 2025-04.
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
