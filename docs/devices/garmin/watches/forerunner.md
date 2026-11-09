@@ -22,7 +22,7 @@ The Forerunner 970 and 570 appear to use a Synaptics GNSS chipset, just like the
 
 ### Airoha
 
-The Forerunner 70 and 170 are may be using the AG3352 based on what can be seen in the FCC teardowns.
+The Forerunner 70 and 170 are likely to be using the AG3352.
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | --------------------------- |
