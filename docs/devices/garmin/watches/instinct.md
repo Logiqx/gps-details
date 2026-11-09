@@ -40,7 +40,7 @@ The Instinct 3 and Instinct 3 Tactical Edition could be using the Airoha AG3335M
 
 ### Airoha
 
-The Instinct E may be using the Airoha AG3352 like the [vívoactive 6](vivoactive.md) which was released 2025-04
+The Instinct E may be using the Airoha AG3352 like the [vívoactive 6](vivoactive.md) which was released 2025-04.
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |

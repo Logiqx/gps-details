@@ -12,11 +12,13 @@ The various models are listed in reverse-chronological order. The release dates 
 
 ### Airoha
 
-The Descent G2 was released one month after the [Instinct 3](instinct.md). It has many similarities with both the Instinct 3 AMOLED and Descent Mk3, except for the single-band Airoha AG3335MN.
+The Descent G2 was released one month after the [Instinct 3](instinct.md). It has many similarities with both the Instinct 3 AMOLED and Descent Mk3.
+
+The Descent G2 is single-band so it may be using the Airoha AG3335MN or AG3352 like the [vívoactive 6](vivoactive.md) which was released 2025-04.
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| Descent G2 | 2025-02 | 4588 | AG3335MN | 5.1 | Y |  |
+| Descent G2 | 2025-02 | 4588 | TBC | 5.1 | Y |  |
 | Descent Mk3i - 51mm | 2023-11 | 4223, 4225 | AG3335M | 5.1 | Y | |
 | Descent Mk3 / Mk3i - 43mm | 2023-11 | 4222, 4224 | AG3335M | 5.1 | Y | |
 
