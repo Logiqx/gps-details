@@ -12,6 +12,8 @@ The various models are listed in reverse-chronological order. The release dates 
 
 ### Synaptics
 
+The Instinct Crossover AMOLED has been confirmed as using the Synaptics SYN4778.
+
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | Instinct Crossover AMOLED - Tactical Edition | 2025-09 | 4678 | SYN4778  | 6.0 | - | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-B613EA0B-EFB7-451C-BA10-DB9EE5A990BF/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + FCC [teardown](https://fccid.io/IPH-05049) |
@@ -19,23 +21,35 @@ The various models are listed in reverse-chronological order. The release dates 
 
 
 
-### Airoha
+### TBC
+
+The Instinct 3 and Instinct 3 Tactical Edition could be using the Airoha AG3335M or Synaptics SYN4778.
+
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| Instinct 3 - 50 mm, AMOLED,  Tactical Edition | 2025-04 | 4587 | AG3335M | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2C274FD2-F0C3-445C-B0AC-700FECCE12E9/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [comparison](https://www.dcrainmaker.com/2025/04/garmin-instinct3-tactical-comparison-full-details.html) |
-| Instinct 3 - 50 mm, Solar, Tactical Edition | 2025-04 | 4759 | AG3335M | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2C274FD2-F0C3-445C-B0AC-700FECCE12E9/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [comparison](https://www.dcrainmaker.com/2025/04/garmin-instinct3-tactical-comparison-full-details.html) |
-| Instinct 3 - 45 mm, Solar, Tactical Edition | 2025-04 | 4585 | AG3335M | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2C274FD2-F0C3-445C-B0AC-700FECCE12E9/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [comparison](https://www.dcrainmaker.com/2025/04/garmin-instinct3-tactical-comparison-full-details.html) |
-| Instinct 3 - 50 mm, AMOLED | 2025-01 | 4587 | AG3335M | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2DA54DF8-8084-40ED-954F-EDA09C13B47F/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [hands on](https://www.dcrainmaker.com/2025/01/garmin-instinct-3-series-hands-on-everything-you-need-to-know.html) |
-| Instinct 3 - 45 mm, AMOLED | 2025-01 | 4586 | AG3335M | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2DA54DF8-8084-40ED-954F-EDA09C13B47F/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [hands on](https://www.dcrainmaker.com/2025/01/garmin-instinct-3-series-hands-on-everything-you-need-to-know.html) |
-| Instinct 3 - 50 mm, Solar | 2025-01 | 4759 | AG3335M | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2C274FD2-F0C3-445C-B0AC-700FECCE12E9/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [hands on](https://www.dcrainmaker.com/2025/01/garmin-instinct-3-series-hands-on-everything-you-need-to-know.html) |
-| Instinct 3 - 45 mm, Solar | 2025-01 | 4585 | AG3335M | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2C274FD2-F0C3-445C-B0AC-700FECCE12E9/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [hands on](https://www.dcrainmaker.com/2025/01/garmin-instinct-3-series-hands-on-everything-you-need-to-know.html) |
-| Instinct E - 45 mm | 2025-01 | 4584 | AG3335MN | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-D3C2D1F9-D2C0-404D-9372-7B2D57459BF8/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
-| Instinct E - 40 mm | 2025-01 |  4583   | AG3335MN | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-D3C2D1F9-D2C0-404D-9372-7B2D57459BF8/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| Instinct 3 - 50 mm, AMOLED,  Tactical Edition | 2025-04 | 4587 | TBC | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2C274FD2-F0C3-445C-B0AC-700FECCE12E9/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [comparison](https://www.dcrainmaker.com/2025/04/garmin-instinct3-tactical-comparison-full-details.html) |
+| Instinct 3 - 50 mm, Solar, Tactical Edition | 2025-04 | 4759 | TBC | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2C274FD2-F0C3-445C-B0AC-700FECCE12E9/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [comparison](https://www.dcrainmaker.com/2025/04/garmin-instinct3-tactical-comparison-full-details.html) |
+| Instinct 3 - 45 mm, Solar, Tactical Edition | 2025-04 | 4585 | TBC | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2C274FD2-F0C3-445C-B0AC-700FECCE12E9/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [comparison](https://www.dcrainmaker.com/2025/04/garmin-instinct3-tactical-comparison-full-details.html) |
+| Instinct 3 - 50 mm, AMOLED | 2025-01 | 4587 | TBC | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2DA54DF8-8084-40ED-954F-EDA09C13B47F/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [hands on](https://www.dcrainmaker.com/2025/01/garmin-instinct-3-series-hands-on-everything-you-need-to-know.html) |
+| Instinct 3 - 45 mm, AMOLED | 2025-01 | 4586 | TBC | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2DA54DF8-8084-40ED-954F-EDA09C13B47F/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [hands on](https://www.dcrainmaker.com/2025/01/garmin-instinct-3-series-hands-on-everything-you-need-to-know.html) |
+| Instinct 3 - 50 mm, Solar | 2025-01 | 4759 | TBC | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2C274FD2-F0C3-445C-B0AC-700FECCE12E9/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [hands on](https://www.dcrainmaker.com/2025/01/garmin-instinct-3-series-hands-on-everything-you-need-to-know.html) |
+| Instinct 3 - 45 mm, Solar | 2025-01 | 4585 | TBC | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2C274FD2-F0C3-445C-B0AC-700FECCE12E9/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + DCR [hands on](https://www.dcrainmaker.com/2025/01/garmin-instinct-3-series-hands-on-everything-you-need-to-know.html) |
+
+
+
+### Airoha
+
+The Instinct E may be using the Airoha AG3352 like the [vívoactive 6](vivoactive.md) which was released 2025-04
+
+| Model                       | Released   | Product | Chipset | CIQ | APPro | References |
+| --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| Instinct E - 45 mm | 2025-01 | 4584 | TBC | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-D3C2D1F9-D2C0-404D-9372-7B2D57459BF8/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
+| Instinct E - 40 mm | 2025-01 | 4583 | TBC | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-D3C2D1F9-D2C0-404D-9372-7B2D57459BF8/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 | Instinct 2X Solar \* | 2023-04 | 4394 | AG3335M | 3.4 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-31D23DBB-57C2-4DF7-A0C9-8D1A00AB4BE7/EN-US/GUID-7778C63A-5928-4315-B25B-3DA9B3E467B6.html) + DCR [review](https://www.dcrainmaker.com/2023/04/garmin-instinct-2x-in-depth-review-bigger-and-flashlight-equipped.html) |
 | Instinct Crossover \[Solar] \* | 2022-11  | 4155 | AG3335MN | 3.4 | - | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-64328278-25D1-45C2-BF05-6EC0CFD000D0/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + FCC [teardown](https://fccid.io/IPH-04348/Internal-Photos/Internal-Photos-6150278) |
 
-\* Instinct 2X Solar and Instinct Crossover have a significant smoothing issue and are NOT recommended for wind sports.
+\* The Instinct 2X Solar and Instinct Crossover have a significant smoothing issue and are NOT recommended for wind sports.
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 

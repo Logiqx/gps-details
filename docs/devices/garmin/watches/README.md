@@ -70,23 +70,22 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 
 | Series                      | Model          | Brand     | Multi-Band | Recommended |
 | --------------------------- | -------------- | :-------: | :--------: | :--------: |
-| [Instinct](instinct.md) | Instinct Crossover AMOLED - Tactical | Airoha <sup>[1]</sup> | Y | - |
-|  | Instinct Crossover AMOLED | Airoha <sup>[1]</sup> | Y | - |
-|  | Instinct 3 - AMOLED, Tactical | Airoha    |     Y      | Y |
-|                         | Instinct 3 - Solar, Tactical | Airoha    |     Y      | Y |
-|                         | Instinct 3 - AMOLED          | Airoha    |     Y      | Y |
-|                         | Instinct 3 - Solar           | Airoha    |     Y      | Y |
-|                         | Instinct E                   | Airoha    |     -      | Y <sup>[2]</sup> |
-| | Instinct 2X | Airoha | Y | N <sup>[3]</sup> |
-| | Instinct Crossover | Airoha | - | N <sup>[3]</sup> |
+| [Instinct](instinct.md) | Instinct Crossover AMOLED - Tactical | Synaptics | Y | - |
+|  | Instinct Crossover AMOLED | Synaptics | Y | - |
+|  | Instinct 3 - AMOLED, Tactical | TBC  |     Y      | Y |
+|                         | Instinct 3 - Solar, Tactical | TBC |     Y      | Y |
+|                         | Instinct 3 - AMOLED          | TBC |     Y      | Y |
+|                         | Instinct 3 - Solar           | TBC |     Y      | Y |
+|                         | Instinct E                   | Airoha    |     -      | Y <sup>[1]</sup> |
+| | Instinct 2X | Airoha | Y | N <sup>[2]</sup> |
+| | Instinct Crossover | Airoha | - | N <sup>[2]</sup> |
 | [Descent](descent.md)   | Descent G2                   | Airoha |     -      | - |
 |                         | Descent Mk3i                 | Airoha    |     Y      | - |
 |                         | Descent Mk3                  | Airoha    |     Y      | - |
 
 Notes:
 
-1. Instinct Crossover AMOLED is assumed to use the same GNSS chipset as the Instinct 3.
-2. Instinct E is potentially a good low-cost option for people who do not participate on GPS-Speedsurfing.
+1. Instinct E is potentially a good low-cost option for people who do not participate on GPS-Speedsurfing.
 3. Instinct 2X and Instinct Crossover both have a firmware issue affecting the speeds being recorded.
 
 
