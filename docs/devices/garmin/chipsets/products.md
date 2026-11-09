@@ -83,7 +83,7 @@ Information:
 
 #### Airoha
 
-There are two distinct product numbers for the Airoha GNSS chipsets; 3865 (AG3335M, multi-band) and 3866 (AG3335MN, single-band).
+There are three distinct product numbers for the Airoha GNSS chipsets; 3865 (AG3335M, multi-band), 3866 (AG3335MN, single-band), and 4548 (AG3352, single-band).
 
 One anomaly has been spotted where the fenix 7 Sapphire lists the GNSS product number as 3866 (AG3335MN), despite being multi-band. This is likely because there is a single product number of 3906 for the fenix 7 series, so the system software may not distinguish between the various models.
 

@@ -20,8 +20,8 @@ The following GNSS chipsets have been used in Garmin watches, listed chronologic
 
 - SiRFstarII, SiRFstarIII, SiRFstarIV
 - MediaTek MT3333
-- Sony CXD5603GF and CXD5605GF
-- Airoha AG3335M and AG3335MN
+- Sony CXD5603GF, CXD5605GF
+- Airoha AG3335M, AG3335MN, AG3352
 - Synaptics SYN4778
 
 
@@ -135,6 +135,8 @@ Another clue in the FIT file relates to the epo_status and cpe_status records. C
 Activity profiles such as windsurfing, kitesurfing and "other" are supposed to record the Doppler-derived speed from the GNSS chipset. The Sony chipset performs rather badly and one of its traits is exactly the same speed being repeated for several seconds, resulting in flat spots. The chart below shows a test drive for a [Motion GPS](https://www.motion-gps.com/motion) (blue, extremely precise logger with u-blox chipset recording at 5 Hz) and vívoactive 4 (red, Sony chipset). The highs and lows are not always accurate on the Sony and repeated speeds (flat spots) are obvious when looking at the actual data. It may not be so apparent for this particular test drive but it is very obvious in real windsurfing data.
 
 ![sony](img/sony.png)
+
+
 
 #### GPS Metadata
 
