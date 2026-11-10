@@ -4,19 +4,17 @@ Author: Michael George
 
 Created: 7 Jun 2025
 
-Updated: 8 Nov 2026
+Updated: 10 Nov 2026
 
 
 
 ### Introduction
 
-The FIT files from Garmin watches / products often contain a product number for the GNSS chipset.
+The FIT files from Garmin watches / products often contain a product number for the GNSS chipset. The GNSS product number can be found in the device_info record with a device_type of 0 (GPS).
 
-The GNSS product number can be found in the device_info record with a device_type of 0 (GPS).
+This document summarises the GNSS product numbers and where they have been observed in FIT files. Unfortunately, newer watches from Garmin have stopped distinguishing between the chipsets and simply user the product number of the watch (e.g. fenix 8 and newer).
 
-This document summarises the GNSS product numbers and where they have been observed in FIT files.
-
-An extensive list of Garmin watches and their chipsets can be found on another page, using this [link](../watches/README.md).
+An extensive list of Garmin watches and their GNSS chipsets can be found on another page, using this [link](../watches/README.md).
 
 
 
@@ -26,7 +24,7 @@ Several product numbers have been observed for the MediaTek MT3333.
 
 It's worth noting that some watch models have been seen with differing GNSS product numbers. e.g. Forerunner 920XT with 1620 and 2957.
 
-It is unclear whether these are slightly different versions of the MT3333, or relate to firmware updates from MediaTek.
+It is unclear whether these are slightly different versions of the MT3333, updated Garmin GPS software, or firmware updates from MediaTek.
 
 | Product | Chipset | Observed                                                     |
 | ------- | ------- | ------------------------------------------------------------ |
@@ -93,21 +91,26 @@ The Instinct 3 and Instinct E refer to the AG3335M and AG3335MN respectively. Th
 | ------- | -------- | ------------------------------------------------------------ |
 | 3865    | AG3335M  | Edge 840<br />Edge 1050<br />epix Pro (Gen 2)<br />fēnix 7 Pro<br />Forerunner 255<br />Forerunner 265<br />Forerunner 955<br />Forerunner 965<br />Instinct 2X<br />Instinct 3 |
 | 3866    | AG3335MN | epix (Gen 2)<br />fēnix 7<br />fēnix E<br />Forerunner 165<br />Instinct E<br />Descent G2<br />Venu Sq 2<br />Venu 3S<br />vívoactive 5 |
-| 4548    | AG3352   | vívoactive 6                                                 |
+| 4548    | AG3352   | Bounce 2<br />Forerunner 170<br />vívoactive 6               |
 
-Several teardowns (including the FCC) show the AG3335M and AG3335MN:
+Several teardowns show the AG3335M:
 
-- [fēnix 7X Solar](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/) - AG3335MN - F Tipi Blog
-- [fēnix 7S Solar](https://www.youtube.com/watch?v=vb8yyu8En1o&t=485s) - AG3335MN - The Electronics Inside on YouTube
-- [MARQ Gen 2 Carbon](https://fccid.io/IPH-A4263/Internal-Photos/Internal-Photos-6835362) - AG3335M - FCC
-- [Forerunner 965](https://www.techinsights.com/blog/deep-dive-teardown-garmin-forerunner-965-a04578-smartwatch?utm_source=direct&utm_medium=website) - AG3335M - Tech Insights
-- [Instinct 2 Crossover](https://fccid.io/IPH-04348/Internal-Photos/Internal-Photos-6150278) - AG3335M - FCC
-- [Venu Sq2](https://fccid.io/IPH-A4390/Internal-Photos/Internal-Photos-5919154) - AG3335MN - FCC
-- [Venu Sq2 Music](https://fccid.io/IPH-04390/Internal-Photos/Internal-Photos-5930782) - AG3335MN - FCC
+- [MARQ Gen 2 Carbon](https://fccid.io/IPH-A4263/) - FCC
+- [Forerunner 965](https://www.techinsights.com/blog/deep-dive-teardown-garmin-forerunner-965-a04578-smartwatch?utm_source=direct&utm_medium=website) - Tech Insights
 
-One teardown shows the AG3352:
+Several teardowns show the AG3335MN:
 
-- [vívoactive 6](https://fccid.io/IPH-04951) - AG3352 - FCC
+- [fēnix 7X Solar](http://www.f-blog.info/garmin-fenix-7x-solar-teardown-non-destructive/) - F Tipi Blog
+- [fēnix 7S Solar](https://www.youtube.com/watch?v=vb8yyu8En1o&t=485s) - The Electronics Inside on YouTube
+- [Instinct Crossover](https://fccid.io/IPH-04348) - FCC
+- [Venu Sq2](https://fccid.io/IPH-A4390) - FCC
+- [Venu Sq2 Music](https://fccid.io/IPH-04390) - FCC
+
+Several teardowns show the AG3352:
+
+- [Bounce 2](https://fccid.io/IPH-05001)- FCC
+- [Forerunner 170](https://fccid.io/IPH-05206/) - FCC - blurry Airoha logo
+- [vívoactive 6](https://fccid.io/IPH-04951) - FCC
 
 
 
@@ -129,13 +132,20 @@ Likewise the Forerunner 970 also records its product number (4565) as the GNSS p
 | 4565    | SYN4778 | Forerunner 970            |
 | 4678    | SYN4778 | Instinct Crossover AMOLED |
 
-The F Tipi Blog identified the SYN4778 in the fēnix 8:
+Several teardowns show the SYN4778:
 
-- [fēnix 8 Solar 51 mm](http://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) - SYN4778 - F Tipi Blog
+- [fēnix 8 - 51 mm, Solar Sapphire](http://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) - F Tipi Blog
+- [Forerunner 570](https://fccid.io/IPH-04911) - FCC - blurry
+- [Instinct Crossover AMOLED](https://fccid.io/IPH-05049) - FCC
+- [Quatix 8 Pro](https://fccid.io/IPH-04809) - FCC - blurry
+- [Venu 4](https://fccid.io/IPH-04916) - FCC - blurry
 
-One FCC teardown shows the SYN4778:
+Several FCC teardowns show the SYN47762:
 
-- [Instinct Crossover AMOLED](https://fccid.io/IPH-05049) - SYN4778 - FCC
+- [Enduro 3 - single band](https://fccid.io/IPH-04861) - definitely says 47762
+- [Enduro XT](https://fccid.io/IPH-04413) - blurry but it is the same chip
+- [fēnix 8 Pro 47 mm](https://fccid.io/IPH-04807) - blurry but it is the same chip
+- [fēnix 8 - 43 mm](https://fccid.io/IPH-04805) - blurry but it is the same chip
 
 
 

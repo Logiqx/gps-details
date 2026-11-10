@@ -56,7 +56,7 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 | [Enduro](enduro.md) | Enduro 4 | TBC | Y | - |
 |          | Enduro 3       | Synaptics |     Y      | - |
 |                             | Enduro 2       | Airoha    |     Y      | - |
-| [D2](d2.md)             | D2 Mach 2 Pro                |    TBC    |     Y      |      -      |
+| [D2](d2.md)             | D2 Mach 2 Pro                |    Synaptics    |     Y      |      -      |
 |  | D2 Mach 2 | Synaptics | Y | - |
 |  | D2 Mach 1 Pro | Airoha | Y | Y |
 |                         | D2 Mach 1                    | Airoha    |     Y      | Y |

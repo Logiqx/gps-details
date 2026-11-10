@@ -36,7 +36,7 @@ The various models are listed in reverse-chronological order. The release dates 
 | fēnix 8 - 47 mm, AMOLED | 2024-08 | 4536 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) + FCC [teardown](https://fccid.io/IPH-04806) |
 | fēnix 8 - 43 mm, AMOLED | 2024-08 | 4534 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) + FCC [teardown](https://fccid.io/IPH-04805) |
 | fēnix 8 - 51 mm, Solar Sapphire | 2024-08 | 4533 | SYN4778 | 6.0 | Y | F Tipi [teardown](http://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) + FCC [teardown](https://fccid.io/IPH-04862) |
-| fēnix 8 - 47 mm, Solar Sapphire | 2024-08 | 4532 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1389491/pn/010-02906-21#specs) + FCC [teardown](https://fccid.io/IPH-04861) |
+| fēnix 8 - 47 mm, Solar Sapphire | 2024-08 | 4532 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1389491/pn/010-02906-21#specs) |
 
 
 
