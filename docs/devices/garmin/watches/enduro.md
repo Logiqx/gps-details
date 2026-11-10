@@ -27,7 +27,7 @@ The Enduro 3 was released at the same time as the [fēnix 8](fenix.md) and built
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| Enduro 3 | 2024-08 | 4575 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/851039#specs) |
+| Enduro 3 | 2024-08 | 4575 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/851039#specs) + FCC [teardown](https://fccid.io/IPH-04413) |
 
 
 
