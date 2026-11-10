@@ -1,4 +1,4 @@
-## Garmin - GNSS Product Numbers
+## Garmin - GNSS Chipsets
 
 Author: Michael George
 
@@ -14,43 +14,55 @@ The FIT files from Garmin watches / products often contain a product number for 
 
 This document summarises the GNSS product numbers and where they have been observed in FIT files. Unfortunately, newer watches from Garmin have stopped distinguishing between the chipsets and simply user the product number of the watch (e.g. fenix 8 and newer).
 
-An extensive list of Garmin watches and their GNSS chipsets can be found on another page, using this [link](../watches/README.md).
+A number of methods to identify the GNSS chipsets in Garmin watches can be found via this [first link](README.md). An extensive list of Garmin watches and their GNSS chipsets can also be found via this [second link](../watches/README.md).
 
 
 
 ### Recent History
 
-Some notable GNSS changes since 2024:
+Some brief notes about the GNSS chipsets in Garmin watches since 2024:
 
-- fēnix 8 introduced the Synaptics SYN4778 (multi-band) in Aug 2024
-- vívoactive 6 introduced the Airoha AG3352B (single-band) in Apr 2025
+- The fēnix 8 introduced the Synaptics SYN4778 (multi-band) in Aug 2024
+  - plus Enduro 3, Forerunner 570 + 970, fēnix 8 Pro, Instinct Crossover AMOLED, and Venu 4
+
+- The vívoactive 6 introduced the Airoha AG3352B (single-band) in Apr 2025
+  - plus Venu X1 (probably), Bounce 2, and Forerunner 70 + 170
+
 - The GNSS chipset of the fēnix 9, fēnix 9 Pro, and Enduro 4 is TBC
+  - It is not known whether they are Synaptics SYN4778, Airoha AG3365, or another brand
 
-A lot of this information is thanks to photos provided by the Federal Communications Commission ([FCC](https://fccid.io/IPH)).
 
-| Released | Watch                     | Multi-Band | Chipset  | Comment                                                |
-| :------: | ------------------------- | :--------: | :------: | ------------------------------------------------------ |
-| 2024-08  | fēnix 8                   |     Y      | SYN4778  | 47762 present in FCC photos - prototyping?             |
-| 2024-08  | Enduro 3                  |     Y      | SYN4778  | 47762 present in FCC photos - prototyping?             |
-| 2024-08  | fēnix E                   |     -      | AG3335MN | The fēnix E is a rebranded epix (Gen 2)                |
-| 2025-01  | Instinct 3                |     Y      | AG3335M  | Airoha clearly evident in FCC photo                    |
-| 2025-01  | Instinct E                |     -      | AG3335MN | Airoha clearly evident in FCC photo of Descent G2      |
-| 2025-02  | Descent G2                |     -      | AG3335MN | Airoha clearly evident in FCC photo                    |
-| 2025-04  | vívoactive 6              |     -      | AG3352B  | AG3352 readable in FCC photo, but B is obfuscated      |
-| 2025-05  | Forerunner 570 + 970      |     -      | SYN4778  | SYN47762 is just about readable in FCC photo of FR 570 |
-| 2025-06  | Venu X1                   |     -      | AG3352B  | GNSS chip in FCC photo is obfuscated, presumed Airoha  |
-| 2025-09  | fēnix 8 Pro               |     Y      | SYN4778  | SYN4778 clearly readable in FCC photo of the 51 mm     |
-| 2025-09  | Instinct Crossover AMOLED |     Y      | SYN4778  | SYN4778 clearly readable in FCC photo                  |
-| 2025-09  | Venu 4                    |     Y      | SYN4778  | SYN4778 is blurry but readable in FCC photo            |
-| 2025-09  | Bounce 2                  |     -      | AG3352B  | AG3352B clearly readable in FCC photo                  |
-| 2026-05  | Forerunner 70 + 170       |     -      | AG3352B  | Airoha clearly evident in FCC photo, presumed AG3352B  |
-| 2026-08  | fēnix 9 + fēnix 9 Pro     |     Y      |   TBC    |                                                        |
-| 2026-10  | Enduro 4                  |     Y      |   TBC    |                                                        |
+A lot of this recent history is based on photos provided by the Federal Communications Commission ([FCC](https://fccid.io/IPH)).
 
-Notes:
+| Released | Watch                     | Multi-Band |  Chipset   | Comment                                                |
+| :------: | ------------------------- | :--------: | :--------: | ------------------------------------------------------ |
+| 2024-08  | fēnix 8                   |     Y      | SYN4778 \* | 47762 present in FCC photos - prototyping?             |
+| 2024-08  | Enduro 3                  |     Y      | SYN4778 \* | 47762 present in FCC photos - prototyping?             |
+| 2024-08  | fēnix E                   |     -      |  AG3335MN  | The fēnix E is a rebranded epix (Gen 2)                |
+| 2025-01  | Instinct 3                |     Y      |  AG3335M   | Airoha clearly evident in FCC photo                    |
+| 2025-01  | Instinct E                |     -      |  AG3335MN  | Airoha clearly evident in FCC photo of Descent G2      |
+| 2025-02  | Descent G2                |     -      |  AG3335MN  | Airoha clearly evident in FCC photo                    |
+| 2025-04  | vívoactive 6              |     -      |  AG3352B   | AG3352 readable in FCC photo, but B is obfuscated      |
+| 2025-05  | Forerunner 570 + 970      |     -      |  SYN4778   | SYN47762 is just about readable in FCC photo of FR 570 |
+| 2025-06  | Venu X1                   |     -      |  AG3352B   | GNSS chip in FCC photo is obfuscated, presumed Airoha  |
+| 2025-09  | fēnix 8 Pro               |     Y      |  SYN4778   | SYN4778 clearly readable in FCC photo of the 51 mm     |
+| 2025-09  | Instinct Crossover AMOLED |     Y      |  SYN4778   | SYN4778 clearly readable in FCC photo                  |
+| 2025-09  | Venu 4                    |     Y      |  SYN4778   | SYN4778 is blurry but readable in FCC photo            |
+| 2025-09  | Bounce 2                  |     -      |  AG3352B   | AG3352B clearly readable in FCC photo                  |
+| 2026-05  | Forerunner 70 + 170       |     -      |  AG3352B   | Airoha clearly evident in FCC photo, presumed AG3352B  |
+| 2026-08  | fēnix 9 + fēnix 9 Pro     |     Y      |   TBC \*   |                                                        |
+| 2026-10  | Enduro 4                  |     Y      |   TBC \*   |                                                        |
 
-- FCC photos for the fēnix 8 and Enduro 3 show a chip labelled 47762CX, which was perhaps used during testing?
-- FCC photo for the fēnix 8 Pro (47 mm) show a chip labelled 47762CX, which was perhaps used during testing?
+ \* Notes:
+
+- FCC photos for the fēnix 8 and Enduro 3 show a chip labelled 47762CX, which was perhaps during testing?
+  - The teardown by F-Tipi confirmed the fēnix 8 uses the Synaptics SYN4778
+
+- FCC photo for the fēnix 8 Pro (47 mm) show a chip labelled 47762CX, which was perhaps during testing?
+  - The FCC photos of the fēnix 8 Pro (51 mm) clearly show the Synaptics SYN4778
+
+- The GNSS chipset of the fēnix 9, fēnix 9 Pro, and Enduro 4 is TBC
+  - It is not known whether they are Synaptics SYN4778, Airoha AG3365, or another brand
 
 
 
@@ -197,4 +209,4 @@ GNSS product numbers have been quite useful when trying to distinguish between M
 
 Sadly this may be coming to an end with the fēnix 8 and Forerunner 970, which do not use generic GNSS product numbers.
 
-The Instinct 3 and Instinct E both record product numbers suggesting the Airoha chipsets, but the vívoactive 6 is yet TBC.
+Future insights are likely to be reliant on photos provided by the Federal Communications Commission ([FCC](https://fccid.io/IPH)).
