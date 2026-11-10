@@ -16,7 +16,9 @@ When choosing a Garmin watch it is highly recommended that you choose a model wh
 
 There are numerous Garmin watches that incorporate the Synaptics SYN4778 (multi-band), Airoha AG3335M (multi-band), AG3335MN (single-band) or AG3352 (single-band). The following sections list all of the Garmin watches that use an Airoha or Synaptics GNSS chipset that you might wish to consider for wind sports.
 
-Disclaimer: It should be noted that not all of these watches have been tested extensively. Whilst they all use Airoha or Synaptics chipsets there are other factors that impact GNSS accuracy, such as the antenna design and watch firmware. Testing the [Synaptics](../synaptics/README.md) watches is an ongoing activity.
+It should be noted that not all of these watches have been tested extensively. Whilst they all use Airoha or Synaptics chipsets there are other factors that impact GNSS accuracy, such as the antenna design and watch firmware. Testing of the the latest Garmin watches is an ongoing activity.
+
+Two separate pages also describe how the chipsets inside Garmin watches are identified (see [link](../chipsets/README.md)) are summarised (see [link](../chipsets/products.md)).
 
 
 
