@@ -15,10 +15,10 @@ This project is work in progress and there are more things to be documented.
 
 - [Garmin watches](watches/README.md) - full list of Garmin watches
 - [Developer tips](developer/README.md) - guidance for developers of Connect IQ apps
-- [GNSS Chipsets](chipsets/README.md) - how some of the GNSS chipsets can be identified
-  - [GNSS product numbers](chipsets/products.md) - relates to fenix 7, forerunner x55, and earlier
-- [Garmin IDs](https://github.com/Logiqx/garmin-ids) - maps Garmin part numbers to usable product names
-- [Garmin Issues](https://github.com/Logiqx/garmin-issues/issues) - records watch issues that affect the speed sailing community
+- [Chipset identification](chipsets/README.md) - how some of the GNSS chipsets can be identified
+- [Chipset summary](chipsets/products.md) - summarises past and present GNSS chipsets
+- [Garmin IDs](https://github.com/Logiqx/garmin-ids) - converts Garmin part numbers to usable product names
+- [Garmin issues](https://github.com/Logiqx/garmin-issues/issues) - Github repo for issues that affect the speed-sailing community
 
 
 

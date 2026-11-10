@@ -34,24 +34,24 @@ Some brief notes about the GNSS chipsets in Garmin watches since 2024:
 
 A lot of this recent history is based on photos provided by the Federal Communications Commission ([FCC](https://fccid.io/IPH)).
 
-| Released | Watch                     | Multi-Band |  Chipset   | Comment                                                |
-| :------: | ------------------------- | :--------: | :--------: | ------------------------------------------------------ |
-| 2024-08  | fēnix 8                   |     Y      | SYN4778 \* | 47762 present in FCC photos - prototyping?             |
-| 2024-08  | Enduro 3                  |     Y      | SYN4778 \* | 47762 present in FCC photos - prototyping?             |
-| 2024-08  | fēnix E                   |     -      |  AG3335MN  | The fēnix E is a rebranded epix (Gen 2)                |
-| 2025-01  | Instinct 3                |     Y      |  AG3335M   | Airoha clearly evident in FCC photo                    |
-| 2025-01  | Instinct E                |     -      |  AG3335MN  | Airoha clearly evident in FCC photo of Descent G2      |
-| 2025-02  | Descent G2                |     -      |  AG3335MN  | Airoha clearly evident in FCC photo                    |
-| 2025-04  | vívoactive 6              |     -      |  AG3352B   | AG3352 readable in FCC photo, but B is obfuscated      |
-| 2025-05  | Forerunner 570 + 970      |     -      |  SYN4778   | SYN47762 is just about readable in FCC photo of FR 570 |
-| 2025-06  | Venu X1                   |     -      |  AG3352B   | GNSS chip in FCC photo is obfuscated, presumed Airoha  |
-| 2025-09  | fēnix 8 Pro               |     Y      |  SYN4778   | SYN4778 clearly readable in FCC photo of the 51 mm     |
-| 2025-09  | Instinct Crossover AMOLED |     Y      |  SYN4778   | SYN4778 clearly readable in FCC photo                  |
-| 2025-09  | Venu 4                    |     Y      |  SYN4778   | SYN4778 is blurry but readable in FCC photo            |
-| 2025-09  | Bounce 2                  |     -      |  AG3352B   | AG3352B clearly readable in FCC photo                  |
-| 2026-05  | Forerunner 70 + 170       |     -      |  AG3352B   | Airoha clearly evident in FCC photo, presumed AG3352B  |
-| 2026-08  | fēnix 9 + fēnix 9 Pro     |     Y      |   TBC \*   |                                                        |
-| 2026-10  | Enduro 4                  |     Y      |   TBC \*   |                                                        |
+| Released | Watch                     | Multi-Band |  Chipset   | Comment                                                  |
+| :------: | ------------------------- | :--------: | :--------: | -------------------------------------------------------- |
+| 2024-08  | fēnix 8                   |     Y      | SYN4778 \* | 47762 is present in FCC photos - prototyping?            |
+| 2024-08  | Enduro 3                  |     Y      | SYN4778 \* | 47762 is present in FCC photos - prototyping?            |
+| 2024-08  | fēnix E                   |     -      |  AG3335MN  | The fēnix E is a rebranded epix (Gen 2)                  |
+| 2025-01  | Instinct 3                |     Y      |  AG3335M   | Airoha is clearly evident in FCC photo                   |
+| 2025-01  | Instinct E                |     -      |  AG3335MN  | Airoha is clearly evident in FCC photo of Descent G2     |
+| 2025-02  | Descent G2                |     -      |  AG3335MN  | Airoha is clearly evident in FCC photo                   |
+| 2025-04  | vívoactive 6              |     -      |  AG3352B   | AG3352 is readable in FCC photo, but B is obfuscated     |
+| 2025-05  | Forerunner 570 + 970      |     -      |  SYN4778   | SYN4778 is readable in FCC photo of FR 570               |
+| 2025-06  | Venu X1                   |     -      |  AG3352B   | GNSS chip in FCC photo is obfuscated, presumed Airoha    |
+| 2025-09  | fēnix 8 Pro               |     Y      |  SYN4778   | SYN4778 is clearly readable in FCC photo of the 51 mm    |
+| 2025-09  | Instinct Crossover AMOLED |     Y      |  SYN4778   | SYN4778 is clearly readable in FCC photo                 |
+| 2025-09  | Venu 4                    |     Y      |  SYN4778   | SYN4778 is blurry but readable in FCC photo              |
+| 2025-09  | Bounce 2                  |     -      |  AG3352B   | AG3352B is clearly readable in FCC photo                 |
+| 2026-05  | Forerunner 70 + 170       |     -      |  AG3352B   | Airoha is clearly evident in FCC photo, presumed AG3352B |
+| 2026-08  | fēnix 9 + fēnix 9 Pro     |     Y      |   TBC \*   |                                                          |
+| 2026-10  | Enduro 4                  |     Y      |   TBC \*   |                                                          |
 
  \* Notes:
 
