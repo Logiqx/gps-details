@@ -24,13 +24,10 @@ Some brief notes about the GNSS chipsets in Garmin watches since 2024:
 
 - The fēnix 8 introduced the Synaptics SYN4778 (multi-band) in Aug 2024
   - plus Enduro 3, Forerunner 570 + 970, fēnix 8 Pro, Instinct Crossover AMOLED, and Venu 4
-
 - The vívoactive 6 introduced the Airoha AG3352B (single-band) in Apr 2025
   - plus Venu X1 (probably), Bounce 2, and Forerunner 70 + 170
-
 - The GNSS chipset of the fēnix 9, fēnix 9 Pro, and Enduro 4 is TBC
   - It is not known whether they are Synaptics SYN4778, Airoha AG3365, or another brand
-
 
 A lot of this recent history is based on photos provided by the Federal Communications Commission ([FCC](https://fccid.io/IPH)).
 
@@ -39,8 +36,8 @@ A lot of this recent history is based on photos provided by the Federal Communic
 | 2024-08  | fēnix 8                   |     Y      | SYN4778 \* | 47762 is present in FCC photos - prototyping?            |
 | 2024-08  | Enduro 3                  |     Y      | SYN4778 \* | 47762 is present in FCC photos - prototyping?            |
 | 2025-01  | Instinct 3                |     Y      |  AG3335M   | Airoha is clearly evident in FCC photo                   |
-| 2025-01  | Instinct E                |     -      |  AG3335MN  | Airoha is clearly evident in FCC photo of Descent G2     |
-| 2025-02  | Descent G2                |     -      |  AG3335MN  | Airoha is clearly evident in FCC photo                   |
+| 2025-01  | Instinct E                |     -      |   TBC \*   | Airoha is clearly evident in FCC photo of Descent G2     |
+| 2025-02  | Descent G2                |     -      |   TBC \*   | Airoha is clearly evident in FCC photo                   |
 | 2025-04  | vívoactive 6              |     -      |  AG3352B   | AG3352 is readable in FCC photo, but B is obfuscated     |
 | 2025-05  | Forerunner 570 + 970      |     -      |  SYN4778   | SYN4778 is readable in FCC photo of FR 570               |
 | 2025-06  | Venu X1                   |     -      |  AG3352B   | GNSS chip in FCC photo is obfuscated, presumed Airoha    |
@@ -54,12 +51,12 @@ A lot of this recent history is based on photos provided by the Federal Communic
 
  \* Notes:
 
+- The Instinct E and Descent G2 use an Airoha GNSS chip it could well be the AG3352B
+  - The Instinct E was released in Jan 2025, shortly after the Amazfit Active Max
 - FCC photos for the fēnix 8 and Enduro 3 show a chip labelled 47762CX, which was perhaps during testing?
   - The teardown by F-Tipi confirmed the fēnix 8 uses the Synaptics SYN4778
-
 - FCC photo for the fēnix 8 Pro (47 mm) show a chip labelled 47762CX, which was perhaps during testing?
   - The FCC photos of the fēnix 8 Pro (51 mm) clearly show the Synaptics SYN4778
-
 - The GNSS chipset of the fēnix 9, fēnix 9 Pro, and Enduro 4 is TBC
   - It is not known whether they are Synaptics SYN4778, Airoha AG3365, or another brand
 
