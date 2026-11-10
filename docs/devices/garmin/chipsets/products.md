@@ -31,34 +31,34 @@ Some brief notes about the GNSS chipsets in Garmin watches since 2024:
 
 A lot of this recent history is based on photos provided by the Federal Communications Commission ([FCC](https://fccid.io/IPH)).
 
-| Released | Watch                     | Multi-Band |  Chipset   | Comment                                                  |
-| :------: | ------------------------- | :--------: | :--------: | -------------------------------------------------------- |
-| 2024-08  | fēnix 8                   |     Y      | SYN4778 \* | 47762 is present in FCC photos - prototyping?            |
-| 2024-08  | Enduro 3                  |     Y      | SYN4778 \* | 47762 is present in FCC photos - prototyping?            |
-| 2025-01  | Instinct 3                |     Y      |  AG3335M   | Airoha is clearly evident in FCC photo                   |
-| 2025-01  | Instinct E                |     -      |   TBC \*   | Airoha is clearly evident in FCC photo of Descent G2     |
-| 2025-02  | Descent G2                |     -      |   TBC \*   | Airoha is clearly evident in FCC photo                   |
-| 2025-04  | vívoactive 6              |     -      |  AG3352B   | AG3352 is readable in FCC photo, but B is obfuscated     |
-| 2025-05  | Forerunner 570 + 970      |     -      |  SYN4778   | SYN4778 is readable in FCC photo of FR 570               |
-| 2025-06  | Venu X1                   |     -      |  AG3352B   | GNSS chip in FCC photo is obfuscated, presumed Airoha    |
-| 2025-09  | fēnix 8 Pro               |     Y      |  SYN4778   | SYN4778 is clearly readable in FCC photo of the 51 mm    |
-| 2025-09  | Instinct Crossover AMOLED |     Y      |  SYN4778   | SYN4778 is clearly readable in FCC photo                 |
-| 2025-09  | Venu 4                    |     Y      |  SYN4778   | SYN4778 is blurry but readable in FCC photo              |
-| 2025-09  | Bounce 2                  |     -      |  AG3352B   | AG3352B is clearly readable in FCC photo                 |
-| 2026-05  | Forerunner 70 + 170       |     -      |  AG3352B   | Airoha is clearly evident in FCC photo, presumed AG3352B |
-| 2026-08  | fēnix 9 + fēnix 9 Pro     |     Y      |   TBC \*   |                                                          |
-| 2026-10  | Enduro 4                  |     Y      |   TBC \*   |                                                          |
+| Released | Watch                     | Multi-Band |       Chipset        | Comment                                                   |
+| :------: | ------------------------- | :--------: | :------------------: | --------------------------------------------------------- |
+| 2024-08  | fēnix 8                   |     Y      | SYN4778 <sup>1</sup> | 47762 is present in FCC photos - prototyping?             |
+| 2024-08  | Enduro 3                  |     Y      | SYN4778 <sup>1</sup> | 47762 is present in FCC photos - prototyping?             |
+| 2025-01  | Instinct 3                |     Y      |       AG3335M        | Airoha is clearly evident in FCC photo                    |
+| 2025-01  | Instinct E                |     -      |   TBC <sup>2</sup>   | Airoha is clearly evident in FCC photo of Descent G2      |
+| 2025-02  | Descent G2                |     -      |   TBC <sup>2</sup>   | Airoha is clearly evident in FCC photo                    |
+| 2025-04  | vívoactive 6              |     -      |       AG3352B        | AG3352 is readable in FCC photo, but B is obfuscated      |
+| 2025-05  | Forerunner 570 + 970      |     -      |       SYN4778        | SYN4778 is readable in FCC photo of FR 570                |
+| 2025-06  | Venu X1                   |     -      |       AG3352B        | FCC photo is obfuscated, presume AG3352B like VA 6        |
+| 2025-09  | fēnix 8 Pro               |     Y      | SYN4778 <sup>3</sup> | SYN4778 is clearly readable in FCC photo of the 51 mm     |
+| 2025-09  | Instinct Crossover AMOLED |     Y      |       SYN4778        | SYN4778 is clearly readable in FCC photo                  |
+| 2025-09  | Venu 4                    |     Y      |       SYN4778        | SYN4778 is blurry but readable in FCC photo               |
+| 2025-09  | Bounce 2                  |     -      |       AG3352B        | AG3352B is clearly readable in FCC photo                  |
+| 2026-05  | Forerunner 70 + 170       |     -      |       AG3352B        | Airoha is clearly readable in FCC photo, presumed AG3352B |
+| 2026-08  | fēnix 9 + fēnix 9 Pro     |     Y      |   TBC <sup>4</sup>   |                                                           |
+| 2026-10  | Enduro 4                  |     Y      |   TBC <sup>4</sup>   |                                                           |
 
- \* Notes:
+Notes:
 
-- The Instinct E and Descent G2 use an Airoha GNSS chip it could well be the AG3352B
-  - The Instinct E was released in Jan 2025, shortly after the Amazfit Active Max
-- FCC photos for the fēnix 8 and Enduro 3 show a chip labelled 47762CX, which was perhaps during testing?
-  - The teardown by F-Tipi confirmed the fēnix 8 uses the Synaptics SYN4778
-- FCC photo for the fēnix 8 Pro (47 mm) show a chip labelled 47762CX, which was perhaps during testing?
-  - The FCC photos of the fēnix 8 Pro (51 mm) clearly show the Synaptics SYN4778
-- The GNSS chipset of the fēnix 9, fēnix 9 Pro, and Enduro 4 is TBC
-  - It is not known whether they are Synaptics SYN4778, Airoha AG3365, or another brand
+1. FCC photos for the fēnix 8 and Enduro 3 show a chip labelled 47762CX, which was perhaps during testing?
+   - The teardown by F-Tipi confirmed the fēnix 8 uses the Synaptics SYN4778
+2. The Instinct E and Descent G2 use a single-band Airoha chip which could well be the AG3352B
+   - The Instinct E was released in Jan 2025, shortly after the Amazfit Active Max
+3. FCC photo for the fēnix 8 Pro (47 mm) shows a chip labelled 47762CX, which was perhaps during testing?
+   - The FCC photos of the fēnix 8 Pro (51 mm) clearly show the Synaptics SYN4778
+4. The GNSS chipset of the fēnix 9, fēnix 9 Pro, and Enduro 4 is TBC
+   - It is not known whether they are using the Synaptics SYN4778, Airoha AG3365, or something else
 
 
 
