@@ -22,8 +22,8 @@ A nice video by Paco Raap provides an overview of the ESP-GPS, and can be found 
 | :-----: | :-----: | :-----: | ------------------------------------------------------------ |
 | Jim Thompson                                                 | Australia   | [Flex2](https://www.seabreeze.com.au/Member/Details/Flex2)   | Custom 3D-printed enclosures - [Printables](https://www.printables.com/@Flex/models?search=gps) + [YouTube](https://www.youtube.com/@jimthompson5686) |
 | [Paco Raap](https://speedsurf.app/profile/paco_raap)         | Netherlands | [PacoRaapNL](https://www.seabreeze.com.au/Member/Details/PacoRaapNL) | Custom 3D-printed enclosure - [Printables](https://www.printables.com/@PacoRaap_2419250) + [YouTube](https://www.youtube.com/@pacoraap2285) |
-| [Simon Dijkstra](https://speedsurf.app/profile/freezer)      | Netherlands | [Freezer](https://www.seabreeze.com.au/Member/Details/Freezer) | Worked on "[classic](https://www.printables.com/model/320425-gps-case)" and "[compact](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Another-DIY-GPS-logger-approach?page=44)" enclosures with Andres |
-| [Andres Baas](https://speedsurf.app/profile/andres)          | Netherlands | [BigBoss](https://www.seabreeze.com.au/Member/Details/BigBoss) | Worked on "[classic](https://www.printables.com/model/320425-gps-case)" and "[compact](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Another-DIY-GPS-logger-approach?page=44)" enclosures with Simon |
+| [Simon Dijkstra](https://speedsurf.app/profile/freezer)      | Netherlands | [Freezer](https://www.seabreeze.com.au/Member/Details/Freezer) | Worked on "[classic](https://www.printables.com/@Bids3D_115696/models)" and "[compact](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Another-DIY-GPS-logger-approach?page=44)" enclosures with Andres |
+| [Andres Baas](https://speedsurf.app/profile/andres)          | Netherlands | [BigBoss](https://www.seabreeze.com.au/Member/Details/BigBoss) | Worked on "[classic](https://www.printables.com/@Bids3D_115696/models)" and "[compact](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Another-DIY-GPS-logger-approach?page=44)" enclosures with Simon |
 | [Salvador Yáñez](https://speedsurf.app/profile/c4025485-b0c6-410f-9a39-6378c0135147) | Spain       | [veton](https://www.seabreeze.com.au/Member/Details/veton)   | Designer and seller of the [SYRAC GPS](https://syrac.es/en/provis/79-syrac-gps-for-watersports.html) |
 
 Notes:
@@ -46,7 +46,7 @@ Notes:
 
 | Name                                                         | Country | Seabreeze | Comments                                                     |
 | :-----: | :-----: | :-----: | ------------------------------------------------------------ |
-| [Lars Schneider](https://speedsurf.app/profile/8a6e48dc-1f66-4f72-8b11-13c29f7c72e1) | Germany | ? | Uses the "[classic](https://www.printables.com/model/320425-gps-case)" design of Andres (BigBoss) and Simon (Freezer) |
+| [Lars Schneider](https://speedsurf.app/profile/8a6e48dc-1f66-4f72-8b11-13c29f7c72e1) | Germany | ? | Uses the "[classic](https://www.printables.com/@Bids3D_115696/models)" design of Andres (BigBoss) and Simon (Freezer) |
 | [Paul Fink](https://speedsurf.app/profile/paul)            | Germany | [Actimel87](https://www.seabreeze.com.au/Member/Details/Actimel87) | Manufactures a transparent milled enclosure - story on [speedsurf.app](https://speedsurf.app/nl/news/a-new-gps-device-just-arrived-at-speedsurf-app) |
 
 
@@ -70,7 +70,8 @@ Notes:
 | Mike Layzel | Australia | [Decrepit](https://www.seabreeze.com.au/Member/Details/Decrepit) | Evaluated the ESP-GPS for use with GPSTC |
 | Andrew Daff | Australia | [Sailquik](https://www.seabreeze.com.au/Member/Details/Sailquik) | Evaluated the ESP-GPS for use with GPSTC |
 | Nick Bozikovic  | Australia     | [Boz](https://www.seabreeze.com.au/Member/Details/Boz)       | Collaborated with Flex2 on 3D-printed casings |
-| Rolan Schmidt    | Australia     | [Rolz](https://www.seabreeze.com.au/Member/Details/Rolz)     | Tested the "[classic](https://www.printables.com/model/320425-gps-case)" design of Andres and Simon - [YouTube](https://www.youtube.com/@rrschmid) |
+| Bart Idsinga | Netherlands | ? | Helped Andres and Simon with "[classic](https://www.printables.com/@Bids3D_115696/models)" and "[compact](https://www.seabreeze.com.au/forums/Windsurfing/Gps/Another-DIY-GPS-logger-approach?page=44)" |
+| Rolan Schmidt    | Australia     | [Rolz](https://www.seabreeze.com.au/Member/Details/Rolz)     | Tested Andres and Simon's "[classic](https://www.printables.com/@Bids3D_115696/models)" design - [YouTube](https://www.youtube.com/@rrschmid) |
 | [Paul Fink](https://speedsurf.app/profile/paul) | Germany      | [Actimel87](https://www.seabreeze.com.au/Member/Details/Actimel87) | Manufactured a transparent milled enclosure |
 | Jurjen van der Noord | Netherlands  | [JurjenvdN](https://www.seabreeze.com.au/Member/Details/JurjenvdN) | Created custom 3D-printed casing                             |
 | ?                | ?             | [GaragePlant](https://www.seabreeze.com.au/Member/Details/GaragePlant) | Created custom 3D-printed casing                            |
