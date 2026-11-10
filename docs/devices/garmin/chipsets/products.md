@@ -38,7 +38,6 @@ A lot of this recent history is based on photos provided by the Federal Communic
 | :------: | ------------------------- | :--------: | :--------: | -------------------------------------------------------- |
 | 2024-08  | fēnix 8                   |     Y      | SYN4778 \* | 47762 is present in FCC photos - prototyping?            |
 | 2024-08  | Enduro 3                  |     Y      | SYN4778 \* | 47762 is present in FCC photos - prototyping?            |
-| 2024-08  | fēnix E                   |     -      |  AG3335MN  | The fēnix E is a rebranded epix (Gen 2)                  |
 | 2025-01  | Instinct 3                |     Y      |  AG3335M   | Airoha is clearly evident in FCC photo                   |
 | 2025-01  | Instinct E                |     -      |  AG3335MN  | Airoha is clearly evident in FCC photo of Descent G2     |
 | 2025-02  | Descent G2                |     -      |  AG3335MN  | Airoha is clearly evident in FCC photo                   |
