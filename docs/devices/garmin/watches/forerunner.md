@@ -46,7 +46,7 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | --------------------------- |
-| Forerunner 55 | 2021-06 | 3869, 4033, 4838 | CXD56xxxx | 3.4 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-3A791586-B59F-4B37-B9C5-5A41F8C6BE0B/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + [forum](https://forums.garmin.com/developer/connect-iq/f/discussion/271658/what-is-it-fr158) |
+| Forerunner 55 | 2021-06 | 3869, 4033, 4838 | CXD56xxxx | 3.4 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-3A791586-B59F-4B37-B9C5-5A41F8C6BE0B/EN-US/GUID-783E2C4A-85FB-4E82-946E-16003B9B599A.html) + FCC [teardown](https://fccid.io/IPH-04162) |
 | Forerunner 945 LTE          | 2021-06 | 3652, 3978 | CXD56xxxx | 4.2 | Y |  |
 | Forerunner 745 | 2020-09 | 3589, 3794 | CXD56xxxx | 3.3 | Y | |
 | Forerunner 45 Plus | 2020-08 | 3469 | CXD56xxxx | 1.4 | - | |
@@ -56,6 +56,8 @@ Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipset
 | Forerunner 945       | 2019-04 | 3113, 3441 | CXD56xxxx | 3.3 | Y | Embedded Computing [teardown](https://www.edn.com/teardown-a-smartwatch-with-an-athletic-tradition/) |
 
 Alternative product number(s) include APAC models.
+
+The Forerunner 158 is a Chinese version of the Forerunner 55 - see Garmin [forum](https://forums.garmin.com/developer/connect-iq/f/discussion/271658/what-is-it-fr158) for more details.
 
 Additional [notes](../../../chipsets/sony/devices.md) about the Sony chipsets are available on another page.
 
