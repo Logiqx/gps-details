@@ -108,6 +108,7 @@ This does NOT always hold true though, so you cannot make assumptions:
 - Instinct 3 (Airoha) vs Instinct Crossover AMOLED (Synaptics)
 - fenix E (Airoha) vs fenix 8 (Synaptics)
 - Forerunner 70 / 170 (Airoha) vs Forerunner 570 / 970 (Synaptics)
+- Forerunner 55 (Sony) vs Forerunner 255 (Airoha)
 - vívoactive 6 (Airoha) vs Venu 4 (Synaptics)
 
 
