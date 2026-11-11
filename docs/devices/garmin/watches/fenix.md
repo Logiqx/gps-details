@@ -14,14 +14,14 @@ The various models are listed in reverse-chronological order. The release dates 
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| fēnix 9 Pro - 51 mm, Solar | 2026-08 | 4956 | TBC | 6.0 | Y |  |
-| fēnix 9 Pro - 47 mm, Solar | 2026-08 | 4955 | TBC | 6.0 | Y |  |
-| fēnix 9 Pro - 51 mm | 2026-08 | 4954 | TBC | 6.0 | Y |  |
-| fēnix 9 Pro - 47 mm | 2026-08 | 4953 | TBC | 6.0 | Y |  |
-| fēnix 9 Pro - 43 mm | 2026-08 | 4952 | TBC | 6.0 | Y |  |
-| fēnix 9 - 51 mm | 2026-08 | 5134 | TBC | 6.0 | Y |  |
-| fēnix 9 - 47 mm | 2026-08 | 5134 | TBC | 6.0 | Y |  |
-| fēnix 9 - 43 mm | 2026-08 | 5133 | TBC | 6.0 | Y |  |
+| fēnix 9 Pro - 51 mm, Solar | 2026-08 | 4956 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-A5172) |
+| fēnix 9 Pro - 47 mm, Solar | 2026-08 | 4955 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-A5170) |
+| fēnix 9 Pro - 51 mm | 2026-08 | 4954 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-A5171) |
+| fēnix 9 Pro - 47 mm | 2026-08 | 4953 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-A5169) |
+| fēnix 9 Pro - 43 mm | 2026-08 | 4952 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-05168) |
+| fēnix 9 - 51 mm | 2026-08 | 5134 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-05420) |
+| fēnix 9 - 47 mm | 2026-08 | 5134 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-05419) |
+| fēnix 9 - 43 mm | 2026-08 | 5133 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-05418) |
 
 
 

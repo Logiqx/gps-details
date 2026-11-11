@@ -39,7 +39,7 @@ The Instinct Crossover AMOLED has been confirmed as using the Synaptics SYN4778.
 
  \* Notes:
 
-1. The Instinct E could be using the single-band AG3335M or AG3352B, just the [vívoactive 6](vivoactive.md) which was released 2025-04.
+1. The Instinct E could be using the single-band AG3335M or AG3352B, just like the [vívoactive 6](vivoactive.md) which was released 2025-04.
 2. The Instinct 2X Solar and Instinct Crossover have a significant smoothing issue and are NOT recommended for wind sports.
 
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.

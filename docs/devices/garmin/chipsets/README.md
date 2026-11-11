@@ -53,15 +53,24 @@ The following sections will describe each of the topics individually.
 
 ### Physical Teardown
 
-Physical teardowns are a good source of definitive proof about what is inside a specific watch.
+Physical teardowns can provide definitive proof about what is inside a specific watch.
 
 #### Federal Communications Commission (FCC)
 
-The Federal Communications Commission ([FCC](https://fccid.io/IPH)) show internal photos, but only 6 months after the application date.
+The Federal Communications Commission (FCC) show internal photos, but only 6 months after the application date.
 
-#### Third parties
+- [Garmin International Inc](https://fccid.io/IPH) - FCC Grantee Code IPH
 
-Links to numerous third party teardowns are also available in the list of Garmin watches, available via this [link](../watches/README.md).
+#### Third Parties
+
+The Garmin Rumors website has two useful pages:
+
+- [Inside every Garmin](https://garminrumors.com/teardowns/) - Teardown photos and the chips
+- [The chips inside every Garmin](https://garminrumors.com/teardowns/chips/) - Every chip we could read off the inside photos
+
+Links to numerous third party teardowns are also on this site:
+
+- [Garmin Watches](../watches/README.md) - Models within different watch families
 
 
 
