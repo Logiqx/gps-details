@@ -32,7 +32,7 @@ The Descent G1 was released one month after the [Instinct 2](instinct.md). They 
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| Descent G1 / G1 Solar | 2022-03 | 4005, 4132 | CXD56xxxx | 3.4 | Y | |
+| Descent G1 / G1 Solar | 2022-03 | 4005, 4132 | CXD56xxxx | 3.4 | Y | Possible FCC [teardown](https://fccid.io/IPH-04335) |
 | Descent Mk2 S | 2021-05 | 3542, 3930 | CXD56xxxx | 3.4 | Y | |
 | Descent Mk2 / Mk2i | 2020-10 | 3258, 3702 | CXD56xxxx | 3.4 | Y | |
 
