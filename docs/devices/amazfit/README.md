@@ -1,26 +1,28 @@
-## AmazFit
+## Amazfit
 
 ### Company
 
-Amazfit smartwatches are made by Zepp Health Corp (formerly Huami Corp), a health technology company. Zepp Health has a historical and ongoing relationship with Xiaomi as a manufacturing partner and exclusive wearable provider for Xiaomi's fitness products, such as the Mi Band series. Huami developed and manufactured many of these devices and also offers its own brand, Amazfit, while also collaborating on the Zepp Life app (formerly Mi Fit) for managing Xiaomi devices.
+Amazfit smartwatches are made by Zepp Health Corp (formerly Huami Corp), a health technology company.
+
+Zepp Health has a historical and ongoing relationship with Xiaomi as a manufacturing partner and exclusive wearable provider for Xiaomi's fitness products, such as the Mi Band series. Huami developed and manufactured many of these devices, while also collaborating on the Zepp Life app (formerly Mi Fit) for managing Xiaomi devices.
 
 
 
 ### Watches
 
-There is a list of Amazfir watches from 2016 to 2024 on [r/amazfit](https://www.reddit.com/r/amazfit/comments/1fyvqyj/list_of_every_amazfit_release/) which may prove useful.
+A list of some AmazFit of watches that have been studied in reverse-chronological order.
+
+|             Model             | Released |     GNSS     | Multi-Band | Issues? |
+| :---------------------------: | :------: | :----------: | :--------: | :-----: |
+|   [Bip 5](watches/bip-5.md)   | Aug 2023 | Sony CXD5605 |     No     |    ?    |
+|   [GTR 4](watches/gtr-4.md)   | Sep 2022 |    Airoha    |    Yes     |    ?    |
+| [T-Rex 2](watches/t-rex-2.md) | May 2022 |      ?       |    Yes     |   Yes   |
+|   [Bip U](watches/bip-u.md)   | Oct 2020 | Sony CXD5605 |     No     |    ?    |
+
+The T-Rex 2 has some really big issues which are summarised on a separate [page](watches/t-rex-2.md).
 
 
 
-### Chipsets
+### References
 
-The [Amazfit BIP 5](https://uk.amazfit.com/products/amazfit-bip-5) (Aug 2023) uses the [Sony CXD5605](https://www.sony-semicon.com/en/products/lsi-ic/gps.html), according to the deep dive teardown by [TechInsights](https://www.techinsights.com/blog/deep-dive-teardown-amazfit-bip-5-a2215-smartwatch?utm_source=direct&utm_medium=website) in Mar 2024.
-
-
-
-### Limitations
-
-The Zepp app does not provide a FIT export. It has yet to be confirmed if the GPX or TCX exports include the Doppler-derived speeds.
-
-
-
+There is a list of Amazfit watches from 2016 to 2024 on [r/amazfit](https://www.reddit.com/r/amazfit/comments/1fyvqyj/list_of_every_amazfit_release/).
