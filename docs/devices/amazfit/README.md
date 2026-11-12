@@ -10,7 +10,7 @@ Zepp Health has a historical and ongoing relationship with Xiaomi as a manufactu
 
 ### Watches
 
-A list of some AmazFit of watches that have been studied in reverse-chronological order.
+A list of some AmazFit of watches that have been examined.
 
 |             Model             | Released |     GNSS     | Multi-Band | Issues? |
 | :---------------------------: | :------: | :----------: | :--------: | :-----: |

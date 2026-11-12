@@ -12,7 +12,7 @@ Only one session has been examined, but it shows big issues with this watch when
 
 The Amazfit watches do not provide FIT exports, so the GPX files must be used.
 
-The image below shows the speeds in the PGX (solid line) vs the position-derived speeds (dotted line).
+The image below shows the GPX speeds (solid line) vs the position-derived speeds (dotted line).
 
 ![img](img/t-rex-2.png)
 
@@ -24,15 +24,15 @@ Several points are immediately obvious:
 
 The biggest issue is the smoothing because it adversely affects the alpha 500 and gybe scoring. The fastest alpha 500 (position-derived) is 21.29 kt but using the speeds in the GPX is 23.99 kt. The position-derived alpha 500 of 21.29 kt is probably the most realistic, but there is no way to know the true result without a benchmark device. The speeds in the FIT are not reflecting the slowest parts of the gybes, so the alpha 500 is inflated.
 
-The smoothing also causing big issues for gybe scoring on speedsurfing.app, and this session is currently the top session in the leaderboard. The reason for the high gybe score is not the quality of the gybe, but the fact that the speeds in the GPX have been so heavily smoothed. The min speeds are unrealistically high, and the difference between entry speed and exit speed is reduced. This massively inflates gybe scores for this device.
+The smoothing also causes obvious issues for gybe scoring on speedsurfing.app, and this session is currently the top session in the leaderboard. The reason for the high gybe score is not the quality of the gybe, but the fact that the speeds in the GPX have been so heavily smoothed. The min speeds are unrealistically high, and the difference between entry speed and exit speed is reduced. This massively inflates gybe scores for this device.
 
 
 
 ### Issues
 
-It is clear that speeds from the T-Rex 2 are not realistic, and this could be true for other Amazfit watches. The smoothing means that alpha 500 and gybe scores cannot be trusted from this device, and quite possibly other Amazfit watches.
+It is clear the GPX file speeds from the T-Rex 2 are not realistic, and this may be an issue for other Amazfit watches. The smoothing means that alpha 500 and gybe scores cannot be trusted from this device, and quite possibly other Amazfit watches.
 
-The GPX file does not contain the Doppler-derived speeds from the GNSS receiver inside the watch. Whether this is due to how the activity has been recorded is yet to be confirmed. Perhaps it was due to the use of a sport mode that is not appropriate?
+The GPX file clearly does not contain the Doppler-derived speeds from the GNSS receiver. Whether this is due to how the activity has been recorded is yet to be confirmed. Perhaps the issues are related to the sport mode that was used to record this activity?
 
 
 
