@@ -18,7 +18,8 @@ The Descent G2 was released one month after the [Instinct 3](instinct.md). It ha
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
 | Descent G2 | 2025-02 | 4588 | TBC \* | 5.1 | Y | FCC [teardown](https://fccid.io/IPH-04952) |
 | Descent Mk3i - 51mm | 2023-11 | 4223, 4225 | AG3335M | 5.1 | Y | FCC [teardown](https://fccid.io/IPH-04448) |
-| Descent Mk3 / Mk3i - 43mm | 2023-11 | 4222, 4224 | AG3335M | 5.1 | Y | FCC [teardown](https://fccid.io/IPH-A4448) |
+| Descent Mk3i - 43mm | 2023-11 | 4222, 4224 | AG3335M | 5.1 | Y | FCC [teardown](https://fccid.io/IPH-04448) |
+| Descent Mk3 - 43mm | 2023-11 | 4222, 4224 | AG3335M | 5.1 | Y | FCC [teardown](https://fccid.io/IPH-A4448) |
 
  \* The Descent G2 could be using the single-band AG3335M or AG3352B, just like the [vívoactive 6](vivoactive.md) which was released 2025-04.
 
@@ -32,9 +33,11 @@ The Descent G1 was released one month after the [Instinct 2](instinct.md). They 
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | -------- |
-| Descent G1 / G1 Solar | 2022-03 | 4005, 4132 | CXD56xxxx | 3.4 | Y | Possible FCC [teardown](https://fccid.io/IPH-04335) |
-| Descent Mk2 S | 2021-05 | 3542, 3930 | CXD56xxxx | 3.4 | Y | |
-| Descent Mk2 / Mk2i | 2020-10 | 3258, 3702 | CXD56xxxx | 3.4 | Y | |
+| Descent G1 Solar | 2022-03 | 4005, 4132 | CXD56xxxx | 3.4 | Y | FCC [teardown](https://fccid.io/IPH-04272) |
+| Descent G1 | 2022-03 | 4005, 4132 | CXD56xxxx | 3.4 | Y | FCC [teardown](https://fccid.io/IPH-A4272) |
+| Descent Mk2S | 2021-05 | 3542, 3930 | CXD56xxxx | 3.4 | Y | FCC [teardown](https://fccid.io/IPH-03898) |
+| Descent Mk2 | 2020-10 | 3258, 3702 | CXD56xxxx | 3.4 | Y | FCC [teardown](https://fccid.io/IPH-03654) |
+| Descent Mk2i | 2020-10 | 3258, 3702 | CXD56xxxx | 3.4 | Y | FCC [teardown](https://fccid.io/IPH-A3654) |
 
 Alternative product number(s) are APAC models.
 
