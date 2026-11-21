@@ -67,6 +67,7 @@ Notes:
 | Name             | Country       | Seabreeze                                                    | Comments                                                     |
 | :-----: | :-----: | :-----: | ------------------------------------------------------------ |
 | Peter Richterich | United States | [boardsurfr](https://www.seabreeze.com.au/Member/Details/boardsurfr) | Provided technical insights + [GPY](https://github.com/prichterich/compactgnss) format |
+| Alan Hopping | Australia | [Alhop](https://www.seabreeze.com.au/Member/Details/Alhop) | Proposed the use of an SD NAND IC |
 | Mike Layzel | Australia | [Decrepit](https://www.seabreeze.com.au/Member/Details/Decrepit) | Evaluated the ESP-GPS for use with GPSTC |
 | Andrew Daff | Australia | [Sailquik](https://www.seabreeze.com.au/Member/Details/Sailquik) | Evaluated the ESP-GPS for use with GPSTC |
 | Nick Bozikovic  | Australia     | [Boz](https://www.seabreeze.com.au/Member/Details/Boz)       | Collaborated with Flex2 on 3D-printed casings |
