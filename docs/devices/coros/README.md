@@ -24,6 +24,7 @@ This project is work in progress and there are more things to be documented.
 
 This project is work in progress and new articles are added periodically.
 
+- [Satellites](investigations/sats/README.md) - 21 Nov 2026
 - [APEX 4](investigations/apex-4/README.md) - 30 Aug 2026
 - [Alignment issues](alignment/README.md) - 5 Apr 2025
 - [Sony traits](sony/README.md) - 1 Jan 2025
