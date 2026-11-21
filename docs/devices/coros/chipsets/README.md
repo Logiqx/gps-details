@@ -37,7 +37,7 @@ FCC ID applications by [2BBGF](https://fccid.io/2BBGF).
 Thoughts / observations:
 
 - The NOMAD was originally released with the SYN4778 in 2025, but switched to the AG3365 in 2026.
-- The PACE 4 motherboard saw some motherboard changes in Jan 2026, but both versions use the SYN4778.
+- The PACE 4 motherboard saw some changes in Jan 2026, but both versions use the SYN4778.
 - Perhaps COROS will also update the APEX 4 to use the AG3365 in the future?
 
 
