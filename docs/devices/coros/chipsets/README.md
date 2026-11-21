@@ -21,8 +21,6 @@ The external and internal photos are typically made available 6 months after the
 
 FCC ID applications by [2BBGF](https://fccid.io/2BBGF).
 
-The NOMAD was originally released with the SYN4778 in 2025, but switched to the AG3365 in 2026. Will COROS will also update the APEX 4 to use the AG3365 in the future?
-
 | Watch                                          |    Date    |   Brand   |                             Chip                             |                            Photos                            |
 | ---------------------------------------------- | :--------: | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [PACE 4 Pro](https://fccid.io/2BBGF-W337)      | 2026-09-29 |     ?     |                              ?                               |                              -                               |
@@ -36,13 +34,17 @@ The NOMAD was originally released with the SYN4778 in 2025, but switched to the 
 | [COROS VERTIX 2S](https://fccid.io/2BBGF-B19S) | 2024-05-17 |  Airoha   | [AG3335M](https://www.airoha.com/products/p/A0Dmm0pijWW3MScb) | [Internals](https://fccid.io/m/245e5758aaaa4c155663e67676964e8d9b0bc8c06afd0c9b16299b3f52b55f6d.pdf) |
 | [PACE 3](https://fccid.io/2BBGF-W331)          | 2023-08-23 |  Airoha   | [AG3335M](https://www.airoha.com/products/p/A0Dmm0pijWW3MScb) | [Internals](https://fccid.io/m/ffcc9142ed9f76f6db8554df7562c4ecdedcc59846ff83006ef3c65846783e61.pdf) |
 
+Thoughts / observations:
+
+- The NOMAD was originally released with the SYN4778 in 2025, but switched to the AG3365 in 2026.
+- The PACE 4 motherboard saw some motherboard changes in Jan 2026, but both versions use the SYN4778.
+- Perhaps COROS will also update the APEX 4 to use the AG3365 in the future?
+
 
 
 ### Coros Wearables Inc.
 
 FCC ID applications by [2AEHH](https://fccid.io/2AEHH).
-
-The APEX 2 Pro was originally release in Nov 2022, but was updated in Jan 2024. The motherboard layout and antenna appear to have changed quite a lot, but the AG335M is used in both versions. 
 
 | Watch                                      |    Date    |  Brand   |                             Chip                             |                            Photos                            |
 | ------------------------------------------ | :--------: | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -57,5 +59,8 @@ The APEX 2 Pro was originally release in Nov 2022, but was updated in Jan 2024. 
 | [APEX 42mm](https://fccid.io/2AEHH-B13)    | 2018-12-04 |   Sony   |                          CXD5603GF                           | [Internals](https://fccid.io/m/1ae7fddec698a34feeee2cafa8ae1f91f7a8fdd34f6717b0d789979cc829c06b.pdf) |
 | [PACE](https://fccid.io/2AEHH-PACEM1)      | 2017-10-10 | MediaTek |                           MTK3333                            | [Internals](https://fccid.io/m/8e7adcf6eea3cb7408d07e87aa570113246f2385a8bd3299f90f534730b29a30.pdf) |
 
+Thoughts / observations:
 
+- The APEX 2 Pro was originally released in Nov 2022, but it was subsequently updated in Jan 2024.
+- The motherboard and antenna appear to have changed quite a lot, but the AG335M is used in both versions. 
 
