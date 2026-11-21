@@ -53,13 +53,25 @@ Ideally COG would have two decimal places for the benefit of downstream processi
 
 
 
+### APEX 2 Pro + VERTIX 2S
+
+The APEX 2 Pro + VERTIX 2S behave a little differently to the APEX 4.
+
+- More satellites being reported, presumably related to the fact it is a different GNSS chipset
+  - It is possible the Airoha AG3335M is reporting the number of L1 + L5 signals in use
+- HDOP is missing on the APEX 2 Pro and VERTIX 2S 
+
+
+
 ### Next Steps
 
 - Consider improvements to existing filters
   - Sudden loss of satellites - e.g. 30 to 20 within a few seconds may be a crash
 - Compare the actual speed data of the APEX 4 against a suitable benchmark device
   - Ideally a Motion or ESP, but next best would be GW-60, GW-52, or GW-31
+- Report absence of HDOP to COROS
+  - HDOP is present for APEX 4, but not APEX 2 Pro or VERTIX 2S + maybe others 
+
 - Report bugs in GPSResults
   - HDOP is being doubled and gets confused by more than 32 sats - e.g. Apex 2 Pro
-
 
