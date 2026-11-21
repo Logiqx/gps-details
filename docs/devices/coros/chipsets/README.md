@@ -1,5 +1,7 @@
 ## COROS - GNSS Chipsets
 
+Author: Michael George
+
 Date created: 21 Nov 2026
 
 
@@ -62,5 +64,5 @@ FCC ID applications by [2AEHH](https://fccid.io/2AEHH).
 Thoughts / observations:
 
 - The APEX 2 Pro was originally released in Nov 2022, but it was subsequently updated in Jan 2024.
-- The motherboard and antenna appear to have changed quite a lot, but the AG335M is used in both versions. 
+- The motherboard and antenna appear to have changed quite a lot, but the AG3335M is used in both versions. 
 
