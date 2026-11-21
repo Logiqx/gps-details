@@ -61,7 +61,7 @@ This FIT file reported a variable number of satellites during the session, presu
 
 ![speedsurf-strand-horst-2026-11-17](img/speedsurf-strand-horst-2026-11-17.png)
 
-The FIT file contained only 3 developer fields, and hdop (definition #13) was missing:
+The FIT file of the APEX 2 Pro contained only 3 developer fields, and hdop (definition #13) was missing:
 
 ![speedsurf-strand-horst-2026-11-17-fields](img/speedsurf-strand-horst-2026-11-17-fields.png)
 
@@ -73,11 +73,23 @@ This FIT file reported a variable number of satellites during the session, presu
 
 ![speedsurf-palma-de-mallorca-2026-11-20](img/speedsurf-palma-de-mallorca-2026-11-20.png)
 
-The FIT file contained only 3 developer fields, and hdop (definition #13) was missing:
+The FIT file of the VERTIX 2S contained only 3 developer fields, and hdop (definition #13) was missing:
 
 ![speedsurf-palma-de-mallorca-2026-11-20-fields](img/speedsurf-palma-de-mallorca-2026-11-20-fields.png)
 
 
+
+#### APEX 4
+
+This FIT file reported a variable number of satellites during the session, presumably the ones currently in use.
+
+The number of satellites for the APEX 4 (Synaptics SYN4778) differs from the APEX 2 Pro + VERTIX 2S (Airoha AG3335M).
+
+![RoskildeSpeedsurfing20261114115018](img/RoskildeSpeedsurfing20261114115018.png)
+
+The FIT file of the APEX 4 contained all 4 developer fields:
+
+![RoskildeSpeedsurfing20261114115018-fields](img/RoskildeSpeedsurfing20261114115018-fields.png)
 
 ### Summary
 
@@ -85,8 +97,9 @@ Firmware 3.2108.0 is a welcome improvement:
 
 - idx + Sat + cog have been re-instated
 - Sat appears to represent the number of L1 + L5 signals in use 
+- Sat counts for APEX 4 (Synaptics SYN4778) differ from APEX 2 Pro + VERTIX 2S (Airoha AG3335M)
 
-However there is still work to be done:
+There is still work to be done by COROS:
 
-- hdop is still missing in 3.2108.0
+- hdop (definition #13) is still missing for some watches in 3.2108.0 - e.g. APEX 2 Pro + VERTIX 2S
 
