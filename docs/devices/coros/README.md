@@ -14,6 +14,7 @@ General advice and guidance for COROS watches is in another GitHub repo.
 This project is work in progress and there are more things to be documented.
 
 - [Firmware](firmware/README.md) behaviours - 26 Aug 2026
+- [GNSS chipsets](chipsets/README.md) - 21 Nov 2026
 - [Repeating speeds](swinging/README.md) - 16 Mar 2025
 - [FIT metadata](fit/README.md) - 11 Feb 2025
 
