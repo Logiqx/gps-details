@@ -67,6 +67,18 @@ The FIT file of the APEX 2 Pro contained only 3 developer fields, and hdop (defi
 
 
 
+#### VERTIX 2
+
+This FIT file reported a variable number of satellites during the session, presumably the L1 + L5 signals currently in use.
+
+![speedsurf-stintino-2026-11-15-vertix-2](img/speedsurf-stintino-2026-11-15-vertix-2.png)
+
+The FIT file of the VERTIX 2 contained all 4 developer fields:
+
+![speedsurf-stintino-2026-11-15-vertix-2-fields](img/speedsurf-stintino-2026-11-15-vertix-2-fields.png)
+
+
+
 #### VERTIX 2S
 
 This FIT file reported a variable number of satellites during the session, presumably the L1 + L5 signals currently in use.
@@ -91,15 +103,19 @@ The FIT file of the APEX 4 contained all 4 developer fields:
 
 ![RoskildeSpeedsurfing20261114115018-fields](img/RoskildeSpeedsurfing20261114115018-fields.png)
 
+
+
 ### Summary
 
 Firmware 3.2108.0 is a welcome improvement:
 
-- idx + Sat + cog have been re-instated
+- idx + Sat + cog have been re-instated in 3.2108.0
 - Sat appears to represent the number of L1 + L5 signals in use 
 - Sat counts for APEX 4 (Synaptics SYN4778) differ from APEX 2 Pro + VERTIX 2S (Airoha AG3335M)
 
-There is still work to be done by COROS:
+There is still work to be done by COROS, specifically relating to hdop (definition #13):
 
-- hdop (definition #13) is still missing for some watches in 3.2108.0 - e.g. APEX 2 Pro + VERTIX 2S
+- hdop has been re-instated for some watches in 3.2108.0 - e.g. APEX 4 + VERTIX 2
+- hdop is still missing for some watches in 3.2108.0 - e.g. APEX 2 Pro + VERTIX 2S
+- It is yet to be confirmed which COROS watches are still missing hdop
 
