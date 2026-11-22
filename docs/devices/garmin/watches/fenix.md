@@ -46,7 +46,7 @@ The fēnix E is is essentially a rebranded, budget-friendly version of the [epix
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| fēnix E | 2024-08 | 4666 | AG3335MN | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1652337/pn/010-03025-00#specs) + FCC [teardown](https://fccid.io/IPH-A04252) |
+| fēnix E <sup>[1]</sup> | 2024-08 | 4666 | AG3335MN | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1652337/pn/010-03025-00#specs) + FCC [teardown](https://fccid.io/IPH-A04252) |
 | fēnix 7X Pro - Sapphire Solar | 2023-05 | 4376 | AG3335M | 5.2 | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + FCC [teardown](https://fccid.io/IPH-A04524) |
 | fēnix 7 Pro - Sapphire Solar | 2023-05 | 4375 | AG3335M | 5.2 | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + FCC [teardown](https://fccid.io/IPH-A04523) |
 | fēnix 7S Pro - Sapphire Solar | 2023-05 | 4374 | AG3335M | 5.2 | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + FCC [teardown](https://fccid.io/IPH-A04522) |
@@ -63,7 +63,9 @@ The fēnix E is is essentially a rebranded, budget-friendly version of the [epix
 | fēnix 7 | 2022-01 | 3906, 3909 | AG3335MN | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + FCC [teardown](https://fccid.io/IPH-A04111) |
 | fēnix 7S | 2022-01 | 3905, 3908 | AG3335MN | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C001C335-A8EC-4A41-AB0E-BAC434259F92/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + FCC [teardown](https://fccid.io/IPH-A04110) |
 
-The fēnix E may be using the single-band AG3352B, just like the [vívoactive 6](vivoactive.md) which was released 2025-04.
+Notes:
+
+1. The fēnix E could be using the single-band AG3335MN or AG3352B, just like the [vívoactive 6](vivoactive.md) which was released 2025-04.
 
 Alternative product number(s) are APAC variants.
 
