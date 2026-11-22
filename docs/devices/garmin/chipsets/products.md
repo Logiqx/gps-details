@@ -139,7 +139,7 @@ The Instinct 3 and Instinct E refer to the AG3335M and AG3335MN respectively. Th
 | ------- | -------- | ------------------------------------------------------------ |
 | 3865    | AG3335M  | Edge 840<br />Edge 1050<br />epix Pro (Gen 2)<br />fēnix 7 Pro<br />Forerunner 255<br />Forerunner 265<br />Forerunner 955<br />Forerunner 965<br />Instinct 2X<br />Instinct 3 |
 | 3866    | AG3335MN | epix (Gen 2)<br />fēnix 7<br />fēnix E<br />Forerunner 165<br />Instinct E<br />Descent G2<br />Venu Sq 2<br />Venu 3S<br />vívoactive 5 |
-| 4548    | AG3352   | Bounce 2<br />Forerunner 170<br />vívoactive 6               |
+| 4548    | AG3352   | Forerunner 70<br />vívoactive 6                              |
 
 Several teardowns show the AG3335M:
 
