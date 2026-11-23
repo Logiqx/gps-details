@@ -44,7 +44,7 @@ It is very common for data issues to be caused by a GNSS configuration such as "
 
 This particular session used Garmin's regular "windsurfing" activity and thus the GNSS configuration is the responsibility of the user. The default configuration on the fenix 9 Pro is called "normal" (corresponding to the [power mode](https://logiqx.github.io/gps-details/devices/garmin/power/)) and uses what they call SatIQ. The aim is to conserve battery power and only use the full range of GNSS signals when quality drops.
 
-This approach is fine when running, but highly undesirable when speedsurfing because we require accurate speeds throughout the session. SatIQ will only change to a better GNSS configuration when quality drops beneath a certain threshold, but this can lead to bad data being recorded. The data quality will not be optimal, and some of the GNSS fixes will be of poor quality.
+This approach is fine when running or cycling, but highly undesirable for speedsurfing when accurate speeds are required every second. SatIQ will only change to the best GNSS configurations when quality drops beneath a certain threshold, but this will lead to bad data being recorded. The data quality will rarely be optimal, and some of the GNSS fixes will be of poor quality.
 
 
 
@@ -52,13 +52,13 @@ This approach is fine when running, but highly undesirable when speedsurfing bec
 
 It is possible to see when the watch was changing between different GNSS configurations using the [FIT File Viewer](https://www.fitfileviewer.com/).
 
-For this particular session it is worth noting that when the spikes occurred it was using the most basic configuration (i.e. GPS + Galileo). The watch then decided there was a quality issue and switched to GPS + QZSS + Galileo + BeiDou.
+During this particular session it is worth noting that when the spikes occurred it was using the most basic configuration (i.e. GPS + Galileo). The watch then decided there was a quality issue and switched to GPS + QZSS + Galileo + BeiDou.
 
-The watch knew there was a problem with GNSS performance, so it changed the GNSS configuration accordingly.  However, it was really too late because a number of poor quality fixes had already been recorded.
+The watch knew there was a problem with GNSS performance, so it changed the GNSS configuration accordingly.  However, it was already too late because a number of poor quality fixes had already been recorded.
 
 ![gps-events](img/gps-events.png)
 
-n.b. We will soon lose the luxury of seeing GPS Events in FIT files as Garmin have stopped recording it in recent firmware releases on their newer watches. This is really quite disappointing because the data if really useful for diagnostic purposes.
+n.b. We will soon lose the ability to see GPS Events in FIT files as Garmin have stopped recording them in recent firmware releases for their newest watches. This is really quite disappointing because the data is really useful for diagnostic purposes.
 
 
 
@@ -72,13 +72,13 @@ It is therefore important to select the best possible GNSS configuration on a wa
 
 #### Every Second Recording
 
-In addition to using a suitable GNSS configuration it is important that Garmin users set their watch to "every second" recording. Garmin watches are shipped with "smart" recording as the default, but that it not appropriate when speedsurfing.
+In addition to using a suitable GNSS configuration it is important that Garmin users set their watch to "every second" recording. Garmin watches are shipped with "smart" recording as the default, but that is not appropriate when speedsurfing.
 
-Gaps in the data will usually reduce the accuracy of results and also make it much harder to diagnose issues in the data. When data is being recorded every second it is possible to use neighbouring points to identify likely spikes, etc.
+Gaps in the data will usually reduce the accuracy of results and also make it much harder to diagnose issues in the data. When data is being recorded every second it is possible to use neighbouring points to identify possible spikes, etc.
 
 #### FIT vs GPX
 
-Although the issues with this session are not caused by the user uploading a GPX file, many Garmin users continue to upload GPX files and are therefore discarding the Doppler-derived speeds from the GNSS chipset.
+Although the issues with this session are not caused by the user uploading a GPX file, many Garmin users are uploading GPX files to Speedsurf.app and thus discarding the Doppler-derived speeds from the GNSS chipset.
 
 GPX uploads can often cause results such as the max 2 sec to be unrealistic, and there is at least one 40 knot rider who has been gifted [50 knots](https://speedsurf.app/sessions/b4d2e758-1b2c-4ff1-982c-06b7470d13ef). These inaccuracies can easily be avoided by uploading the FIT file, not the GPX. 
 
@@ -86,9 +86,11 @@ GPX uploads can often cause results such as the max 2 sec to be unrealistic, and
 
 ### Summary
 
-It is worth bearing in mind that as a community we are using watches in ways that they were not really designed. Whilst it is possible to get fairly reliable results from brands such as COROS, Garmin, and Apple it does depend on the user.
+It is worth bearing in mind that as a community we are using watches for a purpose they were not really designed. Whilst it is possible to get fairly reliable results from some COROS, Garmin, and Apple watches it also depends on the user.
 
 Choosing the best possible GNSS configuration is important, and so is every second logging. Garmin do not ship their watches ready for speedsurfing, so it is up to users to set up their watches for the best chance of reliable results.
+
+The choice of activity mode influences how Garmin and COROS process the raw data from the GNSS chipset; whether they use the Doppler-derived speeds, and whether they implement their own filtering / smoothing.
 
 Lastly is the choice of FIT uploads over GPX uploads. Garmin do not record the Doppler-derived speeds in their GPX files so FIT uploads are the only way to ensure the Doppler-derived speeds are used for results on GPS-Speedsurfing, Speedsurf.app, etc.
 
