@@ -16,7 +16,7 @@ An article summarises the issue as follows:
 
 The article describes the general nature of this specific issue, and demonstrates one course of remedy.
 
-These additional notes attempt to capture the likely root cause(s) of the issues within this session.
+These additional notes attempt to capture a possible root cause of the issues, and some recommendations.
 
 
 
@@ -26,35 +26,35 @@ There is a period shortly after 12:26 when the Doppler-derived speeds look highl
 
 ![dodgy-speeds-1](img/dodgy-speeds-1.png)
 
-Zooming in it is possible to see that both the Doppler-derived speeds and position-derived speeds are rather suspect.
+Zooming in it is possible to see the Doppler-derived speeds (red) and position-derived speeds (green) are both suspect.
 
 ![dodgy-speeds-2](img/dodgy-speeds-2.png)
 
-The data uses Garmin's "smart" recording intervals which is not the root cause of the issue, but makes it harder to diagnose.
+The session used Garmin's "smart" recording which is not the root cause of the issue, but makes it harder to diagnose.
 
 ![smart-recording](img/smart-recording.png)
 
-So the next question is why the watch misbehaved in this manner? A highly probable cause is the GNSS configuration.
+The bigger question is why the watch misbehaved in this manner? A highly probable cause is the GNSS configuration.
 
 
 
 ### GNSS Configuration
 
-It is very common for issues caused by a GNSS configuration such as "GPS only", where even changing grip before (or after) a gybe can cause a large spike. This issue has been particularly prevalent on COROS watches such as the VERTIX, and is often remedied by GPS modes such as "All Systems" or "Dual Frequency".
+It is very common for data issues to be caused by a GNSS configuration such as "GPS only", where even changing grip before (or after) a gybe can cause a large spike. This issue has been particularly prevalent on COROS watches such as the VERTIX, and is often remedied by GNSS configurations such as "All Systems" or "Dual Frequency".
 
-This particular session used the regular "windsurfing" activity and thus the GNSS configuration is the responsibility of the user. The default configuration on the fenix 9 Pro is called "normal" (corresponding to the [power mode](https://logiqx.github.io/gps-details/devices/garmin/power/)) and uses what they call SatIQ. The aim is to conserve battery power and only use all of the GNSS constellations when quality drops.
+This particular session used Garmin's regular "windsurfing" activity and thus the GNSS configuration is the responsibility of the user. The default configuration on the fenix 9 Pro is called "normal" (corresponding to the [power mode](https://logiqx.github.io/gps-details/devices/garmin/power/)) and uses what they call SatIQ. The aim is to conserve battery power and only use the full range of GNSS signals when quality drops.
 
-This approach is fine for a run, but highly undesirable when speedsurfing because we are interested in our instantaneous speeds being accurate. SatIQ will change to a better GNSS configuration when quality drops beneath a certain threshold, but only after bad data has been recorded. The data quality can deteriorate and some of the GNSS fixes will be of poor quality.
+This approach is fine when running, but highly undesirable when speedsurfing because we require accurate speeds throughout the session. SatIQ will only change to a better GNSS configuration when quality drops beneath a certain threshold, but this can lead to bad data being recorded. The data quality will not be optimal, and some of the GNSS fixes will be of poor quality.
 
 
 
 ### GPS Events
 
-It is possible to see when the watch was changing the GNSS configuration using the [FIT File Viewer](https://www.fitfileviewer.com/).
+It is possible to see when the watch was changing between different GNSS configurations using the [FIT File Viewer](https://www.fitfileviewer.com/).
 
-For this particular session it is worth noting that when the data issue occurred it was using the most basic configuration (i.e. GPS + Galileo) and just seconds later it was increased to GPS + QZSS + Galileo + BeiDou.
+For this particular session it is worth noting that when the spikes occurred it was using the most basic configuration (i.e. GPS + Galileo). The watch then decided there was a quality issue and switched to GPS + QZSS + Galileo + BeiDou.
 
-The watch knew there was a problem with GNSS performance, so it changed the GNSS configuration accordingly.  It was too late at that point though as a number of poor quality fixes had been recorded.
+The watch knew there was a problem with GNSS performance, so it changed the GNSS configuration accordingly.  However, it was really too late because a number of poor quality fixes had already been recorded.
 
 ![gps-events](img/gps-events.png)
 
@@ -78,16 +78,18 @@ Gaps in the data will usually reduce the accuracy of results and also make it mu
 
 #### FIT vs GPX
 
-Although the issues with this session are not caused by the user uploading a GPX file, many Garmin users continue to upload GPX files and thus missing the Doppler-derived speeds from the GNSS chipset.
+Although the issues with this session are not caused by the user uploading a GPX file, many Garmin users continue to upload GPX files and are therefore discarding the Doppler-derived speeds from the GNSS chipset.
 
-GPX uploads often cause max 2 sec to be unrealistic, and there is at least one 40 knot rider who has been gifted [50 knots](https://speedsurf.app/sessions/b4d2e758-1b2c-4ff1-982c-06b7470d13ef). These inaccuracies can easily be avoided by uploading the FIT file, not the GPX. 
+GPX uploads can often cause results such as the max 2 sec to be unrealistic, and there is at least one 40 knot rider who has been gifted [50 knots](https://speedsurf.app/sessions/b4d2e758-1b2c-4ff1-982c-06b7470d13ef). These inaccuracies can easily be avoided by uploading the FIT file, not the GPX. 
 
 
 
 ### Summary
 
-It is worth bearing in mind that as a community we are using watches in ways that they were never really intended. It is possible to get fairly reliable results from brands such as COROS, Garmin, and Apple but it does depend on usage.
+It is worth bearing in mind that as a community we are using watches in ways that they were not really designed. Whilst it is possible to get fairly reliable results from brands such as COROS, Garmin, and Apple it does depend on the user.
 
 Choosing the best possible GNSS configuration is important, and so is every second logging. Garmin do not ship their watches ready for speedsurfing, so it is up to users to set up their watches for the best chance of reliable results.
 
-Lastly is the choice of FIT uploads over GPX uploads. Garmin do not record the Doppler-derived speeds in their GPX files so FIT uploads are the only way to ensure the measured speeds are used for results on GPS-Speedsurfing, Speedsurf.app, etc.
+Lastly is the choice of FIT uploads over GPX uploads. Garmin do not record the Doppler-derived speeds in their GPX files so FIT uploads are the only way to ensure the Doppler-derived speeds are used for results on GPS-Speedsurfing, Speedsurf.app, etc.
+
+The fenix 9 Pro is a new design and the entire casing is now made of titanium. It is not yet known whether this will make the fenix 9 Pro slightly more prone to spikes than the older models which used a fibre-reinforced polymer.
