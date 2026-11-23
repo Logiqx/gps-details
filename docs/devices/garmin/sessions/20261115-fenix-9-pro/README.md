@@ -58,7 +58,7 @@ The watch knew there was a problem with GNSS performance, so it changed the GNSS
 
 ![gps-events](img/gps-events.png)
 
-n.b. We will soon lose the ability to see GPS Events in FIT files as Garmin have stopped recording them in recent firmware releases for their newest watches. This is really quite disappointing because the data is really useful for diagnostic purposes.
+n.b. We will soon lose the ability to see GPS Events in FIT files as Garmin have stopped recording them in [recent firmware](https://github.com/Logiqx/garmin-issues/issues/5) releases for their newest watches. This is really quite disappointing because the data is really useful for diagnostic purposes.
 
 
 
