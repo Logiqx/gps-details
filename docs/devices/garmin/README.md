@@ -26,6 +26,7 @@ This project is work in progress and there are more things to be documented.
 
 This project is work in progress and new articles are added periodically.
 
+- [fenix 9 Pro](sessions/20261115-fenix-9-pro/README.md) - 23 Nov 2026
 - [Persistence of speeds](persistence/README.md) - 29 Oct 2026
 - [Power Modes](power/README.md) - 29 Aug 2026
 - [Synaptics](synaptics/README.md) - 19 Jul 2026
