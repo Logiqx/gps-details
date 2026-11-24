@@ -18,7 +18,7 @@ This project is work in progress and there are more things to be documented.
 - [Chipset identification](chipsets/README.md) - how some of the GNSS chipsets can be identified
 - [Chipset summary](chipsets/products.md) - summarises past and present GNSS chipsets
 - [Garmin IDs](https://github.com/Logiqx/garmin-ids) - converts Garmin part numbers to usable product names
-- [Garmin issues](https://github.com/Logiqx/garmin-issues/issues) - Github repo for issues that affect the speed-sailing community
+- [Garmin feedback](https://github.com/Logiqx/garmin-feedback) - Github repo for issues that affect the speed-sailing community
 
 
 
