@@ -2,17 +2,30 @@
 
 ### Overview
 
-I have only taken a brief look at Vakaros data, and written some Python code to read VKX files.
+I have written some Python code to read VKX files, but only taken a brief look at Vakaros data.
 
-Some observations about the VKX data:
+Some initial observations of the VKX data:
 
-- Timestamps do not appear to be from the GNSS chip - see [Github](https://github.com/vakaros/vkx/issues/7)
-- Altitude appears to be incorrect and cannot be decoded - see [Github](https://github.com/vakaros/vkx/issues/5)
-- Precision of SOG is only 0.1 knots... SiRF is 0.01, u-blox is 0.001
-  - SOG in VKX is m/s, but when converted to knots it is 1 decimal place
-- Precision of COG is only 0.1 degrees... SiRF is 0.01, u-blox is 0.001
-- Speed accuracy (sAcc) and horizontal accuracy (hAcc) are absent
-  - Number of satellites would also be useful, but sAcc + hAcc are better
+- Data issues
+  - Timestamps do not appear to be from the GNSS chip - see [Github](https://github.com/vakaros/vkx/issues/7)
+    - I need to test firmware 0.32.0 which allegedly contains a fix
+
+  - Altitude appears to be incorrect and cannot be decoded - see [Github](https://github.com/vakaros/vkx/issues/5)
+    - I suspect the data is simply broken and there is nothing useful
+
+- Low precision
+  - Precision of SOG is only 0.1 knots... SiRF is 0.01, u-blox is 0.001
+    - SOG in VKX is m/s, but when converted to knots it is 1 decimal place
+
+  - Precision of COG is only 0.1 degrees... SiRF is 0.01, u-blox is 0.001
+    - This is not terrible considering that COROS do not provide decimals
+- Possible enhancements
+  - Speed accuracy (sAcc) and horizontal accuracy (hAcc) are absent
+    - I have suggested this enhancement to Vakaros - see [Github](https://github.com/vakaros/vkx/issues/8)
+
+  - Satellites + HDOP would also be useful, but sAcc + hAcc are better
+    - I have not suggested satellites and HDOP to Vakaros
+
 
 I have yet to do a proper side-by-side comparison with the Motion Mini.
 
