@@ -15,7 +15,11 @@ It is often possible to identify the GNSS chipset using the Federal Communicatio
 The FCC applications for COROS watches are listed under two companies:
 
 - FCC ID [2BBGF](https://fccid.io/2BBGF) - Guangdong COROS Sports Technology Co., Ltd
+  - Giteki applications for [Guangdong COROS Sports Technology Co., Ltd](https://fccid.io/company/Guangdong-COROS-Sports-Technology-Co-Ltd#giteki)
+
 - FCC ID [2AEHH](https://fccid.io/2AEHH) - Coros Wearables Inc.
+  - Giteki applications for [Coros Wearables Inc.](https://fccid.io/company/Coros-Wearables-Inc#giteki)
+
 
 The external and internal photos are typically made available 6 months after the original FCC application.
 
@@ -23,11 +27,13 @@ The external and internal photos are typically made available 6 months after the
 
 ### Guangdong COROS Sports Technology Co., Ltd
 
-FCC ID applications by [2BBGF](https://fccid.io/2BBGF).
+FCC ID applications by [2BBGF](https://fccid.io/2BBGF) and Giteki applications for [COROS](https://fccid.io/company/Guangdong-COROS-Sports-Technology-Co-Ltd#giteki).
 
-| Watch                                                |    Date    |   Brand   |                             Chip                             |                            Photos                            |
+| Watch                                                |  App Date  |   Brand   |                             Chip                             |                            Photos                            |
 | ---------------------------------------------------- | :--------: | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [PACE 4 Pro](https://fccid.io/2BBGF-W337)            | 2026-09-29 |     ?     |                              ?                               |                              -                               |
+| VERTIX 4                                             |     ?      |     ?     |                              ?                               |                              -                               |
+| DURA 2 SOLAR                                         |     ?      |     ?     |                              ?                               |                              -                               |
+| [PACE 4 Pro](https://fccid.io/2BBGF-W337)            | 2026-09-29 |  Airoha   | [AG3365](https://www.airoha.com/products/p/YYQ328u7iX6365op) | [Internals](https://fccid.io/giteki/214-260493/214-260493_01_005) |
 | [PACE 4](https://fccid.io/2BBGF-W336) <sup>[1]</sup> | 2026-01-22 | Synaptics | [SYN4778](https://www.synaptics.com/products/wireless/syn4778-multi-band-gnss) | [Internals](https://fccid.io/m/58265a4db1ab25dbe851a866f7b8ecd0c94cc49a2dd9379d49406b2e18022957.pdf) |
 | [NOMAD](https://fccid.io/2BBGF-W942B) <sup>[2]</sup> | 2026-01-19 |  Airoha   | [AG3365](https://www.airoha.com/products/p/YYQ328u7iX6365op) | [Internals](https://fccid.io/m/2f0f00300a40f61cfb6ed011296e5eaed1a3099b385a07e2676324ddeaa44520.pdf) |
 | [APEX 4 42 mm](https://fccid.io/2BBGF-W542)          | 2025-11-28 | Synaptics | [SYN4778](https://www.synaptics.com/products/wireless/syn4778-multi-band-gnss) | [Internals](https://fccid.io/m/cf2b3bd0777def574bdaa9d73befeacc7e92031ebbd50541a46a9c632241b3f9.pdf) |
@@ -50,9 +56,9 @@ Perhaps COROS will also decide to update the APEX 4 to use the AG3365 in the fut
 
 ### Coros Wearables Inc.
 
-FCC ID applications by [2AEHH](https://fccid.io/2AEHH).
+FCC ID applications by [2AEHH](https://fccid.io/2AEHH) and Giteki applications for [COROS](https://fccid.io/company/Coros-Wearables-Inc#giteki).
 
-| Watch                                                     |    Date    |  Brand   |                             Chip                             |                            Photos                            |
+| Watch                                                     |  App Date  |  Brand   |                             Chip                             |                            Photos                            |
 | --------------------------------------------------------- | :--------: | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [APEX 2 Pro](https://fccid.io/2AEHH-W521B) <sup>[1]</sup> | 2024-01-22 |  Airoha  | [AG3335M](https://www.airoha.com/products/p/A0Dmm0pijWW3MScb) | [Internals](https://fccid.io/m/372f49f5500928a851ef81a4d16aea562ddffc08eee98891fbc645e21a63dc3e.pdf) |
 | [APEX 2 Pro](https://fccid.io/2AEHH-W521)                 | 2022-11-07 |  Airoha  | [AG3335M](https://www.airoha.com/products/p/A0Dmm0pijWW3MScb) | [Internals](https://fccid.io/m/ff091d8b5c22bfcfe801c4c2b2b8fe4905f3cca8a4cbd5720b8cbd8659e3eef2.pdf) |
