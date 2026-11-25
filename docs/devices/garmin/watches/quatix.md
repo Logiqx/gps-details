@@ -20,6 +20,8 @@ The quatix 8 was released after the [fēnix 8](fenix.md) and built on the same h
 | quatix 8 - 51 mm, AMOLED | 2025-06  | 4536, 4775 | SYN4778 | 6.0 |   Y    | FCC [teardown](https://fccid.io/IPH-04808) of the fēnix 8 |
 | quatix 8 - 47 mm, AMOLED | 2025-06  | 4536, 4775 | SYN4778 | 6.0  |   Y    | FCC [teardown](https://fccid.io/IPH-04806) of the fēnix 8 |
 
+Additional about the [Synaptics](../../../chipsets/synaptics/README.md) chipsets are available on another page.
+
 
 
 ### Airoha

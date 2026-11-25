@@ -24,6 +24,8 @@ Notes:
 
 1. The Venu X1 is single-band but FCC + Giteki photos show a SYN4778 on the underside of the motherboard.
 
+Additional about the [Synaptics](../../../chipsets/synaptics/README.md) chipsets are available on another page.
+
 
 
 ### Airoha

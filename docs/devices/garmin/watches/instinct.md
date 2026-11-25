@@ -19,6 +19,8 @@ The Instinct Crossover AMOLED has been confirmed as using the Synaptics SYN4778.
 | Instinct Crossover AMOLED - Tactical Edition | 2025-09 | 4678 | SYN4778  | 6.0 | - | FCC [teardown](https://fccid.io/IPH-05049) + Giteki [teardown](https://fccid.io/giteki/201-250494) |
 | Instinct Crossover AMOLED | 2025-09 | 4678 | SYN4778 | 6.0 | - | FCC [teardown](https://fccid.io/IPH-05049) + Giteki [teardown](https://fccid.io/giteki/201-250494) |
 
+Additional about the [Synaptics](../../../chipsets/synaptics/README.md) chipsets are available on another page.
+
 
 
 ### Airoha

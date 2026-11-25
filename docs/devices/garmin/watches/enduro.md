@@ -29,6 +29,8 @@ The Enduro 3 was released at the same time as the [fēnix 8](fenix.md) and built
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | Enduro 3 | 2024-08 | 4575 | SYN4778 | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-04413) + Giteki [teardown](https://fccid.io/giteki/201-240185) |
 
+Additional about the [Synaptics](../../../chipsets/synaptics/README.md) chipsets are available on another page.
+
 
 
 ### Airoha

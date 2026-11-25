@@ -18,6 +18,8 @@ The Forerunner 970 and 570 use the SYN4778 chipset, just like the [fēnix 8](fen
 | Forerunner 570 - 47 mm | 2025-05 | 4570 | SYN4778 | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-25E3235D-44D2-4384-A591-DD1D71BEBCB1/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + FCC [teardown](https://fccid.io/IPH-04911) |
 | Forerunner 570 - 42 mm | 2025-05 | 4574 | SYN4778 | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-25E3235D-44D2-4384-A591-DD1D71BEBCB1/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + FCC [teardown](https://fccid.io/IPH-04909) |
 
+Additional about the [Synaptics](../../../chipsets/synaptics/README.md) chipsets are available on another page.
+
 
 
 ### Airoha
