@@ -23,9 +23,9 @@ Note: GNSS config should be recorded whether or not it was selected using `optio
 
 
 
-### Craft
+### Sport
 
-The following activities / sports are suitable for speed sailing.
+The following sport profiles are suitable for speed sailing.
 
 | Activity          | Value |    Sport    |   Name   |  Craft   |
 | ----------------- | :---: | :---------: | :------: | :------: |
