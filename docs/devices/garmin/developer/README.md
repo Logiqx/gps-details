@@ -6,9 +6,11 @@ Last updated: 25 Nov 2026
 
 
 
-### Overview
+### Introduction
 
 These pages are to provide guidance to developers of Connect IQ apps.
+
+Following this advice will ensure the best possible data quality and improve the downstream processing.
 
 
 
@@ -17,13 +19,14 @@ These pages are to provide guidance to developers of Connect IQ apps.
 Full details are on separate pages, so click the links for further information.
 
 - [Sport / activity mode](suitable-sports.md)
-  - Use the sports windsurfing or kiteboarding for Doppler-derived speeds
-  - Names should be "Windsurf" or "Kiteboard" (i.e. not ending with "ing")
+  - Use the sports windsurfing or kitesurfing for Doppler-derived speeds
+  - Names should be "Windsurf" or "Kitesurf" (i.e. not ending with "ing")
 - [GNSS configuration](gnss-config.md)
   - Use the best possible GNSS configuration for the watch
   - Do NOT allow SatIQ modes that degrade GNSS performance
 - [Session fields](session-fields.md)
-  - App details - app name, app ver, craft
+  - App details - app name, app ver
+  - Craft details - craft
   - GNSS details - gnss config
 - [Record fields](record-fields.md)
   - PVT data - fix quality, sog, cog, hae
@@ -48,7 +51,8 @@ Full details are on separate pages, so click the links for further information.
   - Look for multiple GPS start up events in one session, and event type 3 appearing at startup
   - Look for unexpected GNSS events (e.g. mode change) at end of session
 - [Session fields](session-fields.md)
-  - Check the app details - app name, app ver, craft
+  - Check the app details - app name, app ver
+  - Check the craft details - craft
   - Check the GNSS details - gnss config
 - [Record fields](record-fields.md)
   - Check for PVT data - fix quality, sog, cog, hae
