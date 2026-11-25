@@ -35,7 +35,7 @@ All of these watches include native windsurfing / kiteboarding activities, but [
 |  | fēnix 8 Pro - AMOLED         | Synaptics |     Y      | Y |
 |                         | fēnix 8 - AMOLED             | Synaptics |     Y      | Y |
 |  | fēnix 8 - Solar Sapphire | Synaptics | Y | Y |
-|                         | fēnix E                      | Synaptics |     -      | - |
+|                         | fēnix E                      | Airoha |     -      | - |
 |                         | fēnix 7 Pro - Sapphire Solar | Airoha    |     Y      | Y |
 |                         | fēnix 7 Pro - Solar      | Airoha    |     Y      | Y |
 |                         | fēnix 7 - Sapphire Solar     | Airoha    |     Y      | Y |
