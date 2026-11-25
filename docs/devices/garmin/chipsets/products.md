@@ -24,7 +24,7 @@ Some brief notes about the GNSS chipsets in Garmin watches since 2024:
 
 - The fēnix 8 introduced the Synaptics SYN4778 (multi-band) in Aug 2024
   - plus Enduro 3, Forerunner 570 + 970, fēnix 8 Pro, Instinct Crossover AMOLED, and Venu 4
-- The vívoactive 6 introduced the Airoha AG3352B (single-band) in Apr 2025
+- The vívoactive 6 introduced the Airoha AG3352 (single-band) in Apr 2025
   - plus Venu X1 (probably), Bounce 2, and Forerunner 70 + 170
 - The GNSS chipset of the fēnix 9, fēnix 9 Pro, and Enduro 4 is TBC
   - It is not known whether they are Synaptics SYN4778, Airoha AG3365, or another brand
@@ -38,14 +38,14 @@ A lot of this recent history is based on photos provided by the Federal Communic
 | 2025-01  | Instinct 3                |     Y      | AG3335M  | AG3335M is clearly readable in Giteki photos                 |
 | 2025-01  | Instinct E                |     -      | AG3335MN | AG3335MN is clearly readable in Giteki photo                 |
 | 2025-02  | Descent G2                |     -      | AG3335MN | AG3335MN is clearly readable in Giteki photo                 |
-| 2025-04  | vívoactive 6              |     -      | AG3352B  | AG3352 is readable in FCC photo, but B is obfuscated         |
+| 2025-04  | vívoactive 6              |     -      | AG3352  | AG3352 is readable in FCC photo, but B is obfuscated         |
 | 2025-05  | Forerunner 570 + 970      |     Y      | SYN4778  | SYN4778 is readable in FCC photo of FR 570                   |
 | 2025-06  | Venu X1                   |     -      | SYN4778  | SYN4778 is visible in the FCC + Giteki photos <sup>[2]</sup> |
 | 2025-09  | fēnix 8 Pro               |     Y      | SYN4778  | SYN4778 is clearly readable in FCC photo of the 51 mm <sup>[3]</sup> |
 | 2025-09  | Instinct Crossover AMOLED |     Y      | SYN4778  | SYN4778 is clearly readable in FCC photo                     |
 | 2025-09  | Venu 4                    |     Y      | SYN4778  | SYN4778 is clearly readable in Giteki photo                  |
-| 2025-09  | Bounce 2                  |     -      | AG3352B  | AG3352B is clearly readable in FCC photo                     |
-| 2026-05  | Forerunner 70 + 170       |     -      | AG3352B  | AG3352B is clearly readable in FCC photo of 170 Music        |
+| 2025-09  | Bounce 2                  |     -      | AG3352  | AG3352B is clearly readable in FCC photo                     |
+| 2026-05  | Forerunner 70 + 170       |     -      | AG3352  | AG3352B is clearly readable in FCC photo of 170 Music        |
 | 2026-08  | fēnix 9 + fēnix 9 Pro     |     Y      |   TBC    | The FCC photos are not available yet <sup>[4]</sup>          |
 | 2026-10  | Enduro 4                  |     Y      |   TBC    | The FCC photos are not available yet <sup>[4]</sup>          |
 
