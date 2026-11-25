@@ -31,6 +31,8 @@ This repository contains information and observations relating to specific GPS /
 
 ### Chipsets
 
+- [Airoha](chipsets/airoha/README.md)
 - [Broadcom](chipsets/broadcom/README.md)
 - [MediaTek](chipsets/mediatek/README.md)
+- [Synaptics](chipsets/synaptics/README.md)
 - [u-blox](chipsets/u-blox/README.md)

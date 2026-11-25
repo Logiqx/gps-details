@@ -4,7 +4,7 @@
 
 The Airoha AG3335 chipsets can be thought of as the descendants of the MediaTek MT3333.
 
-A short [article](https://www.airoha.com/products/p/VXKPfHI9iDCvsRWN) for ION GNSS+ 2022 describes the AG3335 series.
+A short [article](https://www.airoha.com/products/p/VXKPfHI9iDCvsRWN) for ION GNSS+ 2022 describes the AG3335 series, and so does a blog article by [Kalmix](https://www.kalmixtech.com/blogs/blog/ag3335-variants-explained-m-a-at-ad).
 
 
 
