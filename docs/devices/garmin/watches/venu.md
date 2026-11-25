@@ -16,13 +16,13 @@ The Venu 4 uses a Synaptics GNSS chipset, just like the [fēnix 8](fenix.md) and
 
 | Model          | Released | Product | Chipset | CIQ  | APPro | References                                                   |
 | -------------- | :------: | :-----: | :-----: | :--: | :---: | ------------------------------------------------------------ |
-| Venu 4 - 45 mm | 2025-09  |  4643   | SYN4778 | 6.0  |   Y   | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2CF5620C-E585-4E0A-9CC3-9565533EEE4D/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + FCC [teardown](https://fccid.io/IPH-04916) |
-| Venu 4 - 41 mm | 2025-09  |  4644   | SYN4778 | 6.0  |   Y   | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-2CF5620C-E585-4E0A-9CC3-9565533EEE4D/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + FCC [teardown](https://fccid.io/IPH-04918) |
-| Venu X1 <sup>[1]</sup> | 2025-06 | 4603 | SYN4778 | 6.0 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-C144B465-A0C8-4FE9-AFE6-41A3FE3F1D9A/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) + FCC [teardown](https://fccid.io/IPH-04702) |
+| Venu 4 - 45 mm | 2025-09  |  4643   | SYN4778 | 6.0  |   Y   | FCC [teardown](https://fccid.io/IPH-04916) + Giteki [teardown](https://fccid.io/giteki/201-250327) |
+| Venu 4 - 41 mm | 2025-09  |  4644   | SYN4778 | 6.0  |   Y   | FCC [teardown](https://fccid.io/IPH-04918) + Giteki [teardown](https://fccid.io/giteki/201-250328) |
+| Venu X1 <sup>[1]</sup> | 2025-06 | 4603 | SYN4778 | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-04702) + Giteki [teardown](https://fccid.io/giteki/201-250097) |
 
 Notes:
 
-1. The Venu X1 is single-band but FCC photos show a SYN4778 on the underside of the motherboard.
+1. The Venu X1 is single-band but FCC + Giteki photos show a SYN4778 on the underside of the motherboard.
 
 
 

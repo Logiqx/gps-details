@@ -14,14 +14,14 @@ The various models are listed in reverse-chronological order. The release dates 
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| fēnix 9 Pro - 51 mm, Solar | 2026-08 | 4956 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-A5172) |
-| fēnix 9 Pro - 47 mm, Solar | 2026-08 | 4955 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-A5170) |
-| fēnix 9 Pro - 51 mm | 2026-08 | 4954 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-A5171) |
-| fēnix 9 Pro - 47 mm | 2026-08 | 4953 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-A5169) |
-| fēnix 9 Pro - 43 mm | 2026-08 | 4952 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-05168) |
-| fēnix 9 - 51 mm | 2026-08 | 5134 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-05420) |
-| fēnix 9 - 47 mm | 2026-08 | 5134 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-05419) |
-| fēnix 9 - 43 mm | 2026-08 | 5133 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-05418) |
+| fēnix 9 Pro - 51 mm, Solar | 2026-08 | 4956 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-A5172) + Giteki [teardown](https://fccid.io/giteki/201-260428) |
+| fēnix 9 Pro - 47 mm, Solar | 2026-08 | 4955 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-A5170) + Giteki [teardown](https://fccid.io/giteki/201-260425) |
+| fēnix 9 Pro - 51 mm | 2026-08 | 4954 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-A5171) + Giteki [teardown](https://fccid.io/giteki/201-260423) |
+| fēnix 9 Pro - 47 mm | 2026-08 | 4953 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-A5169) + Giteki [teardown](https://fccid.io/giteki/201-260421) |
+| fēnix 9 Pro - 43 mm | 2026-08 | 4952 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-05168) + Giteki [teardown](https://fccid.io/giteki/201-260420) |
+| fēnix 9 - 51 mm | 2026-08 | 5134 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-05420) + Giteki [teardown](https://fccid.io/giteki/201-260432) |
+| fēnix 9 - 47 mm | 2026-08 | 5134 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-05419) + Giteki [teardown](https://fccid.io/giteki/201-260431) |
+| fēnix 9 - 43 mm | 2026-08 | 5133 | TBC | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-05418) + Giteki [teardown](https://fccid.io/giteki/201-260430) |
 
 
 
@@ -29,14 +29,14 @@ The various models are listed in reverse-chronological order. The release dates 
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| fēnix 8 Pro - 51 mm, MicroLED | 2025-09 | 4631 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1723221/#specs) + FCC [teardown](https://fccid.io/IPH-05201) |
-| fēnix 8 Pro - 51 mm, AMOLED | 2025-09 | 4631 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1703902/pn/010-03199-40/#specs) + FCC [teardown](https://fccid.io/IPH-05201) |
-| fēnix 8 Pro - 47 mm, AMOLED | 2025-09 | 4631 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1701921/pn/010-03198-40/#specs) + FCC [teardown](https://fccid.io/IPH-04807) |
-| fēnix 8 - 51 mm, AMOLED | 2024-08 | 4536 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) + FCC [teardown](https://fccid.io/IPH-04808) |
-| fēnix 8 - 47 mm, AMOLED | 2024-08 | 4536 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) + FCC [teardown](https://fccid.io/IPH-04806) |
-| fēnix 8 - 43 mm, AMOLED | 2024-08 | 4534 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1228429/pn/010-02904-21#specs) + FCC [teardown](https://fccid.io/IPH-04805) |
-| fēnix 8 - 51 mm, Solar Sapphire | 2024-08 | 4533 | SYN4778 | 6.0 | Y | F Tipi [teardown](http://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) + FCC [teardown](https://fccid.io/IPH-04862) |
-| fēnix 8 - 47 mm, Solar Sapphire | 2024-08 | 4532 | SYN4778 | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1389491/pn/010-02906-21#specs) + FCC [teardown](https://fccid.io/IPH-04861) |
+| fēnix 8 Pro - 51 mm, MicroLED | 2025-09 | 4631 | SYN4778 | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-05201) + Giteki [teardown](https://fccid.io/giteki/201-250522) |
+| fēnix 8 Pro - 51 mm, AMOLED | 2025-09 | 4631 | SYN4778 | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-05201) + Giteki [teardown](https://fccid.io/giteki/201-250522) |
+| fēnix 8 Pro - 47 mm, AMOLED | 2025-09 | 4631 | SYN4778 | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-04807) + Giteki [teardown](https://fccid.io/giteki/201-250474) |
+| fēnix 8 - 51 mm, AMOLED | 2024-08 | 4536 | SYN4778 | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-04808) + Giteki [teardown](https://fccid.io/giteki/201-240272) |
+| fēnix 8 - 47 mm, AMOLED | 2024-08 | 4536 | SYN4778 | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-04806) + Giteki [teardown](https://fccid.io/giteki/201-240271) |
+| fēnix 8 - 43 mm, AMOLED | 2024-08 | 4534 | SYN4778 | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-04805) + Giteki [teardown](https://fccid.io/giteki/201-240270) |
+| fēnix 8 - 51 mm, Solar Sapphire | 2024-08 | 4533 | SYN4778 | 6.0 | Y | F Tipi [teardown](http://www.f-blog.info/garmin-fenix-8-review-but-only-the-internals/) + FCC [teardown](https://fccid.io/IPH-04862) + Giteki [teardown](https://fccid.io/giteki/201-240471) |
+| fēnix 8 - 47 mm, Solar Sapphire | 2024-08 | 4532 | SYN4778 | 6.0 | Y | FCC [teardown](https://fccid.io/IPH-04861) + Giteki [teardown](https://fccid.io/giteki/201-240417) |
 
 
 
@@ -46,7 +46,7 @@ The fēnix E is is essentially a rebranded, budget-friendly version of the [epix
 
 | Model                       | Released   | Product | Chipset | CIQ | APPro | References |
 | --------------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| fēnix E <sup>[1]</sup> | 2024-08 | 4666 | TBC | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1652337/pn/010-03025-00#specs) + FCC [teardown](https://fccid.io/IPH-A04252) of epix |
+| fēnix E <sup>[1]</sup> | 2024-08 | 4666 | AG3335MN | 6.0 | Y | Garmin [specifications](https://www.garmin.com/en-GB/p/1652337/pn/010-03025-00#specs) + FCC [teardown](https://fccid.io/IPH-A04252) of epix |
 | fēnix 7X Pro - Sapphire Solar | 2023-05 | 4376 | AG3335M | 5.2 | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + FCC [teardown](https://fccid.io/IPH-A04524) |
 | fēnix 7 Pro - Sapphire Solar | 2023-05 | 4375 | AG3335M | 5.2 | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + FCC [teardown](https://fccid.io/IPH-A04523) |
 | fēnix 7S Pro - Sapphire Solar | 2023-05 | 4374 | AG3335M | 5.2 | Y | Garmin [settings](https://support.garmin.com/en-GB/?faq=J1fLrNa12T7hUAdWHyIXk8) + FCC [teardown](https://fccid.io/IPH-A04522) |
@@ -65,7 +65,7 @@ The fēnix E is is essentially a rebranded, budget-friendly version of the [epix
 
 Notes:
 
-1. The fēnix E could be using the single-band AG3335MN or AG3352B, just like the [vívoactive 6](vivoactive.md) which was released 2025-04.
+1. The fēnix E is assumed to use the AG3335MN of the epix, and not the AG3352 like some Garmin watches released in 2025.
 
 Alternative product number(s) are APAC variants.
 

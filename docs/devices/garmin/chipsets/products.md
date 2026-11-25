@@ -31,33 +31,31 @@ Some brief notes about the GNSS chipsets in Garmin watches since 2024:
 
 A lot of this recent history is based on photos provided by the Federal Communications Commission ([FCC](https://fccid.io/IPH)).
 
-| Released | Watch                     | Multi-Band | Chipset | Comment                                                      |
-| :------: | ------------------------- | :--------: | :-----: | ------------------------------------------------------------ |
-| 2024-08  | fēnix 8                   |     Y      | SYN4778 | 47762 is present in FCC photos <sup>[1]</sup>                |
-| 2024-08  | Enduro 3                  |     Y      | SYN4778 | 47762 is present in FCC photos <sup>[1]</sup>                |
-| 2025-01  | Instinct 3                |     Y      | AG3335M | Airoha is clearly evident in FCC photo                       |
-| 2025-01  | Instinct E                |     -      |   TBC   | Airoha is clearly evident in FCC photo of Descent G2 <sup>[2]</sup> |
-| 2025-02  | Descent G2                |     -      |   TBC   | Airoha is clearly evident in FCC photo <sup>[2]</sup>        |
-| 2025-04  | vívoactive 6              |     -      | AG3352B | AG3352 is readable in FCC photo, but B is obfuscated         |
-| 2025-05  | Forerunner 570 + 970      |     Y      | SYN4778 | SYN4778 is readable in FCC photo of FR 570                   |
-| 2025-06  | Venu X1                   |     -      | SYN4778 | SYN4778 is visible in the FCC photos <sup>[3]</sup>          |
-| 2025-09  | fēnix 8 Pro               |     Y      | SYN4778 | SYN4778 is clearly readable in FCC photo of the 51 mm <sup>[4]</sup> |
-| 2025-09  | Instinct Crossover AMOLED |     Y      | SYN4778 | SYN4778 is clearly readable in FCC photo                     |
-| 2025-09  | Venu 4                    |     Y      | SYN4778 | SYN4778 is blurry but readable in FCC photo                  |
-| 2025-09  | Bounce 2                  |     -      | AG3352B | AG3352B is clearly readable in FCC photo                     |
-| 2026-05  | Forerunner 70 + 170       |     -      | AG3352B | AG3352B is clearly readable in FCC photo of 170 Music        |
-| 2026-08  | fēnix 9 + fēnix 9 Pro     |     Y      |   TBC   | The FCC photos are not available yet <sup>[5]</sup>          |
-| 2026-10  | Enduro 4                  |     Y      |   TBC   | The FCC photos are not available yet <sup>[5]</sup>          |
+| Released | Watch                     | Multi-Band | Chipset  | Comment                                                      |
+| :------: | ------------------------- | :--------: | :------: | ------------------------------------------------------------ |
+| 2024-08  | fēnix 8                   |     Y      | SYN4778  | 47782CX is clearly readable in FCC + Giteki photos <sup>[1]</sup> |
+| 2024-08  | Enduro 3                  |     Y      | SYN4778  | 47782CX is visible in FCC + Giteki photos <sup>[1]</sup>     |
+| 2025-01  | Instinct 3                |     Y      | AG3335M  | AG3335M is clearly readable in Giteki photos                 |
+| 2025-01  | Instinct E                |     -      | AG3335MN | AG3335MN is clearly readable in Giteki photo                 |
+| 2025-02  | Descent G2                |     -      | AG3335MN | AG3335MN is clearly readable in Giteki photo                 |
+| 2025-04  | vívoactive 6              |     -      | AG3352B  | AG3352 is readable in FCC photo, but B is obfuscated         |
+| 2025-05  | Forerunner 570 + 970      |     Y      | SYN4778  | SYN4778 is readable in FCC photo of FR 570                   |
+| 2025-06  | Venu X1                   |     -      | SYN4778  | SYN4778 is visible in the FCC + Giteki photos <sup>[2]</sup> |
+| 2025-09  | fēnix 8 Pro               |     Y      | SYN4778  | SYN4778 is clearly readable in FCC photo of the 51 mm <sup>[3]</sup> |
+| 2025-09  | Instinct Crossover AMOLED |     Y      | SYN4778  | SYN4778 is clearly readable in FCC photo                     |
+| 2025-09  | Venu 4                    |     Y      | SYN4778  | SYN4778 is clearly readable in Giteki photo                  |
+| 2025-09  | Bounce 2                  |     -      | AG3352B  | AG3352B is clearly readable in FCC photo                     |
+| 2026-05  | Forerunner 70 + 170       |     -      | AG3352B  | AG3352B is clearly readable in FCC photo of 170 Music        |
+| 2026-08  | fēnix 9 + fēnix 9 Pro     |     Y      |   TBC    | The FCC photos are not available yet <sup>[4]</sup>          |
+| 2026-10  | Enduro 4                  |     Y      |   TBC    | The FCC photos are not available yet <sup>[4]</sup>          |
 
 Notes:
 
-1. FCC photos for the fēnix 8 and Enduro 3 show a chip labelled 47762CX, perhaps during testing?
+1. FCC + Giteki photos for the fēnix 8 and Enduro 3 clearly show a chip labelled 47782CX
    - The teardown by F-Tipi confirmed the fēnix 8 uses the Synaptics SYN4778
-2. The Instinct E and Descent G2 use a single-band Airoha chip which could well be the AG3352B
-   - The Instinct E was released in Jan 2025, shortly after the Amazfit Active Max
-3. The FCC photos for the Venu X1 show a SYN4778 on the underside of the motherboard
+2. The FCC photos for the Venu X1 show a SYN4778 on the underside of the motherboard
    - The watch itself does not offer multi-band GNSS, despite the capabilities of the SYN4778
-5. The FCC photo for the fēnix 8 Pro (47 mm) shows a chip labelled 47762CX, perhaps during testing?
+5. The FCC photo for the fēnix 8 Pro (47 mm) shows a chip labelled 47782CX
    - The FCC photos of the fēnix 8 Pro (51 mm) clearly show the SYN4778
 6. The GNSS chipset of the fēnix 9, fēnix 9 Pro, and Enduro 4 is still TBC
    - It is not known whether they use the Synaptics SYN4778, Airoha AG3365, or something else

@@ -55,11 +55,13 @@ The following sections will describe each of the topics individually.
 
 Physical teardowns can provide definitive proof about what is inside a specific watch.
 
-#### Federal Communications Commission (FCC)
+#### Federal Communications Commission (FCC) + Giteki (Japan)
 
 The Federal Communications Commission (FCC) show internal photos, but only 6 months after the application date.
 
-- [Garmin International Inc](https://fccid.io/IPH) - FCC Grantee Code IPH
+- [Garmin International Inc.](https://fccid.io/IPH) - FCC Grantee Code IPH
+  - [Garmin Corp.](https://fccid.io/giteki/?q=garmin&year=) - Giteki
+
 
 #### Third Parties
 
