@@ -10,7 +10,7 @@ There is no obvious way that a Connect IQ application can check the data recordi
 
 ### Fix Quality
 
-The user should be aware of the [fix quality](fix-quality.md) at all times.
+Ideally the user should be aware of the [fix quality](fix-quality.md) at all times.
 
 - The user should be able to delay the recording until the signal is acquired (i.e. fix quality is good).
 - When the signal is first acquired the user should be alerted to the fact; both visually and with a vibration.

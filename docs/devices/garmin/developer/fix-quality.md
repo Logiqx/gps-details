@@ -16,7 +16,9 @@ The [Toybox.Position](https://developer.garmin.com/connect-iq/api-docs/Toybox/Po
 
 ### Recommendations
 
-In addition to recording the GNSS fix quality in the FIT file ([see further details](fit-fields.md)), it is recommended that the user be made aware of the fix quality. Only two colors / categories should be presented to the user.
+In addition to recording the GNSS fix quality in the FIT file ([see further details](record-fields.md)), it is recommended that the user be made aware of the fix quality.
+
+Only two colours need to be presented to the user.
 
 - Green for QUALITY_GOOD
 - Red for anything other than QUALITY_GOOD
