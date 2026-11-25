@@ -40,6 +40,8 @@ Additional about the [Synaptics](../../../chipsets/synaptics/README.md) chipsets
 | Forerunner 255S Music | 2022-06 | 3991 | AG3335M | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-676967A0-1B23-4384-9BC9-76F3D643F1C8/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + FCC [teardown](https://fccid.io/IPH-A4308) |
 | Forerunner 255S | 2022-06 | 3993 | AG3335M | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-676967A0-1B23-4384-9BC9-76F3D643F1C8/EN-US/GUID-E01D9421-9E1B-4D85-81A0-46C6DCFAA9E4.html) + FCC [teardown](https://fccid.io/IPH-C4308) |
 
+The AG3335M is multi-band (L1 + L5) but the AG3335MN is single-band (L1 only).
+
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
 

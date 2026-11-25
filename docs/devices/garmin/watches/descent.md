@@ -21,6 +21,8 @@ The Descent G2 was released one month after the [Instinct 3](instinct.md). It ha
 | Descent Mk3i - 43mm | 2023-11 | 4222, 4224 | AG3335M | 5.1 | Y | FCC [teardown](https://fccid.io/IPH-04448) |
 | Descent Mk3 - 43mm | 2023-11 | 4222, 4224 | AG3335M | 5.1 | Y | FCC [teardown](https://fccid.io/IPH-A4448) |
 
+The AG3335M is multi-band (L1 + L5) but the AG3335MN is single-band (L1 only).
+
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
 

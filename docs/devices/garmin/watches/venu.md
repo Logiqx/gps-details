@@ -41,6 +41,8 @@ Notes:
 
 1. Venu Sq 2 and Venu Sq 2 Music have a significant smoothing issue and are NOT recommended for wind sports.
 
+The AG3335MN is both single-band (L1 only).
+
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
 

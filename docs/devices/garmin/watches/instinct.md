@@ -43,6 +43,8 @@ Notes:
 
 1. The Instinct 2X Solar and Instinct Crossover have a significant smoothing issue and are NOT recommended for wind sports.
 
+The AG3335M is multi-band (L1 + L5) but the AG3335MN is single-band (L1 only).
+
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
 

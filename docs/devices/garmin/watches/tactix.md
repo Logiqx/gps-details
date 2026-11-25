@@ -34,6 +34,8 @@ The tactix 7 has its own product codes, unlike previous models.
 | tactix 7 - Pro | 2022-04 | 4135 | AG3335MN | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 | tactix 7                  | 2022-04 | 4135 | AG3335MN | 5.2 | Y | Garmin [manual](https://www8.garmin.com/manuals/webhelp/GUID-AC520B63-3C82-4266-90F6-6E9F22D5F76E/EN-US/GUID-9AC5D40D-5CCE-4D21-B8C2-10A04B25E152.html) |
 
+The AG3335M is multi-band (L1 + L5) but the AG3335MN is single-band (L1 only).
+
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
 

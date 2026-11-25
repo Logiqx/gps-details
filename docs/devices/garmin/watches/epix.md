@@ -25,6 +25,8 @@ The various models are listed in reverse-chronological order. The release dates 
 
 Alternative product number(s) are APAC models.
 
+The AG3335M is multi-band (L1 + L5) but the AG3335MN is single-band (L1 only).
+
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
 

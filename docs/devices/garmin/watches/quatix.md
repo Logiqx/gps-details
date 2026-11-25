@@ -37,6 +37,8 @@ The quatix 7 product codes are identical to the [fēnix](fenix.md) 7, [epix](epi
 
 Alternative product number(s) are APAC variants.
 
+The AG3335M is multi-band (L1 + L5) but the AG3335MN is single-band (L1 only).
+
 Additional [notes](../../../chipsets/airoha/devices.md) about the Airoha chipsets are available on another page.
 
 
