@@ -39,6 +39,8 @@ First referenced in announcement for [Quectel LC76G](https://www.gpsworld.com/qu
 
 First observed in the Garmin [vívoactive 6](../../devices/garmin/watches/vivoactive.md) which was released in Apr 2025.
 
+Garmin watches have opted for the AG3352B where the "B" denotes BGA packaging.
+
 
 
 #### AG3335MN

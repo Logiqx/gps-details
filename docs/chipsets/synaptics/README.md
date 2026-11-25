@@ -33,4 +33,4 @@ The official Synaptics [announcement](https://www.synaptics.com/company/news/syn
 
 The SYN4778 was first used in the Garmin [fēnix 8](../../devices/garmin/watches/fenix.md) in Aug 2024, and  [COROS](../../devices/coros/chipsets/README.md) Pace Pro in Nov 2024.
 
-It is worth noting that some Garmin watches contain the SYN47782CX. The "2CX" may denote specific packaging, temperature grade, or tape-and-reel configuration. This is likely detailed in the Synaptics ordering guide, but requires accessing their NDA datasheet.
+It is worth noting that some Garmin watches contain the 47782CX. The "2CX" may denote specific packaging, temperature grade, or tape-and-reel configuration. This is likely detailed in the Synaptics ordering guide, but requires accessing their NDA datasheet.
