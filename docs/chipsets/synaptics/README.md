@@ -15,7 +15,6 @@ The latest Synaptics GNSS chipsets can be found on their [website](https://www.s
 | Announced | Family  |                           Chipset                            |  Bands  | Notes                                                        |
 | :-------: | :-----: | :----------------------------------------------------------: | :-----: | ------------------------------------------------------------ |
 | Jan 2023  | SYN4778 | [SYN4778](https://www.synaptics.com/products/wireless/syn4778-multi-band-gnss) | L1 + L5 | Third generation dual-frequency GNSS receiver for mobile + wearables |
-|           |         |                          SYN47782CX                          | L1 + L5 | It is unclear whether the SYN47782CX differs from the SYN4778 |
 |           | SYN4776 |                           SYN47768                           | L1 + L5 | Second generation dual-frequency GNSS receiver for wearable devices |
 |           |         |                           SYN47765                           | L1 + L5 | Second generation dual-frequency GNSS receiver               |
 |           |         |                           SYN47762                           |   L1    | Single-frequency GNSS receiver                               |
