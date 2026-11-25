@@ -21,6 +21,12 @@ The latest Airoha GNSS chipsets can be found on their [website](https://www.airo
 | Sep 2021  |                           AG3335MN                           |   L1    | 10 Hz | First observed in the Garmin [fēnix 7](../../devices/garmin/watches/fenix.md) |
 | Jun 2021  | [AG3335M](https://www.airoha.com/products/p/A0Dmm0pijWW3MScb) | L1 + L5 | 10 Hz | First observed in the [COROS](../../devices/coros/chipsets/README.md) VERTIX 2 |
 
+The [product overview](https://www.airoha.com/products-list/tech/xeHM5uGAi56z8OSz) on the Synaptics website:
+
+![product-overview](img/product-overview.png)
+
+
+
 
 
 #### AG3365
