@@ -188,10 +188,10 @@ Several teardowns show the SYN4778:
 - [Quatix 8 Pro](https://fccid.io/IPH-04809) - FCC - blurry
 - [Venu 4](https://fccid.io/IPH-04916) - FCC - blurry but readable
 
-Several FCC teardowns show the SYN47762:
+Several FCC teardowns show the 47782CX which is the SYN4778:
 
-- [fēnix 8 - 47 mm, Solar Sapphire](https://fccid.io/IPH-04861) - definitely says 47762
-- [fēnix 8 - 51 mm, AMOLED](https://fccid.io/IPH-04808) - definitely says 47762
+- [fēnix 8 - 47 mm, Solar Sapphire](https://fccid.io/IPH-04861) - definitely says 47782CX
+- [fēnix 8 - 51 mm, AMOLED](https://fccid.io/IPH-04808) - definitely says 47782CX
 - [fēnix 8 - 47 mm, AMOLED](https://fccid.io/IPH-04806) - blurry but it could be the same chip
 - [fēnix 8 - 43 mm, AMOLED](https://fccid.io/IPH-04805) - blurry but probably the same chip
 - [Enduro 3](https://fccid.io/IPH-04413) - blurry but it is the same chip
