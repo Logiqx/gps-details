@@ -7,8 +7,8 @@ I have written some Python code to read VKX files, but only taken a brief look a
 Some initial observations of the VKX data:
 
 - Data issues
-  - Timestamps do not appear to be from the GNSS chip - see [Github](https://github.com/vakaros/vkx/issues/7)
-    - I need to test firmware 0.32.0 which allegedly contains a fix
+  - Timestamps were not from the GNSS chip - see [Github](https://github.com/vakaros/vkx/issues/7)
+    - This was fixed in FW 0.32.0 and I have checked a 10 Hz session
 
   - Altitude appears to be incorrect and cannot be decoded - see [Github](https://github.com/vakaros/vkx/issues/5)
     - I suspect the data is simply broken and there is nothing useful
@@ -33,9 +33,12 @@ I have yet to do a proper side-by-side comparison with the Motion Mini.
 
 ### Issues and Suggestions
 
-I have recorded some issues and suggestions for Vakaros on [GitHub](https://github.com/vakaros/vkx).
+I have some pending issues and suggestions for Vakaros on [GitHub](https://github.com/vakaros/vkx).
 
 - [Suggestion - Accuracy estimates - hAcc, sAcc, cAcc](https://github.com/vakaros/vkx/issues/8) - 6 Nov 2026
-- [Timestamps - Vakaros clock or GNSS navigation solution?](https://github.com/vakaros/vkx/issues/7) - 2 Nov 2026
 - [Suggestion - Declaration of payload sizes](https://github.com/vakaros/vkx/issues/6#issuecomment-6572672183) (comment) - 2 Nov 2026
 - [Trouble decoding altitude in VKX file](https://github.com/vakaros/vkx/issues/5) - 2 Aug 2026
+
+Issues that have been fixed:
+
+- [Timestamps - Vakaros clock or GNSS navigation solution?](https://github.com/vakaros/vkx/issues/7) - 2 Nov 2026 - FW 0.32.0
