@@ -57,10 +57,13 @@ Notes:
 
 #### Speedsurf.app
 
-Recommendations:
-
-- Add the recommended PVT fields - fix quality, sog, cog, hae
-- Add the diagnostic info - timer, elapsed
+|          field name           | units |  type   |  native mesg num   |
+| :---------------------------: | :---: | :-----: | :----------------: |
+|          ss fix time          |   s   | uint32  |  20783d 17:12:36   |
+| [fix quality](fix-quality.md) |   -   |  uint8  |         4          |
+|              sog              |  m/s  | float32 | 1.3249582052230835 |
+|              cog              |  deg  | float32 | 337.15435791015625 |
+|              hae              |   m   | float32 | 45.84169006347656  |
 
 
 

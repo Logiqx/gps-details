@@ -10,7 +10,7 @@ This metadata includes details of the app, craft, and [GNSS configuration](gnss-
 
 ### Session
 
-The following developer fields are recommended in the FIT session.
+The following developer fields are recommended in the FIT file, and internal names should use underscores.
 
 |          field name           | units |  type  | example  |
 | :---------------------------: | :---: | :----: | :------: |
@@ -65,7 +65,7 @@ Notes:
 |      craft       |   -   | string |                 windfoil                 |
 |   gnss config    |   -   | uint16 |                    6                     |
 
-Recommendations:
+Recommendation:
 
 - Change sport names to be "Windsurf" instead of "Windsurfing" to match the Garmin standard.
 
@@ -87,11 +87,11 @@ Recommendations:
 |  result NM   |   -   | string |                 25.72 kt                 |
 | result a500  |   -   | string |                 19.39 kt                 |
 | result dist  |   -   | string |                 26.34 km                 |
+| gnss config  |   -   | uint16 |                    6                     |
 
-Recommendations:
+Recommendation:
 
-- Add `gnss config` to record what has been selected.
-- Add units to all of the results - optional because they are actually strings.
+- Change sport name from "SpeedSurf.app" to "Windsurf" (or whatever craft is selected).
 
 
 
