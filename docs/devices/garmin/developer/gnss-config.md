@@ -76,6 +76,11 @@ function startLocationEvents() {
               (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GALILEO)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GALILEO;
         }
+        // The Enduro 4 may not accept anything else - perhaps a simulator issue?
+        } else if (Position has :CONFIGURATION_SAT_IQ) &&
+              (Position.hasConfigurationSupport(Position.CONFIGURATION_SAT_IQ)) {
+            options[:configuration] = Position.CONFIGURATION_SAT_IQ;
+        }
         started = startUpdates(options);
     }
     // Use constellations parameter for Connect IQ 3.2.0 to 3.3.5 (e.g. fēnix 5 Plus + vívoactive 3 Music)
