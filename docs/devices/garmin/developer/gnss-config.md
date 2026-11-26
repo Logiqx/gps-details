@@ -76,7 +76,7 @@ function startLocationEvents() {
               (Position.hasConfigurationSupport(Position.CONFIGURATION_GPS_GALILEO)) {
             options[:configuration] = Position.CONFIGURATION_GPS_GALILEO;
         }
-        started = startUpdates(options)
+        started = startUpdates(options);
     }
     // Use constellations parameter for Connect IQ 3.2.0 to 3.3.5 (e.g. fēnix 5 Plus + vívoactive 3 Music)
     else {
@@ -88,13 +88,13 @@ function startLocationEvents() {
         else if (Position has :CONSTELLATION_GLONASS) {
             options[:constellations] = [ Position.CONSTELLATION_GPS, Position.CONSTELLATION_GLONASS ];
         }
-        started = startUpdates(options)
+        started = startUpdates(options);
     }
     
     // Use standard GPS with versions prior to Connect IQ 3.2.0 (e.g. fēnix 5 + vívoactive 3)
     if (!started) {
         options = Position.LOCATION_CONTINUOUS;
-        started = startUpdates(options)
+        started = startUpdates(options);
     }
 
     return started;            
