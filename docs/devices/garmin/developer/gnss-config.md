@@ -43,7 +43,7 @@ function startUpdates(options) {
     }
     catch (error) {
         System.println(error);
-    }
+    }
 
     return started;
 }
