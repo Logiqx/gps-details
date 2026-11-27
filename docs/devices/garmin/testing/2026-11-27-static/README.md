@@ -38,6 +38,14 @@ Note: Links to teardowns and evidence of their chipsets can be found in my list 
 
 
 
+### Setup
+
+The 9 watches were placed on a wooden table in the middle of my back garden. It is not truly open sky but is a secure location and is not surrounded by tall buildings. The test ran allows for a 30 minute warm up, and ran for over 6 hours. The sky was overcast but there was no rain during the test.
+
+![setup](img/setup.jpg)
+
+
+
 ### Results
 
 The table below provides some basic stats; percentiles, means, standard devations, and maximums.
