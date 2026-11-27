@@ -110,7 +110,7 @@ The same trends are evident, and in particular how the Forerunner 70 exhibited t
 
 ### Maximums
 
-The maximums need to be taken with a pinch because they are individual outliers.
+The maximums need to be taken with a pinch of salt because they are individual outliers, and represent the worst moment of the test.
 
 ![stats-max](img/stats-max.png)
 
