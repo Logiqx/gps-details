@@ -40,9 +40,9 @@ Note: Links to teardowns and evidence of their chipsets can be found in my list 
 
 ### Setup
 
-The 9 watches were placed on a wooden table in the middle of my back garden. They were spaced to avoid an possibility of interreference.
+The 9 watches were placed on a wooden table in the middle of my back garden. They were spaced to avoid an possibility of interference.
 
-Whilst it is not truly open sky it is a secure location and it is not surrounded by tall buildings.
+Whilst it is not a truly open sky environment it is a secure location and not surrounded by nearby tall buildings.
 
 The test allowed for a 30 minute warm up, and then ran for over 6 hours. The sky was overcast but there was no rain during the test.
 
@@ -56,7 +56,7 @@ All of the watches were recording the session using APPro Windsurf and showing t
 
 ### Results
 
-The table below provides some basic stats; percentiles, means, standard devations, and maximums.
+The table below provides some basic statistics; percentiles, means, standard devations, and maximums.
 
 All of the results ignore the first 30 minutes of the session (warm up), and last 5 minutes (possible disturbance).
 
@@ -80,9 +80,9 @@ n.b. Garmin watches have a quantization issue and speeds are essentially multipl
 
 ### Percentiles
 
-The 9 watches have been ordered based on their P95 performance.
-
 Due to the quantization of speeds (multiples of 0.00933 m/s, approximately 0.018 kt) some results will look more similar than the reality.
+
+The 9 watches have been ordered based on their P95 performance. P95 and P99.7 are arguably the clearest and most important results.
 
 ![stats-percentiles](img/stats-percentiles.png)
 
@@ -122,13 +122,13 @@ Nevertheless is it notable that the vivoactive 5 experienced the biggest outlier
 
 Previous tests showed a large difference between the vivoactive 5 and vivoactive 6. The vivoactive 5 was the worst performing of all the Airoha-based Garmin watches that were tested in 2025, and the vivoactive 6 was a big improvement. It was subsequently confirmed the vivoactive 6 uses the AG3352, and this may be partially responsible for the improvement. I would not rule out other changes though, including an improved antenna design.
 
-Since the Forerunner 70 (and 170) also uses the AG3352, I had a suspicion that it may outperform the Forerunner 165 and some of the other newer Garmin watches. This one tests suggests that the measurement of speeds may indeed have taken a leap forward with the single-band AG3352. It outperformed all of the other watches on test which all use the AG3335MN (single-band), AG3335M (multi-band), or SYN4778 (multi-band).
+Since the Forerunner 70 and 170 use the AG3352, I had a suspicion that they may outperform the Forerunner 165 and some of the other newer Garmin watches. This first tests suggests that the measurement of speeds may indeed have taken a leap forward with the single-band AG3352. The Forerunner 70 outperformed all of the other watches on test which all use the AG3335MN (single-band), AG3335M (multi-band), or SYN4778 (multi-band).
 
 
 
 ### Next Steps
 
-It is important to do kinematic testing in a real-world environment. This means taking the Forerunner 70 out on the water alongside another Garmin watch and two Motion Mini devices as a benchmark.
+It is important to also do kinematic tests in a real-world marine environment. This means taking the Forerunner 70 out on the water alongside another Garmin watch and two Motion Mini devices as a benchmark.
 
-Static testing is very useful as a quick smoke-test of a device but other factors come into play in real life; acceleration and jerk, vibration, sudden loss of signals during a crash. This static testing suggests the Forerunner 70 and 170 have great potential, but further testing remains.
+Static testing is very useful as a quick test of a new device but other factors come into play in real life; acceleration and jerk, vibration, sudden loss of signals during a crash. This static testing suggests the Forerunner 70 and 170 have great potential, but further testing remains.
 
