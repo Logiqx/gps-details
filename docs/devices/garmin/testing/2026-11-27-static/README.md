@@ -40,9 +40,17 @@ Note: Links to teardowns and evidence of their chipsets can be found in my list 
 
 ### Setup
 
-The 9 watches were placed on a wooden table in the middle of my back garden. It is not truly open sky but is a secure location and is not surrounded by tall buildings. The test ran allows for a 30 minute warm up, and ran for over 6 hours. The sky was overcast but there was no rain during the test.
+The 9 watches were placed on a wooden table in the middle of my back garden. They were spaced to avoid an possibility of interreference.
+
+Whilst it is not truly open sky it is a secure location and it is not surrounded by tall buildings.
+
+The test allowed for a 30 minute warm up, and then ran for over 6 hours. The sky was overcast but there was no rain during the test.
+
+All of the watches were recording the session using APPro Windsurf and showing the live speed.
 
 ![setup](img/setup.jpg)
+
+![watches](img/watches.jpg)
 
 
 
