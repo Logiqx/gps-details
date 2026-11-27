@@ -98,11 +98,11 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 
 | Series                      | Model          | Brand     | Multi-Band | Recommended |
 | --------------------------- | -------------- | :-------: | :--------: | :--------: |
-| [Forerunner](forerunner.md) | Forerunner 170 | Airoha |     -      |        -         |
-|  | Forerunner 70 | Airoha | - | - |
+| [Forerunner](forerunner.md) | Forerunner 170 | Airoha |     -      |        Y <sup>[1]</sup>        |
+|  | Forerunner 70 | Airoha | - | Y <sup>[1]</sup> |
 |  | Forerunner 970 | Synaptics | Y | Y |
 |                             | Forerunner 570 | Synaptics |     Y      | Y |
-|                             | Forerunner 165 | Airoha    |     -      | Y <sup>[1]</sup> |
+|                             | Forerunner 165 | Airoha    |     -      | Y <sup>[2]</sup> |
 |                             | Forerunner 965 | Airoha    |     Y      | Y |
 |                             | Forerunner 265 | Airoha    |     Y      | Y |
 |                             | Forerunner 955 | Airoha    |     Y      | Y |
@@ -110,7 +110,8 @@ None of these watches include native windsurfing / kiteboarding activities, so [
 
 Notes:
 
-1. The Forerunner 165 is potentially a good low-cost option for people who do not participate on GPS-Speedsurfing.
+1. The Forerunner 70 + 170 are good low-cost options for people who do not participate on GPS-Speedsurfing.
+1. Likewise for the Forerunner 165 which is older than the 70 and 170 but also a good low cost watch.
 
 
 
