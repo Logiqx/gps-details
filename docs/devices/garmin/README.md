@@ -26,6 +26,7 @@ This project is work in progress and there are more things to be documented.
 
 This project is work in progress and new articles are added periodically.
 
+- [Forerunner 70](testing/2026-11-27-static/README.md) + 8 other watches - 27 Nov 2026
 - [fenix 9 Pro](sessions/20261115-fenix-9-pro/README.md) - 23 Nov 2026
 - [Persistence of speeds](persistence/README.md) - 29 Oct 2026
 - [Power Modes](power/README.md) - 29 Aug 2026
